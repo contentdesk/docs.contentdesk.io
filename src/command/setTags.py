@@ -9,26 +9,19 @@ from dotenv import find_dotenv, load_dotenv
 load_dotenv(find_dotenv())
 
 def setTags(tags, simpleTags = {}, language = 'en_US', parent = None):
-    # check if category is a list
-    if isinstance(tags, list):
-        for tag in tags:
-            print("Tag: ")
-            print(tag['identifier'])
-            print(tag['name'])
-            if tag['additionalType'] not in simpleTags:
-                simpleTags[tag['additionalType']] = {}
-            simpleTags[tag['additionalType']]["code"] = tag['identifier']
-            simpleTags[tag['additionalType']]["parent"] = tag['additionalType']
-            if 'labels' not in simpleTags[tag['additionalType']]:
-                simpleTags[tag['additionalType']]["labels"] = {}
-            simpleTags[tag['additionalType']]["labels"][language] = tag['name']
-            if 'lastModified' in tag:
-                simpleTags[tag['additionalType']]["lastModified"] = tag['lastModified']
-    else:
-        print("tag: ")
-        print(tags['identifier'])
-        print(tags['name'])
-
+    for tag in tags['data']:
+        print("Tag: ")
+        print(tag['identifier'])
+        print(tag['name'])
+        if tag['identifier'] not in simpleTags:
+            simpleTags[tag['identifier']] = {}
+        simpleTags[tag['identifier']]["code"] = tag['identifier']
+        simpleTags[tag['identifier']]["parent"] = tag['additionalType']
+        if 'labels' not in simpleTags[tag['identifier']]:
+            simpleTags[tag['identifier']]["labels"] = {}
+        simpleTags[tag['identifier']]["labels"][language] = tag['name']
+        if 'lastModified' in tag:
+            simpleTags[tag['identifier']]["lastModified"] = tag['lastModified']
     return simpleTags
 
 def main():
@@ -51,9 +44,6 @@ def main():
     simpleTags = setTags(tagsDE, simpleTags, 'de_CH')
     simpleTags = setTags(tagsFR, simpleTags, 'fr_FR')
     simpleTags = setTags(tagsIT, simpleTags, 'it_IT')
-
-    # replace "-" with "" in key fields
-    simpleTags = {k.replace("-", ""): v for k, v in simpleTags.items()}
             
     # Compare
     with open("../../docs/schema/tags.csv", "w", encoding='utf-8') as file:
