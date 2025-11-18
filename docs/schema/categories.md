@@ -8,9 +8,10 @@ hide:
 <div class="grid cards" markdown>
 
 - :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/categories.csv)
-- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/categories.csv)
-</div>
 
+- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/categories.csv)
+
+</div>
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
