@@ -59,13 +59,13 @@ def main():
     
     # DEBUG
     with open("../../output/discover/types/typesEN.json", "w") as file:
-        json.dump(typesEN, file)
+        json.dump(typesEN, file, indent=4)
     with open("../../output/discover/types/typesDE.json", "w") as file:
-        json.dump(typesDE, file)
+        json.dump(typesDE, file, indent=4)
     with open("../../output/discover/types/typesFR.json", "w") as file:
-        json.dump(typesFR, file)
+        json.dump(typesFR, file, indent=4)
     with open("../../output/discover/types/typesIT.json", "w") as file:
-        json.dump(typesIT, file)
+        json.dump(typesIT, file, indent=4)
 
     akeneoTypes = setTypes(typesEN)
     akeneoTypes = setTypes(typesDE, akeneoTypes, 'de_CH')
@@ -77,7 +77,7 @@ def main():
 
     # DEBUG
     with open("../../output/akeneo/family/families.json", "w") as file:
-        json.dump(akeneoTypes, file)
+        json.dump(akeneoTypes, file, indent=4)
 
     # Save as csv with UTF-8 encoding and replace "None" in every field with empty string
     with open("../../output/akeneo/family/families.csv", "w", encoding='utf-8') as file:
