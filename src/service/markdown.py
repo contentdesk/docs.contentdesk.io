@@ -46,3 +46,48 @@ class MarkdownService:
                 f.write(f"</tr>\n")
             f.write(f"</tbody>\n</table>\n")
         print("Markdown file 'types.md' created.")
+        
+    def createCategoriesIndexMarkdown(categoriesData):
+        print("Creating categories index markdown...")
+        """
+        Create markdown content for a given categories data.
+        """
+        output_dir = os.path.join(os.path.dirname(__file__), '../../docs/schema/')
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, f'categories.md'), "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write("hide:\n")
+            f.write("  - navigation\n")
+            f.write("  - toc\n")
+            f.write("---\n")
+            f.write(f"# Categories\n\n")
+            f.write("""<table id="charts-table" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Code</th>
+                <th>Name DE</th>
+                <th>Parent</th>
+                <th>Name EN</th>
+                <th>Name FR</th>
+                <th>Name IT</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+    """)
+            for categoryItem in categoriesData:
+                #print(categoriesData)
+                print (categoryItem)
+                f.write(f"<tr>\n")
+                f.write(f"<td>{categoriesData[categoryItem]['code']}</td>\n")
+                f.write(f"<td>{categoriesData[categoryItem]['labels'].get('de_CH', '')}</td>\n")
+                if categoriesData[categoryItem]['parent'] is None or categoriesData[categoryItem]['parent'] == "None":
+                    f.write(f"<td></td>\n")
+                else:
+                    f.write(f"<td>{categoriesData[categoryItem]['parent']}</td>\n")
+                f.write(f"<td>{categoriesData[categoryItem]['labels'].get('en_US', '')}</td>\n")
+                f.write(f"<td>{categoriesData[categoryItem]['labels'].get('fr_FR', '')}</td>\n")
+                f.write(f"<td>{categoriesData[categoryItem]['labels'].get('it_IT', '')}</td>\n")
+                f.write(f"</tr>\n")
+            f.write(f"</tbody>\n</table>\n")
+        print("Markdown file 'categories.md' created.")
