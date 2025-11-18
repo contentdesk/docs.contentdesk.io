@@ -17,9 +17,9 @@ class MarkdownService:
             f.write("---\n")
             f.write(f"# Types\n\n")
             f.write("<div class=\"grid cards\" markdown>\n\n")
-            f.write("- :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/types.csv)\n")
-            f.write("- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/types.csv)\n")
-            f.write("</div>\n\n")
+            f.write("- :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/types.csv)\n\n")
+            f.write("- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/types.csv)\n\n")
+            f.write("</div>\n")
             f.write("""<table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
@@ -66,9 +66,9 @@ class MarkdownService:
             f.write("---\n")
             f.write(f"# Categories\n\n")
             f.write("<div class=\"grid cards\" markdown>\n\n")
-            f.write("- :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/categories.csv)\n")
-            f.write("- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/categories.csv)\n")
-            f.write("</div>\n\n")
+            f.write("- :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/categories.csv)\n\n")
+            f.write("- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/categories.csv)\n\n")
+            f.write("</div>\n")
             f.write("""<table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
@@ -115,8 +115,8 @@ class MarkdownService:
             f.write("---\n")
             f.write(f"# Amenity Features\n\n")
             f.write("<div class=\"grid cards\" markdown>\n\n")
-            f.write("- :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/amenityFeatures.csv)\n")
-            f.write("- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/amenityFeatures.csv)\n")
+            f.write("- :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/amenityFeatures.csv)\n\n")
+            f.write("- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/amenityFeatures.csv)\n\n")
             f.write("</div>\n\n")
             f.write("""<table id="charts-table" class="display" style="width:100%">
         <thead>
