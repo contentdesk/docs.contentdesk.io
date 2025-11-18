@@ -1,0 +1,977 @@
+{
+    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_root",
+    "identifier": "sui_root",
+    "name": "Th\u00e8me SUI",
+    "children": [
+        {
+            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_05",
+            "identifier": "sui_05",
+            "name": "Achats",
+            "children": [
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0501",
+                    "identifier": "sui_0501",
+                    "name": "D\u00e9taillants"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0505",
+                    "identifier": "sui_0505",
+                    "name": "Mode"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0502",
+                    "identifier": "sui_0502",
+                    "name": "Nourriture"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0507",
+                    "identifier": "sui_0507",
+                    "name": "Producteur"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0506",
+                    "identifier": "sui_0506",
+                    "name": "Produits r\u00e9gionaux"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0503",
+                    "identifier": "sui_0503",
+                    "name": "Souvenirs & Cadeaux"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0504",
+                    "identifier": "sui_0504",
+                    "name": "V\u00eatement"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_01",
+            "identifier": "sui_01",
+            "name": "Activit\u00e9s",
+            "children": [
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0101",
+                    "identifier": "sui_0101",
+                    "name": "\u00c0 pied",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010114",
+                            "identifier": "sui_010114",
+                            "name": "Alpinisme"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010111",
+                            "identifier": "sui_010111",
+                            "name": "Course en sentier"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010112",
+                            "identifier": "sui_010112",
+                            "name": "Errer"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010105",
+                            "identifier": "sui_010105",
+                            "name": "Faire du jogging"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010104",
+                            "identifier": "sui_010104",
+                            "name": "G\u00e9ocaching"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010106",
+                            "identifier": "sui_010106",
+                            "name": "Marathon"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010107",
+                            "identifier": "sui_010107",
+                            "name": "Marche \u00e0 la perche"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010108",
+                            "identifier": "sui_010108",
+                            "name": "Orientation"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010109",
+                            "identifier": "sui_010109",
+                            "name": "P\u00e8lerinage"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010110",
+                            "identifier": "sui_010110",
+                            "name": "Promenade"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010113",
+                            "identifier": "sui_010113",
+                            "name": "Randonn\u00e9e de longue distance"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0107",
+                    "identifier": "sui_0107",
+                    "name": "Aptitude",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010701",
+                            "identifier": "sui_010701",
+                            "name": "A\u00e9robic"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010702",
+                            "identifier": "sui_010702",
+                            "name": "Biathlon"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010709",
+                            "identifier": "sui_010709",
+                            "name": "Bien-\u00eatre"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010703",
+                            "identifier": "sui_010703",
+                            "name": "Entra\u00eenement physique"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010706",
+                            "identifier": "sui_010706",
+                            "name": "Filage"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010705",
+                            "identifier": "sui_010705",
+                            "name": "Pilates"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010707",
+                            "identifier": "sui_010707",
+                            "name": "Triathlon"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010708",
+                            "identifier": "sui_010708",
+                            "name": "Yoga"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0106",
+                    "identifier": "sui_0106",
+                    "name": "Arts martiaux",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010607",
+                            "identifier": "sui_010607",
+                            "name": "Balan\u00e7oire"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010604",
+                            "identifier": "sui_010604",
+                            "name": "Boxe"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010601",
+                            "identifier": "sui_010601",
+                            "name": "Entra\u00eenement d\u2019endurance"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010602",
+                            "identifier": "sui_010602",
+                            "name": "Entra\u00eenement en force"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010605",
+                            "identifier": "sui_010605",
+                            "name": "Escrime"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010606",
+                            "identifier": "sui_010606",
+                            "name": "Lutter"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010603",
+                            "identifier": "sui_010603",
+                            "name": "Qi Gong"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010608",
+                            "identifier": "sui_010608",
+                            "name": "Tai Chi"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0116",
+                    "identifier": "sui_0116",
+                    "name": "Athl\u00e9tisme"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0102",
+                    "identifier": "sui_0102",
+                    "name": "Cyclisme",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010203",
+                            "identifier": "sui_010203",
+                            "name": "Bicyclette"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010207",
+                            "identifier": "sui_010207",
+                            "name": "Coureur"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010204",
+                            "identifier": "sui_010204",
+                            "name": "V\u00e9lo de gravier"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010202",
+                            "identifier": "sui_010202",
+                            "name": "V\u00e9lo de montagne \u00e9lectrique"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010201",
+                            "identifier": "sui_010201",
+                            "name": "V\u00e9lo \u00e9lectrique"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010205",
+                            "identifier": "sui_010205",
+                            "name": "VTT"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0117",
+                    "identifier": "sui_0117",
+                    "name": "Danser"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0114",
+                    "identifier": "sui_0114",
+                    "name": "\u00c9quitation",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011401",
+                            "identifier": "sui_011401",
+                            "name": "Chevaucher"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0104",
+                    "identifier": "sui_0104",
+                    "name": "Escalade",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010401",
+                            "identifier": "sui_010401",
+                            "name": "Bloc"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010404",
+                            "identifier": "sui_010404",
+                            "name": "Escalade sportive"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010402",
+                            "identifier": "sui_010402",
+                            "name": "Escalade sur glace"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010403",
+                            "identifier": "sui_010403",
+                            "name": "Grimper"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0109",
+                    "identifier": "sui_0109",
+                    "name": "Natation",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010904",
+                            "identifier": "sui_010904",
+                            "name": "Cano\u00e9"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010901",
+                            "identifier": "sui_010901",
+                            "name": "Canyoning"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010903",
+                            "identifier": "sui_010903",
+                            "name": "Kayak"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010915",
+                            "identifier": "sui_010915",
+                            "name": "Kitesurf"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010907",
+                            "identifier": "sui_010907",
+                            "name": "Nager"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010916",
+                            "identifier": "sui_010916",
+                            "name": "P\u00e9dalos"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010917",
+                            "identifier": "sui_010917",
+                            "name": "Planche \u00e0 voile"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010913",
+                            "identifier": "sui_010913",
+                            "name": "Plonger"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010902",
+                            "identifier": "sui_010902",
+                            "name": "Poisson"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010905",
+                            "identifier": "sui_010905",
+                            "name": "Rafting"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010906",
+                            "identifier": "sui_010906",
+                            "name": "Ramer"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010914",
+                            "identifier": "sui_010914",
+                            "name": "Ski nautique & Wakeboard"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010911",
+                            "identifier": "sui_010911",
+                            "name": "SUPStandUpPaddling"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010912",
+                            "identifier": "sui_010912",
+                            "name": "Surf"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010908",
+                            "identifier": "sui_010908",
+                            "name": "Voile"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0103",
+                    "identifier": "sui_0103",
+                    "name": "Patinage",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010301",
+                            "identifier": "sui_010301",
+                            "name": "Roller"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010302",
+                            "identifier": "sui_010302",
+                            "name": "Skis \u00e0 roulettes"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0113",
+                    "identifier": "sui_0113",
+                    "name": "Sport automobile",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011302",
+                            "identifier": "sui_011302",
+                            "name": "Kart"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011301",
+                            "identifier": "sui_011301",
+                            "name": "Karting"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0111",
+                    "identifier": "sui_0111",
+                    "name": "Sports a\u00e9riens",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011103",
+                            "identifier": "sui_011103",
+                            "name": "Deltaplane"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011102",
+                            "identifier": "sui_011102",
+                            "name": "Parachutisme"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011101",
+                            "identifier": "sui_011101",
+                            "name": "Parapente"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011104",
+                            "identifier": "sui_011104",
+                            "name": "Vol en montgolfi\u00e8re"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0105",
+                    "identifier": "sui_0105",
+                    "name": "Sports amusants",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010519",
+                            "identifier": "sui_010519",
+                            "name": "Chariot de montagne"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010518",
+                            "identifier": "sui_010518",
+                            "name": "Luge d\u2019\u00e9t\u00e9"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010502",
+                            "identifier": "sui_010502",
+                            "name": "Saut"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010516",
+                            "identifier": "sui_010516",
+                            "name": "Saut \u00e0 ski"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010520",
+                            "identifier": "sui_010520",
+                            "name": "Trottinette"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0115",
+                    "identifier": "sui_0115",
+                    "name": "Sports canins"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0110",
+                    "identifier": "sui_0110",
+                    "name": "Sports d\u2019hiver",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011001",
+                            "identifier": "sui_011001",
+                            "name": "Bobsleighing"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011002",
+                            "identifier": "sui_011002",
+                            "name": "Curling"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011005",
+                            "identifier": "sui_011005",
+                            "name": "Curling"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011006",
+                            "identifier": "sui_011006",
+                            "name": "Freeride"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011021",
+                            "identifier": "sui_011021",
+                            "name": "Hockey sur glace"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011010",
+                            "identifier": "sui_011010",
+                            "name": "Luge"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011015",
+                            "identifier": "sui_011015",
+                            "name": "Motoneige"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011004",
+                            "identifier": "sui_011004",
+                            "name": "Patinage"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011003",
+                            "identifier": "sui_011003",
+                            "name": "P\u00eache sur glace"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011020",
+                            "identifier": "sui_011020",
+                            "name": "Randonn\u00e9e hivernale"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011011",
+                            "identifier": "sui_011011",
+                            "name": "Raquette"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011019",
+                            "identifier": "sui_011019",
+                            "name": "Saut \u00e0 ski"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011012",
+                            "identifier": "sui_011012",
+                            "name": "Ski"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011014",
+                            "identifier": "sui_011014",
+                            "name": "Ski"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011007",
+                            "identifier": "sui_011007",
+                            "name": "Ski de fond"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011013",
+                            "identifier": "sui_011013",
+                            "name": "Skijoring"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011016",
+                            "identifier": "sui_011016",
+                            "name": "Snowboard"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011018",
+                            "identifier": "sui_011018",
+                            "name": "Sports d\u2019hiver"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011017",
+                            "identifier": "sui_011017",
+                            "name": "T\u00e9l\u00e9mark"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011009",
+                            "identifier": "sui_011009",
+                            "name": "Toboggan et bobsleigh"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011008",
+                            "identifier": "sui_011008",
+                            "name": "Tra\u00eeneau"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0108",
+                    "identifier": "sui_0108",
+                    "name": "Sports de balle",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010801",
+                            "identifier": "sui_010801",
+                            "name": "Badminton"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010814",
+                            "identifier": "sui_010814",
+                            "name": "Base-ball"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010815",
+                            "identifier": "sui_010815",
+                            "name": "Basket-ball"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010802",
+                            "identifier": "sui_010802",
+                            "name": "Beach-volley"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010803",
+                            "identifier": "sui_010803",
+                            "name": "Billard"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010810",
+                            "identifier": "sui_010810",
+                            "name": "Courge"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010817",
+                            "identifier": "sui_010817",
+                            "name": "Floorball"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010805",
+                            "identifier": "sui_010805",
+                            "name": "Football"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010813",
+                            "identifier": "sui_010813",
+                            "name": "Football am\u00e9ricain"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010809",
+                            "identifier": "sui_010809",
+                            "name": "Golf miniature"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010806",
+                            "identifier": "sui_010806",
+                            "name": "Golfe"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010807",
+                            "identifier": "sui_010807",
+                            "name": "Handball"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010804",
+                            "identifier": "sui_010804",
+                            "name": "Lyonnaises"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010816",
+                            "identifier": "sui_010816",
+                            "name": "Ping-pong"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010808",
+                            "identifier": "sui_010808",
+                            "name": "Skittles"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010811",
+                            "identifier": "sui_010811",
+                            "name": "Tennis"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_010812",
+                            "identifier": "sui_010812",
+                            "name": "Volley-ball"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0112",
+                    "identifier": "sui_0112",
+                    "name": "Sports de tir",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011201",
+                            "identifier": "sui_011201",
+                            "name": "Archerie"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011202",
+                            "identifier": "sui_011202",
+                            "name": "Tirer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_02",
+            "identifier": "sui_02",
+            "name": "Culture",
+            "children": [
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0202",
+                    "identifier": "sui_0202",
+                    "name": "Architecture"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0203",
+                    "identifier": "sui_0203",
+                    "name": "Arts visuels"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0210",
+                    "identifier": "sui_0210",
+                    "name": "BrW"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0205",
+                    "identifier": "sui_0205",
+                    "name": "Concevoir"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0221",
+                    "identifier": "sui_0221",
+                    "name": "Coutume"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0215",
+                    "identifier": "sui_0215",
+                    "name": "Danser"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0204",
+                    "identifier": "sui_0204",
+                    "name": "\u00c9tape"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0206",
+                    "identifier": "sui_0206",
+                    "name": "Film"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0209",
+                    "identifier": "sui_0209",
+                    "name": "Histoire culturelle"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0219",
+                    "identifier": "sui_0219",
+                    "name": "L\u2019art dans l\u2019espace public"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0211",
+                    "identifier": "sui_0211",
+                    "name": "Litt\u00e9rature"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0220",
+                    "identifier": "sui_0220",
+                    "name": "March\u00e9"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0213",
+                    "identifier": "sui_0213",
+                    "name": "Musique"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0212",
+                    "identifier": "sui_0212",
+                    "name": "Peinture"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0208",
+                    "identifier": "sui_0208",
+                    "name": "Photographie"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0214",
+                    "identifier": "sui_0214",
+                    "name": "Sciences naturelles"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0218",
+                    "identifier": "sui_0218",
+                    "name": "Spiritualit\u00e9",
+                    "children": [
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_021803",
+                            "identifier": "sui_021803",
+                            "name": "Cort\u00e8ge"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_021802",
+                            "identifier": "sui_021802",
+                            "name": "M\u00e9ditation"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_021804",
+                            "identifier": "sui_021804",
+                            "name": "P\u00e8lerinage"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_021801",
+                            "identifier": "sui_021801",
+                            "name": "Service"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_06",
+            "identifier": "sui_06",
+            "name": "Nature",
+            "children": [
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0603",
+                    "identifier": "sui_0603",
+                    "name": "Faune"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0602",
+                    "identifier": "sui_0602",
+                    "name": "Flore"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0601",
+                    "identifier": "sui_0601",
+                    "name": "G\u00e9ologie"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0605",
+                    "identifier": "sui_0605",
+                    "name": "Paysage"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0604",
+                    "identifier": "sui_0604",
+                    "name": "Paysage culturel"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_03",
+            "identifier": "sui_03",
+            "name": "Soci\u00e9t\u00e9",
+            "children": [
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0322",
+                    "identifier": "sui_0322",
+                    "name": "Ateliers"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0331",
+                    "identifier": "sui_0331",
+                    "name": "Concert"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0321",
+                    "identifier": "sui_0321",
+                    "name": "Conf\u00e9rences"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0313",
+                    "identifier": "sui_0313",
+                    "name": "Congr\u00e8s"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0304",
+                    "identifier": "sui_0304",
+                    "name": "Consultation"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0307",
+                    "identifier": "sui_0307",
+                    "name": "Coworking"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0309",
+                    "identifier": "sui_0309",
+                    "name": "Disposition"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0329",
+                    "identifier": "sui_0329",
+                    "name": "\u00c9preuve par \u00e9quipe"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0333",
+                    "identifier": "sui_0333",
+                    "name": "Ev\u00e9nement culturel"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0324",
+                    "identifier": "sui_0324",
+                    "name": "Ev\u00e9nement d\u2019entreprise"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0326",
+                    "identifier": "sui_0326",
+                    "name": "\u00c9v\u00e9nement hybride"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0328",
+                    "identifier": "sui_0328",
+                    "name": "\u00c9v\u00e9nement priv\u00e9"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0332",
+                    "identifier": "sui_0332",
+                    "name": "Exposition/Vernissage"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0323",
+                    "identifier": "sui_0323",
+                    "name": "Industrie"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0325",
+                    "identifier": "sui_0325",
+                    "name": "Mariage"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0314",
+                    "identifier": "sui_0314",
+                    "name": "Mesurer"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0311",
+                    "identifier": "sui_0311",
+                    "name": "M\u00e9tier"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0330",
+                    "identifier": "sui_0330",
+                    "name": "No\u00ebl"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0316",
+                    "identifier": "sui_0316",
+                    "name": "R\u00e9seautage"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0320",
+                    "identifier": "sui_0320",
+                    "name": "R\u00e9union"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0327",
+                    "identifier": "sui_0327",
+                    "name": "R\u00e9union"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0306",
+                    "identifier": "sui_0306",
+                    "name": "Soin"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0317",
+                    "identifier": "sui_0317",
+                    "name": "Tr\u00e8fle"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0319",
+                    "identifier": "sui_0319",
+                    "name": "Vente aux ench\u00e8res"
+                },
+                {
+                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_0305",
+                    "identifier": "sui_0305",
+                    "name": "Visites"
+                }
+            ]
+        }
+    ]
+}

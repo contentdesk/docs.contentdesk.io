@@ -89,6 +89,16 @@ def main():
             it = body['labels']['it_IT'] if 'it_IT' in body['labels'] else ''
             file.write(f"{code};{parent};{en};{de};{fr};{it}\n")
             
+    # Compare
+    with open("../../docs/schema/types.csv", "w", encoding='utf-8') as file:
+        for code, body in akeneoTypes.items():
+            parent = body['parent'] if body['parent'] else ''
+            en = body['labels']['en_US'] if 'en_US' in body['labels'] else ''
+            de = body['labels']['de_CH'] if 'de_CH' in body['labels'] else ''
+            fr = body['labels']['fr_FR'] if 'fr_FR' in body['labels'] else ''
+            it = body['labels']['it_IT'] if 'it_IT' in body['labels'] else ''
+            file.write(f"{code};{parent};{en};{de};{fr};{it}\n")
+            
     # Create markdown file
     MarkdownService.createTypeIndexMarkdown(akeneoTypes)
 

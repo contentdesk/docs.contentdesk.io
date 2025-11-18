@@ -51,9 +51,13 @@ def main():
     
     # DEBUG
     with open("../../output/discover/categories/categoriesEN.json", "w") as file:
-        json.dump(categoriesEN, file)
+        json.dump(categoriesEN, file, indent=4)
     with open("../../output/discover/categories/categoriesDE.json", "w") as file:
-        json.dump(categoriesDE, file)
+        json.dump(categoriesDE, file, indent=4)
+    with open("../../output/discover/categories/categoriesFR.json", "w") as file:
+        json.dump(categoriesFR, file, indent=4)
+    with open("../../output/discover/categories/categoriesIT.json", "w") as file:
+        json.dump(categoriesIT, file, indent=4)
 
     akeneoCategories = setCategories(categoriesEN)
     akeneoCategories = setCategories(categoriesDE, None, akeneoCategories, 'de_CH')
@@ -62,7 +66,17 @@ def main():
     
     # DEBUG
     with open("../../output/akeneo/categories/categories.json", "w") as file:
-        json.dump(akeneoCategories, file)
+        json.dump(akeneoCategories, file, indent=4)
+        
+    # Compare
+    with open("../../docs/schema/categories.csv", "w", encoding='utf-8') as file:
+        for code, body in akeneoCategories.items():
+            parent = body['parent'] if body['parent'] else ''
+            en = body['labels']['en_US'] if 'en_US' in body['labels'] else ''
+            de = body['labels']['de_CH'] if 'de_CH' in body['labels'] else ''
+            fr = body['labels']['fr_FR'] if 'fr_FR' in body['labels'] else ''
+            it = body['labels']['it_IT'] if 'it_IT' in body['labels'] else ''
+            file.write(f"{code};{parent};{en};{de};{fr};{it}\n")
         
     # Create markdown file
     MarkdownService.createCategoriesIndexMarkdown(akeneoCategories)
