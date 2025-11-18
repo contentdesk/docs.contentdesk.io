@@ -3,7 +3,9 @@
 * [Types](types/)
 * [Categories](categories/)
 * [Tags](tags/)
-* [AmenityFeature](amenityFeature/)
+* Properties
+
+    * [AmenityFeatures](amenityFeatures/)
 
 Liste / Baum der Typen 
 
