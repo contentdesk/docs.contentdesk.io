@@ -1,7 +1,9 @@
 # Schema
 
-* Types
-* Properties
+* [Types](/types/)
+* [Categories](/categories/)
+* [Tags](/tags/)
+* [AmenityFeature](/amenityFeature/)
 
 Liste / Baum der Typen 
 
