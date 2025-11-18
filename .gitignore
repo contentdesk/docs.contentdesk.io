@@ -1,1 +1,4 @@
 .env
+env/.env.demo
+env/*
+src/service/__pycache__/discover.cpython-313.pyc
