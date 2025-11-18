@@ -1,0 +1,3514 @@
+[
+    {
+        "propertyId": "bathroom-bathrobe",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Bademantel"
+    },
+    {
+        "propertyId": "bathroom-bathtub",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Badewanne"
+    },
+    {
+        "propertyId": "bathroom-freetoiletries",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Kostenlose Pflegeprodukte"
+    },
+    {
+        "propertyId": "bathroom-hairdryer",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Haartrockner"
+    },
+    {
+        "propertyId": "bathroom-privatebathroom",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Privates Badezimmer"
+    },
+    {
+        "propertyId": "bathroom-sauna",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Sauna"
+    },
+    {
+        "propertyId": "bathroom-separatetoilet",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Separate Toilette"
+    },
+    {
+        "propertyId": "bathroom-sharedbathroom",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Gemeinsames Badezimmer"
+    },
+    {
+        "propertyId": "bathroom-sharedtoilet",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Gemeinschaftstoilette"
+    },
+    {
+        "propertyId": "bathroom-shower",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Dusche"
+    },
+    {
+        "propertyId": "bathroom-toilet",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Toilette"
+    },
+    {
+        "propertyId": "bathroom-towels",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Badet\u00fccher"
+    },
+    {
+        "propertyId": "bathroom-towelsrental",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Vermietung von Handt\u00fcchern"
+    },
+    {
+        "propertyId": "bathroom-vanitymirror",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Kosmetikspiegel"
+    },
+    {
+        "propertyId": "bathroom-wheelchairaccessiblebathroom",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Rollstuhlgerechtes Badezimmer"
+    },
+    {
+        "propertyId": "bathroom-whirlpoolbath",
+        "valueType": "boolean",
+        "additionalType": "bathroom",
+        "name": "Whirlpool"
+    },
+    {
+        "propertyId": "bed-babybednumber",
+        "valueType": "number",
+        "additionalType": "bed",
+        "name": "Anzahl Babybetten"
+    },
+    {
+        "propertyId": "bed-babybedspace",
+        "valueType": "boolean",
+        "additionalType": "bed",
+        "name": "Platz f\u00fcr Babybett"
+    },
+    {
+        "propertyId": "bed-bunkbed",
+        "valueType": "boolean",
+        "additionalType": "bed",
+        "name": "Etagenbett"
+    },
+    {
+        "propertyId": "bed-cot",
+        "valueType": "boolean",
+        "additionalType": "bed",
+        "name": "Feldbett"
+    },
+    {
+        "propertyId": "bed-doublebed",
+        "valueType": "boolean",
+        "additionalType": "bed",
+        "name": "Doppelbett"
+    },
+    {
+        "propertyId": "bed-extrabed",
+        "valueType": "boolean",
+        "additionalType": "bed",
+        "name": "Zustellbett"
+    },
+    {
+        "propertyId": "bed-extrabednumber",
+        "valueType": "number",
+        "additionalType": "bed",
+        "name": "Anzahl Zustellbetten"
+    },
+    {
+        "propertyId": "bed-extrabedspace",
+        "valueType": "boolean",
+        "additionalType": "bed",
+        "name": "Platz f\u00fcr Zustellbett"
+    },
+    {
+        "propertyId": "bed-foldupbed",
+        "valueType": "boolean",
+        "additionalType": "bed",
+        "name": "Klappbares Bett"
+    },
+    {
+        "propertyId": "bed-kingsizebed",
+        "valueType": "boolean",
+        "additionalType": "bed",
+        "name": "Kingsize-Bett"
+    },
+    {
+        "propertyId": "bed-queensizebed",
+        "valueType": "boolean",
+        "additionalType": "bed",
+        "name": "Queensize-Bett"
+    },
+    {
+        "propertyId": "bed-single",
+        "valueType": "boolean",
+        "additionalType": "bed",
+        "name": "Einzelbett"
+    },
+    {
+        "propertyId": "bed-sofabed",
+        "valueType": "boolean",
+        "additionalType": "bed",
+        "name": "Schlafsofa"
+    },
+    {
+        "propertyId": "bed-twinbeds",
+        "valueType": "boolean",
+        "additionalType": "bed",
+        "name": "Twin-Betten"
+    },
+    {
+        "propertyId": "breakfast-alacarte",
+        "valueType": "boolean",
+        "additionalType": "breakfast",
+        "name": "\u00c0 la carte Fr\u00fchst\u00fcck"
+    },
+    {
+        "propertyId": "breakfast-american",
+        "valueType": "boolean",
+        "additionalType": "breakfast",
+        "name": "Amerikanisches Fr\u00fchst\u00fcck"
+    },
+    {
+        "propertyId": "breakfast-asian",
+        "valueType": "boolean",
+        "additionalType": "breakfast",
+        "name": "Asiatisches Fr\u00fchst\u00fcck"
+    },
+    {
+        "propertyId": "breakfast-buffet",
+        "valueType": "boolean",
+        "additionalType": "breakfast",
+        "name": "Fr\u00fchst\u00fccksbuffet"
+    },
+    {
+        "propertyId": "breakfast-continental",
+        "valueType": "boolean",
+        "additionalType": "breakfast",
+        "name": "Kontinentales Fr\u00fchst\u00fcck"
+    },
+    {
+        "propertyId": "breakfast-englishirish",
+        "valueType": "boolean",
+        "additionalType": "breakfast",
+        "name": "Englisches Fr\u00fchst\u00fcck"
+    },
+    {
+        "propertyId": "breakfast-glutenfree",
+        "valueType": "boolean",
+        "additionalType": "breakfast",
+        "name": "Glutenfreies Fr\u00fchst\u00fcck"
+    },
+    {
+        "propertyId": "breakfast-halal",
+        "valueType": "boolean",
+        "additionalType": "breakfast",
+        "name": "Halal Fr\u00fchst\u00fcck"
+    },
+    {
+        "propertyId": "breakfast-italian",
+        "valueType": "boolean",
+        "additionalType": "breakfast",
+        "name": "Italienisches Fr\u00fchst\u00fcck"
+    },
+    {
+        "propertyId": "breakfast-kosher",
+        "valueType": "boolean",
+        "additionalType": "breakfast",
+        "name": "Koscheres Fr\u00fchst\u00fcck"
+    },
+    {
+        "propertyId": "breakfast-togo",
+        "valueType": "boolean",
+        "additionalType": "breakfast",
+        "name": "Fr\u00fchst\u00fcck zum Mitnehmen"
+    },
+    {
+        "propertyId": "breakfast-vegan",
+        "valueType": "boolean",
+        "additionalType": "breakfast",
+        "name": "Veganes Fr\u00fchst\u00fcck"
+    },
+    {
+        "propertyId": "breakfast-vegetarian",
+        "valueType": "boolean",
+        "additionalType": "breakfast",
+        "name": "Vegetarisches Fr\u00fchst\u00fcck"
+    },
+    {
+        "propertyId": "building-built",
+        "valueType": "number",
+        "additionalType": "building",
+        "name": "Erbaut"
+    },
+    {
+        "propertyId": "building-floors",
+        "valueType": "number",
+        "additionalType": "building",
+        "name": "Stockwerke"
+    },
+    {
+        "propertyId": "building-renovated",
+        "valueType": "number",
+        "additionalType": "building",
+        "name": "Renoviert"
+    },
+    {
+        "propertyId": "characteristics-adultsonly",
+        "valueType": "boolean",
+        "additionalType": "characteristics",
+        "name": "Adults-only"
+    },
+    {
+        "propertyId": "characteristics-airporthotel",
+        "valueType": "boolean",
+        "additionalType": "characteristics",
+        "name": "Flughafenhotel"
+    },
+    {
+        "propertyId": "characteristics-assistancedogswelcome",
+        "valueType": "boolean",
+        "additionalType": "characteristics",
+        "name": "Assistenzhunde willkommen"
+    },
+    {
+        "propertyId": "characteristics-disabilityfriendly",
+        "valueType": "boolean",
+        "additionalType": "characteristics",
+        "name": "Behindertengerecht"
+    },
+    {
+        "propertyId": "characteristics-familyfriendly",
+        "valueType": "boolean",
+        "additionalType": "characteristics",
+        "name": "Familienfreundlich"
+    },
+    {
+        "propertyId": "characteristics-lgbtqfriendly",
+        "valueType": "boolean",
+        "additionalType": "characteristics",
+        "name": "LGBTQ friendly"
+    },
+    {
+        "propertyId": "characteristics-mountainhotel",
+        "valueType": "boolean",
+        "additionalType": "characteristics",
+        "name": "Hotel in den Bergen"
+    },
+    {
+        "propertyId": "characteristics-nonsmoking",
+        "valueType": "boolean",
+        "additionalType": "characteristics",
+        "name": "Nichtraucher-Unterkunft"
+    },
+    {
+        "propertyId": "characteristics-nopetsallowed",
+        "valueType": "boolean",
+        "additionalType": "characteristics",
+        "name": "Haustiere sind nicht erlaubt"
+    },
+    {
+        "propertyId": "characteristics-petfriendly",
+        "valueType": "boolean",
+        "additionalType": "characteristics",
+        "name": "Haustierfreundlich"
+    },
+    {
+        "propertyId": "characteristics-urbanhotel",
+        "valueType": "boolean",
+        "additionalType": "characteristics",
+        "name": "Stadthotel"
+    },
+    {
+        "propertyId": "characteristics-vineyard",
+        "valueType": "boolean",
+        "additionalType": "characteristics",
+        "name": "Weinberg"
+    },
+    {
+        "propertyId": "entertainment-arcadegamingroom",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Spielhalle/Spielzimmer"
+    },
+    {
+        "propertyId": "entertainment-banquethall",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Bankettsaal"
+    },
+    {
+        "propertyId": "entertainment-casino",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Casino"
+    },
+    {
+        "propertyId": "entertainment-childcareservice",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Kinderbetreuung"
+    },
+    {
+        "propertyId": "entertainment-cinema",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Kino"
+    },
+    {
+        "propertyId": "entertainment-dailynewspaperinthelobby",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Tageszeitung in der Lobby"
+    },
+    {
+        "propertyId": "entertainment-disco",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Disco"
+    },
+    {
+        "propertyId": "entertainment-entertainmentprogramme",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Unterhaltungsprogramm"
+    },
+    {
+        "propertyId": "entertainment-golfdesk",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Golf Desk"
+    },
+    {
+        "propertyId": "entertainment-kidsclub",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Kinderclub"
+    },
+    {
+        "propertyId": "entertainment-kidsdisco",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Kinderdisco"
+    },
+    {
+        "propertyId": "entertainment-library",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Bibliothek"
+    },
+    {
+        "propertyId": "entertainment-livemusic",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Live-Musik"
+    },
+    {
+        "propertyId": "entertainment-newspaperstand",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Zeitungskiosk"
+    },
+    {
+        "propertyId": "entertainment-nightclub",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Nightclub"
+    },
+    {
+        "propertyId": "entertainment-pharmacy",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Apotheke"
+    },
+    {
+        "propertyId": "entertainment-playground",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Spielplatz"
+    },
+    {
+        "propertyId": "entertainment-playroom",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Spielzimmer"
+    },
+    {
+        "propertyId": "entertainment-programmeadults",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Animationsprogramm f\u00fcr Erwachsene"
+    },
+    {
+        "propertyId": "entertainment-programmechildren",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Animationsprogramm f\u00fcr Kinder"
+    },
+    {
+        "propertyId": "entertainment-shoppingcentre",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Einkaufszentrum"
+    },
+    {
+        "propertyId": "entertainment-shops",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Shops"
+    },
+    {
+        "propertyId": "entertainment-souvenirshop",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Souvenirshop"
+    },
+    {
+        "propertyId": "entertainment-stage",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "B\u00fchne"
+    },
+    {
+        "propertyId": "entertainment-supermarket",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Supermarkt"
+    },
+    {
+        "propertyId": "entertainment-tablefootball",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Tischfussball"
+    },
+    {
+        "propertyId": "entertainment-theatrehall",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Theatersaal"
+    },
+    {
+        "propertyId": "entertainment-tourdesk",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Tour Desk"
+    },
+    {
+        "propertyId": "entertainment-tvroom",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "TV-Raum"
+    },
+    {
+        "propertyId": "entertainment-waterslides",
+        "valueType": "boolean",
+        "additionalType": "entertainment",
+        "name": "Wasserrutschen"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "entertainment-waterslidesmaxlength",
+        "valueType": "number",
+        "additionalType": "entertainment",
+        "name": "Maximale L\u00e4nge der Wasserrutschen"
+    },
+    {
+        "propertyId": "entertainment-waterslidesnumber",
+        "valueType": "number",
+        "additionalType": "entertainment",
+        "name": "Anzahl der Wasserrutschen"
+    },
+    {
+        "propertyId": "events-aircon",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Klimaanlage in Meetingraum"
+    },
+    {
+        "unitCode": "PAX",
+        "unitText": "Pax",
+        "propertyId": "events-apero",
+        "valueType": "number",
+        "additionalType": "events",
+        "name": "Bestuhlung Ap\u00e9ro"
+    },
+    {
+        "unitCode": "MTK",
+        "unitText": "m\u00b2",
+        "propertyId": "events-areainm2",
+        "valueType": "number",
+        "additionalType": "events",
+        "name": "Fl\u00e4che"
+    },
+    {
+        "unitCode": "MTK",
+        "unitText": "m\u00b2",
+        "propertyId": "events-areainm2totaleventarea",
+        "valueType": "number",
+        "additionalType": "events",
+        "name": "Gesamtfl\u00e4che Veranstaltungsbereich"
+    },
+    {
+        "unitCode": "PAX",
+        "unitText": "Pax",
+        "propertyId": "events-banquetrectangular",
+        "valueType": "number",
+        "additionalType": "events",
+        "name": "Bestuhlung Bankett rechteckig"
+    },
+    {
+        "unitCode": "PAX",
+        "unitText": "Pax",
+        "propertyId": "events-banquetround",
+        "valueType": "numberrange",
+        "additionalType": "events",
+        "name": "Bestuhlung Bankett rund"
+    },
+    {
+        "propertyId": "events-beamer",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Beamer/Screen im Raum vorhanden"
+    },
+    {
+        "unitCode": "PAX",
+        "unitText": "Pax",
+        "propertyId": "events-block",
+        "valueType": "number",
+        "additionalType": "events",
+        "name": "Bestuhlung Block"
+    },
+    {
+        "propertyId": "events-businesscentre",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Business-Center"
+    },
+    {
+        "unitCode": "PAX",
+        "unitText": "Pax",
+        "propertyId": "events-concerttheater",
+        "valueType": "numberrange",
+        "additionalType": "events",
+        "name": "Bestuhlung Konzert/Theater"
+    },
+    {
+        "propertyId": "events-conferenceroom",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Konferenzraum"
+    },
+    {
+        "propertyId": "events-conventionservices",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Convention Services"
+    },
+    {
+        "propertyId": "events-coworkingspace",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Co-Working-Space"
+    },
+    {
+        "propertyId": "events-darkening",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Abdunklung m\u00f6glich"
+    },
+    {
+        "propertyId": "events-daylight",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Tageslicht"
+    },
+    {
+        "propertyId": "events-flipchartandpens",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Flipchart und Stifte im Raum vorhanden"
+    },
+    {
+        "propertyId": "events-hotelbuyout",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Hotel Buyout"
+    },
+    {
+        "propertyId": "events-meetingowl",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Meeting Owl auf Anfrage"
+    },
+    {
+        "propertyId": "events-meetingroomequipment",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Ausstattung des Tagungsraums"
+    },
+    {
+        "propertyId": "events-microphone",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Mikrofon auf Anfrage"
+    },
+    {
+        "propertyId": "events-numberofmeetingrooms",
+        "valueType": "number",
+        "additionalType": "events",
+        "name": "Anzahl R\u00e4ume Meetings & Convention"
+    },
+    {
+        "propertyId": "events-numberofpersontotaleventarea",
+        "valueType": "number",
+        "additionalType": "events",
+        "name": "Gesamtanzahl Personen f\u00fcr gesamten Veranstaltungsbereich"
+    },
+    {
+        "propertyId": "events-photocopier",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Fotokopierer"
+    },
+    {
+        "propertyId": "events-presentationcase",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Pr\u00e4sentationskoffer im Raum vorhanden"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "events-roomheight",
+        "valueType": "number",
+        "additionalType": "events",
+        "name": "Raumh\u00f6he"
+    },
+    {
+        "propertyId": "events-secretarialservice",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Sekretariatsservice"
+    },
+    {
+        "unitCode": "PAX",
+        "unitText": "Pax",
+        "propertyId": "events-seminar",
+        "valueType": "numberrange",
+        "additionalType": "events",
+        "name": "Bestuhlung Seminar"
+    },
+    {
+        "propertyId": "events-simultaneoussystem",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Simultananlage auf Anfrage"
+    },
+    {
+        "propertyId": "events-specialvenue",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Einzigartige Lokalit\u00e4ten"
+    },
+    {
+        "propertyId": "events-symbolicceremony",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Symbolische Zeremonie im Hotel m\u00f6glich"
+    },
+    {
+        "propertyId": "events-translationservices",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "\u00dcbersetzungsdienstleistungen"
+    },
+    {
+        "unitCode": "PAX",
+        "unitText": "Pax",
+        "propertyId": "events-ushape",
+        "valueType": "number",
+        "additionalType": "events",
+        "name": "Bestuhlung U-Form"
+    },
+    {
+        "propertyId": "events-weddinghotel",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "Hochzeiten im Hotel m\u00f6glich"
+    },
+    {
+        "propertyId": "events-wifi",
+        "valueType": "boolean",
+        "additionalType": "events",
+        "name": "WiFi"
+    },
+    {
+        "unitCode": "PAX",
+        "unitText": "Pax",
+        "propertyId": "events-workshop",
+        "valueType": "number",
+        "additionalType": "events",
+        "name": "Bestuhlung Workshop"
+    },
+    {
+        "propertyId": "food-alcoholfreedrinks",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Alkoholfreie Getr\u00e4nke"
+    },
+    {
+        "propertyId": "food-alcoholicdrinks",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Alkoholische Getr\u00e4nke"
+    },
+    {
+        "propertyId": "food-allinclusive",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "All-inclusive"
+    },
+    {
+        "propertyId": "food-babychair",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Kinderstuhl"
+    },
+    {
+        "propertyId": "food-babyfood",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Babynahrung"
+    },
+    {
+        "propertyId": "food-bar",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Bar"
+    },
+    {
+        "propertyId": "food-barbecuearea",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Grillplatz"
+    },
+    {
+        "propertyId": "food-barlounge",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Bar/Lounge"
+    },
+    {
+        "propertyId": "food-bedandbreakfast",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "\u00dcbernachtung mit Fr\u00fchst\u00fcck"
+    },
+    {
+        "propertyId": "food-breakfastroom",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Fr\u00fchst\u00fccksraum"
+    },
+    {
+        "propertyId": "food-brunch",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Brunch"
+    },
+    {
+        "propertyId": "food-cafe",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Caf\u00e9"
+    },
+    {
+        "propertyId": "food-cateringfree",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Cateringfirma frei w\u00e4hlbar"
+    },
+    {
+        "propertyId": "food-cateringinhouse",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Hauseigenes Catering"
+    },
+    {
+        "propertyId": "food-cateringown",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Eigenes Catering nach Absprache m\u00f6glich"
+    },
+    {
+        "propertyId": "food-childrensmeals",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Mahlzeiten f\u00fcr Kinder"
+    },
+    {
+        "propertyId": "food-coffeemachine",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Kaffeemaschine"
+    },
+    {
+        "propertyId": "food-coffeeteainpublicarea",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Kaffee/Tee im \u00f6ffentlichen Bereich"
+    },
+    {
+        "propertyId": "food-couplesprivatedining",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Private Dining"
+    },
+    {
+        "propertyId": "food-dietmeals",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Di\u00e4t-Mahlzeiten"
+    },
+    {
+        "propertyId": "food-diningroom",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Esszimmer"
+    },
+    {
+        "propertyId": "food-dinner",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Abendessen"
+    },
+    {
+        "propertyId": "food-drinksincluded",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Getr\u00e4nke inklusive"
+    },
+    {
+        "propertyId": "food-drinksmachine",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Getr\u00e4nkeautomat"
+    },
+    {
+        "propertyId": "food-electrickettle",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Wasserkocher"
+    },
+    {
+        "propertyId": "food-foodcombining",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Trennkost"
+    },
+    {
+        "propertyId": "food-fridge",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "K\u00fchlschrank"
+    },
+    {
+        "propertyId": "food-fullboard",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Vollpension"
+    },
+    {
+        "propertyId": "food-glutenfreemeals",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Glutenfreie Mahlzeiten"
+    },
+    {
+        "propertyId": "food-halalmeals",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Halal-Mahlzeiten"
+    },
+    {
+        "propertyId": "food-halfboard",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Halbpension"
+    },
+    {
+        "propertyId": "food-internationalbrands",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Internationale Marken"
+    },
+    {
+        "propertyId": "food-kitchen",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "K\u00fcche"
+    },
+    {
+        "propertyId": "food-kitchenette",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Kochnische"
+    },
+    {
+        "propertyId": "food-koshermeals",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Koschere Mahlzeiten"
+    },
+    {
+        "propertyId": "food-lactosefreemeals",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Laktosefreie Mahlzeiten"
+    },
+    {
+        "propertyId": "food-livecooking",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Live-Kochen"
+    },
+    {
+        "propertyId": "food-lobbybar",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Lobby-Bar"
+    },
+    {
+        "propertyId": "food-lunch",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Mittagessen"
+    },
+    {
+        "propertyId": "food-minibar",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Minibar"
+    },
+    {
+        "propertyId": "food-organicfood",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Bio-Lebensmittel"
+    },
+    {
+        "propertyId": "food-ownbrands",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Eigenmarken"
+    },
+    {
+        "propertyId": "food-panoramarestaurant",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Panorama-Restaurant"
+    },
+    {
+        "propertyId": "food-pianobar",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Piano-Bar"
+    },
+    {
+        "propertyId": "food-picnic",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Picknick"
+    },
+    {
+        "propertyId": "food-picnicarea",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Picknickplatz"
+    },
+    {
+        "propertyId": "food-pub",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Kneipe"
+    },
+    {
+        "propertyId": "food-refrigerator",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "K\u00fchlschrank"
+    },
+    {
+        "propertyId": "food-restaurant",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Restaurant"
+    },
+    {
+        "propertyId": "food-restaurantwithaterrace",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Restaurant mit Terrasse"
+    },
+    {
+        "propertyId": "food-roomservice",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Zimmerservice"
+    },
+    {
+        "propertyId": "food-snackbar",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Snack Bar"
+    },
+    {
+        "propertyId": "food-snacks",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Snacks"
+    },
+    {
+        "propertyId": "food-teacoffeestation",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Tee-/Kaffeestation"
+    },
+    {
+        "propertyId": "food-veganmeals",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Vegane Mahlzeiten"
+    },
+    {
+        "propertyId": "food-vegetarianmeals",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Vegetarische Mahlzeiten"
+    },
+    {
+        "propertyId": "food-vendingmachine",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Verkaufsautomat"
+    },
+    {
+        "propertyId": "food-waterdispenser",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Wasserspender"
+    },
+    {
+        "propertyId": "food-welcomedrink",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Begr\u00fcssungsgetr\u00e4nk"
+    },
+    {
+        "propertyId": "food-wholeunprocessedfoods",
+        "valueType": "boolean",
+        "additionalType": "food",
+        "name": "Vollwertige/unverarbeitete Lebensmittel"
+    },
+    {
+        "propertyId": "furnishing-airconditioning",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Klimaanlage"
+    },
+    {
+        "propertyId": "furnishing-carpetedfloor",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Teppichboden"
+    },
+    {
+        "propertyId": "furnishing-changingcubicles",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Umkleidekabinen"
+    },
+    {
+        "propertyId": "furnishing-cleaningproducts",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Reinigungsmittel"
+    },
+    {
+        "propertyId": "furnishing-desk",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Schreibtisch"
+    },
+    {
+        "propertyId": "furnishing-fireplace",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Kamin"
+    },
+    {
+        "propertyId": "furnishing-heating",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Heizung"
+    },
+    {
+        "propertyId": "furnishing-interconnectingroomsavailable",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Zimmer mit Verbindungst\u00fcr verf\u00fcgbar"
+    },
+    {
+        "propertyId": "furnishing-livingroomarea",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Wohnzimmer/-bereich"
+    },
+    {
+        "propertyId": "furnishing-lockers",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Schliessf\u00e4cher"
+    },
+    {
+        "propertyId": "furnishing-lounge",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Lounge"
+    },
+    {
+        "propertyId": "furnishing-minifridge",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Mini-K\u00fchlschrank"
+    },
+    {
+        "propertyId": "furnishing-parquetfloor",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Parkettboden"
+    },
+    {
+        "propertyId": "furnishing-roomcabinsafe",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Zimmer-/Kabinensafe"
+    },
+    {
+        "unitCode": "MTK",
+        "unitText": "m\u00b2",
+        "propertyId": "furnishing-sizeinsqm",
+        "valueType": "number",
+        "additionalType": "furnishing",
+        "name": "Gr\u00f6sse in m\u00b2"
+    },
+    {
+        "propertyId": "furnishing-smokingrooms",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Raucherzimmer"
+    },
+    {
+        "propertyId": "furnishing-sofa",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Sofa"
+    },
+    {
+        "propertyId": "furnishing-wheelchairaccessiblerooms",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "Barrierefreie Zimmer"
+    },
+    {
+        "propertyId": "furnishing-wifi",
+        "valueType": "boolean",
+        "additionalType": "furnishing",
+        "name": "WiFi"
+    },
+    {
+        "propertyId": "general-airconinaccommodation",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Klimaanlage in der Unterkunft"
+    },
+    {
+        "propertyId": "general-airportshuttle",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Flughafen-Shuttle"
+    },
+    {
+        "propertyId": "general-alarmcallservice",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Alarmruf-Service"
+    },
+    {
+        "propertyId": "general-babybed",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Babybett"
+    },
+    {
+        "propertyId": "general-babysittingservice",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Babysitter-Service"
+    },
+    {
+        "propertyId": "general-baggagestorageservice",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Gep\u00e4ckaufbewahrung"
+    },
+    {
+        "propertyId": "general-bicyclehire",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Fahrradverleih"
+    },
+    {
+        "propertyId": "general-bicyclestoragearea",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Abstellraum f\u00fcr Fahrr\u00e4der"
+    },
+    {
+        "propertyId": "general-breakfastfromuntil",
+        "valueType": "timerange",
+        "additionalType": "general",
+        "name": "Fr\u00fchst\u00fcckszeit"
+    },
+    {
+        "propertyId": "general-busparking",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Busparkplatz"
+    },
+    {
+        "propertyId": "general-carhire",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Autovermietung"
+    },
+    {
+        "propertyId": "general-carpark",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Parkplatz"
+    },
+    {
+        "propertyId": "general-cashmachine",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Geldautomat"
+    },
+    {
+        "propertyId": "general-chargingstationelectricvehicles",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Ladestation f\u00fcr Elektrofahrzeuge"
+    },
+    {
+        "propertyId": "general-checkinoutservice",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Check-in/-out-Service"
+    },
+    {
+        "propertyId": "general-conciergeservice",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Concierge-Service"
+    },
+    {
+        "propertyId": "general-drycleaninglaundryservice",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Chemische Reinigung/W\u00e4scheservice"
+    },
+    {
+        "propertyId": "general-garage",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Garage"
+    },
+    {
+        "propertyId": "general-goodslift",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Warenlift"
+    },
+    {
+        "propertyId": "general-highchairforchildren",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Hochstuhl f\u00fcr Kinder"
+    },
+    {
+        "propertyId": "general-hoteldoctor",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Hotelarzt"
+    },
+    {
+        "propertyId": "general-hotelsafe",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Hotelsafe"
+    },
+    {
+        "propertyId": "general-hourfrontdesk",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "24-Stunden-Rezeption"
+    },
+    {
+        "propertyId": "general-illuminatedentrancearea",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Beleuchteter Eingangsbereich"
+    },
+    {
+        "propertyId": "general-laundryservice",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "W\u00e4scheservice"
+    },
+    {
+        "propertyId": "general-lift",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Lift"
+    },
+    {
+        "propertyId": "general-limousineservice",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Limousinenservice"
+    },
+    {
+        "propertyId": "general-lobby",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Lobby"
+    },
+    {
+        "propertyId": "general-lounge",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Lounge"
+    },
+    {
+        "propertyId": "general-medicalassistance",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Medizinische Hilfe"
+    },
+    {
+        "propertyId": "general-multilingualstaff",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Mehrsprachiges Personal"
+    },
+    {
+        "propertyId": "general-outdoorfurniture",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Gartenm\u00f6bel"
+    },
+    {
+        "propertyId": "general-parking",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Parken"
+    },
+    {
+        "propertyId": "general-parkinglots",
+        "valueType": "number",
+        "additionalType": "general",
+        "name": "Anzahl Parkpl\u00e4tze"
+    },
+    {
+        "propertyId": "general-pcstation",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "PC-Station"
+    },
+    {
+        "propertyId": "general-precheckin",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Pre-check-in"
+    },
+    {
+        "propertyId": "general-publicwashrooms",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "\u00d6ffentliche Waschr\u00e4ume"
+    },
+    {
+        "propertyId": "general-readingroom",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Lesesaal"
+    },
+    {
+        "propertyId": "general-reception",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Empfang"
+    },
+    {
+        "propertyId": "general-receptionfromuntil",
+        "valueType": "timerange",
+        "additionalType": "general",
+        "name": "\u00d6ffnungszeiten der Rezeption"
+    },
+    {
+        "propertyId": "general-roofterrace",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Dachterrasse"
+    },
+    {
+        "propertyId": "general-roomservicefromuntil",
+        "valueType": "timerange",
+        "additionalType": "general",
+        "name": "Zimmerservice Zeiten"
+    },
+    {
+        "propertyId": "general-selfcheckin",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Self-check-in"
+    },
+    {
+        "propertyId": "general-shuttletransferservice",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Shuttle-/Transferservice"
+    },
+    {
+        "propertyId": "general-smokealarm",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Rauchmelder"
+    },
+    {
+        "propertyId": "general-smokingarea",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Raucherbereich"
+    },
+    {
+        "propertyId": "general-spokenlanguages",
+        "valueType": "list",
+        "additionalType": "general",
+        "name": "Gesprochene Sprachen"
+    },
+    {
+        "propertyId": "general-transferservice",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Transfer-Service"
+    },
+    {
+        "propertyId": "general-tumbledryer",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "W\u00e4schetrockner"
+    },
+    {
+        "propertyId": "general-valetparking",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Valet Parking"
+    },
+    {
+        "propertyId": "general-washingmachine",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "Waschmaschine"
+    },
+    {
+        "propertyId": "general-wifi",
+        "valueType": "boolean",
+        "additionalType": "general",
+        "name": "WiFi"
+    },
+    {
+        "propertyId": "location-attheedgeoftown",
+        "valueType": "boolean",
+        "additionalType": "location",
+        "name": "Am Rande der Stadt"
+    },
+    {
+        "propertyId": "location-carfreelocation",
+        "valueType": "boolean",
+        "additionalType": "location",
+        "name": "Autofreie Lage"
+    },
+    {
+        "propertyId": "location-centrallocation",
+        "valueType": "boolean",
+        "additionalType": "location",
+        "name": "Zentrale Lage"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distanceairport",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Flughafen"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancebarspubs",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Bars/Pubs"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancebusstation",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Busbahnhof"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancecitycentre",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Stadtzentrum"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distanceclub",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Club"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancecrosscountryskitrail",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Langlaufloipe"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distanceforest",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Wald"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancegolfcourse",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Golfplatz"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancehospital",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Krankenhaus"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancelake",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung See"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancepark",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Park"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancepharmacy",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Apotheke"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distanceplayground",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Spielplatz"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancepublictransport",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung \u00f6ffentlicher Verkehr"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancerestaurants",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Restaurants"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distanceriver",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Fluss"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distanceshops",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Shops"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distanceskilift",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Skilift"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distanceskiresort",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Skigebiet"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancetoskislope",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Skipiste"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancetouristcenter",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung touristisches Zentrum"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "location-distancetrainstation",
+        "valueType": "number",
+        "additionalType": "location",
+        "name": "Entfernung Bahnhof"
+    },
+    {
+        "propertyId": "location-livelylocation",
+        "valueType": "boolean",
+        "additionalType": "location",
+        "name": "Belebte Lage"
+    },
+    {
+        "propertyId": "location-locatedonamainroad",
+        "valueType": "boolean",
+        "additionalType": "location",
+        "name": "Das Hotel liegt an einer Hauptstrasse"
+    },
+    {
+        "propertyId": "location-neariver",
+        "valueType": "boolean",
+        "additionalType": "location",
+        "name": "In der N\u00e4he des Flusses"
+    },
+    {
+        "propertyId": "location-nearlake",
+        "valueType": "boolean",
+        "additionalType": "location",
+        "name": "In der N\u00e4he des Sees"
+    },
+    {
+        "propertyId": "location-oldtown",
+        "valueType": "boolean",
+        "additionalType": "location",
+        "name": "Altstadt"
+    },
+    {
+        "propertyId": "location-outside",
+        "valueType": "boolean",
+        "additionalType": "location",
+        "name": "Abgelegen"
+    },
+    {
+        "propertyId": "location-quietlocation",
+        "valueType": "boolean",
+        "additionalType": "location",
+        "name": "Ruhige Lage"
+    },
+    {
+        "propertyId": "location-reachableonlyonfoot",
+        "valueType": "boolean",
+        "additionalType": "location",
+        "name": "nur zu Fuss erreichbar"
+    },
+    {
+        "propertyId": "location-rurallocation",
+        "valueType": "boolean",
+        "additionalType": "location",
+        "name": "L\u00e4ndliche Lage"
+    },
+    {
+        "propertyId": "media-telephone",
+        "valueType": "boolean",
+        "additionalType": "media",
+        "name": "Telefon"
+    },
+    {
+        "propertyId": "media-tv",
+        "valueType": "boolean",
+        "additionalType": "media",
+        "name": "TV"
+    },
+    {
+        "propertyId": "outdoor-camping",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Camping"
+    },
+    {
+        "propertyId": "outdoor-changingrooms",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Umkleidekabinen"
+    },
+    {
+        "propertyId": "outdoor-deckchairs",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Liegestuhl"
+    },
+    {
+        "propertyId": "outdoor-deckchairsrental",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Vermietung von Liegest\u00fchlen"
+    },
+    {
+        "propertyId": "outdoor-garden",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Garten"
+    },
+    {
+        "propertyId": "outdoor-gazebopavillon",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Pavillon"
+    },
+    {
+        "propertyId": "outdoor-nudityzone",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Nacktheitszone"
+    },
+    {
+        "propertyId": "outdoor-parasolsatthepool",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Sonnenschirme am Pool"
+    },
+    {
+        "propertyId": "outdoor-poolbar",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Poolbar"
+    },
+    {
+        "propertyId": "outdoor-sandybeach",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Sandstrand"
+    },
+    {
+        "propertyId": "outdoor-shadowarea",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Schattenbereich"
+    },
+    {
+        "propertyId": "outdoor-sunbathingarea",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Liegewiese"
+    },
+    {
+        "propertyId": "outdoor-sunloungersatthepool",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Liegest\u00fchle am Pool"
+    },
+    {
+        "propertyId": "outdoor-sunterrace",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Sonnenterrasse"
+    },
+    {
+        "propertyId": "outdoor-terracebalcony",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Terrasse/Balkon"
+    },
+    {
+        "propertyId": "outdoor-waterpark",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Wasserpark"
+    },
+    {
+        "propertyId": "outdoor-waterslide",
+        "valueType": "boolean",
+        "additionalType": "outdoor",
+        "name": "Wasserrutsche"
+    },
+    {
+        "propertyId": "pool-coldwater",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Kaltwasserbecken"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "pool-depthminmax",
+        "valueType": "number",
+        "additionalType": "pool",
+        "name": "Tiefe des Pools"
+    },
+    {
+        "propertyId": "pool-divingplatform",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Sprungturm"
+    },
+    {
+        "propertyId": "pool-divingplatform10m",
+        "valueType": "number",
+        "additionalType": "pool",
+        "name": "Sprungturm (10m)"
+    },
+    {
+        "propertyId": "pool-divingplatform1m",
+        "valueType": "number",
+        "additionalType": "pool",
+        "name": "Sprungturm (1m)"
+    },
+    {
+        "propertyId": "pool-divingplatform2m",
+        "valueType": "number",
+        "additionalType": "pool",
+        "name": "Sprungturm (2m)"
+    },
+    {
+        "propertyId": "pool-divingplatform3m",
+        "valueType": "number",
+        "additionalType": "pool",
+        "name": "Sprungturm (3m)"
+    },
+    {
+        "propertyId": "pool-divingplatform5m",
+        "valueType": "number",
+        "additionalType": "pool",
+        "name": "Sprungturm (5m)"
+    },
+    {
+        "propertyId": "pool-flow",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Pool mit Str\u00f6mung"
+    },
+    {
+        "propertyId": "pool-indoor",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Hallenschwimmbad"
+    },
+    {
+        "unitCode": "MTR",
+        "unitText": "m",
+        "propertyId": "pool-lenghtminmax",
+        "valueType": "numberrange",
+        "additionalType": "pool",
+        "name": "L\u00e4nge des Beckens"
+    },
+    {
+        "propertyId": "pool-massage",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Massage Pool"
+    },
+    {
+        "propertyId": "pool-mensonly",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Schwimmbad nur f\u00fcr M\u00e4nner"
+    },
+    {
+        "propertyId": "pool-number",
+        "valueType": "number",
+        "additionalType": "pool",
+        "name": "Anzahl der Schwimmbecken"
+    },
+    {
+        "propertyId": "pool-openair",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Freibad"
+    },
+    {
+        "propertyId": "pool-paddling",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Planschbecken"
+    },
+    {
+        "propertyId": "pool-paddlingnumber",
+        "valueType": "number",
+        "additionalType": "pool",
+        "name": "Anzahl Planschbecken"
+    },
+    {
+        "propertyId": "pool-saltwater",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Salzwasserbecken"
+    },
+    {
+        "propertyId": "pool-swimminglanes",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Schwimmbahnen"
+    },
+    {
+        "propertyId": "pool-thermal",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Thermalwasserbecken"
+    },
+    {
+        "propertyId": "pool-thermalindoor",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Thermalhallenbad"
+    },
+    {
+        "propertyId": "pool-thermalopenair",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Thermalfreibad"
+    },
+    {
+        "propertyId": "pool-watertoys",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Wasserspielzeuge"
+    },
+    {
+        "propertyId": "pool-wave",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Wellenbad"
+    },
+    {
+        "propertyId": "pool-whirl",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Whirlpool"
+    },
+    {
+        "propertyId": "pool-womensonly",
+        "valueType": "boolean",
+        "additionalType": "pool",
+        "name": "Schwimmbad nur f\u00fcr Frauen"
+    },
+    {
+        "propertyId": "security-alarmswithstrobelights",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Alarme mit Stroboskoplicht"
+    },
+    {
+        "propertyId": "security-audiblealarms",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Akustische Alarme"
+    },
+    {
+        "propertyId": "security-automaticfirealarmsystem",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Automatische Brandmeldeanlage"
+    },
+    {
+        "propertyId": "security-automaticfiredoors",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Automatische Brandschutzt\u00fcren"
+    },
+    {
+        "propertyId": "security-automatictofiredepartment",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Automatische Verbindung zur Feuerwehr"
+    },
+    {
+        "propertyId": "security-chlorinecontentmeasurements",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Regelm\u00e4ssige Messungen des Chlorgehalts"
+    },
+    {
+        "propertyId": "security-compliancewithfireregulations",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Einhaltung der Brandschutzvorschriften"
+    },
+    {
+        "propertyId": "security-electricroomkeysystem",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Elektronisches Zimmerschl\u00fcsselsystem"
+    },
+    {
+        "propertyId": "security-elevatorwithautomaticrecall",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Aufzug mit automatischem R\u00fcckruf"
+    },
+    {
+        "propertyId": "security-emergencyevacuationsignal",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Notfall-Evakuierungssignal"
+    },
+    {
+        "propertyId": "security-emergencylights",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Notbeleuchtung"
+    },
+    {
+        "propertyId": "security-externalescapestaircases",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Externe Fluchttreppen"
+    },
+    {
+        "propertyId": "security-firealarm",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Feuermelder"
+    },
+    {
+        "propertyId": "security-firedetectorinthehallway",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Brandmelder im Flur"
+    },
+    {
+        "propertyId": "security-firedetectorsinpublicareas",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Brandmelder in \u00f6ffentlichen Bereichen"
+    },
+    {
+        "propertyId": "security-fireextinguisherinhallway",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Feuerl\u00f6scher im Flur"
+    },
+    {
+        "propertyId": "security-fireextinguishersinpublicareas",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Feuerl\u00f6scher in \u00f6ffentlichen Bereichen"
+    },
+    {
+        "propertyId": "security-firstaidavailable",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Erste Hilfe verf\u00fcgbar"
+    },
+    {
+        "propertyId": "security-firstaidensured",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Erste Hilfe sichergestellt"
+    },
+    {
+        "propertyId": "security-gstccertification",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Zertifizierung durch den Global Sustainable Tourism Council (GSTC)"
+    },
+    {
+        "propertyId": "security-haccpconcept",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "HACCP-Konzept (Hygienekonzept im Bereich der Lebensmittelsicherheit und Gastronomie)"
+    },
+    {
+        "propertyId": "security-hallwaysprinkler",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Flur-Sprinkler"
+    },
+    {
+        "propertyId": "security-hardwiredsmokedetectors",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Fest verdrahtete Rauchmelder"
+    },
+    {
+        "propertyId": "security-hourssecurityservice",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "24-Stunden-Sicherheitsdienst"
+    },
+    {
+        "propertyId": "security-isocertification",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "ISO14001 Zertifizierung"
+    },
+    {
+        "propertyId": "security-issuanceofkeycopies",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Mitarbeiter f\u00fcr die Ausstellung von Schl\u00fcsselkopien"
+    },
+    {
+        "propertyId": "security-legalrailingheight",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Gesetzliche Gel\u00e4nderh\u00f6he auf dem Balkon eingehalten (100cm)"
+    },
+    {
+        "propertyId": "security-lifeguard",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Rettungsschwimmer"
+    },
+    {
+        "propertyId": "security-loggingsecurityincidents",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Protokollierung von Sicherheitsvorf\u00e4llen"
+    },
+    {
+        "propertyId": "security-parkingareapatrolled",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Parkplatz patrouilliert"
+    },
+    {
+        "propertyId": "security-parkingareawellilluminated",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Parkplatz gut beleuchtet"
+    },
+    {
+        "propertyId": "security-proofoffireprotection",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Nachweis des Brandschutzes"
+    },
+    {
+        "propertyId": "security-publicaddresssystem",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Lautsprecheranlage"
+    },
+    {
+        "propertyId": "security-publicliabilityinsurance",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Betriebshaftpflichtversicherung"
+    },
+    {
+        "propertyId": "security-regularevacuationexercises",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Regelm\u00e4ssige Evakuierungs\u00fcbungen"
+    },
+    {
+        "propertyId": "security-regularfunctionaltestsfirealarm",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Regelm\u00e4ssige Funktionspr\u00fcfungen Feueralarm"
+    },
+    {
+        "propertyId": "security-regularhygienetraining",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Regelm\u00e4ssige Hygieneschulungen"
+    },
+    {
+        "propertyId": "security-regularlegionellasampling",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Regelm\u00e4ssige Legionellen-Probenahme"
+    },
+    {
+        "propertyId": "security-regulartemperaturechecks",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Regelm\u00e4ssige Temperaturkontrollen"
+    },
+    {
+        "propertyId": "security-rescueequipmentbythepool",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Rettungsausr\u00fcstung am Pool"
+    },
+    {
+        "propertyId": "security-roomoutsidemainbuilding",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Zimmer/Wohneinheiten ausserhalb des Hauptgeb\u00e4udes"
+    },
+    {
+        "propertyId": "security-securedfloors",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Gesicherte Etagen"
+    },
+    {
+        "propertyId": "security-separatefloorforwomen",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Separater Flur f\u00fcr Frauen"
+    },
+    {
+        "propertyId": "security-severalexitsoneachfloor",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Mehrere Ausg\u00e4nge auf jeder Etage"
+    },
+    {
+        "propertyId": "security-smokedetectorinthehallway",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Rauchmelder im Flur"
+    },
+    {
+        "propertyId": "security-smokedetectorsinpublicareas",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Rauchmelder in \u00f6ffentlichen Bereichen"
+    },
+    {
+        "propertyId": "security-smokedetectortofirealarm",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Brand-/Rauchmelder an Brandmeldeanlage angeschlossen"
+    },
+    {
+        "propertyId": "security-sprinklersinpublicareas",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Sprinkler in \u00f6ffentlichen Bereichen"
+    },
+    {
+        "propertyId": "security-stafftrainedincpr",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Personal geschult in Kardiopulmonaler Wiederbelebung"
+    },
+    {
+        "propertyId": "security-stafftrainedinfirstaid",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Erste Hilfe geschultes Personal"
+    },
+    {
+        "propertyId": "security-supervisedparkingareaorgarage",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "bewachter Parkplatz oder Garage"
+    },
+    {
+        "propertyId": "security-travelifesustainabilitycertification",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Nachhaltigkeitszertifizierung von Travelife"
+    },
+    {
+        "propertyId": "security-uniformedsecurityguards",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Uniformiertes Sicherheitspersonal"
+    },
+    {
+        "propertyId": "security-ventilatedstairwells",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "bel\u00fcftete Treppenh\u00e4user"
+    },
+    {
+        "propertyId": "security-videosurveillanceattheentrances",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Video\u00fcberwachung an den Eing\u00e4ngen"
+    },
+    {
+        "propertyId": "security-videosurveillanceinpublicareas",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Video\u00fcberwachung in \u00f6ffentlichen Bereichen"
+    },
+    {
+        "propertyId": "security-videosurveillanceinthehallway",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Video\u00fcberwachung im Flur"
+    },
+    {
+        "propertyId": "security-wellilluminatedexitlabeling",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Gut ausgeleuchtete Ausgangsbeschriftung"
+    },
+    {
+        "propertyId": "security-wellilluminatedparkingareas",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Gut beleuchtete Parkpl\u00e4tze"
+    },
+    {
+        "propertyId": "security-wellilluminatedpaths",
+        "valueType": "boolean",
+        "additionalType": "security",
+        "name": "Gut beleuchtete Wege"
+    },
+    {
+        "propertyId": "ski-skiequipmentstorage",
+        "valueType": "boolean",
+        "additionalType": "ski",
+        "name": "Abstellraum f\u00fcr Ski und Skiausr\u00fcstung"
+    },
+    {
+        "propertyId": "ski-skipass",
+        "valueType": "boolean",
+        "additionalType": "ski",
+        "name": "Skipass"
+    },
+    {
+        "propertyId": "ski-skishuttle",
+        "valueType": "boolean",
+        "additionalType": "ski",
+        "name": "Ski-Shuttle"
+    },
+    {
+        "propertyId": "ski-skitours",
+        "valueType": "boolean",
+        "additionalType": "ski",
+        "name": "Skitourenangebot"
+    },
+    {
+        "propertyId": "sport-aerobics",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Aerobic Angebot"
+    },
+    {
+        "propertyId": "sport-airhockey",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Airhockey Angebot"
+    },
+    {
+        "propertyId": "sport-aquafit",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Aquafit Angebot"
+    },
+    {
+        "propertyId": "sport-archery",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Bogenschiessen Angebot"
+    },
+    {
+        "propertyId": "sport-artificialicerink",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Kunsteisbahn in der N\u00e4he"
+    },
+    {
+        "propertyId": "sport-badminton",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Badminton Angebot"
+    },
+    {
+        "propertyId": "sport-basketball",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Basketball Angebot"
+    },
+    {
+        "propertyId": "sport-beachvolleyball",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Beachvolleyball Angebot"
+    },
+    {
+        "propertyId": "sport-bikerental",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Bikeverleih"
+    },
+    {
+        "propertyId": "sport-bikestorage",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Abstellraum f\u00fcr Bikes"
+    },
+    {
+        "propertyId": "sport-billiards",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Billardtisch"
+    },
+    {
+        "propertyId": "sport-boatrental",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Bootsverleih"
+    },
+    {
+        "propertyId": "sport-boccia",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Boccia Angebot"
+    },
+    {
+        "propertyId": "sport-bowling",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Bowlingbahn"
+    },
+    {
+        "propertyId": "sport-callisthenics",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Kallisthenik Angebot"
+    },
+    {
+        "propertyId": "sport-canoeing",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Kanusport Angebote"
+    },
+    {
+        "propertyId": "sport-canoerental",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Kanu-Verleih"
+    },
+    {
+        "propertyId": "sport-chargingstationebikes",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Ladestationen f\u00fcr E-Bikes"
+    },
+    {
+        "propertyId": "sport-crosscountryskiing",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Langlauf Angebote"
+    },
+    {
+        "propertyId": "sport-curling",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Curling Angebot"
+    },
+    {
+        "propertyId": "sport-darts",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Darts"
+    },
+    {
+        "propertyId": "sport-fishing",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Angeln"
+    },
+    {
+        "propertyId": "sport-fitnessroom",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Fitnessraum"
+    },
+    {
+        "propertyId": "sport-golf",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Golf"
+    },
+    {
+        "propertyId": "sport-golfcourse",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Golfplatz"
+    },
+    {
+        "propertyId": "sport-gym",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Fitnessstudio"
+    },
+    {
+        "propertyId": "sport-handball",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Handball"
+    },
+    {
+        "propertyId": "sport-hiking",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Wandern"
+    },
+    {
+        "propertyId": "sport-hikingandcyling",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Wander- und Radfahrm\u00f6glichkeiten"
+    },
+    {
+        "propertyId": "sport-horseriding",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Reiten"
+    },
+    {
+        "propertyId": "sport-iceskating",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Eislaufen"
+    },
+    {
+        "propertyId": "sport-indoorcurlingrink",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Indoor-Eisstockbahn"
+    },
+    {
+        "propertyId": "sport-indoorswimmingpool",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Hallenbad"
+    },
+    {
+        "propertyId": "sport-jetskiing",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Jetski fahren"
+    },
+    {
+        "propertyId": "sport-jogging",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Jogging"
+    },
+    {
+        "propertyId": "sport-kayaking",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Kajaken"
+    },
+    {
+        "propertyId": "sport-kitesurfing",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Kitesurfen"
+    },
+    {
+        "propertyId": "sport-minigolf",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Minigolfanlage"
+    },
+    {
+        "propertyId": "sport-motorboatrides",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Fahrten mit dem Motorboot"
+    },
+    {
+        "propertyId": "sport-mountainbiking",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Mountainbiken"
+    },
+    {
+        "propertyId": "sport-nordicwalking",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Nordic Walking"
+    },
+    {
+        "propertyId": "sport-otherwatersports",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Andere Wassersportarten"
+    },
+    {
+        "propertyId": "sport-outdoorswimmingpool",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Aussenpool"
+    },
+    {
+        "propertyId": "sport-paddleboating",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Tretbootfahren"
+    },
+    {
+        "propertyId": "sport-paddletennis",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Paddle-Tennis"
+    },
+    {
+        "propertyId": "sport-paragliding",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Gleitschirmfliegen"
+    },
+    {
+        "propertyId": "sport-parasailing",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Parasailing"
+    },
+    {
+        "propertyId": "sport-personaltrainer",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Personal Trainer"
+    },
+    {
+        "propertyId": "sport-pilates",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Pilates"
+    },
+    {
+        "propertyId": "sport-pisteaccess",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Zugang zur Piste"
+    },
+    {
+        "propertyId": "sport-powerplate",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Power Plate"
+    },
+    {
+        "propertyId": "sport-sailing",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Segeln"
+    },
+    {
+        "propertyId": "sport-sledging",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Schlittenfahrt"
+    },
+    {
+        "propertyId": "sport-snowboarding",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Snowboarden"
+    },
+    {
+        "propertyId": "sport-snowshoehiking",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Schneeschuhwandern"
+    },
+    {
+        "propertyId": "sport-sportsgroundhall",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Sportplatz/Sporthalle"
+    },
+    {
+        "propertyId": "sport-squash",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Squash"
+    },
+    {
+        "propertyId": "sport-suprental",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "SUP-Board Verleih"
+    },
+    {
+        "propertyId": "sport-tablefootball",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Tischfussball"
+    },
+    {
+        "propertyId": "sport-tabletennis",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Tischtennis"
+    },
+    {
+        "propertyId": "sport-taichi",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Tai-Chi"
+    },
+    {
+        "propertyId": "sport-tennis",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Tennis"
+    },
+    {
+        "propertyId": "sport-tenniscourt",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Tennisplatz"
+    },
+    {
+        "propertyId": "sport-volleyball",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Volleyball"
+    },
+    {
+        "propertyId": "sport-wateraerobics",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Wasseraerobic"
+    },
+    {
+        "propertyId": "sport-waterskiing",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Wasserski"
+    },
+    {
+        "propertyId": "sport-windsurfing",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Windsurfen"
+    },
+    {
+        "propertyId": "sport-yoga",
+        "valueType": "boolean",
+        "additionalType": "sport",
+        "name": "Yoga"
+    },
+    {
+        "propertyId": "sustainability-avoidingonewaypackaging",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Vermeidung von Einwegverpackungen"
+    },
+    {
+        "propertyId": "sustainability-avoidingordonatingleftoverfood",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Essensreste vermeiden oder spenden"
+    },
+    {
+        "propertyId": "sustainability-cleaningmaterialsecofriendly",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Umweltfreundliche Reinigungsmaterialien"
+    },
+    {
+        "propertyId": "sustainability-doubleglazedwindows",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Doppelt verglaste Fenster"
+    },
+    {
+        "propertyId": "sustainability-electricenergy100renewable",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Elektrische Energie 100 % erneuerbar"
+    },
+    {
+        "propertyId": "sustainability-energyefficientconstruction",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Energieeffizienter Bau"
+    },
+    {
+        "propertyId": "sustainability-energyefficientdevices",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Energieeffiziente Ger\u00e4te"
+    },
+    {
+        "propertyId": "sustainability-energysavingbysmartsystems",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Energieeinsparung durch intelligente Systeme"
+    },
+    {
+        "propertyId": "sustainability-environmentalfriendlycleansingproductsonly",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Nur umweltfreundliche Reinigungsmittel"
+    },
+    {
+        "propertyId": "sustainability-fairsalaries",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Faire Geh\u00e4lter"
+    },
+    {
+        "propertyId": "sustainability-fairtradeimportedproducts",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Fairtrade-Importprodukte"
+    },
+    {
+        "propertyId": "sustainability-guestscanabondondailyroomcleaning",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "G\u00e4ste k\u00f6nnen auf t\u00e4gliche Zimmerreinigung verzichten"
+    },
+    {
+        "propertyId": "sustainability-guestscanaskfornoroomcleaning",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "G\u00e4ste k\u00f6nnen komplett auf Zimmerreinigung verzichten"
+    },
+    {
+        "propertyId": "sustainability-guestscanusetowelsseveraltimes",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "G\u00e4ste k\u00f6nnen Handt\u00fccher mehrmals nutzen"
+    },
+    {
+        "propertyId": "sustainability-homemadefoodandbeverages",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Hausgemachte Speisen und Getr\u00e4nke"
+    },
+    {
+        "propertyId": "sustainability-min80percentilluminationbyled",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Min. 80 Prozent durch LED beleuchtet"
+    },
+    {
+        "propertyId": "sustainability-minimizingplastic",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Minimierung von Plastik"
+    },
+    {
+        "propertyId": "sustainability-minimizingplasticinbathroom",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Minimierung von Plastik im Badezimmer"
+    },
+    {
+        "propertyId": "sustainability-naturalinsulationmaterialsonly",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Nur nat\u00fcrliche D\u00e4mmstoffe"
+    },
+    {
+        "propertyId": "sustainability-nomicroplast",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Kein Mikroplastik"
+    },
+    {
+        "propertyId": "sustainability-regionalbeverages",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Regionale Getr\u00e4nke"
+    },
+    {
+        "propertyId": "sustainability-regionalsuppliers",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Regionale Lieferanten"
+    },
+    {
+        "propertyId": "sustainability-renewableenergy",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Erneuerbare Energie"
+    },
+    {
+        "propertyId": "sustainability-seasonalandlocalfood",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Saisonale und lokale K\u00fcche"
+    },
+    {
+        "propertyId": "sustainability-warmwastewaterheatreuse",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "W\u00e4rmenutzung bei warmem Abwasser"
+    },
+    {
+        "propertyId": "sustainability-watersavingtaps",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Wassersparende Wasserh\u00e4hne"
+    },
+    {
+        "propertyId": "sustainability-watersavingtoilets",
+        "valueType": "boolean",
+        "additionalType": "sustainability",
+        "name": "Wassersparende Toilette"
+    },
+    {
+        "propertyId": "swimming-lake",
+        "valueType": "boolean",
+        "additionalType": "swimming",
+        "name": "See"
+    },
+    {
+        "propertyId": "swimming-river",
+        "valueType": "boolean",
+        "additionalType": "swimming",
+        "name": "Fluss"
+    },
+    {
+        "propertyId": "swimming-suitrental",
+        "valueType": "boolean",
+        "additionalType": "swimming",
+        "name": "Verleih von Badeanz\u00fcgen"
+    },
+    {
+        "propertyId": "transport-publictransport",
+        "valueType": "boolean",
+        "additionalType": "transport",
+        "name": "\u00d6ffentliche Verkehrsmittel"
+    },
+    {
+        "propertyId": "view-balconyorterrace",
+        "valueType": "boolean",
+        "additionalType": "view",
+        "name": "Balkon oder Terrasse"
+    },
+    {
+        "propertyId": "view-gardenview",
+        "valueType": "boolean",
+        "additionalType": "view",
+        "name": "Blick auf den Garten"
+    },
+    {
+        "propertyId": "view-lakeview",
+        "valueType": "boolean",
+        "additionalType": "view",
+        "name": "Blick auf den See"
+    },
+    {
+        "propertyId": "view-mountainview",
+        "valueType": "boolean",
+        "additionalType": "view",
+        "name": "Blick auf die Berge"
+    },
+    {
+        "propertyId": "view-riverview",
+        "valueType": "boolean",
+        "additionalType": "view",
+        "name": "Blick auf den Fluss"
+    },
+    {
+        "propertyId": "view-viewoftheairport",
+        "valueType": "boolean",
+        "additionalType": "view",
+        "name": "Blick auf den Flughafen"
+    },
+    {
+        "propertyId": "view-viewofthecity",
+        "valueType": "boolean",
+        "additionalType": "view",
+        "name": "Blick auf die Stadt"
+    },
+    {
+        "propertyId": "view-viewofthecountryside",
+        "valueType": "boolean",
+        "additionalType": "view",
+        "name": "Blick ins Gr\u00fcne"
+    },
+    {
+        "propertyId": "view-viewofthecourtyard",
+        "valueType": "boolean",
+        "additionalType": "view",
+        "name": "Blick auf den Innenhof"
+    },
+    {
+        "propertyId": "view-viewoftheforest",
+        "valueType": "boolean",
+        "additionalType": "view",
+        "name": "Blick auf den Wald"
+    },
+    {
+        "propertyId": "view-viewontothestreet",
+        "valueType": "boolean",
+        "additionalType": "view",
+        "name": "Blick auf die Strasse"
+    },
+    {
+        "propertyId": "wellness-acupressure",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Akupressur"
+    },
+    {
+        "propertyId": "wellness-acupuncture",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Akupunktur"
+    },
+    {
+        "propertyId": "wellness-adventurepool",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Erlebnisbad"
+    },
+    {
+        "propertyId": "wellness-adventureshower",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Erlebnis-Dusche"
+    },
+    {
+        "propertyId": "wellness-antiagingtreatment",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Anti-Aging-Behandlung"
+    },
+    {
+        "propertyId": "wellness-antistresstreatment",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Anti-Stress-Behandlung"
+    },
+    {
+        "propertyId": "wellness-applicationsforcouples",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Behandlungen f\u00fcr Paare"
+    },
+    {
+        "propertyId": "wellness-aromasauna",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Aromasauna"
+    },
+    {
+        "propertyId": "wellness-aromatherapy",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Aromatherapie"
+    },
+    {
+        "propertyId": "wellness-ayurveda",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Ayurveda"
+    },
+    {
+        "propertyId": "wellness-barefootwalk",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Barfusspfad"
+    },
+    {
+        "propertyId": "wellness-beachbath",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Strandbad"
+    },
+    {
+        "propertyId": "wellness-biosauna",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Bio-Sauna"
+    },
+    {
+        "propertyId": "wellness-biotopenaturalbath",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Biotop Naturbad"
+    },
+    {
+        "propertyId": "wellness-bodyscrubs",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "K\u00f6rperpeelings"
+    },
+    {
+        "propertyId": "wellness-botox",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Botox"
+    },
+    {
+        "propertyId": "wellness-brinebaths",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Soleb\u00e4der"
+    },
+    {
+        "propertyId": "wellness-checkupbyadoctor",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Gesundheits-Check-up durch einen Arzt"
+    },
+    {
+        "propertyId": "wellness-childrenspool",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Kinderbecken"
+    },
+    {
+        "propertyId": "wellness-collaborationwithclinics",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Zusammenarbeit mit Kliniken"
+    },
+    {
+        "propertyId": "wellness-depilation",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Enthaarung"
+    },
+    {
+        "propertyId": "wellness-facialtreatment",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Gesichtsbehandlung"
+    },
+    {
+        "propertyId": "wellness-familywellnessarea",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Familien-Wellnessbereich"
+    },
+    {
+        "propertyId": "wellness-fasting",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Fasten"
+    },
+    {
+        "propertyId": "wellness-finnishsauna",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Finnische Sauna"
+    },
+    {
+        "propertyId": "wellness-footreflexology",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Fussreflexzonenmassage"
+    },
+    {
+        "propertyId": "wellness-forpregnantwomen",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Behandlung f\u00fcr Schwangere"
+    },
+    {
+        "propertyId": "wellness-foryoungmothers",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Behandlung f\u00fcr junge M\u00fctter"
+    },
+    {
+        "propertyId": "wellness-hairdresser",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Fris\u00f6r"
+    },
+    {
+        "propertyId": "wellness-hamam",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Hamam"
+    },
+    {
+        "propertyId": "wellness-haybath",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Heubad"
+    },
+    {
+        "propertyId": "wellness-homeopathy",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Hom\u00f6opathie"
+    },
+    {
+        "propertyId": "wellness-hydrotherapy",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Hydrotherapie"
+    },
+    {
+        "propertyId": "wellness-icegrotto",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Eisgrotte"
+    },
+    {
+        "propertyId": "wellness-kneipp",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Kneippen"
+    },
+    {
+        "propertyId": "wellness-lifting",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Lifting"
+    },
+    {
+        "propertyId": "wellness-lymphaticdrainage",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Lymphdrainage"
+    },
+    {
+        "propertyId": "wellness-manicure",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Manik\u00fcre"
+    },
+    {
+        "propertyId": "wellness-massage",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Massage"
+    },
+    {
+        "propertyId": "wellness-meditation",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Meditation"
+    },
+    {
+        "propertyId": "wellness-nutritioncounseling",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Ern\u00e4hrungsberatung"
+    },
+    {
+        "propertyId": "wellness-osteopathy",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Osteopathie"
+    },
+    {
+        "propertyId": "wellness-pedicure",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Pedik\u00fcre"
+    },
+    {
+        "propertyId": "wellness-peeling",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Peeling"
+    },
+    {
+        "propertyId": "wellness-physicaltherapy",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Physiotherapie"
+    },
+    {
+        "propertyId": "wellness-privatespasuite",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Private Spa Suite"
+    },
+    {
+        "propertyId": "wellness-rehabilitationorcures",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Rehabilitation oder Kuren"
+    },
+    {
+        "propertyId": "wellness-relaxationroom",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Ruheraum"
+    },
+    {
+        "propertyId": "wellness-riverbath",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Flussbad"
+    },
+    {
+        "propertyId": "wellness-romanirishbath",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "R\u00f6misch-Irisches Bad"
+    },
+    {
+        "propertyId": "wellness-sauna",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Sauna"
+    },
+    {
+        "propertyId": "wellness-skinanalysis",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Hautanalyse"
+    },
+    {
+        "propertyId": "wellness-sleeplaboratory",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Schlaflabor"
+    },
+    {
+        "propertyId": "wellness-sportspool",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Sportbecken"
+    },
+    {
+        "propertyId": "wellness-steambath",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Dampfbad"
+    },
+    {
+        "propertyId": "wellness-sulfurbaths",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Schwefelb\u00e4der"
+    },
+    {
+        "propertyId": "wellness-thalassotherapy",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Thalasso-Therapie"
+    },
+    {
+        "propertyId": "wellness-thermalbaths",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Thermalb\u00e4der"
+    },
+    {
+        "propertyId": "wellness-thermalspa",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Thermal Spa"
+    },
+    {
+        "propertyId": "wellness-traditionalchinesemedicine",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Traditionelle Chinesische Medizin"
+    },
+    {
+        "propertyId": "wellness-treatmentforchildren",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Behandlung f\u00fcr Kinder"
+    },
+    {
+        "propertyId": "wellness-treatmentwithswissherbs",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Behandlung mit Schweizer Kr\u00e4utern"
+    },
+    {
+        "propertyId": "wellness-whirlpoolorjacuzzi",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Whirlpool oder Jacuzzi"
+    },
+    {
+        "propertyId": "wellness-winetherapy",
+        "valueType": "boolean",
+        "additionalType": "wellness",
+        "name": "Weintherapie"
+    }
+]
