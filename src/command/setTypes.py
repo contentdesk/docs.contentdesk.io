@@ -76,11 +76,11 @@ def main():
     akeneoTypes = {k.replace("-", ""): v for k, v in akeneoTypes.items()}
 
     # DEBUG
-    with open("../../output/akeneo/family/families.json", "w") as file:
+    with open("../../output/contentdesk/family/families.json", "w") as file:
         json.dump(akeneoTypes, file, indent=4)
 
     # Save as csv with UTF-8 encoding and replace "None" in every field with empty string
-    with open("../../output/akeneo/family/families.csv", "w", encoding='utf-8') as file:
+    with open("../../output/contentdesk/family/families.csv", "w", encoding='utf-8') as file:
         for code, body in akeneoTypes.items():
             parent = body['parent'] if body['parent'] else ''
             en = body['labels']['en_US'] if 'en_US' in body['labels'] else ''

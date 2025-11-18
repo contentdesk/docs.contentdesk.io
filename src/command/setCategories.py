@@ -65,7 +65,7 @@ def main():
     akeneoCategories = setCategories(categoriesIT, None, akeneoCategories, 'it_IT')
     
     # DEBUG
-    with open("../../output/akeneo/categories/categories.json", "w") as file:
+    with open("../../output/contentdesk/categories/categories.json", "w") as file:
         json.dump(akeneoCategories, file, indent=4)
         
     # Compare
