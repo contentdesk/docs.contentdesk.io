@@ -5,6 +5,12 @@ hide:
 ---
 # Types
 
+<div class="grid cards" markdown>
+
+- :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/types.csv)
+- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/types.csv)
+</div>
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
