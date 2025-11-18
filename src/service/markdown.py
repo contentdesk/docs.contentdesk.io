@@ -20,6 +20,7 @@ class MarkdownService:
             f.write("- :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/types.csv)\n\n")
             f.write("- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/types.csv)\n\n")
             f.write("</div>\n")
+            f.write("Anzahl Typen: " + str(len(typesData)) + "\n\n")
             f.write("""<table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
@@ -69,6 +70,7 @@ class MarkdownService:
             f.write("- :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/categories.csv)\n\n")
             f.write("- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/categories.csv)\n\n")
             f.write("</div>\n")
+            f.write("Anzahl Kategorien: " + str(len(categoriesData)) + "\n\n")
             f.write("""<table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
@@ -118,6 +120,7 @@ class MarkdownService:
             f.write("- :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/amenityFeatures.csv)\n\n")
             f.write("- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/amenityFeatures.csv)\n\n")
             f.write("</div>\n\n")
+            f.write("Anzahl Amenity Features: " + str(len(amenityFeaturesData)) + "\n\n")
             f.write("""<table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
@@ -171,6 +174,7 @@ class MarkdownService:
             f.write("- :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/tags.csv)\n\n")
             f.write("- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/tags.csv)\n\n")
             f.write("</div>\n")
+            f.write("Anzahl Tags: " + str(len(tagsData)) + "\n\n")
             f.write("""<table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
