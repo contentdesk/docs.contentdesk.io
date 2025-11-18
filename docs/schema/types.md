@@ -21,7 +21,7 @@ hide:
     <tr>
 <td>Thing</td>
 <td>Ding</td>
-<td>None</td>
+<td></td>
 <td>Thing</td>
 <td>Chose</td>
 <td>Cosa</td>
@@ -141,7 +141,7 @@ hide:
 <tr>
 <td>CreativeWork</td>
 <td>Kreative Arbeit</td>
-<td>None</td>
+<td></td>
 <td>Creative Work</td>
 <td>Travail créatif</td>
 <td>Lavoro creativo</td>
@@ -197,7 +197,7 @@ hide:
 <tr>
 <td>Event</td>
 <td>Veranstaltung</td>
-<td>None</td>
+<td></td>
 <td>Event</td>
 <td>Événement</td>
 <td>Evento</td>
@@ -533,7 +533,7 @@ hide:
 <tr>
 <td>Place</td>
 <td>Ort</td>
-<td>None</td>
+<td></td>
 <td>Place</td>
 <td>Endroit</td>
 <td>Luogo</td>
@@ -3677,7 +3677,7 @@ hide:
 <tr>
 <td>Product</td>
 <td>Produkt</td>
-<td>None</td>
+<td></td>
 <td>Product</td>
 <td>Produit</td>
 <td>Prodotto</td>
@@ -4029,7 +4029,7 @@ hide:
 <tr>
 <td>AmenityFeature</td>
 <td>Ausstattungsmerkmal</td>
-<td>None</td>
+<td></td>
 <td>Amenity feature</td>
 <td>Caractéristique d'agrément</td>
 <td>Funzionalità di servizio</td>
@@ -4237,7 +4237,7 @@ hide:
 <tr>
 <td>Tag</td>
 <td>Tag</td>
-<td>None</td>
+<td></td>
 <td>Tag</td>
 <td>Tag</td>
 <td>Tag</td>

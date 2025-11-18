@@ -58,13 +58,13 @@ def main():
     typesIT = getTypesTree('it')
     
     # DEBUG
-    with open("../../output/discover/typesEN.json", "w") as file:
+    with open("../../output/discover/types/typesEN.json", "w") as file:
         json.dump(typesEN, file)
-    with open("../../output/discover/typesDE.json", "w") as file:
+    with open("../../output/discover/types/typesDE.json", "w") as file:
         json.dump(typesDE, file)
-    with open("../../output/discover/typesFR.json", "w") as file:
+    with open("../../output/discover/types/typesFR.json", "w") as file:
         json.dump(typesFR, file)
-    with open("../../output/discover/typesIT.json", "w") as file:
+    with open("../../output/discover/types/typesIT.json", "w") as file:
         json.dump(typesIT, file)
 
     akeneoTypes = setTypes(typesEN)
@@ -76,11 +76,11 @@ def main():
     akeneoTypes = {k.replace("-", ""): v for k, v in akeneoTypes.items()}
 
     # DEBUG
-    with open("../../output/akeneo/types.json", "w") as file:
+    with open("../../output/akeneo/family/families.json", "w") as file:
         json.dump(akeneoTypes, file)
 
     # Save as csv with UTF-8 encoding and replace "None" in every field with empty string
-    with open("../../output/akeneo/types.csv", "w", encoding='utf-8') as file:
+    with open("../../output/akeneo/family/families.csv", "w", encoding='utf-8') as file:
         for code, body in akeneoTypes.items():
             parent = body['parent'] if body['parent'] else ''
             en = body['labels']['en_US'] if 'en_US' in body['labels'] else ''

@@ -36,7 +36,10 @@ class MarkdownService:
                 f.write(f"<tr>\n")
                 f.write(f"<td>{typesData[typeItem]['code']}</td>\n")
                 f.write(f"<td>{typesData[typeItem]['labels'].get('de_CH', '')}</td>\n")
-                f.write(f"<td>{typesData[typeItem]['parent']}</td>\n")
+                if typesData[typeItem]['parent'] is None or typesData[typeItem]['parent'] == "None":
+                    f.write(f"<td></td>\n")
+                else:
+                    f.write(f"<td>{typesData[typeItem]['parent']}</td>\n")
                 f.write(f"<td>{typesData[typeItem]['labels'].get('en_US', '')}</td>\n")
                 f.write(f"<td>{typesData[typeItem]['labels'].get('fr_FR', '')}</td>\n")
                 f.write(f"<td>{typesData[typeItem]['labels'].get('it_IT', '')}</td>\n")
