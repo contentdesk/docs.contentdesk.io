@@ -12,6 +12,8 @@ hide:
 - :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/categories.csv)
 
 </div>
+Anzahl Kategorien: 187
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

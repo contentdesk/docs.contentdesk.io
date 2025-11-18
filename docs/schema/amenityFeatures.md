@@ -13,6 +13,8 @@ hide:
 
 </div>
 
+Anzahl Amenity Features: 573
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>

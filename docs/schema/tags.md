@@ -12,6 +12,8 @@ hide:
 - :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/tags.csv)
 
 </div>
+Anzahl Tags: 576
+
 <table id="charts-table" class="display" style="width:100%">
         <thead>
             <tr>
