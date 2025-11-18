@@ -3,16 +3,10 @@ import sys
 sys.path.append("..")
 
 from service.discover import getTypesTree
-from akeneo.akeneo import Akeneo
+from service.markdown import MarkdownService
 from os import getenv
 from dotenv import find_dotenv, load_dotenv
 load_dotenv(find_dotenv())
-
-AKENEO_HOST = getenv('AKENEO_HOST')
-AKENEO_CLIENT_ID = getenv('AKENEO_CLIENT_ID')
-AKENEO_CLIENT_SECRET = getenv('AKENEO_CLIENT_SECRET')
-AKENEO_USERNAME = getenv('AKENEO_USERNAME')
-AKENEO_PASSWORD = getenv('AKENEO_PASSWORD')
 
 def setTypes(types, akeneoTypes = {}, language = 'en_US', parent = None):
     # check if category is a list
@@ -57,28 +51,6 @@ def setTypes(types, akeneoTypes = {}, language = 'en_US', parent = None):
 
     return akeneoTypes
 
-def patchTypes(code, body):
-    akeneo = Akeneo(
-        AKENEO_HOST,
-        AKENEO_CLIENT_ID,
-        AKENEO_CLIENT_SECRET,
-        AKENEO_USERNAME,
-        AKENEO_PASSWORD
-    )
-    try:
-        response = akeneo.patchFamily(code, body)
-    except Exception as e:
-        print("Error: ", e)
-        print("patch Family: ", code)
-        print("Response: ", response)
-    return response
-
-def setTypesInAkeneo(akeneoTypes):
-    for code, body in akeneoTypes.items():
-        print("Code: ", code)
-        print("Body: ", body)
-        response = patchTypes(code, body)
-
 def main():
     typesEN = getTypesTree('en')
     typesDE = getTypesTree('de')
@@ -100,15 +72,12 @@ def main():
     akeneoTypes = setTypes(typesFR, akeneoTypes, 'fr_FR')
     akeneoTypes = setTypes(typesIT, akeneoTypes, 'it_IT')
 
-
     # replace "-" with "" in key fields
     akeneoTypes = {k.replace("-", ""): v for k, v in akeneoTypes.items()}
 
     # DEBUG
     with open("../../output/akeneo/types.json", "w") as file:
         json.dump(akeneoTypes, file)
-
-    #setTypesInAkeneo(akeneoTypes)
 
     # Save as csv with UTF-8 encoding and replace "None" in every field with empty string
     with open("../../output/akeneo/types.csv", "w", encoding='utf-8') as file:
@@ -119,6 +88,9 @@ def main():
             fr = body['labels']['fr_FR'] if 'fr_FR' in body['labels'] else ''
             it = body['labels']['it_IT'] if 'it_IT' in body['labels'] else ''
             file.write(f"{code};{parent};{en};{de};{fr};{it}\n")
+            
+    # Create markdown file
+    MarkdownService.createTypeIndexMarkdown(akeneoTypes)
 
 if __name__ == "__main__":
     main()
