@@ -91,3 +91,52 @@ class MarkdownService:
                 f.write(f"</tr>\n")
             f.write(f"</tbody>\n</table>\n")
         print("Markdown file 'categories.md' created.")
+    
+    def createAmenityFeaturesIndexMarkdown(amenityFeaturesData):
+        print("Creating amenity features index markdown...")
+        """
+        Create markdown content for a given amenity features data.
+        """
+        output_dir = os.path.join(os.path.dirname(__file__), '../../docs/schema/')
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, f'amenityFeatures.md'), "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write("hide:\n")
+            f.write("  - navigation\n")
+            f.write("  - toc\n")
+            f.write("---\n")
+            f.write(f"# Amenity Features\n\n")
+            f.write("""<table id="charts-table" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Code</th>
+                <th>Name DE</th>
+                <th>Parent</th>
+                <th>Name EN</th>
+                <th>Name FR</th>
+                <th>Name IT</th>
+                <th>Value Type</th>
+            </tr>
+        </thead>
+        <tbody>
+    """)
+            for featureItem in amenityFeaturesData:
+                #print(amenityFeaturesData)
+                print (featureItem)
+                f.write(f"<tr>\n")
+                f.write(f"<td>{amenityFeaturesData[featureItem]['code']}</td>\n")
+                f.write(f"<td>{amenityFeaturesData[featureItem]['labels'].get('de_DE', '')}</td>\n")
+                if 'parent' not in amenityFeaturesData[featureItem]:
+                    f.write(f"<td></td>\n")
+                else:
+                    f.write(f"<td>{amenityFeaturesData[featureItem]['parent']}</td>\n")
+                f.write(f"<td>{amenityFeaturesData[featureItem]['labels'].get('en_US', '')}</td>\n")
+                f.write(f"<td>{amenityFeaturesData[featureItem]['labels'].get('fr_FR', '')}</td>\n")
+                f.write(f"<td>{amenityFeaturesData[featureItem]['labels'].get('it_IT', '')}</td>\n")
+                if 'valueType' not in amenityFeaturesData[featureItem]:
+                    f.write(f"<td></td>\n")
+                else:
+                    f.write(f"<td>{amenityFeaturesData[featureItem]['valueType']}</td>\n")
+                f.write(f"</tr>\n")
+            f.write(f"</tbody>\n</table>\n")
+        print("Markdown file 'amenityFeatures.md' created.")

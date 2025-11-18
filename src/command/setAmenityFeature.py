@@ -2,8 +2,10 @@ import json
 import os
 from datetime import datetime
 import sys
-sys.path.append("..")
 
+
+sys.path.append("..")
+from service.markdown import MarkdownService
 from service.discover import getAmenityFeatures
 
 def setAmenityFeatures(amenityFeatures, akeneoAmenityFeatures = {}, language = 'en_US', parent = None):
@@ -75,6 +77,9 @@ def main():
             parent = body['parent'] if 'parent' in body else ''
             valueType = body['valueType'] if 'valueType' in body else ''
             file.write(f"{code};{en};{de};{fr};{it};{valueType};{parent}\n")
+            
+    # Create markdown file
+    MarkdownService.createAmenityFeaturesIndexMarkdown(akeneoAmenityFeatures)
 
 if __name__ == "__main__":
     main()
