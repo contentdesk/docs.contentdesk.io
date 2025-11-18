@@ -152,3 +152,56 @@ class MarkdownService:
                 f.write(f"</tr>\n")
             f.write(f"</tbody>\n</table>\n")
         print("Markdown file 'amenityFeatures.md' created.")
+        
+    def createTagIndexMarkdown(tagsData):
+        print("Creating tag index markdown...")
+        """
+        Create markdown content for a given tag data.
+        """
+        output_dir = os.path.join(os.path.dirname(__file__), '../../docs/schema/')
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, f'tags.md'), "w", encoding="utf-8") as f:
+            f.write("---\n")
+            f.write("hide:\n")
+            f.write("  - navigation\n")
+            f.write("  - toc\n")
+            f.write("---\n")
+            f.write(f"# Tags\n\n")
+            f.write("<div class=\"grid cards\" markdown>\n\n")
+            f.write("- :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/tags.csv)\n\n")
+            f.write("- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/tags.csv)\n\n")
+            f.write("</div>\n")
+            f.write("""<table id="charts-table" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Code</th>
+                <th>Name DE</th>
+                <th>Parent</th>
+                <th>Name EN</th>
+                <th>Name FR</th>
+                <th>Name IT</th>
+                <th>Last Modified</th>
+            </tr>
+        </thead>
+        <tbody>
+    """)
+            for tagItem in tagsData:
+                #print(tagsData)
+                print (tagItem)
+                f.write(f"<tr>\n")
+                f.write(f"<td>{tagsData[tagItem]['code']}</td>\n")
+                f.write(f"<td>{tagsData[tagItem]['labels'].get('de_CH', '')}</td>\n")
+                if tagsData[tagItem]['parent'] is None or tagsData[tagItem]['parent'] == "None":
+                    f.write(f"<td></td>\n")
+                else:
+                    f.write(f"<td>{tagsData[tagItem]['parent']}</td>\n")
+                f.write(f"<td>{tagsData[tagItem]['labels'].get('en_US', '')}</td>\n")
+                f.write(f"<td>{tagsData[tagItem]['labels'].get('fr_FR', '')}</td>\n")
+                f.write(f"<td>{tagsData[tagItem]['labels'].get('it_IT', '')}</td>\n")
+                if 'lastModified' not in tagsData[tagItem]:
+                    f.write(f"<td></td>\n")
+                else:
+                    f.write(f"<td>{tagsData[tagItem]['lastModified']}</td>\n")
+                f.write(f"</tr>\n")
+            f.write(f"</tbody>\n</table>\n")
+        print("Markdown file 'tags.md' created.")

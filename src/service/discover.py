@@ -56,3 +56,15 @@ def getAmenityFeatures(language = 'en'):
 
     response = requests.request("GET", url, headers=headers, data=payload)
     return response.json()
+
+def getAllTags(language = 'en',includeCount = True, top = 1000):
+    url = f"{DISCOVER_HOST}/tags?includeCount={str(includeCount).lower()}&top={top}"
+
+    payload = {}
+    headers = {
+        'Ocp-Apim-Subscription-Key': DISCOVER_SUBSCRIPTION_KEY,
+        'Accept-Language': language
+    }
+
+    response = requests.request("GET", url, headers=headers, data=payload)
+    return response.json()
