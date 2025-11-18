@@ -56,7 +56,7 @@ def main():
     simpleTags = {k.replace("-", ""): v for k, v in simpleTags.items()}
             
     # Compare
-    with open("../../docs/schema/types.csv", "w", encoding='utf-8') as file:
+    with open("../../docs/schema/tags.csv", "w", encoding='utf-8') as file:
         for code, body in simpleTags.items():
             parent = body['parent'] if body['parent'] else ''
             en = body['labels']['en_US'] if 'en_US' in body['labels'] else ''
