@@ -12,7 +12,7 @@ hide:
 - :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/types.csv)
 
 </div>
-Anzahl Typen: 588
+Anzahl Typen: 589
 
 <table id="charts-table" class="display" style="width:100%">
         <thead>
@@ -3754,6 +3754,14 @@ Anzahl Typen: 588
 <td>Donation</td>
 <td>Don</td>
 <td>Donazione</td>
+</tr>
+<tr>
+<td>ESim</td>
+<td>eSIM</td>
+<td>Product</td>
+<td>eSIM</td>
+<td>eSIM</td>
+<td>eSIM</td>
 </tr>
 <tr>
 <td>EventTicket</td>
