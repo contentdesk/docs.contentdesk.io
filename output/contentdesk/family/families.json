@@ -4659,6 +4659,16 @@
             "it_IT": "Donazione"
         }
     },
+    "ESim": {
+        "code": "ESim",
+        "parent": "Product",
+        "labels": {
+            "en_US": "eSIM",
+            "de_CH": "eSIM",
+            "fr_FR": "eSIM",
+            "it_IT": "eSIM"
+        }
+    },
     "EventTicket": {
         "code": "EventTicket",
         "parent": "Product",
