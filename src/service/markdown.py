@@ -21,7 +21,7 @@ class MarkdownService:
             f.write("- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/types.csv)\n\n")
             f.write("</div>\n")
             f.write("Anzahl Typen: " + str(len(typesData)) + "\n\n")
-            f.write("""<table id="charts-table" class="display" style="width:100%">
+            f.write("""<table id="type-table" class="display" style="width:100%">
         <thead>
             <tr>
                 <th>Code</th>
