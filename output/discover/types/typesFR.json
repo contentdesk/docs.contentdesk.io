@@ -2874,6 +2874,12 @@
                 },
                 {
                     "entityType": "Product",
+                    "additionalType": "ESim",
+                    "name": "eSIM",
+                    "namePlural": "eSIMs"
+                },
+                {
+                    "entityType": "Product",
                     "additionalType": "EventTicket",
                     "name": "Billet d'\u00e9v\u00e9nement",
                     "namePlural": "Billets d'\u00e9v\u00e9nement"
