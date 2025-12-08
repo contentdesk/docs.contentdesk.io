@@ -2072,6 +2072,7 @@
                                 "@id": "https://api.discover.swiss/test/info/v2/imageObjects/img_t8_14w4",
                                 "identifier": "img_t8_14w4",
                                 "type": "schema.org/ImageObject",
+                                "additionalType": "Logo",
                                 "name": "discover.swiss (ds_logo)"
                             },
                             "link": [
@@ -2091,6 +2092,7 @@
                                 "@id": "https://api.discover.swiss/test/info/v2/imageObjects/img_t8_14w4",
                                 "identifier": "img_t8_14w4",
                                 "type": "schema.org/ImageObject",
+                                "additionalType": "Logo",
                                 "name": "discover.swiss (ds_logo)"
                             },
                             "link": [
@@ -2112,6 +2114,7 @@
                         "@id": "https://api.discover.swiss/test/info/v2/imageObjects/img_t8_14w4",
                         "identifier": "img_t8_14w4",
                         "type": "schema.org/ImageObject",
+                        "additionalType": "Logo",
                         "name": "discover.swiss (ds_logo)"
                     },
                     "link": [
@@ -2131,6 +2134,7 @@
                         "@id": "https://api.discover.swiss/test/info/v2/imageObjects/img_t8_14w4",
                         "identifier": "img_t8_14w4",
                         "type": "schema.org/ImageObject",
+                        "additionalType": "Logo",
                         "name": "discover.swiss (ds_logo)"
                     },
                     "link": [
@@ -2144,7 +2148,7 @@
                     "name": "discover.swiss"
                 }
             },
-            "lastModified": "2025-03-31T09:14:22.9221285+00:00",
+            "lastModified": "2025-12-02T09:34:47.7948822+00:00",
             "availableDataLanguage": [
                 "de",
                 "en",
@@ -2480,6 +2484,7 @@
                                 "@id": "https://api.discover.swiss/test/info/v2/imageObjects/img_t8_14w4",
                                 "identifier": "img_t8_14w4",
                                 "type": "schema.org/ImageObject",
+                                "additionalType": "Logo",
                                 "name": "discover.swiss (ds_logo)"
                             },
                             "link": [
@@ -2499,6 +2504,7 @@
                                 "@id": "https://api.discover.swiss/test/info/v2/imageObjects/img_t8_14w4",
                                 "identifier": "img_t8_14w4",
                                 "type": "schema.org/ImageObject",
+                                "additionalType": "Logo",
                                 "name": "discover.swiss (ds_logo)"
                             },
                             "link": [
@@ -2520,6 +2526,7 @@
                         "@id": "https://api.discover.swiss/test/info/v2/imageObjects/img_t8_14w4",
                         "identifier": "img_t8_14w4",
                         "type": "schema.org/ImageObject",
+                        "additionalType": "Logo",
                         "name": "discover.swiss (ds_logo)"
                     },
                     "link": [
@@ -2539,6 +2546,7 @@
                         "@id": "https://api.discover.swiss/test/info/v2/imageObjects/img_t8_14w4",
                         "identifier": "img_t8_14w4",
                         "type": "schema.org/ImageObject",
+                        "additionalType": "Logo",
                         "name": "discover.swiss (ds_logo)"
                     },
                     "link": [
@@ -2552,7 +2560,7 @@
                     "name": "discover.swiss"
                 }
             },
-            "lastModified": "2025-03-31T09:14:54.7575321+00:00",
+            "lastModified": "2025-12-02T09:43:48.293978+00:00",
             "availableDataLanguage": [
                 "de",
                 "en",
