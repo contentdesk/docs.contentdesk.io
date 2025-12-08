@@ -1,0 +1,6067 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://docs.contentdesk.io/schema/tags/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/favicon-180-180.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
+    
+    
+      
+        <title>Tags - Conentdesk.io Dokumentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.618322db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/contentdesk.css">
+    
+      <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+    
+      <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css">
+    
+      <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.bootstrap5.min.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#tags" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Conentdesk.io Dokumentation" class="md-header__button md-logo" aria-label="Conentdesk.io Dokumentation" data-md-component="logo">
+      
+  <img src="../../assets/logo-contentdesk-blau.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Conentdesk.io Dokumentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Tags
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../projects/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Projekte
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../concepts/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Konzepte
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Schema
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../dev/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Entwicklung
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../connect/" class="md-tabs__link">
+          
+  
+  
+  Verbindungen
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../changelog/system/" class="md-tabs__link">
+          
+  
+  
+  Änderungen
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Conentdesk.io Dokumentation" class="md-nav__button md-logo" aria-label="Conentdesk.io Dokumentation" data-md-component="logo">
+      
+  <img src="../../assets/logo-contentdesk-blau.svg" alt="logo">
+
+    </a>
+    Conentdesk.io Dokumentation
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../projects/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Projekte
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../concepts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Konzepte
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schema
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dev/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entwicklung
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verbindungen
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Verbindungen
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../connect/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verbindungen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../connect/discover/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    discover.swiss
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../connect/outdooractive/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Outdooractive
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Änderungen
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Änderungen
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/system/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../changelog/schema/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schema / Datenmodell
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+
+
+
+
+<h1 id="tags">Tags</h1>
+<div class="grid cards">
+<ul>
+<li>
+<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M96 0C60.7 0 32 28.7 32 64v384c0 35.3 28.7 64 64 64h80V400c0-35.3 28.7-64 64-64h176V170.5c0-17-6.7-33.3-18.7-45.3L290.7 18.7C278.7 6.7 262.5 0 245.5 0zm261.5 176H264c-13.3 0-24-10.7-24-24V58.5zM264 380c-24.3 0-44 19.7-44 44v80c0 24.3 19.7 44 44 44h16c24.3 0 44-19.7 44-44v-8c0-11-9-20-20-20s-20 9-20 20v8c0 2.2-1.8 4-4 4h-16c-2.2 0-4-1.8-4-4v-80c0-2.2 1.8-4 4-4h16c2.2 0 4 1.8 4 4v8c0 11 9 20 20 20s20-9 20-20v-8c0-24.3-19.7-44-44-44zm136 0c-28.7 0-52 23.3-52 52s23.3 52 52 52c6.6 0 12 5.4 12 12s-5.4 12-12 12h-32c-11 0-20 9-20 20s9 20 20 20h32c28.7 0 52-23.3 52-52s-23.3-52-52-52c-6.6 0-12-5.4-12-12s5.4-12 12-12h24c11 0 20-9 20-20s-9-20-20-20zm96 0c-11 0-20 9-20 20v31.6c0 35.5 10.5 70.3 30.2 99.8l5.1 7.7c3.7 5.6 10 8.9 16.6 8.9s12.9-3.3 16.6-8.9l5.1-7.7c19.7-29.6 30.2-64.3 30.2-99.8V400c0-11-9-20-20-20s-20 9-20 20v31.6c0 19.6-4.1 38.9-12 56.7-7.9-17.8-12-37.1-12-56.7V400c0-11-9-20-20-20z"/></svg></span> <a href="https://docs.contentdesk.io/schema/tags.csv">CSV Export</a></p>
+</li>
+<li>
+<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM6 12v-1.646a.25.25 0 0 1 .427-.177l2.396 2.396a.25.25 0 0 1 0 .354l-2.396 2.396A.25.25 0 0 1 6 15.146V13.5H5A2.5 2.5 0 0 1 2.5 11V5.372a2.25 2.25 0 1 1 1.5 0V11a1 1 0 0 0 1 1ZM4 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0M12.75 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5"/></svg></span> <a href="https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/tags.csv">Compare CSV</a></p>
+</li>
+</ul>
+</div>
+<p>Anzahl Tags: 576</p>
+<table id="charts-table" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Code</th>
+                <th>Name DE</th>
+                <th>Parent</th>
+                <th>Name EN</th>
+                <th>Name FR</th>
+                <th>Name IT</th>
+                <th>Last Modified</th>
+            </tr>
+        </thead>
+        <tbody>
+    <tr>
+<td>accessibility-jst-mountaindrive</td>
+<td>JST-Mountaindrive</td>
+<td>accessibility</td>
+<td>JST Mountain Drive</td>
+<td>JST Mountain Drive</td>
+<td>JST Mountain Drive</td>
+<td>2025-11-28T07:29:02.2072087+00:00</td>
+</tr>
+<tr>
+<td>accessibility-swisstrack</td>
+<td>Swisstrack</td>
+<td>accessibility</td>
+<td>Swisstrack</td>
+<td>Swisstrack</td>
+<td>Swisstrack</td>
+<td>2025-10-03T16:34:28.1102685+00:00</td>
+</tr>
+<tr>
+<td>accessibility-visual-impairment</td>
+<td>Sehbehinderung</td>
+<td>accessibility</td>
+<td>Visual impairment</td>
+<td>Déficience visuelle</td>
+<td>Disabilità visiva</td>
+<td>2025-03-31T09:14:09.3138602+00:00</td>
+</tr>
+<tr>
+<td>accessibility-walking-only-less-than-10mins</td>
+<td>nur zu Fuss erreichbar-weniger-als-10min</td>
+<td>accessibility</td>
+<td>only reachable on foot-less-than-10min</td>
+<td>Accessible uniquement à pied à moins de 10 minutes</td>
+<td>raggiungibile solo a piedi - meno di 10 minuti</td>
+<td>2025-03-31T09:14:09.3821594+00:00</td>
+</tr>
+<tr>
+<td>accessibility-walking-only-more-than-10mins</td>
+<td>nur zu Fuss erreichbar-mehr-als-10min</td>
+<td>accessibility</td>
+<td>only within walking distance-more-than-10min</td>
+<td>seulement à distance de marche-plus-de-10min</td>
+<td>solo a pochi passi-più-di-10 minuti</td>
+<td>2025-03-31T09:14:09.5131477+00:00</td>
+</tr>
+<tr>
+<td>accessibility-walking-time-unknown</td>
+<td>nur zu Fuss erreichbar-keine Zeitangabe</td>
+<td>accessibility</td>
+<td>only accessible on foot-no time</td>
+<td>Accessible uniquement à pied, pas de temps</td>
+<td>accessibile solo a piedi, senza tempo</td>
+<td>2025-03-31T09:14:09.5184699+00:00</td>
+</tr>
+<tr>
+<td>accessibility-wheelchair-accessible</td>
+<td>rollstuhlgängig</td>
+<td>accessibility</td>
+<td>Wheelchair accessible</td>
+<td>Accessible en fauteuil roulant</td>
+<td>Accessibile ai disabili</td>
+<td>2025-03-31T09:14:09.6716846+00:00</td>
+</tr>
+<tr>
+<td>accessibility-wheelchair-inaccessbile</td>
+<td>nicht rollstuhlgängig</td>
+<td>accessibility</td>
+<td>not wheelchair accessible</td>
+<td>Non accessible en fauteuil roulant</td>
+<td>non accessibile in sedia a rotelle</td>
+<td>2025-03-31T09:14:09.8818418+00:00</td>
+</tr>
+<tr>
+<td>accomodation-breakfastonly</td>
+<td>nur Frühstück</td>
+<td>accomodation</td>
+<td>breakfast only</td>
+<td>Petit-déjeuner seulement</td>
+<td>solo colazione</td>
+<td>2025-01-08T09:52:50.6694999+00:00</td>
+</tr>
+<tr>
+<td>accomodation-groups</td>
+<td>Gruppenunterkunft</td>
+<td>accomodation</td>
+<td>Group accommodation</td>
+<td>Hébergement de groupe</td>
+<td>Alloggi per gruppi</td>
+<td>2025-03-31T09:14:09.9235745+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-alternativ-arty</td>
+<td>Alternativ-Arty</td>
+<td>atmosphere</td>
+<td>Alternative Arty</td>
+<td>Arty alternatif</td>
+<td>Alternative Arty</td>
+<td>2025-09-23T12:47:34.1286917+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-comedy</td>
+<td>comedy</td>
+<td>atmosphere</td>
+<td>Comedy</td>
+<td>Comédie</td>
+<td>Commedia</td>
+<td>2025-03-31T09:14:11.3763024+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-cool-and-trendy</td>
+<td>szenig-angesagt</td>
+<td>atmosphere</td>
+<td>trendy-hip</td>
+<td>branché-branché</td>
+<td>trendy-hip</td>
+<td>2025-03-31T09:14:16.1919957+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-cultural-and-inspiring</td>
+<td>kulturell-inspirierend</td>
+<td>atmosphere</td>
+<td>culturally inspiring</td>
+<td>Culturellement inspirant</td>
+<td>Culturalmente stimolante</td>
+<td>2025-03-31T09:14:17.0386654+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-glamurous-and-chic</td>
+<td>glam-chic</td>
+<td>atmosphere</td>
+<td>Glam-chic</td>
+<td>Glam-chic</td>
+<td>Glam-chic</td>
+<td>2025-03-31T09:14:17.4488092+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-lgbtq</td>
+<td>lgbtq</td>
+<td>atmosphere</td>
+<td>LGBTQ</td>
+<td>LGBTQ</td>
+<td>LGBTQ</td>
+<td>2025-03-31T09:18:06.5107384+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-lively-and-cheerful</td>
+<td>fröhlich-ausgelassen</td>
+<td>atmosphere</td>
+<td>cheerful and exuberant</td>
+<td>Gai et exubérant</td>
+<td>allegro ed esuberante</td>
+<td>2025-03-31T09:14:19.0847162+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-relaxed-and-cosy</td>
+<td>entspannt-gemütlich</td>
+<td>atmosphere</td>
+<td>relaxed and cosy</td>
+<td>Détendu et confortable</td>
+<td>rilassato e accogliente</td>
+<td>2025-03-31T09:14:20.6113525+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-traditional</td>
+<td>traditionell</td>
+<td>atmosphere</td>
+<td>traditional</td>
+<td>traditionnel</td>
+<td>tradizionale</td>
+<td>2025-03-31T09:14:22.292001+00:00</td>
+</tr>
+<tr>
+<td>atmosphere</td>
+<td>Stimmung</td>
+<td>atmosphere</td>
+<td>Mood</td>
+<td>Humeur</td>
+<td>Umore</td>
+<td>2025-03-31T09:20:33.9232696+00:00</td>
+</tr>
+<tr>
+<td>audience-age-10</td>
+<td>Ab 10 Jahre</td>
+<td>audience-age</td>
+<td>From 10 years</td>
+<td>A partir de 10 ans</td>
+<td>Da 10 anni</td>
+<td>2025-12-02T09:34:47.7948822+00:00</td>
+</tr>
+<tr>
+<td>audience-age-11</td>
+<td>Ab 11 Jahre</td>
+<td>audience-age</td>
+<td>From 11 years</td>
+<td>A partir de 11 ans</td>
+<td>Da 11 anni</td>
+<td>2025-03-31T09:14:29.026823+00:00</td>
+</tr>
+<tr>
+<td>audience-age-12</td>
+<td>Ab 12 Jahre</td>
+<td>audience-age</td>
+<td>From 12 years</td>
+<td>A partir de 12 ans</td>
+<td>Da 12 anni</td>
+<td>2025-03-31T09:14:30.4399614+00:00</td>
+</tr>
+<tr>
+<td>audience-age-13</td>
+<td>Ab 13 Jahre</td>
+<td>audience-age</td>
+<td>From 13 years</td>
+<td>A partir de 13 ans</td>
+<td>Da 13 anni</td>
+<td>2025-03-31T09:14:36.9065189+00:00</td>
+</tr>
+<tr>
+<td>audience-age-14</td>
+<td>Ab 14 Jahre</td>
+<td>audience-age</td>
+<td>From 14 years</td>
+<td>A partir de 14 ans</td>
+<td>Dai 14 anni</td>
+<td>2025-12-02T09:43:48.293978+00:00</td>
+</tr>
+<tr>
+<td>audience-age-15</td>
+<td>Ab 15 Jahre</td>
+<td>audience-age</td>
+<td>From 15 years</td>
+<td>A partir de 15 ans</td>
+<td>Dai 15 anni</td>
+<td>2025-03-31T09:15:03.9914763+00:00</td>
+</tr>
+<tr>
+<td>audience-age-16</td>
+<td>Ab 16 Jahre</td>
+<td>audience-age</td>
+<td>From 16 years</td>
+<td>A partir de 16 ans</td>
+<td>Dai 16 anni</td>
+<td>2025-03-31T09:15:33.2576971+00:00</td>
+</tr>
+<tr>
+<td>audience-age-17</td>
+<td>Ab 17 Jahre</td>
+<td>audience-age</td>
+<td>From 17 years</td>
+<td>A partir de 17 ans</td>
+<td>Dai 17 anni</td>
+<td>2025-03-31T09:15:52.6918818+00:00</td>
+</tr>
+<tr>
+<td>audience-age-18</td>
+<td>Ab 18 Jahre</td>
+<td>audience-age</td>
+<td>From 18 years</td>
+<td>A partir de 18 ans</td>
+<td>Dai 18 anni</td>
+<td>2025-03-31T09:15:53.2191796+00:00</td>
+</tr>
+<tr>
+<td>audience-age-6</td>
+<td>Ab 6 Jahre</td>
+<td>audience-age</td>
+<td>From 6 years</td>
+<td>A partir de 6 ans</td>
+<td>Dai 6 anni</td>
+<td>2025-03-31T09:16:02.3543281+00:00</td>
+</tr>
+<tr>
+<td>audience-age-8</td>
+<td>Ab 8 Jahre</td>
+<td>audience-age</td>
+<td>From 8 years</td>
+<td>A partir de 8 ans</td>
+<td>Da 8 anni</td>
+<td>2025-03-31T09:16:03.351316+00:00</td>
+</tr>
+<tr>
+<td>audience-age-till-12</td>
+<td>bis 12 Jahre</td>
+<td>audience-age</td>
+<td>up to 12 years</td>
+<td>jusqu’à 12 ans</td>
+<td>fino a 12 anni</td>
+<td>2025-03-31T09:16:14.4166531+00:00</td>
+</tr>
+<tr>
+<td>audience-age-till-16</td>
+<td>bis 16 Jahre</td>
+<td>audience-age</td>
+<td>up to 16 years</td>
+<td>jusqu’à 16 ans</td>
+<td>fino a 16 anni</td>
+<td>2025-03-31T09:16:14.0061293+00:00</td>
+</tr>
+<tr>
+<td>audience-group-adults</td>
+<td>Erwachsene</td>
+<td>audience-group</td>
+<td>Adults</td>
+<td>Adulte</td>
+<td>Adulti</td>
+<td>2025-03-31T09:16:17.0095132+00:00</td>
+</tr>
+<tr>
+<td>audience-group-children</td>
+<td>Kinder</td>
+<td>audience-group</td>
+<td>Children</td>
+<td>Enfants</td>
+<td>Bambini</td>
+<td>2025-03-31T09:16:34.0648755+00:00</td>
+</tr>
+<tr>
+<td>audience-group-family</td>
+<td>Familien</td>
+<td>audience-group</td>
+<td>Families</td>
+<td>Famille</td>
+<td>Famiglie</td>
+<td>2025-03-31T09:16:58.5267446+00:00</td>
+</tr>
+<tr>
+<td>audience-group-female</td>
+<td>Frauen</td>
+<td>audience-group</td>
+<td>Women</td>
+<td>Femme</td>
+<td>Donne</td>
+<td>2025-03-31T09:16:53.072787+00:00</td>
+</tr>
+<tr>
+<td>audience-group-handicaped</td>
+<td>Menschen mit Behinderungen</td>
+<td>audience-group</td>
+<td>People with disabilities</td>
+<td>Personnes handicapées</td>
+<td>Persone con disabilità</td>
+<td>2025-03-31T09:17:09.9618319+00:00</td>
+</tr>
+<tr>
+<td>audience-group-infants</td>
+<td>Kleinkinder bis ca. 6 Jahre</td>
+<td>audience-group</td>
+<td>Infants up to approx. 6 years</td>
+<td>Nourrissons jusqu’à environ 6 ans</td>
+<td>Neonati fino a circa 6 anni</td>
+<td>2025-03-31T09:17:13.2357284+00:00</td>
+</tr>
+<tr>
+<td>audience-group-male</td>
+<td>Männer</td>
+<td>audience-group</td>
+<td>Men</td>
+<td>Hommes</td>
+<td>Uomini</td>
+<td>2025-03-31T09:17:43.3079848+00:00</td>
+</tr>
+<tr>
+<td>audience-group-parents</td>
+<td>Eltern</td>
+<td>audience-group</td>
+<td>Parents</td>
+<td>Parents</td>
+<td>Genitori</td>
+<td>2025-03-31T09:17:45.6977852+00:00</td>
+</tr>
+<tr>
+<td>audience-group-seniors</td>
+<td>Senioren</td>
+<td>audience-group</td>
+<td>Seniors</td>
+<td>Aînés</td>
+<td>Anziani</td>
+<td>2025-03-31T09:17:48.0181957+00:00</td>
+</tr>
+<tr>
+<td>audience-group-lgbt</td>
+<td>LGBT+</td>
+<td>audience-group</td>
+<td>LGBT+</td>
+<td>LGBT+</td>
+<td>LGBT+</td>
+<td>2025-03-31T09:17:40.5591929+00:00</td>
+</tr>
+<tr>
+<td>audience-group-singles</td>
+<td>Alleinstehende_Singles</td>
+<td>audience-group</td>
+<td>Alleinstehende_Singles</td>
+<td>Alleinstehende_Singles</td>
+<td>Alleinstehende_Singles</td>
+<td>2025-03-31T09:17:53.9037144+00:00</td>
+</tr>
+<tr>
+<td>audience-group-students</td>
+<td>Studenten</td>
+<td>audience-group</td>
+<td>Students</td>
+<td>Étudiants</td>
+<td>Studenti</td>
+<td>2025-03-31T09:18:05.9563745+00:00</td>
+</tr>
+<tr>
+<td>audience-group-youth</td>
+<td>Jugendliche</td>
+<td>audience-group</td>
+<td>Adolescent</td>
+<td>Adolescent</td>
+<td>Adolescente</td>
+<td>2025-03-31T09:18:09.3503757+00:00</td>
+</tr>
+<tr>
+<td>audience-info-age</td>
+<td>Altersfreigabe</td>
+<td>audience-info</td>
+<td>Rating</td>
+<td>Notation</td>
+<td>Valutazione</td>
+<td>2025-03-31T09:18:30.1248646+00:00</td>
+</tr>
+<tr>
+<td>audience-info-all</td>
+<td>Offen für alle</td>
+<td>audience-info</td>
+<td>Open to all</td>
+<td>Ouvert à tous</td>
+<td>Aperto a tutti</td>
+<td>2025-03-31T09:18:30.7518193+00:00</td>
+</tr>
+<tr>
+<td>audience-info-children</td>
+<td>Auch für Kinder empfehlenswert</td>
+<td>audience-info</td>
+<td>Also recommended for children</td>
+<td>Également recommandé pour les enfants</td>
+<td>Consigliato anche per i bambini</td>
+<td>2025-03-31T09:18:42.7130687+00:00</td>
+</tr>
+<tr>
+<td>audience-info-groups</td>
+<td>Auch für Gruppen / Firmen geeignet (Spezialangebote)</td>
+<td>audience-info</td>
+<td>Also suitable for groups / companies (special offers)</td>
+<td>Convient également aux groupes / entreprises (offres spéciales)</td>
+<td>Adatto anche per gruppi / aziende (offerte speciali)</td>
+<td>2025-03-31T09:19:10.7677287+00:00</td>
+</tr>
+<tr>
+<td>audience-info-invitationonly</td>
+<td>Auf Einladung</td>
+<td>audience-info</td>
+<td>By invitation</td>
+<td>Sur invitation</td>
+<td>Su invito</td>
+<td>2025-03-31T09:19:08.5577405+00:00</td>
+</tr>
+<tr>
+<td>audience-group-mixed</td>
+<td>Gemischt (Männer & Frauen)</td>
+<td>audience-group</td>
+<td>Mixed (Men & Women)</td>
+<td>Mixte (Hommes & Femmes)</td>
+<td>Misto (Uomini e Donne)</td>
+<td>2025-03-31T09:17:44.1922437+00:00</td>
+</tr>
+<tr>
+<td>audience-info-membersonly</td>
+<td>Nur für Mitglieder</td>
+<td>audience-info</td>
+<td>For members only</td>
+<td>Pour les membres seulement</td>
+<td>Solo per i membri</td>
+<td>2025-03-31T09:19:46.8090418+00:00</td>
+</tr>
+<tr>
+<td>audience-info-school</td>
+<td>Auch für Schulklassen geeignet (Spezialangebote)</td>
+<td>audience-info</td>
+<td>Also suitable for school classes (special offers)</td>
+<td>Convient également aux classes scolaires (offres spéciales)</td>
+<td>Adatto anche per scolaresche (offerte speciali)</td>
+<td>2025-03-31T09:19:48.3906772+00:00</td>
+</tr>
+<tr>
+<td>audience-information-playtime-aftermidnight</td>
+<td>nach Mitternacht</td>
+<td>audience-information-playtime</td>
+<td>after midnight</td>
+<td>après minuit</td>
+<td>dopo la mezzanotte</td>
+<td>2025-03-31T09:20:24.9412347+00:00</td>
+</tr>
+<tr>
+<td>audience-information-playtime-afternoon</td>
+<td>nachmittags</td>
+<td>audience-information-playtime</td>
+<td>in the afternoon</td>
+<td>dans l’après-midi</td>
+<td>nel pomeriggio</td>
+<td>2025-03-31T09:20:26.9494958+00:00</td>
+</tr>
+<tr>
+<td>audience-information-playtime-evening</td>
+<td>nur abends</td>
+<td>audience-information-playtime</td>
+<td>only in the evening</td>
+<td>seulement le soir</td>
+<td>solo la sera</td>
+<td>2025-03-31T09:20:28.6450018+00:00</td>
+</tr>
+<tr>
+<td>audience-information-playtime-lunchtime</td>
+<td>nur mittags</td>
+<td>audience-information-playtime</td>
+<td>Only at noon</td>
+<td>Seulement à midi</td>
+<td>Solo a mezzogiorno</td>
+<td>2025-03-31T09:20:33.3664133+00:00</td>
+</tr>
+<tr>
+<td>audience-information-playtime-morning</td>
+<td>nur morgens</td>
+<td>audience-information-playtime</td>
+<td>only in the morning</td>
+<td>seulement le matin</td>
+<td>solo al mattino</td>
+<td>2025-03-31T09:20:32.8004214+00:00</td>
+</tr>
+<tr>
+<td>audience-information-playtime-nocturne</td>
+<td>um Mitternacht</td>
+<td>audience-information-playtime</td>
+<td>at midnight</td>
+<td>à minuit</td>
+<td>a mezzanotte</td>
+<td>2025-03-31T09:20:47.7729035+00:00</td>
+</tr>
+<tr>
+<td>distance-to-public-transport-station-less-than-100m</td>
+<td>Distanz weniger als 100m zum OeV</td>
+<td>distance</td>
+<td>Distance less than 100m to OeV</td>
+<td>Distance inférieure à 100m à OeV</td>
+<td>Distanza meno di 100m da OeV</td>
+<td>2025-03-31T09:20:43.4026031+00:00</td>
+</tr>
+<tr>
+<td>distance-to-public-transport-station-less-than-10km</td>
+<td>Distanz weniger als 10km zum OeV</td>
+<td>distance</td>
+<td>Distance less than 10km to OeV</td>
+<td>Distance inférieure à 10km d’OeV</td>
+<td>Distanza meno di 10km da OeV</td>
+<td>2025-03-31T09:20:44.5440294+00:00</td>
+</tr>
+<tr>
+<td>distance-to-public-transport-station-less-than-1km</td>
+<td>Distanz weniger als 1km zum OeV</td>
+<td>distance</td>
+<td>Distance less than 1km to OeV</td>
+<td>Distance inférieure à 1 km d’OeV</td>
+<td>Distanza meno di 1km da OeV</td>
+<td>2025-03-31T09:20:45.3983689+00:00</td>
+</tr>
+<tr>
+<td>distance-to-public-transport-station-more-than-10km</td>
+<td>Distanz mehr als 10km zum OeV</td>
+<td>distance</td>
+<td>Distance more than 10km to OeV</td>
+<td>Distance de plus de 10 km à OeV</td>
+<td>Distanza più di 10km da OeV</td>
+<td>2025-03-31T09:20:44.9964679+00:00</td>
+</tr>
+<tr>
+<td>distance-to-public-transport-station-more-than-1km</td>
+<td>Distanz mehr als 1km zum OeV</td>
+<td>distance</td>
+<td>Distance more than 1km to OeV</td>
+<td>Distance de plus de 1 km à OeV</td>
+<td>Distanza più di 1 km da OeV</td>
+<td>2025-03-31T09:20:50.9667653+00:00</td>
+</tr>
+<tr>
+<td>distance-to-train-station-less-than-100m</td>
+<td>Distanz weniger als 100m zum Bahnhof</td>
+<td>distance</td>
+<td>Distance less than 100m to the train station</td>
+<td>Distance inférieure à 100m de la gare</td>
+<td>Distanza meno di 100m dalla stazione ferroviaria</td>
+<td>2025-03-31T09:20:49.8167271+00:00</td>
+</tr>
+<tr>
+<td>distance-to-train-station-less-than-10km</td>
+<td>Distanz weniger als 10km zum Bahnhof</td>
+<td>distance</td>
+<td>Distance less than 10km to the train station</td>
+<td>Distance inférieure à 10 km de la gare</td>
+<td>Distanza meno di 10km dalla stazione ferroviaria</td>
+<td>2025-03-31T09:20:50.5415822+00:00</td>
+</tr>
+<tr>
+<td>distance-to-train-station-less-than-1km</td>
+<td>Distanz weniger als 1km zum Bahnhof</td>
+<td>distance</td>
+<td>Distance less than 1km to the train station</td>
+<td>Distance inférieure à 1 km de la gare</td>
+<td>Distanza meno di 1km dalla stazione ferroviaria</td>
+<td>2025-03-31T09:20:51.4068358+00:00</td>
+</tr>
+<tr>
+<td>distance-to-train-station-more-than-10km</td>
+<td>Distanz mehr als 10km zum Bahnhof</td>
+<td>distance</td>
+<td>Distance more than 10km to the train station</td>
+<td>Distance plus de 10 km de la gare</td>
+<td>Distanza più di 10km dalla stazione ferroviaria</td>
+<td>2025-03-31T09:20:51.9599943+00:00</td>
+</tr>
+<tr>
+<td>distance-to-train-station-more-than-1km</td>
+<td>Distanz mehr als 1km zum Bahnhof</td>
+<td>distance</td>
+<td>Distance more than 1km to the train station</td>
+<td>Distance à plus de 1 km de la gare</td>
+<td>Distanza più di 1 km dalla stazione ferroviaria</td>
+<td>2025-03-31T09:20:56.9519382+00:00</td>
+</tr>
+<tr>
+<td>duration-1-2-hours</td>
+<td>Dauer 1-2 Stunden</td>
+<td>duration</td>
+<td>Duration 1-2 hours</td>
+<td>Durée 1-2 heures</td>
+<td>Durata 1-2 ore</td>
+<td>2025-03-31T09:20:56.9204032+00:00</td>
+</tr>
+<tr>
+<td>duration-1-3-hours</td>
+<td>Dauer 1-3 Stunden</td>
+<td>duration</td>
+<td>Duration 1-3 hours</td>
+<td>Durée 1-3 heures</td>
+<td>Durata 1-3 ore</td>
+<td>2025-03-31T09:20:53.691487+00:00</td>
+</tr>
+<tr>
+<td>duration-3-5-hours</td>
+<td>Dauer 3-5 Stunden</td>
+<td>duration</td>
+<td>Duration 3-5 hours</td>
+<td>Durée 3-5 heures</td>
+<td>Durata 3-5 ore</td>
+<td>2025-03-31T09:20:58.6177912+00:00</td>
+</tr>
+<tr>
+<td>duration-4-6-hours</td>
+<td>Dauer 4-6 Stunden</td>
+<td>duration</td>
+<td>Duration 4-6 hours</td>
+<td>Durée 4-6 heures</td>
+<td>Durata 4-6 ore</td>
+<td>2025-03-31T09:21:30.5561949+00:00</td>
+</tr>
+<tr>
+<td>duration-full-day</td>
+<td>Dauer ganztägig</td>
+<td>duration</td>
+<td>Duration all day</td>
+<td>Durée toute la journée</td>
+<td>Durata tutto il giorno</td>
+<td>2025-03-31T09:21:41.6132014+00:00</td>
+</tr>
+<tr>
+<td>duration-multiple-days</td>
+<td>Dauer mehrtägig</td>
+<td>duration</td>
+<td>Duration of several days</td>
+<td>Durée de plusieurs jours</td>
+<td>Durata di più giorni</td>
+<td>2025-03-31T09:20:59.8345087+00:00</td>
+</tr>
+<tr>
+<td>duration-half-day</td>
+<td>Dauer halbtags</td>
+<td>duration</td>
+<td>Duration half day</td>
+<td>Durée demi-journée</td>
+<td>Durata mezza giornata</td>
+<td>2025-03-31T09:21:32.1404634+00:00</td>
+</tr>
+<tr>
+<td>genre-3d</td>
+<td>3D</td>
+<td>genre</td>
+<td>.3D</td>
+<td>..3D</td>
+<td>..3D</td>
+<td>2025-03-31T09:20:59.2367004+00:00</td>
+</tr>
+<tr>
+<td>genre-action</td>
+<td>Action</td>
+<td>genre</td>
+<td>Action</td>
+<td>Action</td>
+<td>Azione</td>
+<td>2025-03-31T09:30:15.0571935+00:00</td>
+</tr>
+<tr>
+<td>genre-scifi</td>
+<td>Science-Fiction</td>
+<td>genre</td>
+<td>Science fiction</td>
+<td>Science-fiction</td>
+<td>Fantascienza</td>
+<td>2025-03-31T09:21:02.7817539+00:00</td>
+</tr>
+<tr>
+<td>genre-adventure</td>
+<td>Abenteuer</td>
+<td>genre</td>
+<td>Adventure</td>
+<td>Aventure</td>
+<td>Avventura</td>
+<td>2025-03-31T09:21:03.3727702+00:00</td>
+</tr>
+<tr>
+<td>genre-ballet</td>
+<td>Ballett</td>
+<td>genre</td>
+<td>Ballet</td>
+<td>Ballet</td>
+<td>Balletto</td>
+<td>2025-03-31T09:21:04.1473724+00:00</td>
+</tr>
+<tr>
+<td>genre-biography</td>
+<td>Biografie</td>
+<td>genre</td>
+<td>Biography</td>
+<td>Biographie</td>
+<td>Biografia</td>
+<td>2025-03-31T09:21:06.2536286+00:00</td>
+</tr>
+<tr>
+<td>genre-blackandwhite</td>
+<td>Schwarzweiss</td>
+<td>genre</td>
+<td>Black</td>
+<td>Noir</td>
+<td>Nero</td>
+<td>2025-03-31T09:21:10.4883474+00:00</td>
+</tr>
+<tr>
+<td>genre-cartoon</td>
+<td>Trickfilm</td>
+<td>genre</td>
+<td>Animation</td>
+<td>Animation</td>
+<td>Animazione</td>
+<td>2025-03-31T09:21:08.3428164+00:00</td>
+</tr>
+<tr>
+<td>genre-children</td>
+<td>Kinderfilm</td>
+<td>genre</td>
+<td>Children's film</td>
+<td>Film pour enfants</td>
+<td>Film per bambini</td>
+<td>2025-03-31T09:21:10.9793319+00:00</td>
+</tr>
+<tr>
+<td>genre-classicfilms</td>
+<td>Filmklassiker</td>
+<td>genre</td>
+<td>Movie classics</td>
+<td>Classiques du cinéma</td>
+<td>Classici del cinema</td>
+<td>2025-03-31T09:21:12.7596066+00:00</td>
+</tr>
+<tr>
+<td>genre-comedy</td>
+<td>Komödie</td>
+<td>genre</td>
+<td>Comedy</td>
+<td>Comédie</td>
+<td>Commedia</td>
+<td>2025-03-31T09:21:13.3148869+00:00</td>
+</tr>
+<tr>
+<td>genre-documentary</td>
+<td>Dokumentation</td>
+<td>genre</td>
+<td>Documentation</td>
+<td>Documentation</td>
+<td>Documentazione</td>
+<td>2025-03-31T09:21:14.7976185+00:00</td>
+</tr>
+<tr>
+<td>genre-disaster</td>
+<td>Katastrophen</td>
+<td>genre</td>
+<td>Calamities</td>
+<td>Calamités</td>
+<td>Calamità</td>
+<td>2025-03-31T09:21:14.1719083+00:00</td>
+</tr>
+<tr>
+<td>genre-erotic_adultsonly</td>
+<td>Erotik</td>
+<td>genre</td>
+<td>Eroticism</td>
+<td>Érotisme</td>
+<td>Erotismo</td>
+<td>2025-03-31T09:21:16.429538+00:00</td>
+</tr>
+<tr>
+<td>genre-drama</td>
+<td>Drama</td>
+<td>genre</td>
+<td>Drama</td>
+<td>Drame</td>
+<td>Dramma</td>
+<td>2025-03-31T09:21:14.5769+00:00</td>
+</tr>
+<tr>
+<td>genre-experimental</td>
+<td>Experimentalfilm</td>
+<td>genre</td>
+<td>Experimental film</td>
+<td>Film expérimental</td>
+<td>Film sperimentale</td>
+<td>2025-03-31T09:21:17.9294123+00:00</td>
+</tr>
+<tr>
+<td>genre-family</td>
+<td>Familienfilm</td>
+<td>genre</td>
+<td>Family film</td>
+<td>Film familial</td>
+<td>Film per famiglie</td>
+<td>2025-03-31T09:21:20.0216485+00:00</td>
+</tr>
+<tr>
+<td>genre-fantasy</td>
+<td>Fantasy</td>
+<td>genre</td>
+<td>Fantasy</td>
+<td>Fantaisie</td>
+<td>Fantasia</td>
+<td>2025-03-31T09:21:20.4110197+00:00</td>
+</tr>
+<tr>
+<td>genre-history</td>
+<td>Historisch</td>
+<td>genre</td>
+<td>Historical</td>
+<td>Historique</td>
+<td>Storico</td>
+<td>2025-03-31T09:21:20.779226+00:00</td>
+</tr>
+<tr>
+<td>genre-home</td>
+<td>Heimatfilm</td>
+<td>genre</td>
+<td>Heimatfilm</td>
+<td>Heimatfilm</td>
+<td>Heimatfilm</td>
+<td>2025-03-31T09:21:20.8700177+00:00</td>
+</tr>
+<tr>
+<td>genre-horror</td>
+<td>Horror</td>
+<td>genre</td>
+<td>Horror</td>
+<td>Horreur</td>
+<td>Orrore</td>
+<td>2025-03-31T09:21:22.3430502+00:00</td>
+</tr>
+<tr>
+<td>genre-musical</td>
+<td>Musical</td>
+<td>genre</td>
+<td>Musical</td>
+<td>Musical</td>
+<td>Musicale</td>
+<td>2025-03-31T09:21:22.7362361+00:00</td>
+</tr>
+<tr>
+<td>genre-lunchmovie</td>
+<td>Lunchkino</td>
+<td>genre</td>
+<td>Lunch cinema</td>
+<td>Déjeuner cinéma</td>
+<td>Pranzo cinema</td>
+<td>2025-03-31T09:21:22.3228478+00:00</td>
+</tr>
+<tr>
+<td>genre-musicfilm</td>
+<td>Musikfilm</td>
+<td>genre</td>
+<td>Music film</td>
+<td>Film musical</td>
+<td>Film musicale</td>
+<td>2025-03-31T09:21:22.7869092+00:00</td>
+</tr>
+<tr>
+<td>genre-mystery</td>
+<td>Mystery</td>
+<td>genre</td>
+<td>Mystery</td>
+<td>Mystère</td>
+<td>Mistero</td>
+<td>2025-03-31T09:21:24.5090696+00:00</td>
+</tr>
+<tr>
+<td>genre-opera</td>
+<td>Oper</td>
+<td>genre</td>
+<td>Opera</td>
+<td>Opéra</td>
+<td>Opera</td>
+<td>2025-03-31T09:21:24.9271793+00:00</td>
+</tr>
+<tr>
+<td>genre-others</td>
+<td>Weitere Genres</td>
+<td>genre</td>
+<td>Other genres</td>
+<td>Autres genres</td>
+<td>Altri generi</td>
+<td>2025-03-31T09:21:26.9754503+00:00</td>
+</tr>
+<tr>
+<td>genre-prelaunch</td>
+<td>Vorpremiere</td>
+<td>genre</td>
+<td>Preview</td>
+<td>Aperçu</td>
+<td>Anteprima</td>
+<td>2025-03-31T09:21:28.0980873+00:00</td>
+</tr>
+<tr>
+<td>genre-premiere</td>
+<td>Premiere</td>
+<td>genre</td>
+<td>Premiere</td>
+<td>Première</td>
+<td>Prima</td>
+<td>2025-03-31T09:21:28.683143+00:00</td>
+</tr>
+<tr>
+<td>genre-problem</td>
+<td>Problemfilm</td>
+<td>genre</td>
+<td>Problem film</td>
+<td>Film problématique</td>
+<td>Film problematico</td>
+<td>2025-03-31T09:22:25.3542836+00:00</td>
+</tr>
+<tr>
+<td>genre-roadmovie</td>
+<td>Road Movie</td>
+<td>genre</td>
+<td>Road Movie</td>
+<td>Road Movie</td>
+<td>Road Movie</td>
+<td>2025-03-31T09:21:30.1597597+00:00</td>
+</tr>
+<tr>
+<td>genre-short</td>
+<td>Kurzfilm</td>
+<td>genre</td>
+<td>Short film</td>
+<td>Court-métrage</td>
+<td>Cortometraggio</td>
+<td>2025-03-31T09:21:36.0903237+00:00</td>
+</tr>
+<tr>
+<td>genre-romance</td>
+<td>Romanze</td>
+<td>genre</td>
+<td>Romance</td>
+<td>Romance</td>
+<td>Romanzo</td>
+<td>2025-03-31T09:21:34.9659694+00:00</td>
+</tr>
+<tr>
+<td>genre-silentmovie</td>
+<td>Stummfilm</td>
+<td>genre</td>
+<td>Silent film</td>
+<td>Film muet</td>
+<td>Film muti</td>
+<td>2025-03-31T09:21:35.5840973+00:00</td>
+</tr>
+<tr>
+<td>genre-special_filmnoir</td>
+<td>Film noir</td>
+<td>genre</td>
+<td>Film noir</td>
+<td>Film noir</td>
+<td>Film noir</td>
+<td>2025-03-31T09:21:36.0351668+00:00</td>
+</tr>
+<tr>
+<td>genre-sport</td>
+<td>Sport</td>
+<td>genre</td>
+<td>Sport</td>
+<td>Sport</td>
+<td>Sport</td>
+<td>2025-03-31T09:22:18.1383985+00:00</td>
+</tr>
+<tr>
+<td>genre-studiomovie</td>
+<td>Studiofilm</td>
+<td>genre</td>
+<td>Studio film</td>
+<td>Film de studio</td>
+<td>Film in studio</td>
+<td>2025-03-31T09:21:36.4564224+00:00</td>
+</tr>
+<tr>
+<td>genre-theatermovie</td>
+<td>Theaterfilm</td>
+<td>genre</td>
+<td>Theatrical film</td>
+<td>Film théâtral</td>
+<td>Film teatrale</td>
+<td>2025-03-31T09:21:36.483845+00:00</td>
+</tr>
+<tr>
+<td>genre-thriller</td>
+<td>Krimi</td>
+<td>genre</td>
+<td>Detective story</td>
+<td>Histoire policière</td>
+<td>Romanzo poliziesco</td>
+<td>2025-03-31T09:21:36.9171001+00:00</td>
+</tr>
+<tr>
+<td>genre-tragedy</td>
+<td>Tragikomödie</td>
+<td>genre</td>
+<td>Tragicomedy</td>
+<td>Tragicomédie</td>
+<td>Tragicommedia</td>
+<td>2025-03-31T09:21:37.9311598+00:00</td>
+</tr>
+<tr>
+<td>genre-truestory</td>
+<td>True-Story</td>
+<td>genre</td>
+<td>True Story</td>
+<td>Histoire vraie</td>
+<td>Storia vera</td>
+<td>2025-03-31T09:21:37.9213048+00:00</td>
+</tr>
+<tr>
+<td>genre-war</td>
+<td>Krieg</td>
+<td>genre</td>
+<td>War</td>
+<td>Guerre</td>
+<td>Guerra</td>
+<td>2025-03-31T09:21:37.4879486+00:00</td>
+</tr>
+<tr>
+<td>genre-western</td>
+<td>Western</td>
+<td>genre</td>
+<td>Western</td>
+<td>Occidental</td>
+<td>Occidentale</td>
+<td>2025-03-31T09:21:41.1399845+00:00</td>
+</tr>
+<tr>
+<td>literature</td>
+<td>literatur</td>
+<td>literature</td>
+<td>literature</td>
+<td>littérature</td>
+<td>letteratura</td>
+<td>2025-03-31T09:21:38.3937837+00:00</td>
+</tr>
+<tr>
+<td>music-classic</td>
+<td>Klassik</td>
+<td>music</td>
+<td>Classical music</td>
+<td>Musique classique</td>
+<td>Musica classica</td>
+<td>2025-03-31T09:21:58.1905016+00:00</td>
+</tr>
+<tr>
+<td>music-folk</td>
+<td>Folk</td>
+<td>music</td>
+<td>Folk</td>
+<td>Peuple</td>
+<td>Popolo</td>
+<td>2025-03-31T09:21:39.2831298+00:00</td>
+</tr>
+<tr>
+<td>parking-covered</td>
+<td>Garage</td>
+<td>parking</td>
+<td>Garage</td>
+<td>Garage</td>
+<td>Garage</td>
+<td>2025-03-31T09:22:14.6948713+00:00</td>
+</tr>
+<tr>
+<td>music-jazz-pop-rock</td>
+<td>Jazz/Pop/Rock</td>
+<td>music</td>
+<td>Jazz/Pop/Rock</td>
+<td>Jazz/Pop/Rock</td>
+<td>Jazz/Pop/Rock</td>
+<td>2025-03-31T09:22:00.7036687+00:00</td>
+</tr>
+<tr>
+<td>parking-no</td>
+<td>Keine Parkiermöglichkeit</td>
+<td>parking</td>
+<td>No parking</td>
+<td>Stationnement interdit</td>
+<td>Divieto di parcheggio</td>
+<td>2025-03-31T09:22:15.6597592+00:00</td>
+</tr>
+<tr>
+<td>parking-own-bus-chargeable</td>
+<td>eigenes Gebührenpflichtes Parking  für Busse</td>
+<td>parking</td>
+<td>Own paid parking for buses</td>
+<td>Propre parking payant pour les bus</td>
+<td>Parcheggio privato a pagamento per gli autobus</td>
+<td>2025-03-31T09:22:15.2709933+00:00</td>
+</tr>
+<tr>
+<td>parking-own-bus-free</td>
+<td>eigenes Gratis Parking für Busse</td>
+<td>parking</td>
+<td>own free parking for buses</td>
+<td>propre parking gratuit pour les bus</td>
+<td>proprio parcheggio gratuito per gli autobus</td>
+<td>2025-03-31T09:22:24.9678002+00:00</td>
+</tr>
+<tr>
+<td>parking-own-chargeable</td>
+<td>eigenes Gebührenpflichtes Parking</td>
+<td>parking</td>
+<td>own paid parking</td>
+<td>parking payant propre</td>
+<td>parcheggio privato a pagamento</td>
+<td>2025-03-31T09:22:21.996874+00:00</td>
+</tr>
+<tr>
+<td>parking-own-free</td>
+<td>eigenes Gratis Parking</td>
+<td>parking</td>
+<td>own free parking</td>
+<td>Propre parking gratuit</td>
+<td>parcheggio gratuito</td>
+<td>2025-03-31T09:22:22.5601186+00:00</td>
+</tr>
+<tr>
+<td>parking-own-mobilehome-chargeable</td>
+<td>eigenes Gebührenpflichtes Parking  für Mobilhome</td>
+<td>parking</td>
+<td>Own parking for mobile homes</td>
+<td>Parking propre pour mobil-homes</td>
+<td>Parcheggio privato per case mobili</td>
+<td>2025-03-31T09:22:23.3542393+00:00</td>
+</tr>
+<tr>
+<td>parking-own-mobilehome-free</td>
+<td>eigenes Gratis Parking für Mobilhome</td>
+<td>parking</td>
+<td>own free parking for mobile homes</td>
+<td>Propre parking gratuit pour les mobil-homes</td>
+<td>parcheggio gratuito per case mobili</td>
+<td>2025-03-31T09:22:23.7374638+00:00</td>
+</tr>
+<tr>
+<td>parking-public-bus-nearby-chargeable</td>
+<td>Gebührenpflichtes Parking für Busse in der Nähe</td>
+<td>parking</td>
+<td>Paid parking for buses nearby</td>
+<td>Parking payant pour les bus à proximité</td>
+<td>Parcheggio a pagamento per autobus nelle vicinanze</td>
+<td>2025-03-31T09:22:24.1464703+00:00</td>
+</tr>
+<tr>
+<td>parking-public-bus-nearby-free</td>
+<td>Gratis Parking für Busse in der Nähe</td>
+<td>parking</td>
+<td>Free parking for buses nearby</td>
+<td>Parking gratuit pour les bus à proximité</td>
+<td>Parcheggio gratuito per gli autobus nelle vicinanze</td>
+<td>2025-03-31T09:23:58.3091498+00:00</td>
+</tr>
+<tr>
+<td>parking-public-mobilehome-nearby-free</td>
+<td>Gratis Parking für Mobilhome in der Nähe</td>
+<td>parking</td>
+<td>Free parking for mobile homes nearby</td>
+<td>Parking gratuit pour mobil-homes à proximité</td>
+<td>Parcheggio gratuito per case mobili nelle vicinanze</td>
+<td>2025-03-31T09:24:00.396452+00:00</td>
+</tr>
+<tr>
+<td>parking-public-mobilehome-nearby-chargeable</td>
+<td>Gebührenpflichtes Parking für Mobilhome in der Nähe</td>
+<td>parking</td>
+<td>Paid parking for mobile homes nearby</td>
+<td>Parking payant pour mobil-homes à proximité</td>
+<td>Parcheggio a pagamento per case mobili nelle vicinanze</td>
+<td>2025-03-31T09:23:58.8759515+00:00</td>
+</tr>
+<tr>
+<td>parking-public-nearby-free</td>
+<td>Gratis Parking in der Nähe</td>
+<td>parking</td>
+<td>Free parking nearby</td>
+<td>Parking gratuit à proximité</td>
+<td>Parcheggio gratuito nelle vicinanze</td>
+<td>2025-03-31T09:24:00.9137164+00:00</td>
+</tr>
+<tr>
+<td>parking-public-nearby-chargeable</td>
+<td>Gebührenpflichtes Parking in der Nähe</td>
+<td>parking</td>
+<td>Paid parking nearby</td>
+<td>Parking payant à proximité</td>
+<td>Parcheggio a pagamento nelle vicinanze</td>
+<td>2025-03-31T09:24:16.3625333+00:00</td>
+</tr>
+<tr>
+<td>parking-valet</td>
+<td>Park-Service</td>
+<td>parking</td>
+<td>Valet parking</td>
+<td>Voiturier</td>
+<td>Parcheggio</td>
+<td>2025-03-31T09:22:24.5755475+00:00</td>
+</tr>
+<tr>
+<td>profile-enjoyment-1</td>
+<td>Genuss niedrid</td>
+<td>profile-enjoyment</td>
+<td>Enjoyment low</td>
+<td>Plaisir niedrid</td>
+<td>Piacere niedrid</td>
+<td>2025-02-27T08:47:45.2597244+00:00</td>
+</tr>
+<tr>
+<td>profile-mod-alone</td>
+<td>Allein</td>
+<td>profile</td>
+<td>Alone</td>
+<td>Seul</td>
+<td>Solo</td>
+<td>2025-06-28T07:37:13.6332204+00:00</td>
+</tr>
+<tr>
+<td>profile-mod-couple</td>
+<td>Paar</td>
+<td>profile</td>
+<td>Pair</td>
+<td>Paire</td>
+<td>Paio</td>
+<td>2025-06-28T07:37:29.3606911+00:00</td>
+</tr>
+<tr>
+<td>profile-season-summer</td>
+<td>Sommer</td>
+<td>profile</td>
+<td>Summer</td>
+<td>Été</td>
+<td>Estate</td>
+<td>2025-06-28T07:37:46.9934115+00:00</td>
+</tr>
+<tr>
+<td>profile-season-winter</td>
+<td>Winter</td>
+<td>profile</td>
+<td>Winter</td>
+<td>Hiver</td>
+<td>Inverno</td>
+<td>2025-06-28T07:39:58.3017825+00:00</td>
+</tr>
+<tr>
+<td>profile-sport-1</td>
+<td>Sport niedrig</td>
+<td>profile-sport</td>
+<td>Sport low</td>
+<td>Sports bas</td>
+<td>Sport bassi</td>
+<td>2025-02-24T12:59:13.7242114+00:00</td>
+</tr>
+<tr>
+<td>reduction-apprentice</td>
+<td>Lehrlinge</td>
+<td>reduction</td>
+<td>Apprentices</td>
+<td>Apprentis</td>
+<td>Apprendisti</td>
+<td>2025-03-31T09:22:26.9110057+00:00</td>
+</tr>
+<tr>
+<td>reduction-citycard</td>
+<td>Reduktion mit Tourismuskarte</td>
+<td>reduction</td>
+<td>Reduction with tourism card</td>
+<td>Réduction avec carte de tourisme</td>
+<td>Riduzione con tessera turistica</td>
+<td>2025-03-31T09:22:36.9511585+00:00</td>
+</tr>
+<tr>
+<td>reduction-family</td>
+<td>Familen</td>
+<td>reduction</td>
+<td>Families</td>
+<td>Famille</td>
+<td>Famiglie</td>
+<td>2025-03-31T09:23:01.5060494+00:00</td>
+</tr>
+<tr>
+<td>reduction-donations</td>
+<td>Freiwilligenbeitrag-Spenden</td>
+<td>reduction</td>
+<td>Volunteer Contribution Donations</td>
+<td>Dons de contributions bénévoles</td>
+<td>Donazioni di contributi volontari</td>
+<td>2025-03-31T09:22:39.6527374+00:00</td>
+</tr>
+<tr>
+<td>reduction-free-till-16</td>
+<td>Gratiseintritte für Kinder bis 16 Jahre</td>
+<td>reduction</td>
+<td>Free admission for children up to 16 years</td>
+<td>Entrée gratuite pour les enfants jusqu’à 16 ans</td>
+<td>Ingresso gratuito per ragazzi fino a 16 anni</td>
+<td>2025-03-31T09:23:16.4114064+00:00</td>
+</tr>
+<tr>
+<td>reduction-free-till-12</td>
+<td>Gratiseintritte für Kinder bis 12 Jahre</td>
+<td>reduction</td>
+<td>Free admission for children up to 12 years</td>
+<td>Entrée gratuite pour les enfants jusqu’à 12 ans</td>
+<td>Ingresso gratuito per bambini fino a 12 anni</td>
+<td>2025-03-31T09:23:03.6888293+00:00</td>
+</tr>
+<tr>
+<td>reduction-free</td>
+<td>Gratiseintritte</td>
+<td>reduction</td>
+<td>Free admission</td>
+<td>Entrée libre</td>
+<td>Ingresso libero</td>
+<td>2025-03-31T09:23:33.0040506+00:00</td>
+</tr>
+<tr>
+<td>reduction-free-till-6</td>
+<td>Gratiseintritte für Kinder bis 6 Jahre</td>
+<td>reduction</td>
+<td>Free admission for children up to 6 years</td>
+<td>Entrée gratuite pour les enfants jusqu’à 6 ans</td>
+<td>Ingresso gratuito per bambini fino a 6 anni</td>
+<td>2025-03-31T09:23:07.7754798+00:00</td>
+</tr>
+<tr>
+<td>reduction-group</td>
+<td>Gruppen</td>
+<td>reduction</td>
+<td>Groups</td>
+<td>Groupe</td>
+<td>Gruppi</td>
+<td>2025-03-31T09:23:34.3722573+00:00</td>
+</tr>
+<tr>
+<td>reduction-general</td>
+<td>generelle Reduktionen</td>
+<td>reduction</td>
+<td>general reductions</td>
+<td>Réductions générales</td>
+<td>Riduzioni generali</td>
+<td>2025-03-31T09:23:33.2117889+00:00</td>
+</tr>
+<tr>
+<td>reduction-handicaped</td>
+<td>Invalide</td>
+<td>reduction</td>
+<td>Invalid</td>
+<td>Non valide</td>
+<td>Non valido</td>
+<td>2025-03-31T09:23:38.1217388+00:00</td>
+</tr>
+<tr>
+<td>reduction-localpopulation</td>
+<td>Einheimische</td>
+<td>reduction</td>
+<td>Local</td>
+<td>Local</td>
+<td>Locale</td>
+<td>2025-03-31T09:23:46.8837757+00:00</td>
+</tr>
+<tr>
+<td>reduction-membercard</td>
+<td>Mitgliederreduktion</td>
+<td>reduction</td>
+<td>Membership reduction</td>
+<td>Réduction du nombre de membres</td>
+<td>Riduzione dell'iscrizione</td>
+<td>2025-03-31T09:23:47.3484001+00:00</td>
+</tr>
+<tr>
+<td>reduction-multipledaypass</td>
+<td>Mehrtageskartenreduktion</td>
+<td>reduction</td>
+<td>Multi-day ticket reduction</td>
+<td>Réduction de billets de plusieurs jours</td>
+<td>Riduzione del biglietto di più giorni</td>
+<td>2025-03-31T09:23:55.7419634+00:00</td>
+</tr>
+<tr>
+<td>reduction-percentagebased</td>
+<td>prozentuale Ermässigung</td>
+<td>reduction</td>
+<td>percentage reduction</td>
+<td>pourcentage de réduction</td>
+<td>riduzione percentuale</td>
+<td>2025-03-31T09:23:54.897325+00:00</td>
+</tr>
+<tr>
+<td>reduction-presale</td>
+<td>Vorverkauf</td>
+<td>reduction</td>
+<td>Presale</td>
+<td>Prévente</td>
+<td>Prevendita</td>
+<td>2025-03-31T09:23:58.6184476+00:00</td>
+</tr>
+<tr>
+<td>reduction-seniors</td>
+<td>Senioren</td>
+<td>reduction</td>
+<td>Seniors</td>
+<td>Aînés</td>
+<td>Anziani</td>
+<td>2025-03-31T09:24:01.0319539+00:00</td>
+</tr>
+<tr>
+<td>reduction-students</td>
+<td>Studenten</td>
+<td>reduction</td>
+<td>Students</td>
+<td>Étudiants</td>
+<td>Studenti</td>
+<td>2025-03-31T09:24:02.718176+00:00</td>
+</tr>
+<tr>
+<td>reservation-online</td>
+<td>Online-Reservation</td>
+<td>reservation</td>
+<td>Online reservation</td>
+<td>Réservation en ligne</td>
+<td>Prenotazione</td>
+<td>2025-03-31T09:24:13.521043+00:00</td>
+</tr>
+<tr>
+<td>seasonality-summer-only</td>
+<td>Sommersaison</td>
+<td>seasonality</td>
+<td>Summer season</td>
+<td>Saison estivale</td>
+<td>Stagione estiva</td>
+<td>2025-03-28T21:48:40.7429091+00:00</td>
+</tr>
+<tr>
+<td>seasonality-winter-only</td>
+<td>Wintersaison</td>
+<td>seasonality</td>
+<td>Winter season</td>
+<td>Saison d’hiver</td>
+<td>Stagione invernale</td>
+<td>2025-03-28T21:48:42.344776+00:00</td>
+</tr>
+<tr>
+<td>transport-mountainrailway</td>
+<td>Bergbahnauf-/-abstieg</td>
+<td>transport</td>
+<td>Mountain railway ascent/descent</td>
+<td>Ascension/descente du chemin de fer de montagne</td>
+<td>Salita/discesa in montagna</td>
+<td>2025-03-31T09:24:09.7830227+00:00</td>
+</tr>
+<tr>
+<td>weather-conditions-dry-days</td>
+<td>Trockenwetter</td>
+<td>weather-conditions</td>
+<td>Dry weather</td>
+<td>Temps sec</td>
+<td>Tempo asciutto</td>
+<td>2025-03-31T09:24:09.4149469+00:00</td>
+</tr>
+<tr>
+<td>weather-conditions-snow-days</td>
+<td>Schnee</td>
+<td>weather-conditions</td>
+<td>Snow</td>
+<td>Neige</td>
+<td>Neve</td>
+<td>2025-03-31T09:24:15.9059925+00:00</td>
+</tr>
+<tr>
+<td>weather-conditions-wet-days</td>
+<td>Nasswetter</td>
+<td>weather-conditions</td>
+<td>Wet weather</td>
+<td>Pluvieux</td>
+<td>Tempo piovoso</td>
+<td>2025-03-31T09:24:17.2715727+00:00</td>
+</tr>
+<tr>
+<td>accessibility-suitableforperambulators</td>
+<td>kinderwagengerecht</td>
+<td>accessibility</td>
+<td>Stroller Friendly</td>
+<td>Poussette amicale</td>
+<td>Passeggino amichevole</td>
+<td>2025-10-03T16:34:26.8032076+00:00</td>
+</tr>
+<tr>
+<td>culinary-breakfast</td>
+<td>Frühstück</td>
+<td>culinary</td>
+<td>Breakfast</td>
+<td>Petit déjeuner</td>
+<td>Colazione</td>
+<td>2025-03-31T09:24:21.0787141+00:00</td>
+</tr>
+<tr>
+<td>culinary-brunch</td>
+<td>Brunch</td>
+<td>culinary</td>
+<td>Brunch</td>
+<td>Brunch</td>
+<td>Brunch</td>
+<td>2025-03-31T09:25:13.0313901+00:00</td>
+</tr>
+<tr>
+<td>culinary-dailyspecial</td>
+<td>Tagesspezialität</td>
+<td>culinary</td>
+<td>Specials of the day</td>
+<td>Spéciaux du jour</td>
+<td>Offerte speciali del giorno</td>
+<td>2025-03-31T09:24:17.0454535+00:00</td>
+</tr>
+<tr>
+<td>culinary-dinner</td>
+<td>Abendessen</td>
+<td>culinary</td>
+<td>Supper</td>
+<td>Souper</td>
+<td>Cena</td>
+<td>2025-03-31T09:25:31.95705+00:00</td>
+</tr>
+<tr>
+<td>culinary-cooktogether</td>
+<td>Gemeinsam kochen</td>
+<td>culinary</td>
+<td>Cooking together</td>
+<td>Cuisiner ensemble</td>
+<td>Cucinare insieme</td>
+<td>2025-03-31T09:25:31.0776092+00:00</td>
+</tr>
+<tr>
+<td>culinary-dinnerwithprogram</td>
+<td>Essen mit Programm</td>
+<td>culinary</td>
+<td>Meals with program</td>
+<td>Repas avec programme</td>
+<td>Pasti con programma</td>
+<td>2025-03-31T09:25:36.112458+00:00</td>
+</tr>
+<tr>
+<td>culinary-foodfestival</td>
+<td>Food Festival</td>
+<td>culinary</td>
+<td>Food Festival</td>
+<td>Festival gastronomique</td>
+<td>Festa del cibo</td>
+<td>2025-03-31T09:25:25.8888903+00:00</td>
+</tr>
+<tr>
+<td>culinary-eattogether</td>
+<td>Gemeinsam essen</td>
+<td>culinary</td>
+<td>Eating together</td>
+<td>Manger ensemble</td>
+<td>Mangiare insieme</td>
+<td>2025-03-31T09:25:03.4289071+00:00</td>
+</tr>
+<tr>
+<td>culinary-lunch</td>
+<td>Mittagessen</td>
+<td>culinary</td>
+<td>Lunch</td>
+<td>Déjeuner</td>
+<td>Pranzo</td>
+<td>2025-03-31T09:25:39.892703+00:00</td>
+</tr>
+<tr>
+<td>culinary-seasonal</td>
+<td>saisonale Spezialitäten</td>
+<td>culinary</td>
+<td>seasonal specialities</td>
+<td>Spécialités de saison</td>
+<td>Specialità stagionali</td>
+<td>2025-03-31T09:25:48.4198416+00:00</td>
+</tr>
+<tr>
+<td>culinary-tasting</td>
+<td>Degustation</td>
+<td>culinary</td>
+<td>Tasting</td>
+<td>Dégustation</td>
+<td>Degustazione</td>
+<td>2025-03-31T09:25:49.8923378+00:00</td>
+</tr>
+<tr>
+<td>culinary-variousculinary</td>
+<td>weitere Kulinarik</td>
+<td>culinary</td>
+<td>more culinary delights</td>
+<td>Plus de délices culinaires</td>
+<td>Altre delizie culinarie</td>
+<td>2025-03-31T09:25:52.0714758+00:00</td>
+</tr>
+<tr>
+<td>culinary-specialoccasions</td>
+<td>spezielle Anlässe</td>
+<td>culinary</td>
+<td>special occasions</td>
+<td>Occasions spéciales</td>
+<td>Occasioni speciali</td>
+<td>2025-03-31T09:24:59.3185416+00:00</td>
+</tr>
+<tr>
+<td>general-dogfriendly</td>
+<td>hundefreundlich</td>
+<td>general</td>
+<td>Dog friendly</td>
+<td>Chien accepté</td>
+<td>Dog friendly</td>
+<td>2025-03-31T09:24:24.7529419+00:00</td>
+</tr>
+<tr>
+<td>general-dining</td>
+<td>Einkehrmöglichkeit</td>
+<td>general</td>
+<td>Refreshments</td>
+<td>Rafraîchissements</td>
+<td>Rinfreschi</td>
+<td>2025-03-31T09:26:08.9392005+00:00</td>
+</tr>
+<tr>
+<td>general-educational</td>
+<td>lehrreich</td>
+<td>general</td>
+<td>instructive</td>
+<td>instructif</td>
+<td>istruttivo</td>
+<td>2025-03-31T09:28:08.3327048+00:00</td>
+</tr>
+<tr>
+<td>general-fireplace</td>
+<td>Feuerstelle unterwegs</td>
+<td>general</td>
+<td>Fire pit on the way</td>
+<td>Foyer sur le chemin</td>
+<td>Pozzo del fuoco sulla strada</td>
+<td>2025-03-31T09:28:13.516124+00:00</td>
+</tr>
+<tr>
+<td>general-shopping</td>
+<td>Einkaufsmöglichkeit unterwegs</td>
+<td>general</td>
+<td>Shopping on the go</td>
+<td>Shopping en déplacement</td>
+<td>Shopping in movimento</td>
+<td>2025-03-31T09:25:30.6693785+00:00</td>
+</tr>
+<tr>
+<td>general-publictoilet</td>
+<td>öffentliche Toilette unterwegs</td>
+<td>general</td>
+<td>public toilet on the way</td>
+<td>toilettes publiques sur le chemin</td>
+<td>servizi igienici pubblici lungo la strada</td>
+<td>2025-03-31T09:30:15.1921369+00:00</td>
+</tr>
+<tr>
+<td>general-suitableforfamilies</td>
+<td>familienfreundlich</td>
+<td>general</td>
+<td>family-friendly</td>
+<td>Adapté aux familles</td>
+<td>adatto alle famiglie</td>
+<td>2025-03-31T09:25:53.4007649+00:00</td>
+</tr>
+<tr>
+<td>general-playground</td>
+<td>Spielplatz unterwegs</td>
+<td>general</td>
+<td>Playground on the way</td>
+<td>Aire de jeux sur le chemin</td>
+<td>Parco giochi lungo la strada</td>
+<td>2025-03-31T09:25:16.4363907+00:00</td>
+</tr>
+<tr>
+<td>incentive-quiz</td>
+<td>mit Rätsel</td>
+<td>incentive</td>
+<td>with puzzles</td>
+<td>avec des puzzles</td>
+<td>con puzzle</td>
+<td>2025-03-31T09:28:40.9873423+00:00</td>
+</tr>
+<tr>
+<td>incentive-reward</td>
+<td>mit Belohnung am Ende</td>
+<td>incentive</td>
+<td>with reward at the end</td>
+<td>avec récompense à la fin</td>
+<td>con ricompensa alla fine</td>
+<td>2025-03-31T09:28:42.033017+00:00</td>
+</tr>
+<tr>
+<td>profile-enjoyment-5</td>
+<td>Genuss hoch</td>
+<td>profile-enjoyment</td>
+<td>Enjoyment high</td>
+<td>Plaisir élevé</td>
+<td>Piacere alto</td>
+<td>2025-02-27T08:47:46.5467943+00:00</td>
+</tr>
+<tr>
+<td>profile-sport-5</td>
+<td>Sport hoch</td>
+<td>profile-sport</td>
+<td>Sport high</td>
+<td>Sports high</td>
+<td>Sport alto</td>
+<td>2025-02-24T12:59:44.8599977+00:00</td>
+</tr>
+<tr>
+<td>trail-looptour</td>
+<td>Rundtour</td>
+<td>trail</td>
+<td>Tour</td>
+<td>Tour</td>
+<td>Viaggio</td>
+<td>2025-03-31T09:28:21.8045427+00:00</td>
+</tr>
+<tr>
+<td>trail-onewaytour</td>
+<td>Hin und zurück</td>
+<td>trail</td>
+<td>Back and forth</td>
+<td>Aller et retour</td>
+<td>Andata e ritorno</td>
+<td>2025-03-31T09:29:43.1564141+00:00</td>
+</tr>
+<tr>
+<td>trail-scenic</td>
+<td>aussichtsreich</td>
+<td>trail</td>
+<td>promising</td>
+<td>prometteur</td>
+<td>promettente</td>
+<td>2025-03-31T09:24:28.165496+00:00</td>
+</tr>
+<tr>
+<td>trail-multistagetour</td>
+<td>Etappentour</td>
+<td>trail</td>
+<td>Stage tour</td>
+<td>Tour d’étape</td>
+<td>Tour di tappa</td>
+<td>2025-03-31T09:28:42.9886568+00:00</td>
+</tr>
+<tr>
+<td>trail-pointtopoint</td>
+<td>Von A nach B</td>
+<td>trail</td>
+<td>From A to B</td>
+<td>De A à B</td>
+<td>Da A a B</td>
+<td>2025-03-31T09:28:47.3402574+00:00</td>
+</tr>
+<tr>
+<td>transport-publictransportfriendly</td>
+<td>mit dem ÖV erreichbar</td>
+<td>transport</td>
+<td>accessible by public transport</td>
+<td>Accessible par les transports en commun</td>
+<td>raggiungibile con i mezzi pubblici</td>
+<td>2025-03-31T09:26:07.8119844+00:00</td>
+</tr>
+<tr>
+<td>proposed-by-editor</td>
+<td>redaktionell empfohlen</td>
+<td>proposed</td>
+<td>Editorially recommended</td>
+<td>Recommandation éditoriale</td>
+<td>Editorialmente consigliato</td>
+<td>2024-10-02T09:26:24.1416399+00:00</td>
+</tr>
+<tr>
+<td>school-difficulty-level-difficult</td>
+<td>schwierig für Schüler</td>
+<td>school-difficulty-level</td>
+<td>difficult for students</td>
+<td>difficile pour les étudiants</td>
+<td>difficile per gli studenti</td>
+<td>2025-03-31T09:30:14.6437863+00:00</td>
+</tr>
+<tr>
+<td>school-difficulty-level-easy</td>
+<td>einfach-leicht für Schüler</td>
+<td>school-difficulty-level</td>
+<td>simple-easy for students</td>
+<td>Simple-facile pour les étudiants</td>
+<td>semplice-facile per gli studenti</td>
+<td>2025-07-11T06:36:01.0355201+00:00</td>
+</tr>
+<tr>
+<td>school-difficulty-level-medium</td>
+<td>mittelschwierig für Schüler</td>
+<td>school-difficulty-level</td>
+<td>medium difficult for students</td>
+<td>Moyen difficile pour les étudiants</td>
+<td>medio difficile per gli studenti</td>
+<td>2025-03-31T09:30:16.0098475+00:00</td>
+</tr>
+<tr>
+<td>school-level-kindergarden</td>
+<td>Kindergarten</td>
+<td>school-level</td>
+<td>Kindergarten</td>
+<td>École maternelle</td>
+<td>Scuola materna</td>
+<td>2025-03-31T09:30:13.6490625+00:00</td>
+</tr>
+<tr>
+<td>school-level-primary-fifth-sixth-grade</td>
+<td>5./6. Primarklasse</td>
+<td>school-level</td>
+<td>5th/6th primary class</td>
+<td>5ème/6ème classe primaire</td>
+<td>5ª/6ª classe primaria</td>
+<td>2025-07-09T14:11:22.4994754+00:00</td>
+</tr>
+<tr>
+<td>school-level-primary-first-second-grade</td>
+<td>1./2. Primarklasse</td>
+<td>school-level</td>
+<td>1st/2nd primary class</td>
+<td>1ère/2ème classe primaire</td>
+<td>1ª/2ª classe primaria</td>
+<td>2025-03-31T09:30:19.6067541+00:00</td>
+</tr>
+<tr>
+<td>school-level-primary-third-fourth-grade</td>
+<td>3./4. Primarklasse</td>
+<td>school-level</td>
+<td>3rd/4th primary class</td>
+<td>3ème/4ème classe primaire</td>
+<td>3ª/4ª classe primaria</td>
+<td>2025-07-09T14:11:17.8484533+00:00</td>
+</tr>
+<tr>
+<td>schooltrip-category-action</td>
+<td>Spass und Action</td>
+<td>schooltrip-category</td>
+<td>Fun and action</td>
+<td>Amusement et action</td>
+<td>Divertimento e azione</td>
+<td>2025-03-31T09:30:15.5780004+00:00</td>
+</tr>
+<tr>
+<td>schooltrip-category-animals</td>
+<td>Tiere</td>
+<td>schooltrip-category</td>
+<td>Animals</td>
+<td>Animaux</td>
+<td>Animali</td>
+<td>2025-03-31T09:30:17.941119+00:00</td>
+</tr>
+<tr>
+<td>schooltrip-category-castles-monastery</td>
+<td>Schlösser Burgen Klöster</td>
+<td>schooltrip-category</td>
+<td>Castles Castles Monasteries</td>
+<td>Châteaux Châteaux Monastères</td>
+<td>Castelli Castelli Monasteri</td>
+<td>2025-03-31T09:30:22.8084181+00:00</td>
+</tr>
+<tr>
+<td>schooltrip-category-history-and-culture</td>
+<td>Geschichte und Kultur</td>
+<td>schooltrip-category</td>
+<td>History and culture</td>
+<td>Histoire et culture</td>
+<td>Storia e cultura</td>
+<td>2025-07-09T14:11:14.1416799+00:00</td>
+</tr>
+<tr>
+<td>schooltrip-category-museums</td>
+<td>Museen</td>
+<td>schooltrip-category</td>
+<td>Museums</td>
+<td>Musées</td>
+<td>Musei</td>
+<td>2025-07-09T14:11:26.7248508+00:00</td>
+</tr>
+<tr>
+<td>schooltrip-category-nature-and-environment</td>
+<td>Natur und Umwelt</td>
+<td>schooltrip-category</td>
+<td>Nature and environment</td>
+<td>Nature et environnement</td>
+<td>Natura e ambiente</td>
+<td>2025-03-31T09:30:17.5278927+00:00</td>
+</tr>
+<tr>
+<td>schooltrip-category-romans</td>
+<td>Römer</td>
+<td>schooltrip-category</td>
+<td>Roman</td>
+<td>Romain</td>
+<td>Romano</td>
+<td>2025-03-31T09:30:21.6006613+00:00</td>
+</tr>
+<tr>
+<td>schooltrip-category-science</td>
+<td>Wissenschaft</td>
+<td>schooltrip-category</td>
+<td>Science</td>
+<td>Science</td>
+<td>Scienza</td>
+<td>2025-03-31T09:30:22.0500614+00:00</td>
+</tr>
+<tr>
+<td>schooltrip-category-exercise-and-sport</td>
+<td>Bewegung und Sport</td>
+<td>schooltrip-category</td>
+<td>Exercise and sport</td>
+<td>Exercice et sport</td>
+<td>Esercizio fisico e sport</td>
+<td>2025-03-31T09:30:23.3485607+00:00</td>
+</tr>
+<tr>
+<td>schooltrip-category-culture-at-school</td>
+<td>Kultur macht Schule</td>
+<td>schooltrip-category</td>
+<td>Culture sets a precedent</td>
+<td>La culture va à l’école</td>
+<td>La cultura va a scuola</td>
+<td>2025-03-31T09:30:23.3885301+00:00</td>
+</tr>
+<tr>
+<td>school-level-secondary-first-grade</td>
+<td>1. Sekundarstufe</td>
+<td>school-level</td>
+<td>1. Secondary education</td>
+<td>1. Enseignement secondaire</td>
+<td>1. Istruzione secondaria</td>
+<td>2025-03-31T09:30:23.7405684+00:00</td>
+</tr>
+<tr>
+<td>school-level-secondary-second-grade</td>
+<td>2. Sekundarstufe</td>
+<td>school-level</td>
+<td>2. Secondary education</td>
+<td>2. Enseignement secondaire</td>
+<td>2. Istruzione secondaria</td>
+<td>2025-10-03T16:34:48.4208933+00:00</td>
+</tr>
+<tr>
+<td>profile-fun-1</td>
+<td>Spass niedrig</td>
+<td>profile-fun</td>
+<td>Fun low</td>
+<td>Fun bas</td>
+<td>Divertimento basso</td>
+<td>2025-02-24T12:54:12.5939229+00:00</td>
+</tr>
+<tr>
+<td>profile-fun-5</td>
+<td>Spass hoch</td>
+<td>profile-fun</td>
+<td>Fun high</td>
+<td>Très amusant</td>
+<td>Molto divertimento</td>
+<td>2025-02-24T12:54:59.1104641+00:00</td>
+</tr>
+<tr>
+<td>profile-relaxation-1</td>
+<td>Entspannung niedrig</td>
+<td>profile-relaxation</td>
+<td>Relaxation low</td>
+<td>Détente faible</td>
+<td>Rilassamento basso</td>
+<td>2025-02-24T12:59:08.9305975+00:00</td>
+</tr>
+<tr>
+<td>profile-mod-group</td>
+<td>Gruppe</td>
+<td>profile</td>
+<td>Group</td>
+<td>Groupe</td>
+<td>Gruppo</td>
+<td>2025-06-28T07:37:16.6401975+00:00</td>
+</tr>
+<tr>
+<td>profile-relaxation-5</td>
+<td>Entspannung hoch</td>
+<td>profile-relaxation</td>
+<td>Relaxation high</td>
+<td>Relaxation élevée</td>
+<td>Rilassamento alto</td>
+<td>2025-02-24T12:59:11.3608779+00:00</td>
+</tr>
+<tr>
+<td>profile-tourist-recommendation-level-1</td>
+<td>Touristische Empfehlung-Stufe 1</td>
+<td>profile</td>
+<td>Tourist recommendation level 1</td>
+<td>Recommandation touristique niveau 1</td>
+<td>Raccomandazione turistica livello 1</td>
+<td>2025-06-28T07:41:36.5952876+00:00</td>
+</tr>
+<tr>
+<td>culinary-gourmet</td>
+<td>Gourmet</td>
+<td>culinary</td>
+<td>Gourmet</td>
+<td>Gourmet</td>
+<td>Buongustaio</td>
+<td>2025-03-31T09:30:37.3877758+00:00</td>
+</tr>
+<tr>
+<td>culinary-french</td>
+<td>Französisch</td>
+<td>culinary</td>
+<td>French</td>
+<td>Français</td>
+<td>Francese</td>
+<td>2025-03-31T09:30:37.1583347+00:00</td>
+</tr>
+<tr>
+<td>culinary-local-specialities</td>
+<td>Lokale Spezialitäten</td>
+<td>culinary</td>
+<td>Local specialities</td>
+<td>Spécialités locales</td>
+<td>Specialità locali</td>
+<td>2025-03-31T09:30:43.5097673+00:00</td>
+</tr>
+<tr>
+<td>culinary-italian</td>
+<td>Italienisch</td>
+<td>culinary</td>
+<td>Italian</td>
+<td>Italien</td>
+<td>Italiano</td>
+<td>2025-03-31T09:30:51.257688+00:00</td>
+</tr>
+<tr>
+<td>culinary-indian</td>
+<td>Indisch</td>
+<td>culinary</td>
+<td>Indian</td>
+<td>Indien</td>
+<td>Indiano</td>
+<td>2025-03-31T09:30:42.9482854+00:00</td>
+</tr>
+<tr>
+<td>culinary-healthy</td>
+<td>Healthy</td>
+<td>culinary</td>
+<td>Healthy</td>
+<td>Sain</td>
+<td>Sano</td>
+<td>2025-03-31T09:30:42.9342689+00:00</td>
+</tr>
+<tr>
+<td>culinary-fish</td>
+<td>Fisch/Seafood</td>
+<td>culinary</td>
+<td>Fish/Seafood</td>
+<td>Poissons/fruits de mer</td>
+<td>Pesce/Frutti di mare</td>
+<td>2025-09-09T17:43:53.1473892+00:00</td>
+</tr>
+<tr>
+<td>culinary-american</td>
+<td>Amerikanisch</td>
+<td>culinary</td>
+<td>American</td>
+<td>Américain</td>
+<td>Americano</td>
+<td>2025-03-31T09:30:23.8594001+00:00</td>
+</tr>
+<tr>
+<td>culinary-asian</td>
+<td>Asiatisch</td>
+<td>culinary</td>
+<td>Asian</td>
+<td>Asiatique</td>
+<td>Asiatico</td>
+<td>2025-03-31T09:30:27.0223238+00:00</td>
+</tr>
+<tr>
+<td>culinary-dessert</td>
+<td>Nachspeisen</td>
+<td>culinary</td>
+<td>Desserts</td>
+<td>Desserts</td>
+<td>Dolci</td>
+<td>2025-03-31T09:30:29.9785388+00:00</td>
+</tr>
+<tr>
+<td>dance-modern</td>
+<td>Modern</td>
+<td>dance</td>
+<td>Modern</td>
+<td>Moderne</td>
+<td>Moderno</td>
+<td>2025-03-31T09:30:40.8503799+00:00</td>
+</tr>
+<tr>
+<td>culinary-japanese-sushi</td>
+<td>Japanisch-sushi</td>
+<td>culinary</td>
+<td>Japanese sushi</td>
+<td>Sushi japonais</td>
+<td>Sushi giapponese</td>
+<td>2025-03-31T09:31:13.6076295+00:00</td>
+</tr>
+<tr>
+<td>dance-ballet</td>
+<td>Ballett</td>
+<td>dance</td>
+<td>Ballet</td>
+<td>Ballet</td>
+<td>Balletto</td>
+<td>2025-03-31T09:30:44.8412336+00:00</td>
+</tr>
+<tr>
+<td>dance-show</td>
+<td>Show</td>
+<td>dance</td>
+<td>Show</td>
+<td>Montrer</td>
+<td>Mostrare</td>
+<td>2025-03-31T09:30:54.4961943+00:00</td>
+</tr>
+<tr>
+<td>dance-dance-theater</td>
+<td>Tanztheater</td>
+<td>dance</td>
+<td>Dance theater</td>
+<td>Danse théâtre</td>
+<td>Teatro danza</td>
+<td>2025-03-31T09:33:04.738593+00:00</td>
+</tr>
+<tr>
+<td>culinary-spanish</td>
+<td>Spanisch</td>
+<td>culinary</td>
+<td>Spanish</td>
+<td>Espagnol</td>
+<td>Spagnolo</td>
+<td>2025-03-31T09:30:44.0438467+00:00</td>
+</tr>
+<tr>
+<td>dance-performance</td>
+<td>Performance</td>
+<td>dance</td>
+<td>Performance</td>
+<td>Performance</td>
+<td>Prestazione</td>
+<td>2025-03-31T09:30:38.3484717+00:00</td>
+</tr>
+<tr>
+<td>culinary-vegetarian</td>
+<td>Vegetarisch</td>
+<td>culinary</td>
+<td>Vegetarian</td>
+<td>Végétarien</td>
+<td>Vegetariano</td>
+<td>2025-03-31T09:30:35.0223548+00:00</td>
+</tr>
+<tr>
+<td>dance-ball</td>
+<td>Ball</td>
+<td>dance</td>
+<td>Ball</td>
+<td>Ballon</td>
+<td>Palla</td>
+<td>2025-03-31T09:30:59.0998048+00:00</td>
+</tr>
+<tr>
+<td>languages-chinese</td>
+<td>Chinesisch</td>
+<td>languages</td>
+<td>Chinese</td>
+<td>Chinois</td>
+<td>Cinese</td>
+<td>2025-03-31T09:31:15.6270282+00:00</td>
+</tr>
+<tr>
+<td>languages-english</td>
+<td>Englisch</td>
+<td>languages</td>
+<td>English</td>
+<td>Anglais</td>
+<td>Inglese</td>
+<td>2025-03-31T09:31:04.8053609+00:00</td>
+</tr>
+<tr>
+<td>life-christmas</td>
+<td>Weihnachten</td>
+<td>life</td>
+<td>Christmas</td>
+<td>Noël</td>
+<td>Natale</td>
+<td>2025-03-31T09:31:17.2532864+00:00</td>
+</tr>
+<tr>
+<td>languages-japanese</td>
+<td>Japanisch</td>
+<td>languages</td>
+<td>Japanese</td>
+<td>Japonais</td>
+<td>Giapponese</td>
+<td>2025-03-31T09:31:00.8761892+00:00</td>
+</tr>
+<tr>
+<td>life-alpine-experience</td>
+<td>Alpenerlebnis</td>
+<td>life</td>
+<td>Alpine experience</td>
+<td>Expérience alpine</td>
+<td>Esperienza alpina</td>
+<td>2025-03-31T09:31:22.5916145+00:00</td>
+</tr>
+<tr>
+<td>languages-hindi</td>
+<td>Hindi</td>
+<td>languages</td>
+<td>Hindi</td>
+<td>Hindi</td>
+<td>Hindi</td>
+<td>2025-03-31T09:31:16.8758476+00:00</td>
+</tr>
+<tr>
+<td>life-sleeping-in-the-straw</td>
+<td>Schlafen im Stroh</td>
+<td>life</td>
+<td>Sleeping in straw</td>
+<td>Dormir dans la paille</td>
+<td>Dormire nella paglia</td>
+<td>2025-03-31T09:31:29.1479068+00:00</td>
+</tr>
+<tr>
+<td>life-festival</td>
+<td>Festival</td>
+<td>life</td>
+<td>Festival</td>
+<td>Fête</td>
+<td>Festival</td>
+<td>2025-03-31T09:31:02.4681555+00:00</td>
+</tr>
+<tr>
+<td>languages-french</td>
+<td>Französisch</td>
+<td>languages</td>
+<td>French</td>
+<td>Français</td>
+<td>Francese</td>
+<td>2025-03-31T09:31:17.7463942+00:00</td>
+</tr>
+<tr>
+<td>languages-italian</td>
+<td>Italienisch</td>
+<td>languages</td>
+<td>Italian</td>
+<td>Italien</td>
+<td>Italiano</td>
+<td>2025-03-31T09:31:01.2896296+00:00</td>
+</tr>
+<tr>
+<td>life-apres-ski</td>
+<td>Après Ski</td>
+<td>life</td>
+<td>Après Ski</td>
+<td>Après-ski</td>
+<td>Après Ski</td>
+<td>2025-03-31T09:31:21.6849516+00:00</td>
+</tr>
+<tr>
+<td>life-nature</td>
+<td>Natur</td>
+<td>life</td>
+<td>Nature</td>
+<td>Nature</td>
+<td>Natura</td>
+<td>2025-03-31T09:31:19.5863401+00:00</td>
+</tr>
+<tr>
+<td>life-guided</td>
+<td>Geführt</td>
+<td>life</td>
+<td>Guided</td>
+<td>Guidé</td>
+<td>Guidato</td>
+<td>2025-03-31T09:31:22.1743752+00:00</td>
+</tr>
+<tr>
+<td>life-recreation-and-leisure</td>
+<td>Freizeit</td>
+<td>life</td>
+<td>Leisure</td>
+<td>Loisir</td>
+<td>Tempo libero</td>
+<td>2025-03-31T09:31:20.2520938+00:00</td>
+</tr>
+<tr>
+<td>life-adventure-farm</td>
+<td>Erlebnishof</td>
+<td>life</td>
+<td>Adventure farm</td>
+<td>Ferme d’aventure</td>
+<td>Fattoria avventura</td>
+<td>2025-03-31T09:31:12.0445339+00:00</td>
+</tr>
+<tr>
+<td>music-rap</td>
+<td>Rap</td>
+<td>music</td>
+<td>Rap</td>
+<td>Rap</td>
+<td>Colpo</td>
+<td>2025-03-31T09:32:07.3847027+00:00</td>
+</tr>
+<tr>
+<td>music-symphony-orchestra</td>
+<td>Symphonieorchester</td>
+<td>music</td>
+<td>Symphony orchestra</td>
+<td>Orchestre symphonique</td>
+<td>Orchestra sinfonica</td>
+<td>2025-03-31T09:32:21.5224672+00:00</td>
+</tr>
+<tr>
+<td>languages-german</td>
+<td>Deutsch</td>
+<td>languages</td>
+<td>German</td>
+<td>Allemand</td>
+<td>Tedesco</td>
+<td>2025-03-31T09:31:02.2358125+00:00</td>
+</tr>
+<tr>
+<td>market-street-market</td>
+<td>Strassenmarkt</td>
+<td>market</td>
+<td>Street Market</td>
+<td>Marché de rue</td>
+<td>Mercato di strada</td>
+<td>2025-03-31T09:31:37.1341014+00:00</td>
+</tr>
+<tr>
+<td>life-open-air</td>
+<td>Open-air</td>
+<td>life</td>
+<td>Open</td>
+<td>Ouvrir</td>
+<td>Aperto</td>
+<td>2025-03-31T09:31:17.3352705+00:00</td>
+</tr>
+<tr>
+<td>music-folk-music</td>
+<td>Volksmusik</td>
+<td>music</td>
+<td>Folk music</td>
+<td>Musique folk</td>
+<td>Musica popolare</td>
+<td>2025-03-31T09:33:20.741913+00:00</td>
+</tr>
+<tr>
+<td>life-summer-activities</td>
+<td>Sommeraktivitäten</td>
+<td>life</td>
+<td>Summer</td>
+<td>Été</td>
+<td>Estate</td>
+<td>2025-03-31T09:31:29.57616+00:00</td>
+</tr>
+<tr>
+<td>music-techno</td>
+<td>Techno</td>
+<td>music</td>
+<td>Techno</td>
+<td>Techno</td>
+<td>Techno</td>
+<td>2025-03-31T09:32:23.7420644+00:00</td>
+</tr>
+<tr>
+<td>music-church</td>
+<td>Kirchenmusik</td>
+<td>music</td>
+<td>Church</td>
+<td>Église</td>
+<td>Chiesa</td>
+<td>2025-03-31T09:31:50.4500281+00:00</td>
+</tr>
+<tr>
+<td>music-trance</td>
+<td>Trance</td>
+<td>music</td>
+<td>Trance</td>
+<td>Transe</td>
+<td>Trance</td>
+<td>2025-03-31T09:32:25.8270989+00:00</td>
+</tr>
+<tr>
+<td>music-gothic</td>
+<td>Gothic</td>
+<td>music</td>
+<td>Gothic</td>
+<td>Gothique</td>
+<td>Gotico</td>
+<td>2025-03-31T09:32:01.9585262+00:00</td>
+</tr>
+<tr>
+<td>music-punk</td>
+<td>Punk</td>
+<td>music</td>
+<td>Punk</td>
+<td>Punk</td>
+<td>Punk</td>
+<td>2025-03-31T09:32:07.2039586+00:00</td>
+</tr>
+<tr>
+<td>music-chamber</td>
+<td>Kammermusik</td>
+<td>music</td>
+<td>Chamber music</td>
+<td>Musique de chambre</td>
+<td>Musica da camera</td>
+<td>2025-03-31T09:31:33.4795998+00:00</td>
+</tr>
+<tr>
+<td>market-christmas-market</td>
+<td>Weihnachtsmarkt</td>
+<td>market</td>
+<td>Christmas market</td>
+<td>Marché de Noël</td>
+<td>Mercatino di Natale</td>
+<td>2025-03-31T09:31:25.4232337+00:00</td>
+</tr>
+<tr>
+<td>music-swing</td>
+<td>Swing</td>
+<td>music</td>
+<td>Swing</td>
+<td>Balançoire</td>
+<td>Altalena</td>
+<td>2025-03-31T09:32:23.0392834+00:00</td>
+</tr>
+<tr>
+<td>music-yodel</td>
+<td>Jodel</td>
+<td>music</td>
+<td>Yodel</td>
+<td>Iodler</td>
+<td>Gorgheggiare</td>
+<td>2025-03-31T09:32:27.9540489+00:00</td>
+</tr>
+<tr>
+<td>seasonality-winter</td>
+<td>Winter</td>
+<td>seasonality</td>
+<td>Winter</td>
+<td>Hiver</td>
+<td>Inverno</td>
+<td>2025-03-31T09:32:32.4149495+00:00</td>
+</tr>
+<tr>
+<td>regional-customs-carnival</td>
+<td>Fasnacht</td>
+<td>regional-customs</td>
+<td>Fasnacht</td>
+<td>Fasnacht</td>
+<td>Fasnacht</td>
+<td>2025-03-31T09:33:31.6243871+00:00</td>
+</tr>
+<tr>
+<td>weekdays-wednesday</td>
+<td>Mittwoch</td>
+<td>weekdays</td>
+<td>Wednesday</td>
+<td>Mercredi</td>
+<td>Mercoledì</td>
+<td>2025-03-31T09:33:29.37464+00:00</td>
+</tr>
+<tr>
+<td>culinary-gluten-free</td>
+<td>Glutenfrei</td>
+<td>culinary</td>
+<td>Gluten-free</td>
+<td>Sans gluten</td>
+<td>Senza glutine</td>
+<td>2025-03-31T09:30:33.841848+00:00</td>
+</tr>
+<tr>
+<td>seasonality-spring</td>
+<td>Frühling</td>
+<td>seasonality</td>
+<td>Spring</td>
+<td>Source</td>
+<td>Primavera</td>
+<td>2025-03-31T09:32:31.2817434+00:00</td>
+</tr>
+<tr>
+<td>weekdays-friday</td>
+<td>Freitag</td>
+<td>weekdays</td>
+<td>Friday</td>
+<td>Vendredi</td>
+<td>Venerdì</td>
+<td>2025-03-31T09:33:26.0437594+00:00</td>
+</tr>
+<tr>
+<td>culinary-pizza</td>
+<td>Pizza</td>
+<td>culinary</td>
+<td>Pizza</td>
+<td>Pizza</td>
+<td>Pizza</td>
+<td>2025-03-31T09:30:45.4851654+00:00</td>
+</tr>
+<tr>
+<td>culinary-streetfood</td>
+<td>Street-Food</td>
+<td>culinary</td>
+<td>Street food</td>
+<td>Cuisine de rue</td>
+<td>Cibo di strada</td>
+<td>2025-03-31T09:30:40.3612698+00:00</td>
+</tr>
+<tr>
+<td>culinary-thai</td>
+<td>Thailändisch</td>
+<td>culinary</td>
+<td>Thai</td>
+<td>Thaï</td>
+<td>Tailandese</td>
+<td>2025-03-31T09:30:49.5888834+00:00</td>
+</tr>
+<tr>
+<td>transport-rickshaw</td>
+<td>Rikscha</td>
+<td>transport</td>
+<td>Rickshaw</td>
+<td>Pousse-pousse</td>
+<td>Risciò</td>
+<td>2025-03-31T09:32:58.152504+00:00</td>
+</tr>
+<tr>
+<td>culinary-oriental</td>
+<td>Orientalisch</td>
+<td>culinary</td>
+<td>Oriental</td>
+<td>Oriental</td>
+<td>Orientale</td>
+<td>2025-03-31T09:30:49.5552479+00:00</td>
+</tr>
+<tr>
+<td>culinary-bbq</td>
+<td>BBQ</td>
+<td>culinary</td>
+<td>BBQ</td>
+<td>BBQ</td>
+<td>Barbecue</td>
+<td>2025-03-31T09:30:28.5309074+00:00</td>
+</tr>
+<tr>
+<td>culinary-mediterranean</td>
+<td>Mediterran</td>
+<td>culinary</td>
+<td>Mediterranean</td>
+<td>Méditerranéen</td>
+<td>Mediterraneo</td>
+<td>2025-03-31T09:30:38.8268049+00:00</td>
+</tr>
+<tr>
+<td>culinary-mexican</td>
+<td>Mexikanisch</td>
+<td>culinary</td>
+<td>Mexican</td>
+<td>Mexicain</td>
+<td>Messicano</td>
+<td>2025-03-31T09:30:43.3687903+00:00</td>
+</tr>
+<tr>
+<td>culinary-pasta</td>
+<td>Pasta</td>
+<td>culinary</td>
+<td>Pasta</td>
+<td>Pâtes alimentaires</td>
+<td>Pasta</td>
+<td>2025-03-31T09:30:58.7196553+00:00</td>
+</tr>
+<tr>
+<td>transport-transfer</td>
+<td>Transfer</td>
+<td>transport</td>
+<td>Transfer</td>
+<td>Transfert</td>
+<td>Trasferimento</td>
+<td>2025-03-31T09:33:00.60568+00:00</td>
+</tr>
+<tr>
+<td>weekdays-saturday</td>
+<td>Samstag</td>
+<td>weekdays</td>
+<td>Saturday</td>
+<td>Samedi</td>
+<td>Sabato</td>
+<td>2025-03-31T09:33:27.7071812+00:00</td>
+</tr>
+<tr>
+<td>weekdays-monday</td>
+<td>Montag</td>
+<td>weekdays</td>
+<td>Monday</td>
+<td>Lundi</td>
+<td>Lunedì</td>
+<td>2025-03-31T09:33:28.5463641+00:00</td>
+</tr>
+<tr>
+<td>culinary-poke</td>
+<td>Poke</td>
+<td>culinary</td>
+<td>Poke</td>
+<td>Piquer</td>
+<td>Attizzare</td>
+<td>2025-03-31T09:30:42.0157099+00:00</td>
+</tr>
+<tr>
+<td>swissness-local-product</td>
+<td>Lokal-Produkt</td>
+<td>swissness</td>
+<td>Local Product</td>
+<td>Produit local</td>
+<td>Prodotto Locale</td>
+<td>2025-03-31T09:33:22.8900952+00:00</td>
+</tr>
+<tr>
+<td>culinary-international</td>
+<td>International</td>
+<td>culinary</td>
+<td>International</td>
+<td>International</td>
+<td>Internazionale</td>
+<td>2025-03-31T09:30:46.2093014+00:00</td>
+</tr>
+<tr>
+<td>transport-bus</td>
+<td>Bus</td>
+<td>transport</td>
+<td>Bus</td>
+<td>Bus</td>
+<td>Autobus</td>
+<td>2025-03-31T09:32:52.7650659+00:00</td>
+</tr>
+<tr>
+<td>culinary-vegan</td>
+<td>Vegan</td>
+<td>culinary</td>
+<td>Vegan</td>
+<td>Végétalien</td>
+<td>Vegano</td>
+<td>2025-03-31T09:30:51.9202196+00:00</td>
+</tr>
+<tr>
+<td>life-concert</td>
+<td>Konzert</td>
+<td>life</td>
+<td>Concert</td>
+<td>Concert</td>
+<td>Concerto</td>
+<td>2025-03-31T09:31:20.8423121+00:00</td>
+</tr>
+<tr>
+<td>life-mountain</td>
+<td>Berg</td>
+<td>life</td>
+<td>Mountain</td>
+<td>Montagne</td>
+<td>Montagna</td>
+<td>2025-03-31T09:31:28.7254671+00:00</td>
+</tr>
+<tr>
+<td>languages-portuguese</td>
+<td>Portugiesisch</td>
+<td>languages</td>
+<td>Portuguese</td>
+<td>Portugais</td>
+<td>Portoghese</td>
+<td>2025-03-31T09:31:02.0036316+00:00</td>
+</tr>
+<tr>
+<td>dance-classic</td>
+<td>Klassisch</td>
+<td>dance</td>
+<td>Classic</td>
+<td>Classique</td>
+<td>Classico</td>
+<td>2025-03-31T09:30:51.4707926+00:00</td>
+</tr>
+<tr>
+<td>life-holiday-camp</td>
+<td>Ferienlager</td>
+<td>life</td>
+<td>Holiday camp</td>
+<td>Camp de vacances</td>
+<td>Villaggio turistico</td>
+<td>2025-03-31T09:31:17.664758+00:00</td>
+</tr>
+<tr>
+<td>languages-spanish</td>
+<td>Spanisch</td>
+<td>languages</td>
+<td>Spanish</td>
+<td>Espagnol</td>
+<td>Spagnolo</td>
+<td>2025-03-31T09:31:03.1802643+00:00</td>
+</tr>
+<tr>
+<td>life-outdoor</td>
+<td>Outdoor</td>
+<td>life</td>
+<td>Outdoor</td>
+<td>Extérieur</td>
+<td>All’aperto</td>
+<td>2025-03-31T09:31:22.2715961+00:00</td>
+</tr>
+<tr>
+<td>music-baroque</td>
+<td>Barock</td>
+<td>music</td>
+<td>Baroque</td>
+<td>Baroque</td>
+<td>Barocco</td>
+<td>2025-03-31T09:31:37.9486623+00:00</td>
+</tr>
+<tr>
+<td>languages-russian</td>
+<td>Russisch</td>
+<td>languages</td>
+<td>Russian</td>
+<td>Russe</td>
+<td>Russo</td>
+<td>2025-03-31T09:31:23.3367784+00:00</td>
+</tr>
+<tr>
+<td>market-farmers-market</td>
+<td>Bauernmarkt</td>
+<td>market</td>
+<td>Farmer's Market</td>
+<td>Marché fermier</td>
+<td>Mercato contadino</td>
+<td>2025-03-31T09:31:33.0388102+00:00</td>
+</tr>
+<tr>
+<td>weekdays-tuesday</td>
+<td>Dienstag</td>
+<td>weekdays</td>
+<td>Tuesday</td>
+<td>Mardi</td>
+<td>Martedì</td>
+<td>2025-03-31T09:33:28.1554203+00:00</td>
+</tr>
+<tr>
+<td>market-flea-market</td>
+<td>Flohmarkt</td>
+<td>market</td>
+<td>Flea market</td>
+<td>Marché aux puces</td>
+<td>Mercato delle pulci</td>
+<td>2025-03-31T09:32:13.9318299+00:00</td>
+</tr>
+<tr>
+<td>life-indoor</td>
+<td>Indoor</td>
+<td>life</td>
+<td>Indoor</td>
+<td>Intérieur</td>
+<td>Interno</td>
+<td>2025-03-31T09:31:13.0000746+00:00</td>
+</tr>
+<tr>
+<td>market-fair</td>
+<td>Jahrmarkt</td>
+<td>market</td>
+<td>Fair</td>
+<td>Juste</td>
+<td>Fiera</td>
+<td>2025-03-31T09:31:18.1099463+00:00</td>
+</tr>
+<tr>
+<td>music-chapel</td>
+<td>Ländlerkapelle</td>
+<td>music</td>
+<td>Ländlerkapelle</td>
+<td>Ländlerkapelle</td>
+<td>Ländlerkapelle</td>
+<td>2025-03-31T09:31:43.9382718+00:00</td>
+</tr>
+<tr>
+<td>regional-customs-flag-waving</td>
+<td>Fahnenschwingen</td>
+<td>regional-customs</td>
+<td>Flag-waving</td>
+<td>Agitement de drapeau</td>
+<td>Sventolare la bandiera</td>
+<td>2025-03-31T09:32:28.9115655+00:00</td>
+</tr>
+<tr>
+<td>transport-boat</td>
+<td>Boot</td>
+<td>transport</td>
+<td>Boat</td>
+<td>Bateau</td>
+<td>Barca</td>
+<td>2025-03-31T09:32:59.0399918+00:00</td>
+</tr>
+<tr>
+<td>weekdays-thursday</td>
+<td>Donnerstag</td>
+<td>weekdays</td>
+<td>Thursday</td>
+<td>Jeudi</td>
+<td>Giovedì</td>
+<td>2025-03-31T09:33:28.9421306+00:00</td>
+</tr>
+<tr>
+<td>transport-e-tuktuk</td>
+<td>E-TukTuk</td>
+<td>transport</td>
+<td>E-TukTuk</td>
+<td>E-TukTuk</td>
+<td>E-TukTuk</td>
+<td>2025-03-31T09:32:58.5738786+00:00</td>
+</tr>
+<tr>
+<td>life-excursions</td>
+<td>Ausflugsziele</td>
+<td>life</td>
+<td>Destinations</td>
+<td>Destinations</td>
+<td>Destinazioni</td>
+<td>2025-03-31T09:31:22.1567058+00:00</td>
+</tr>
+<tr>
+<td>swissness-sustainable-production</td>
+<td>Nachhaltige-Produktion</td>
+<td>swissness</td>
+<td>Sustainable production</td>
+<td>Production durable</td>
+<td>Produzione sostenibile</td>
+<td>2025-03-31T09:33:25.1521952+00:00</td>
+</tr>
+<tr>
+<td>music-alphorn</td>
+<td>Alphorn</td>
+<td>music</td>
+<td>Alphorn</td>
+<td>Cor des Alpes</td>
+<td>Alphorn</td>
+<td>2025-03-31T09:31:35.0367451+00:00</td>
+</tr>
+<tr>
+<td>seasonality-summer</td>
+<td>Sommer</td>
+<td>seasonality</td>
+<td>Summer</td>
+<td>Été</td>
+<td>Estate</td>
+<td>2025-03-31T09:32:32.2581473+00:00</td>
+</tr>
+<tr>
+<td>weekdays-sunday</td>
+<td>Sonntag</td>
+<td>weekdays</td>
+<td>Sunday</td>
+<td>Dimanche</td>
+<td>Domenica</td>
+<td>2025-03-31T09:33:30.7953171+00:00</td>
+</tr>
+<tr>
+<td>music-reggaeton</td>
+<td>Reggaeton</td>
+<td>music</td>
+<td>Reggaeton</td>
+<td>Reggaeton</td>
+<td>Reggaeton</td>
+<td>2025-03-31T09:32:16.4879156+00:00</td>
+</tr>
+<tr>
+<td>transport-e-bike</td>
+<td>E-Bike</td>
+<td>transport</td>
+<td>E-Bike</td>
+<td>Vélo électrique</td>
+<td>E-Bike</td>
+<td>2025-03-31T09:32:37.0707342+00:00</td>
+</tr>
+<tr>
+<td>music-soul</td>
+<td>Soul</td>
+<td>music</td>
+<td>Soul</td>
+<td>Âme</td>
+<td>Anima</td>
+<td>2025-03-31T09:32:18.0759707+00:00</td>
+</tr>
+<tr>
+<td>music-house</td>
+<td>House</td>
+<td>music</td>
+<td>House</td>
+<td>Maison</td>
+<td>Casa</td>
+<td>2025-03-31T09:32:03.3035933+00:00</td>
+</tr>
+<tr>
+<td>music-electric</td>
+<td>Elektro</td>
+<td>music</td>
+<td>Electric</td>
+<td>Électrique</td>
+<td>Elettrico</td>
+<td>2025-03-31T09:32:04.0040659+00:00</td>
+</tr>
+<tr>
+<td>music-rockabilly</td>
+<td>Rockabilly</td>
+<td>music</td>
+<td>Rockabilly</td>
+<td>Rockabilly</td>
+<td>Rockabilly</td>
+<td>2025-03-31T09:32:17.174641+00:00</td>
+</tr>
+<tr>
+<td>music-funk</td>
+<td>Funk</td>
+<td>music</td>
+<td>Funk</td>
+<td>Funk</td>
+<td>Funk</td>
+<td>2025-03-31T09:31:58.6666215+00:00</td>
+</tr>
+<tr>
+<td>music-metal</td>
+<td>Metal</td>
+<td>music</td>
+<td>Metal</td>
+<td>Métal</td>
+<td>Metallo</td>
+<td>2025-03-31T09:32:06.9535874+00:00</td>
+</tr>
+<tr>
+<td>seasonality-autumn</td>
+<td>Herbst</td>
+<td>seasonality</td>
+<td>Autumn</td>
+<td>Automne</td>
+<td>Autunno</td>
+<td>2025-03-31T09:32:30.4463421+00:00</td>
+</tr>
+<tr>
+<td>music-hardcore-techno</td>
+<td>Hardcore-Techno</td>
+<td>music</td>
+<td>Hardcore Techno</td>
+<td>Hardcore Techno</td>
+<td>Hardcore Techno</td>
+<td>2025-03-31T09:31:58.160452+00:00</td>
+</tr>
+<tr>
+<td>swissness-made-in-switzerland</td>
+<td>Made-in-Switzerland</td>
+<td>swissness</td>
+<td>Made-in-Switzerland</td>
+<td>Fabriqué en Suisse</td>
+<td>Made in Switzerland</td>
+<td>2025-03-31T09:33:24.1842581+00:00</td>
+</tr>
+<tr>
+<td>regional-customs-alpine-ascension</td>
+<td>Alpaufzug</td>
+<td>regional-customs</td>
+<td>Cattle Procession</td>
+<td>Procession bovine</td>
+<td>Processione del bestiame</td>
+<td>2025-03-31T09:32:28.4943845+00:00</td>
+</tr>
+<tr>
+<td>life-winter-activities</td>
+<td>Winteraktivitäten</td>
+<td>life</td>
+<td>Winter</td>
+<td>Hiver</td>
+<td>Inverno</td>
+<td>2025-03-31T09:31:23.7646297+00:00</td>
+</tr>
+<tr>
+<td>music-blues</td>
+<td>Blues</td>
+<td>music</td>
+<td>Blues</td>
+<td>Blues</td>
+<td>Blues</td>
+<td>2025-03-31T09:31:38.5664135+00:00</td>
+</tr>
+<tr>
+<td>music-hip-hop</td>
+<td>Hip-Hop</td>
+<td>music</td>
+<td>Hip-hop</td>
+<td>Hip-hop</td>
+<td>Hip-hop</td>
+<td>2025-03-31T09:31:51.7083164+00:00</td>
+</tr>
+<tr>
+<td>music-piano</td>
+<td>Klavier</td>
+<td>music</td>
+<td>Piano</td>
+<td>Piano</td>
+<td>Pianoforte</td>
+<td>2025-03-31T09:32:06.7770084+00:00</td>
+</tr>
+<tr>
+<td>life-snow-sports</td>
+<td>Schneesport</td>
+<td>life</td>
+<td>Snow sports</td>
+<td>Sports de neige</td>
+<td>Sport sulla neve</td>
+<td>2025-03-31T09:31:22.5943026+00:00</td>
+</tr>
+<tr>
+<td>music-country</td>
+<td>Country</td>
+<td>music</td>
+<td>Country</td>
+<td>Pays</td>
+<td>Paese</td>
+<td>2025-03-31T09:31:50.8548713+00:00</td>
+</tr>
+<tr>
+<td>music-karaoke</td>
+<td>Karaoke</td>
+<td>music</td>
+<td>Karaoke</td>
+<td>Karaoké</td>
+<td>Karaoke</td>
+<td>2025-03-31T09:32:04.2178487+00:00</td>
+</tr>
+<tr>
+<td>music-reggae</td>
+<td>Reggae</td>
+<td>music</td>
+<td>Reggae</td>
+<td>Reggae</td>
+<td>Reggae</td>
+<td>2025-03-31T09:32:14.2499296+00:00</td>
+</tr>
+<tr>
+<td>accomodation-luggage-transport</td>
+<td>Gepäcktransport</td>
+<td>accomodation</td>
+<td>Baggage</td>
+<td>Bagage</td>
+<td>Bagaglio</td>
+<td>2025-03-31T09:33:31.2074876+00:00</td>
+</tr>
+<tr>
+<td>hiking-alpine-hiking</td>
+<td>Alpinwandern</td>
+<td>hiking</td>
+<td>Alpine hiking</td>
+<td>Randonnée alpine</td>
+<td>Escursioni alpine</td>
+<td>2025-03-31T09:33:42.8344681+00:00</td>
+</tr>
+<tr>
+<td>accomodation-accomodation</td>
+<td>Übernachten</td>
+<td>accomodation</td>
+<td>Spend the night</td>
+<td>Passez la nuit</td>
+<td>Trascorri la notte</td>
+<td>2025-06-28T07:17:13.0744246+00:00</td>
+</tr>
+<tr>
+<td>hiking-mountain-hiking</td>
+<td>Bergwandern</td>
+<td>hiking</td>
+<td>Hiking</td>
+<td>Randonnée</td>
+<td>Escursionismo</td>
+<td>2025-03-31T09:33:40.1692695+00:00</td>
+</tr>
+<tr>
+<td>market-rent</td>
+<td>Vermietung</td>
+<td>market</td>
+<td>Renting</td>
+<td>Location</td>
+<td>Affitto</td>
+<td>2025-03-31T09:33:46.4902733+00:00</td>
+</tr>
+<tr>
+<td>market-buy</td>
+<td>Kaufen</td>
+<td>market</td>
+<td>Buy</td>
+<td>Acheter</td>
+<td>Comprare</td>
+<td>2025-03-31T09:33:48.9092934+00:00</td>
+</tr>
+<tr>
+<td>hiking-hiking</td>
+<td>Wandern</td>
+<td>hiking</td>
+<td>Wander</td>
+<td>Errer</td>
+<td>Vagabondare</td>
+<td>2025-06-28T07:31:43.1662124+00:00</td>
+</tr>
+<tr>
+<td>transport-cable-railway</td>
+<td>Bergbahn</td>
+<td>transport</td>
+<td>Mountain railway</td>
+<td>Chemin de fer de montagne</td>
+<td>Ferrovia di montagna</td>
+<td>2025-03-31T09:33:49.3888614+00:00</td>
+</tr>
+<tr>
+<td>audience-info-association</td>
+<td>Veriene/Firmen</td>
+<td>audience-info</td>
+<td>association</td>
+<td>Entreprises/Entreprises</td>
+<td>Aziende/Aziende</td>
+<td>2025-06-28T07:26:14.8383693+00:00</td>
+</tr>
+<tr>
+<td>life-wellness</td>
+<td>Wellness</td>
+<td>life</td>
+<td>Wellness</td>
+<td>Bien-être</td>
+<td>Benessere</td>
+<td>2025-03-31T09:33:58.0455112+00:00</td>
+</tr>
+<tr>
+<td>general-picnic</td>
+<td>Picknickplatz unterwegs</td>
+<td>general</td>
+<td>Picnic area on the way</td>
+<td>Aire de pique-sur le chemin</td>
+<td>Area picnic lungo la strada</td>
+<td>2025-03-31T09:33:55.7001673+00:00</td>
+</tr>
+<tr>
+<td>transport-mobility</td>
+<td>Mobilität</td>
+<td>transport</td>
+<td>Mobility</td>
+<td>Mobilité</td>
+<td>Mobilità</td>
+<td>2025-03-31T09:33:58.0907223+00:00</td>
+</tr>
+<tr>
+<td>culinary-winetour</td>
+<td>Weintour</td>
+<td>culinary</td>
+<td>Wine Tour</td>
+<td>Visite des vins</td>
+<td>Tour del vino</td>
+<td>2025-03-31T09:33:58.5041743+00:00</td>
+</tr>
+<tr>
+<td>region-central-ch</td>
+<td>Zentralschweiz</td>
+<td>region</td>
+<td>Central</td>
+<td>Central</td>
+<td>Centrale</td>
+<td>2025-03-31T09:34:02.1563402+00:00</td>
+</tr>
+<tr>
+<td>culinary-fast-food</td>
+<td>Fast-Food</td>
+<td>culinary</td>
+<td>Fast food</td>
+<td>Restauration rapide</td>
+<td>Fast food</td>
+<td>2024-10-02T09:32:54.7478327+00:00</td>
+</tr>
+<tr>
+<td>region-bernese-mountains</td>
+<td>Berner Oberland</td>
+<td>region</td>
+<td>Bernese Oberland</td>
+<td>Oberland bernois</td>
+<td>Bernese Oberland</td>
+<td>2025-03-31T09:34:00.3254159+00:00</td>
+</tr>
+<tr>
+<td>region-eastern-ch</td>
+<td>Ostschweiz</td>
+<td>region</td>
+<td>Eastern switzerland</td>
+<td>Suisse orientale</td>
+<td>Svizzera orientale</td>
+<td>2025-03-31T09:34:03.1224977+00:00</td>
+</tr>
+<tr>
+<td>region-zuerich</td>
+<td>Region Zürich</td>
+<td>region</td>
+<td>Zurich Region</td>
+<td>Région de Zurich</td>
+<td>Zurigo Regione</td>
+<td>2025-03-31T09:34:02.0073639+00:00</td>
+</tr>
+<tr>
+<td>region-zuerichsee</td>
+<td>Rapperswil Zürichsee</td>
+<td>region</td>
+<td>Rapperswil Lake Zurich</td>
+<td>Lac de Rapperswil Zurich</td>
+<td>Rapperswil Lago di Zurigo</td>
+<td>2025-03-31T09:34:02.6319641+00:00</td>
+</tr>
+<tr>
+<td>schooltrip-category-kultur-macht-schule</td>
+<td>Kultur macht Schule</td>
+<td>schooltrip-category</td>
+<td>Culture sets a precedent</td>
+<td>La culture va à l’école</td>
+<td>La cultura va a scuola</td>
+<td>2025-03-31T09:34:03.2017858+00:00</td>
+</tr>
+<tr>
+<td>transport-onfoot</td>
+<td>Zu Fuss</td>
+<td>transport</td>
+<td>On foot</td>
+<td>À pied</td>
+<td>A piedi</td>
+<td>2025-03-31T09:34:04.6653288+00:00</td>
+</tr>
+<tr>
+<td>transport-segway</td>
+<td>Segway</td>
+<td>transport</td>
+<td>Segway</td>
+<td>Segway</td>
+<td>Segway (Segway)</td>
+<td>2025-03-31T09:34:03.342913+00:00</td>
+</tr>
+<tr>
+<td>pns-at-restaurant-parking</td>
+<td>Beim Restaurant</td>
+<td>located-at</td>
+<td>At Restaurant Parking</td>
+<td>Gastronomie</td>
+<td>Al parcheggio Ristorante</td>
+<td>2025-03-31T09:34:05.9156665+00:00</td>
+</tr>
+<tr>
+<td>pns-at-marina</td>
+<td>Am Jachthafen</td>
+<td>located-at</td>
+<td>At marina</td>
+<td>Ports de plaisance</td>
+<td>Alla marina</td>
+<td>2025-03-31T09:34:06.355325+00:00</td>
+</tr>
+<tr>
+<td>pns-at-private-house</td>
+<td>Bei Privathaus</td>
+<td>located-at</td>
+<td>At Private house</td>
+<td>Chez l’habitant</td>
+<td>In Casa Privata</td>
+<td>2025-03-31T09:34:06.7079801+00:00</td>
+</tr>
+<tr>
+<td>pns-at-farmhouse</td>
+<td>Beim Bauernhof</td>
+<td>located-at</td>
+<td>At Farmhouse</td>
+<td>Agrotourisme</td>
+<td>Alla Fattoria</td>
+<td>2025-03-31T09:34:05.7303118+00:00</td>
+</tr>
+<tr>
+<td>pns-nature-spot</td>
+<td>Naturplatz</td>
+<td>located-at</td>
+<td>Nature spot</td>
+<td>Au naturel</td>
+<td>Posto Naturale</td>
+<td>2025-10-26T06:50:42.2544193+00:00</td>
+</tr>
+<tr>
+<td>pns-at-campsite</td>
+<td>Beim Campingplatz</td>
+<td>located-at</td>
+<td>At Campsite</td>
+<td>Au Camping</td>
+<td>Al Campeggio</td>
+<td>2025-03-31T09:34:04.8339011+00:00</td>
+</tr>
+<tr>
+<td>pns-rv-parking</td>
+<td>Wohnmobilstellplatz</td>
+<td>located-at</td>
+<td>RV Parking</td>
+<td>Aires camping-car</td>
+<td>Parcheggio RV</td>
+<td>2025-03-31T09:34:06.2891738+00:00</td>
+</tr>
+<tr>
+<td>pns-at-mountain-railway</td>
+<td>Bei Bergbahn</td>
+<td>located-at</td>
+<td>At Mountain Railway</td>
+<td>Près téléphérique</td>
+<td>Alla ferrovia di montagna</td>
+<td>2025-03-31T09:34:05.5625015+00:00</td>
+</tr>
+<tr>
+<td>audience-age-5</td>
+<td>Ab 5 Jahre</td>
+<td>audience-age</td>
+<td>From 5 years</td>
+<td>À partir de 5 ans</td>
+<td>A partire da 5 anni</td>
+<td>2025-03-31T09:34:08.0361603+00:00</td>
+</tr>
+<tr>
+<td>audience-age-4</td>
+<td>Ab 4 Jahre</td>
+<td>audience-age</td>
+<td>From 4 years</td>
+<td>À partir de 4 ans</td>
+<td>A partire da 4 anni</td>
+<td>2025-03-31T09:34:07.3127488+00:00</td>
+</tr>
+<tr>
+<td>audience-age-2</td>
+<td>Ab 2 Jahre</td>
+<td>audience-age</td>
+<td>From 2 years</td>
+<td>À partir de 2 ans</td>
+<td>A partire da 2 anni</td>
+<td>2025-03-31T09:34:06.7952595+00:00</td>
+</tr>
+<tr>
+<td>audience-age-9</td>
+<td>Ab 9 Jahre</td>
+<td>audience-age</td>
+<td>From 9 years</td>
+<td>À partir de 9 ans</td>
+<td>A partire da 9 anni</td>
+<td>2025-03-31T09:34:10.2146776+00:00</td>
+</tr>
+<tr>
+<td>audience-age-3</td>
+<td>Ab 3 Jahre</td>
+<td>audience-age</td>
+<td>From 3 years</td>
+<td>À partir de 3 ans</td>
+<td>A partire da 3 anni</td>
+<td>2025-03-31T09:34:07.2096199+00:00</td>
+</tr>
+<tr>
+<td>audience-age-7</td>
+<td>Ab 7 Jahre</td>
+<td>audience-age</td>
+<td>From 7 years</td>
+<td>À partir de 7 ans</td>
+<td>A partire da 7 anni</td>
+<td>2025-03-31T09:34:08.0320557+00:00</td>
+</tr>
+<tr>
+<td>tourismregion-baselregion</td>
+<td>Basel Region</td>
+<td>tourismregion</td>
+<td>Basel Region</td>
+<td>Région bâloise</td>
+<td>Regione di Basilea</td>
+<td>2025-03-31T09:34:13.048524+00:00</td>
+</tr>
+<tr>
+<td>tourismregion-aarauregion</td>
+<td>Aarau Region</td>
+<td>tourismregion</td>
+<td>Aarau Region</td>
+<td>Région Argovie</td>
+<td>Regione di Aarau</td>
+<td>2025-03-31T09:34:10.4022539+00:00</td>
+</tr>
+<tr>
+<td>tourismregion-bernregion</td>
+<td>Bern Region</td>
+<td>tourismregion</td>
+<td>Bern Region</td>
+<td>Région Berne</td>
+<td>Regione di Berna</td>
+<td>2025-03-31T09:34:13.5551204+00:00</td>
+</tr>
+<tr>
+<td>tourismregion-genf</td>
+<td>Genf</td>
+<td>tourismregion</td>
+<td>Geneva</td>
+<td>Genève</td>
+<td>Ginevra</td>
+<td>2025-03-31T09:34:18.7274998+00:00</td>
+</tr>
+<tr>
+<td>tourismregion-genferseegebiet</td>
+<td>Genferseegebiet (Waadtland)</td>
+<td>tourismregion</td>
+<td>Lake Geneva Region (Vaud)</td>
+<td>Région lémanique (Vaud)</td>
+<td>Regione del Lago di Ginevra (Vaud)</td>
+<td>2025-03-31T09:34:22.6798956+00:00</td>
+</tr>
+<tr>
+<td>tourismregion-jura</td>
+<td>Jura & Drei-Seen-Land</td>
+<td>tourismregion</td>
+<td>Jura & Three-Lakes</td>
+<td>Jura & Trois-Lacs</td>
+<td>Giura e Tre Laghi</td>
+<td>2025-03-31T09:34:26.7916913+00:00</td>
+</tr>
+<tr>
+<td>tourismregion-fribourgregion</td>
+<td>Fribourg Region</td>
+<td>tourismregion</td>
+<td>Fribourg Region</td>
+<td>Région Fribourg</td>
+<td>Regione di Friburgo</td>
+<td>2025-03-31T09:34:18.0691276+00:00</td>
+</tr>
+<tr>
+<td>tourismregion-ostschweiz</td>
+<td>Ostschweiz</td>
+<td>tourismregion</td>
+<td>Eastern switzerland</td>
+<td>Suisse orientale</td>
+<td>Svizzera orientale</td>
+<td>2025-03-31T09:34:33.9588904+00:00</td>
+</tr>
+<tr>
+<td>tourismregion-luzern</td>
+<td>Luzern / Vierwaldstättersee</td>
+<td>tourismregion</td>
+<td>Lucerne / Lake Lucerne</td>
+<td>Lucerne / Lac des Quatre-Cantons</td>
+<td>Lucerna / Lago dei Quattro Cantoni</td>
+<td>2025-03-31T09:34:33.8214977+00:00</td>
+</tr>
+<tr>
+<td>tourismregion-tessin</td>
+<td>Tessin</td>
+<td>tourismregion</td>
+<td>Ticino</td>
+<td>Tessin</td>
+<td>Ticino</td>
+<td>2025-03-31T09:34:43.8287234+00:00</td>
+</tr>
+<tr>
+<td>tourismregion-wallis</td>
+<td>Wallis</td>
+<td>tourismregion</td>
+<td>Valais</td>
+<td>Valais</td>
+<td>Vallese</td>
+<td>2025-03-31T09:34:50.7056587+00:00</td>
+</tr>
+<tr>
+<td>tourismregion-zuerichregion</td>
+<td>Zürich Region</td>
+<td>tourismregion</td>
+<td>Zurich Region</td>
+<td>Région zurichoise</td>
+<td>Regione di Zurigo</td>
+<td>2025-03-31T09:34:51.7030362+00:00</td>
+</tr>
+<tr>
+<td>tourismzone-city</td>
+<td>Grossstadt</td>
+<td>tourismzone</td>
+<td>City</td>
+<td>Ville</td>
+<td>Città</td>
+<td>2025-03-31T09:35:00.2514975+00:00</td>
+</tr>
+<tr>
+<td>tourismzone-countryside</td>
+<td>Land</td>
+<td>tourismzone</td>
+<td>Land</td>
+<td>Terre</td>
+<td>Terra</td>
+<td>2025-03-31T09:35:10.5640221+00:00</td>
+</tr>
+<tr>
+<td>tourismzone-town</td>
+<td>Kleine Stadt</td>
+<td>tourismzone</td>
+<td>Small town</td>
+<td>Bourg</td>
+<td>Cittadina</td>
+<td>2025-03-31T09:35:25.7172083+00:00</td>
+</tr>
+<tr>
+<td>tourismregion-graubunden</td>
+<td>Graubünden</td>
+<td>tourismregion</td>
+<td>Graubünden</td>
+<td>Grisons</td>
+<td>Grigioni</td>
+<td>2025-03-31T09:35:26.9648354+00:00</td>
+</tr>
+<tr>
+<td>tourismzone-mountains</td>
+<td>Berg</td>
+<td>tourismzone</td>
+<td>Mountain</td>
+<td>Montagne</td>
+<td>Montagna</td>
+<td>2025-03-31T09:35:23.9343696+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-bathroom</td>
+<td>Badezimmer</td>
+<td>image-amenity</td>
+<td>Bathroom</td>
+<td>Salle de Bains</td>
+<td>Stanza da bagno</td>
+<td>2025-03-31T09:35:58.6824492+00:00</td>
+</tr>
+<tr>
+<td>accomodation</td>
+<td>Übernachten</td>
+<td>accomodation</td>
+<td>Spend the night</td>
+<td>Passez la nuit</td>
+<td>Trascorri la notte</td>
+<td>2025-03-31T09:35:51.0199134+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-bed</td>
+<td>Bett</td>
+<td>image-amenity</td>
+<td>Bed</td>
+<td>Lit</td>
+<td>Letto</td>
+<td>2025-03-31T09:35:59.3076352+00:00</td>
+</tr>
+<tr>
+<td>hiking</td>
+<td>Wandern</td>
+<td>hiking</td>
+<td>Wander</td>
+<td>Errer</td>
+<td>Vagabondare</td>
+<td>2025-03-31T09:35:55.1063941+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-city-view</td>
+<td>Stadtblick</td>
+<td>image-amenity</td>
+<td>View of the city</td>
+<td>Ville</td>
+<td>Città</td>
+<td>2025-03-31T09:36:00.8625601+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-coffee-machine</td>
+<td>Kaffeemaschine</td>
+<td>image-amenity</td>
+<td>Coffee machine</td>
+<td>Percolateur</td>
+<td>Caffettiera</td>
+<td>2025-03-31T09:36:01.3183988+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-desk</td>
+<td>Arbeitstisch</td>
+<td>image-amenity</td>
+<td>Desk</td>
+<td>Établi</td>
+<td>Pancone</td>
+<td>2025-09-04T16:07:19.4727365+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-lake-view</td>
+<td>Seeblick</td>
+<td>image-amenity</td>
+<td>Lake view</td>
+<td>Lac</td>
+<td>Lago</td>
+<td>2025-03-31T09:36:22.1670795+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-garden-view</td>
+<td>Gartenblick</td>
+<td>image-amenity</td>
+<td>Garden view</td>
+<td>Jardin</td>
+<td>Giardino</td>
+<td>2025-03-31T09:36:03.0489782+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-courtyard-view</td>
+<td>Blick auf den Innenhof</td>
+<td>image-amenity</td>
+<td>View of the courtyard</td>
+<td>Vue sur la cour</td>
+<td>Veduta del cortile</td>
+<td>2025-03-31T09:36:01.894179+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-lounge</td>
+<td>Lounge</td>
+<td>image-amenity</td>
+<td>Lounge</td>
+<td>Salon</td>
+<td>Salotto</td>
+<td>2025-03-31T09:36:04.1004611+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-river-view</td>
+<td>Flussblick</td>
+<td>image-amenity</td>
+<td>River view</td>
+<td>Fleuve</td>
+<td>Fiume</td>
+<td>2025-03-31T09:36:05.8291901+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-mini-fridge</td>
+<td>Minibar</td>
+<td>image-amenity</td>
+<td>Mini fridge</td>
+<td>Minibar</td>
+<td>Minibar</td>
+<td>2025-03-31T09:36:04.8372035+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-sitting-area</td>
+<td>Sitzgelegenheiten</td>
+<td>image-amenity</td>
+<td>Sitting area</td>
+<td>Sièges</td>
+<td>Salotto</td>
+<td>2025-03-31T09:36:07.4710223+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-mountain-view</td>
+<td>Bergblick</td>
+<td>image-amenity</td>
+<td>Mountain view</td>
+<td>Montagnes</td>
+<td>Montagne</td>
+<td>2025-03-31T09:36:05.3828882+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-street-view</td>
+<td>Blick auf die Strasse</td>
+<td>image-amenity</td>
+<td>View onto the street</td>
+<td>Vue sur la rue</td>
+<td>Veduta della strada</td>
+<td>2025-03-31T09:36:07.9626028+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-terrace-balcony</td>
+<td>Balkon oder Terrasse</td>
+<td>image-amenity</td>
+<td>Balcony or terrace</td>
+<td>Balcon ou terrasse</td>
+<td>Balcone o terrazzo</td>
+<td>2025-03-31T09:36:08.4185939+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-tv</td>
+<td>Fernseh</td>
+<td>image-amenity</td>
+<td>TV</td>
+<td>Télévision</td>
+<td>Televisione</td>
+<td>2025-03-31T09:36:09.9011521+00:00</td>
+</tr>
+<tr>
+<td>image-entertainment-childcare-service</td>
+<td>Kinderbetreuung</td>
+<td>image-entertainment</td>
+<td>Childcare service</td>
+<td>Garde d’enfants</td>
+<td>Assistenza all'infanzia</td>
+<td>2025-03-31T09:36:27.4658329+00:00</td>
+</tr>
+<tr>
+<td>image-amenity-wardrobe-closet</td>
+<td>Garderobe</td>
+<td>image-amenity</td>
+<td>Wardrobe or closet</td>
+<td>Vestiaire</td>
+<td>Guardaroba</td>
+<td>2025-03-31T09:36:13.4777119+00:00</td>
+</tr>
+<tr>
+<td>image-entertainment-playground</td>
+<td>Spielplatz</td>
+<td>image-entertainment</td>
+<td>Playground</td>
+<td>Terrain de jeu</td>
+<td>Parco giochi</td>
+<td>2025-03-31T09:36:11.7327472+00:00</td>
+</tr>
+<tr>
+<td>image-entertainment-programme</td>
+<td>Unterhaltungsprogramm</td>
+<td>image-entertainment</td>
+<td>Entertainment programme</td>
+<td>Programme d’éclairage</td>
+<td>Programma luci</td>
+<td>2025-03-31T09:36:13.9582952+00:00</td>
+</tr>
+<tr>
+<td>image-event-co-working-space</td>
+<td>Co-Working Zone</td>
+<td>image-event</td>
+<td>Co-working space</td>
+<td>Co-Working Zone</td>
+<td>Zona di co-working</td>
+<td>2025-03-31T09:36:14.4595+00:00</td>
+</tr>
+<tr>
+<td>image-entertainment-playroom</td>
+<td>Spielzimmer</td>
+<td>image-entertainment</td>
+<td>Playroom</td>
+<td>Salle</td>
+<td>Ludoteca</td>
+<td>2025-03-31T09:36:12.996814+00:00</td>
+</tr>
+<tr>
+<td>image-event-conference-room</td>
+<td>Konferenzraum</td>
+<td>image-event</td>
+<td>Conference room</td>
+<td>Salle de conférence</td>
+<td>Sala conferenze</td>
+<td>2025-03-31T09:36:15.0670089+00:00</td>
+</tr>
+<tr>
+<td>image-event-meeting-room</td>
+<td>Meetingraum</td>
+<td>image-event</td>
+<td>Meeting room</td>
+<td>Salle de réunion</td>
+<td>Sala riunioni</td>
+<td>2025-03-31T09:36:16.9349105+00:00</td>
+</tr>
+<tr>
+<td>image-food-breakfast-room</td>
+<td>Frühstücksraum</td>
+<td>image-food</td>
+<td>Breakfast room</td>
+<td>Salle de petit-déjeuner</td>
+<td>Sala colazione</td>
+<td>2025-03-31T09:36:19.6606275+00:00</td>
+</tr>
+<tr>
+<td>image-food-bar</td>
+<td>Bar</td>
+<td>image-food</td>
+<td>Bar</td>
+<td>Bar</td>
+<td>Bar</td>
+<td>2025-03-31T09:36:19.123059+00:00</td>
+</tr>
+<tr>
+<td>image-food-breakfast</td>
+<td>Frühstück</td>
+<td>image-food</td>
+<td>Breakfast</td>
+<td>Petit déjeuner</td>
+<td>Colazione</td>
+<td>2025-03-31T09:36:20.1231624+00:00</td>
+</tr>
+<tr>
+<td>image-food-dining-room</td>
+<td>Speisesaal</td>
+<td>image-food</td>
+<td>Dining room</td>
+<td>Réfectoire</td>
+<td>Refettorio</td>
+<td>2025-03-31T09:36:20.6622654+00:00</td>
+</tr>
+<tr>
+<td>image-event-wedding-services</td>
+<td>Hochzeitsveranstaltungen</td>
+<td>image-event</td>
+<td>Wedding services</td>
+<td>Événements de mariage</td>
+<td>Eventi di nozze</td>
+<td>2025-03-31T09:36:17.5815746+00:00</td>
+</tr>
+<tr>
+<td>image-food-restaurant</td>
+<td>Restaurant</td>
+<td>image-food</td>
+<td>Restaurant</td>
+<td>Restaurant</td>
+<td>Ristorante</td>
+<td>2025-03-31T09:36:22.6347163+00:00</td>
+</tr>
+<tr>
+<td>image-indoor-library</td>
+<td>Bibliothek</td>
+<td>image-indoor</td>
+<td>Library</td>
+<td>Bibliothèque</td>
+<td>Biblioteca</td>
+<td>2025-03-31T09:36:25.2907949+00:00</td>
+</tr>
+<tr>
+<td>image-food-room-service</td>
+<td>Zimmerservice</td>
+<td>image-food</td>
+<td>Room service</td>
+<td>Service en chambre</td>
+<td>Servizio in camera</td>
+<td>2025-03-31T09:36:23.1573127+00:00</td>
+</tr>
+<tr>
+<td>image-food-snack-bar</td>
+<td>Snack Bar</td>
+<td>image-food</td>
+<td>Snack bar</td>
+<td>Snack-bar</td>
+<td>Tavola calda</td>
+<td>2025-03-31T09:36:24.8041226+00:00</td>
+</tr>
+<tr>
+<td>image-indoor-entrance</td>
+<td>Eingangsbereich</td>
+<td>image-indoor</td>
+<td>Entrance area</td>
+<td>Entrée</td>
+<td>Entrata</td>
+<td>2025-03-31T09:36:39.4228582+00:00</td>
+</tr>
+<tr>
+<td>image-indoor-lounge</td>
+<td>Lounge</td>
+<td>image-indoor</td>
+<td>Lounge</td>
+<td>Salon</td>
+<td>Salotto</td>
+<td>2025-03-31T09:36:25.7752838+00:00</td>
+</tr>
+<tr>
+<td>image-indoor-lobby</td>
+<td>Lobby</td>
+<td>image-indoor</td>
+<td>Lobby</td>
+<td>Lobby</td>
+<td>Atrio</td>
+<td>2025-03-31T09:36:38.8988187+00:00</td>
+</tr>
+<tr>
+<td>image-indoor-reception</td>
+<td>Rezeption</td>
+<td>image-indoor</td>
+<td>Reception</td>
+<td>Réception</td>
+<td>Ricevimento</td>
+<td>2025-03-31T09:36:43.1506246+00:00</td>
+</tr>
+<tr>
+<td>image-outdoor-exterior</td>
+<td>Aussenansicht</td>
+<td>image-outdoor</td>
+<td>Exterior</td>
+<td>Dehors</td>
+<td>Fuori</td>
+<td>2025-03-31T09:36:28.937306+00:00</td>
+</tr>
+<tr>
+<td>image-outdoor-garden</td>
+<td>Garten</td>
+<td>image-outdoor</td>
+<td>Garden</td>
+<td>Jardin</td>
+<td>Giardino</td>
+<td>2025-03-31T09:36:30.9264785+00:00</td>
+</tr>
+<tr>
+<td>image-sport-bike-storage</td>
+<td>Bikeraum</td>
+<td>image-sport</td>
+<td>Bike storage</td>
+<td>Local à vélos</td>
+<td>Deposito bici</td>
+<td>2025-03-31T09:36:32.1006812+00:00</td>
+</tr>
+<tr>
+<td>image-outdoor-terrace-balcony</td>
+<td>Terrasse/Balkon</td>
+<td>image-outdoor</td>
+<td>Terrace/Balcony</td>
+<td>Terrasse/Balcon</td>
+<td>Terrazza/Balcone</td>
+<td>2025-03-31T09:36:31.5182058+00:00</td>
+</tr>
+<tr>
+<td>image-sport-fitness-room</td>
+<td>Fitness Raum</td>
+<td>image-sport</td>
+<td>Fitness Room</td>
+<td>Salle de fitness</td>
+<td>Sala fitness</td>
+<td>2025-03-31T09:36:34.2737982+00:00</td>
+</tr>
+<tr>
+<td>image-sport-e-bike-charging-stations</td>
+<td>Aufladestation für E-Bikes</td>
+<td>image-sport</td>
+<td>Charging stations for E-Bike</td>
+<td>Borne de recharge pour vélos électriques</td>
+<td>Stazione di ricarica per e-bike</td>
+<td>2025-03-31T09:36:33.8068289+00:00</td>
+</tr>
+<tr>
+<td>image-sport-golf-course</td>
+<td>Golfplatz</td>
+<td>image-sport</td>
+<td>Golf course</td>
+<td>Terrain de golf</td>
+<td>Golf</td>
+<td>2025-03-31T09:36:34.8435469+00:00</td>
+</tr>
+<tr>
+<td>image-sport-ski-equipment-storage</td>
+<td>Skiraum</td>
+<td>image-sport</td>
+<td>Ski equipment storage</td>
+<td>Ski</td>
+<td>Sci</td>
+<td>2025-03-31T09:36:36.2991358+00:00</td>
+</tr>
+<tr>
+<td>image-sport-indoor-swimming-pool</td>
+<td>Indoor Swimming Pool</td>
+<td>image-sport</td>
+<td>Indoor swimming pool</td>
+<td>Piscine intérieure</td>
+<td>Piscina coperta</td>
+<td>2025-03-31T09:36:35.3258662+00:00</td>
+</tr>
+<tr>
+<td>image-wellness-relaxation-room</td>
+<td>Ruheraum</td>
+<td>image-wellness</td>
+<td>Relaxation room</td>
+<td>Salle de relaxation</td>
+<td>Sala relax</td>
+<td>2025-03-31T09:36:36.9758441+00:00</td>
+</tr>
+<tr>
+<td>image-wellness-steam-bath</td>
+<td>Dampfbad</td>
+<td>image-wellness</td>
+<td>Steam bath</td>
+<td>Bain de vapeur</td>
+<td>Vapore</td>
+<td>2025-03-31T09:36:37.9520598+00:00</td>
+</tr>
+<tr>
+<td>image-wellness-sauna</td>
+<td>Sauna</td>
+<td>image-wellness</td>
+<td>Sauna</td>
+<td>Sauna</td>
+<td>Sauna</td>
+<td>2025-03-31T09:36:37.4483937+00:00</td>
+</tr>
+<tr>
+<td>image-wellness-thermal-baths</td>
+<td>Thermalbad</td>
+<td>image-wellness</td>
+<td>Thermal baths</td>
+<td>Bain thermal</td>
+<td>Terme</td>
+<td>2025-03-31T09:36:38.4451782+00:00</td>
+</tr>
+<tr>
+<td>image-wellness-whirlpool-jacuzzi</td>
+<td>Jacuzzi</td>
+<td>image-wellness</td>
+<td>Whirlpool or Jacuzzi</td>
+<td>Jacuzzi</td>
+<td>Idromassaggio</td>
+<td>2025-03-31T09:36:42.6954991+00:00</td>
+</tr>
+<tr>
+<td>image-wellness-treatments</td>
+<td>Wellness Anwendungen</td>
+<td>image-wellness</td>
+<td>Wellness treatments</td>
+<td>Soins de bien-être</td>
+<td>Trattamenti Benessere</td>
+<td>2025-03-31T09:36:39.9826109+00:00</td>
+</tr>
+<tr>
+<td>image-sport-outdoor-swimming-pool</td>
+<td>Outdoor Swimming Pool</td>
+<td>image-sport</td>
+<td>Outdoor swimming pool</td>
+<td>Piscine extérieure</td>
+<td>Piscina all'aperto</td>
+<td>2025-03-31T09:36:35.7995455+00:00</td>
+</tr>
+<tr>
+<td>image-saisonality-summer</td>
+<td>Sommer</td>
+<td>image-saisonality</td>
+<td>Summer</td>
+<td>Été</td>
+<td>Estate</td>
+<td>2025-03-31T09:38:16.7956555+00:00</td>
+</tr>
+<tr>
+<td>areascope-local</td>
+<td>Lokal</td>
+<td>areascope</td>
+<td>Local</td>
+<td>Local</td>
+<td>Locale</td>
+<td>2025-03-31T09:37:35.2407873+00:00</td>
+</tr>
+<tr>
+<td>areascope-national</td>
+<td>National</td>
+<td>areascope</td>
+<td>National</td>
+<td>National</td>
+<td>Nazionale</td>
+<td>2025-03-31T09:37:43.2059447+00:00</td>
+</tr>
+<tr>
+<td>areascope-regional</td>
+<td>Regional</td>
+<td>areascope</td>
+<td>Regional</td>
+<td>Régional</td>
+<td>Regionale</td>
+<td>2025-03-31T09:36:43.8118782+00:00</td>
+</tr>
+<tr>
+<td>image-saisonality-winter</td>
+<td>Winter</td>
+<td>image-saisonality</td>
+<td>Winter</td>
+<td>Hiver</td>
+<td>Inverno</td>
+<td>2025-03-31T09:38:15.9624166+00:00</td>
+</tr>
+<tr>
+<td>located-at-city</td>
+<td>Stadt</td>
+<td>located-at</td>
+<td>City</td>
+<td>Ville</td>
+<td>Città</td>
+<td>2025-09-23T12:49:20.5091633+00:00</td>
+</tr>
+<tr>
+<td>located-at-lake</td>
+<td>See</td>
+<td>located-at</td>
+<td>Lake</td>
+<td>Lac</td>
+<td>Lago</td>
+<td>2025-09-23T12:49:18.7265636+00:00</td>
+</tr>
+<tr>
+<td>located-at-city-centre</td>
+<td>Stadtzentrum</td>
+<td>located-at</td>
+<td>City centre</td>
+<td>Centre-ville</td>
+<td>Centro</td>
+<td>2025-09-23T12:49:19.5486808+00:00</td>
+</tr>
+<tr>
+<td>located-at-countryside</td>
+<td>Landleben</td>
+<td>located-at</td>
+<td>Countryside</td>
+<td>Campagne</td>
+<td>Campagna</td>
+<td>2025-09-23T12:49:19.5567344+00:00</td>
+</tr>
+<tr>
+<td>located-at-river</td>
+<td>Fluss</td>
+<td>located-at</td>
+<td>River</td>
+<td>Fleuve</td>
+<td>Fiume</td>
+<td>2025-09-23T12:49:18.5354634+00:00</td>
+</tr>
+<tr>
+<td>located-at-mountains</td>
+<td>Berge</td>
+<td>located-at</td>
+<td>Mountains</td>
+<td>Montagnes</td>
+<td>Montagne</td>
+<td>2025-09-23T12:49:18.5401083+00:00</td>
+</tr>
+<tr>
+<td>located-at-airport</td>
+<td>Flughafen</td>
+<td>located-at</td>
+<td>Airport</td>
+<td>Aéroport</td>
+<td>Aeroporto</td>
+<td>2025-09-23T12:49:18.5339415+00:00</td>
+</tr>
+<tr>
+<td>culinary-lactosefree</td>
+<td>Laktosefrei</td>
+<td>culinary</td>
+<td>Lactose-free</td>
+<td>Sans lactose</td>
+<td>Senza lattosio</td>
+<td>2025-03-31T09:37:39.1593605+00:00</td>
+</tr>
+<tr>
+<td>culinary-coffeeandcake</td>
+<td>Kaffee und Kuchen</td>
+<td>culinary</td>
+<td>Coffee and cake</td>
+<td>Café et gâteau</td>
+<td>Caffè e torta</td>
+<td>2025-03-31T09:37:34.7383804+00:00</td>
+</tr>
+<tr>
+<td>culinary-swiss</td>
+<td>Schweizerisch</td>
+<td>culinary</td>
+<td>Swiss</td>
+<td>Suisse</td>
+<td>Svizzero</td>
+<td>2025-03-31T09:38:00.7335044+00:00</td>
+</tr>
+<tr>
+<td>price-range-low</td>
+<td>Niedrig</td>
+<td>price-range</td>
+<td>Low</td>
+<td>Faible</td>
+<td>Basso</td>
+<td>2025-02-24T13:05:15.7728024+00:00</td>
+</tr>
+<tr>
+<td>price-range-mid</td>
+<td>Mittel</td>
+<td>price-range</td>
+<td>Mid</td>
+<td>Moyen</td>
+<td>Medio</td>
+<td>2025-02-24T13:05:15.527739+00:00</td>
+</tr>
+<tr>
+<td>price-range-high</td>
+<td>Hoch</td>
+<td>price-range</td>
+<td>High</td>
+<td>Haut</td>
+<td>Alto</td>
+<td>2025-02-24T13:05:14.9932777+00:00</td>
+</tr>
+<tr>
+<td>trail-summittour</td>
+<td>Gipfeltour</td>
+<td>trail</td>
+<td>Summit tour</td>
+<td>Tour du sommet</td>
+<td>Tour in vetta</td>
+<td>2025-03-31T09:38:18.8999677+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-accessiblebreakfastarea</td>
+<td>barrierefreier Frühstücksbereich</td>
+<td>accesssitios-hs</td>
+<td>accessible breakfast area</td>
+<td>Espace petit déjeuner accessible en fauteuil roulant</td>
+<td>Area colazione priva di barriere architettoniche</td>
+<td>2024-10-21T16:01:28.3495189+00:00</td>
+</tr>
+<tr>
+<td>accessibility-wheelchair-partiallyaccessible</td>
+<td>eingeschränkt rollstuhlgängig</td>
+<td>accessibility</td>
+<td>partially wheelchair accessible</td>
+<td>partiellement accessible en fauteuil roulant</td>
+<td>parzialmente accessibile in sedia a rotelle</td>
+<td>2024-10-21T16:01:25.0531314+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-accessiblehotelroom</td>
+<td>barrierefreies Zimmer</td>
+<td>accesssitios-hs</td>
+<td>accessible rooms</td>
+<td>Chambre accessible</td>
+<td>Camera priva di barriere architettoniche</td>
+<td>2024-10-21T16:01:29.5180973+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-accessiblebathroom</td>
+<td>barrierefreies Badezimmer</td>
+<td>accesssitios-hs</td>
+<td>accessible bathroom with roll-in shower</td>
+<td>Salle de bains adaptée aux fauteuils roulants</td>
+<td>Bagno privo di barriere architettoniche</td>
+<td>2024-10-21T16:01:25.9829469+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-accessibleindoorpool</td>
+<td>Hallenbad barrierefrei</td>
+<td>accesssitios-hs</td>
+<td>accessible indoor pool</td>
+<td>Piscine intérieure adaptée aux fauteuils roulants</td>
+<td>Piscina coperta priva di barriere architettoniche</td>
+<td>2024-10-21T16:01:30.725968+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-accessibleoutdoorpool</td>
+<td>Aussenschwimmbad barrierefrei</td>
+<td>accesssitios-hs</td>
+<td>accessible outdoor pool</td>
+<td>Piscine extérieure adaptée aux fauteuils roulants</td>
+<td>Piscina all'aperto priva di barriere architettoniche</td>
+<td>2024-10-21T16:01:31.6828533+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-accessiblepublictoilet</td>
+<td>rollstuhlgängige öffentliche Toilette</td>
+<td>accesssitios-hs</td>
+<td>Public toilet wheelchair accessible</td>
+<td>Toilettes publiques adaptées aux fauteuils roulants</td>
+<td>Servizi igienici pubblici accessibili alle sedie a rotelle</td>
+<td>2024-10-21T16:01:32.6125909+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-accessiblepublicarea</td>
+<td>Öffentliche Bereiche barrierefrei</td>
+<td>accesssitios-hs</td>
+<td>Public areas accessible</td>
+<td>Espaces publics accessibles en fauteuil roulant</td>
+<td>Aree comuni prive di barriere architettoniche</td>
+<td>2024-10-18T21:36:09.9574686+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-bathtub</td>
+<td>Badewannne vorhanden</td>
+<td>accesssitios-hs</td>
+<td>Bathtub available</td>
+<td>Baignoire disponible</td>
+<td>Vasca da bagno disponibile</td>
+<td>2024-10-18T21:36:10.0852802+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-accessiblelift</td>
+<td>Lift barrierefrei</td>
+<td>accesssitios-hs</td>
+<td>Wheelchair accessible lift</td>
+<td>Ascenseur accessible</td>
+<td>Ascensore privo di barriere architettoniche</td>
+<td>2024-10-18T21:36:09.1078462+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-bedheight4550</td>
+<td>Betthöhe 45–50 cm</td>
+<td>accesssitios-hs</td>
+<td>Bed height 45-50 cm</td>
+<td>Hauteur du lit 45-50 cm</td>
+<td>Altezza del letto 45-50 cm</td>
+<td>2024-10-18T21:36:10.7890477+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-forgroups</td>
+<td>für Gruppen geeignet</td>
+<td>accesssitios-hs</td>
+<td>suitable for groups</td>
+<td>approprié pour des groupes</td>
+<td>ideale per gruppi</td>
+<td>2024-11-04T15:27:50.3021241+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-bedheightelectrically</td>
+<td>elektrisch höhenverstellbares Bett</td>
+<td>accesssitios-hs</td>
+<td>Electrically height-adjustable bed</td>
+<td>Lit à hauteur réglable électriquement</td>
+<td>Letto regolabile elettricamente in altezza</td>
+<td>2024-10-21T16:01:32.9247266+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-bedunderrunable</td>
+<td>Bett unterfahrbar</td>
+<td>accesssitios-hs</td>
+<td>Bed usable for hoists</td>
+<td>Hauteur du bord inférieur du lit d’au moins 13 cm</td>
+<td>Letto con spazio libero sotto il letto per inserire il sollevatore</td>
+<td>2024-10-18T21:36:10.8377021+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-graprails</td>
+<td>Haltegriffe vorhanden</td>
+<td>accesssitios-hs</td>
+<td>Handles available</td>
+<td>Barres d’appui disponibles</td>
+<td>Maniglie di sostegno disponibili</td>
+<td>2024-10-18T21:36:11.7186882+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-hearingimpaired</td>
+<td>Angebote für Gäste mit Hörbehinderung</td>
+<td>accesssitios-hs</td>
+<td>Offers for guests with hearing impairments</td>
+<td>Offres destinées aux personnes avec handicap auditif</td>
+<td>Offerte per ospiti con ipoacusia (sorde o disabilità uditiva)</td>
+<td>2024-10-18T21:36:11.6500801+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-parking</td>
+<td>Rollstuhlparkplatz vorhanden</td>
+<td>accesssitios-hs</td>
+<td>Wheelchair accessible parking space</td>
+<td>Place de parc adaptée aux fauteuils roulants</td>
+<td>Parcheggio accessibile in sedia a rotelle</td>
+<td>2024-10-18T21:36:11.6371349+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-partiallyaccessiblehotelroom</td>
+<td>bedingt barrierefreies Zimmer</td>
+<td>accesssitios-hs</td>
+<td>partially accessible room</td>
+<td>Chambre partiellement accessible</td>
+<td>Camera in parte priva di barriere architettoniche</td>
+<td>2024-10-21T16:01:34.6951243+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-hotelspitex</td>
+<td>Hotelspitex</td>
+<td>accesssitios-hs</td>
+<td>Hotelspitex</td>
+<td>Hotelspitex</td>
+<td>Hotelspitex</td>
+<td>2024-10-18T21:36:11.6955647+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-partiallyaccessiblelift</td>
+<td>Lift bedingt barrierefrei</td>
+<td>accesssitios-hs</td>
+<td>Lift partly accessible</td>
+<td>Ascenseur partiellement accessible</td>
+<td>Ascensore in parte privo di barriere architettoniche</td>
+<td>2024-10-18T21:36:13.540266+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-partiallyaccessiblepublicarea</td>
+<td>Öffentliche Bereiche bedingt barrierefrei</td>
+<td>accesssitios-hs</td>
+<td>Public areas partially accessible</td>
+<td>Espaces publics partiellement accessibles en fauteuil roulant</td>
+<td>Aree comuni in parte prive di barriere architettoniche</td>
+<td>2024-10-18T21:36:13.5419174+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-partiallyaccessiblepublictoilet</td>
+<td>bedingt rollstuhlgängige öffentliche Toilette</td>
+<td>accesssitios-hs</td>
+<td>Public toilet partially wheelchair accessible</td>
+<td>Toilettes publiques partiellement adaptées aux fauteuils roulants</td>
+<td>Servizi igienici pubblici con accesso limitato alle sedie a rotelle</td>
+<td>2024-10-21T16:01:34.7457022+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-showerchair</td>
+<td>Duschstuhl</td>
+<td>accesssitios-hs</td>
+<td>Shower chair</td>
+<td>Chaise de douche</td>
+<td>Sedia da doccia</td>
+<td>2024-10-18T21:36:13.2815314+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-poollift</td>
+<td>Pool-Lift vorhanden</td>
+<td>accesssitios-hs</td>
+<td>Pool lift available</td>
+<td>Élévateur de piscine disponible</td>
+<td>Sollevatore per piscina presente</td>
+<td>2024-10-18T21:36:12.5038437+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-sideentrance</td>
+<td>Zugang nur über Nebeneingang</td>
+<td>accesssitios-hs</td>
+<td>Access only via side entrance</td>
+<td>Accès uniquement par l'entrée secondaire</td>
+<td>Accesso solo da ingresso laterale</td>
+<td>2024-10-18T21:36:12.6693901+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-washbowlunderrunable</td>
+<td>unterfahrbares Waschbecken im Hotelzimmer</td>
+<td>accesssitios-hs</td>
+<td>accessible washbasin in the hotel room</td>
+<td>Espace sous le lavabo adapté aux fauteuils roulants dans une chambre d'hôtel</td>
+<td>Lavandino adatto a sedia a rotelle</td>
+<td>2024-10-21T16:01:34.8610024+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-visuallyimpaired</td>
+<td>Angebote für Gäste mit Sehbehinderung</td>
+<td>accesssitios-hs</td>
+<td>Offers for guests with visual impairments</td>
+<td>Offres destinés aux personnes avec handicap visuel</td>
+<td>Offerte per ospiti ipovedenti</td>
+<td>2024-10-18T21:36:13.5029568+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-parking-accessible</td>
+<td>Parkplatz rollstuhlgängig</td>
+<td>accesssitios</td>
+<td>Parking place wheelchair accessible</td>
+<td>Place de parc accessible en fauteuil roulant</td>
+<td>Parcheggio accessibile in sedia a rotelle</td>
+<td>2024-10-18T21:36:15.3566406+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-inductivehearing</td>
+<td>Induktionsschleife vorhanden</td>
+<td>accesssitios</td>
+<td>Magnetic loop</td>
+<td>Boucle magnétique</td>
+<td>Sistema a induzione magnetica</td>
+<td>2024-10-18T21:36:14.3585784+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-hs-wheelchairshuttle</td>
+<td>Rollstuhlshuttle / -taxi</td>
+<td>accesssitios-hs</td>
+<td>Wheelchair accessible hotel shuttle</td>
+<td>Service de navette adapté aux fauteuils roulants</td>
+<td>Servizio Shuttle/ Taxi accessibile in sedia a rotelle</td>
+<td>2024-10-18T21:36:15.1216722+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-parking-partiallyaccessible</td>
+<td>Parkplatz eingeschränkt rollstuhlgängig</td>
+<td>accesssitios</td>
+<td>Parking place partially wheelchair accessible</td>
+<td>Place de parc partiellement accessible en fauteuil roulant</td>
+<td>Parcheggio parzialmente accessibile in sedia a rotelle</td>
+<td>2024-10-18T21:36:15.1597792+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-parking-inaccessible</td>
+<td>Parkplatz nicht rollstuhlgängig</td>
+<td>accesssitios</td>
+<td>Parking place not wheelchair accessible</td>
+<td>Pas de places de stationnement accessibles</td>
+<td>Parcheggio non accessibile in sedia a rotelle</td>
+<td>2024-10-18T21:36:15.4039635+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-service-disabilityhearing</td>
+<td>Anlagen / Einrichtungen für Menschen mit Hörbehinderung</td>
+<td>accesssitios</td>
+<td>Facilities for persons with hearing impairments</td>
+<td>Aménagements pour personnes handicapées de l'ouïe</td>
+<td>Impianti/strutture per persone con handicap uditivi</td>
+<td>2024-10-18T21:36:16.9750227+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-service-disabilitycognitive</td>
+<td>Angebot für Menschen mit kognitiver Beeinträchtigung</td>
+<td>accesssitios</td>
+<td>Facilities for persons with cognitive impairments</td>
+<td>Aménagements pour personnes avec déficience intellectuelle</td>
+<td>Offerta per persone con disturbi cognitivi</td>
+<td>2024-10-18T21:36:15.1479132+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-service-disabilityvisual</td>
+<td>Anlagen / Einrichtungen für Menschen mit Sehbehinderung</td>
+<td>accesssitios</td>
+<td>Facilities for persons with visual impairments</td>
+<td>Aménagements pour personnes handicapées de la vue</td>
+<td>Impianti/strutture per persone con handicap visivi</td>
+<td>2024-10-18T21:36:16.0396035+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-toilet-accessible</td>
+<td>WC rollstuhlgängig</td>
+<td>accesssitios</td>
+<td>Toilets wheelchair accessible</td>
+<td>Toilettes accessibles en fauteuil roulant</td>
+<td>WC accessibile in sedia a rotelle</td>
+<td>2024-10-18T21:36:16.7886479+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-signlanguage</td>
+<td>Angebot in Gebärdensprache</td>
+<td>accesssitios</td>
+<td>Offer in sign language</td>
+<td>Offres en langue des signes</td>
+<td>Offerta nella lingua dei segni</td>
+<td>2024-10-18T21:36:15.9733389+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-toilet-inaccessible</td>
+<td>WC nicht rollstuhlgängig</td>
+<td>accesssitios</td>
+<td>Toilets not wheelchair accessible</td>
+<td>Toilettes non accessibles en fauteuil roulant</td>
+<td>WC non accessibile in sedia a rotelle</td>
+<td>2024-10-18T21:36:17.1384182+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-toilet-partiallyaccessible</td>
+<td>WC eingeschränkt rollstuhlgängig</td>
+<td>accesssitios</td>
+<td>Toilets partially wheelchair accessible</td>
+<td>Toilettes partiellement accessibles en fauteuil roulant</td>
+<td>WC parzialmente accessibile in sedia a rotelle</td>
+<td>2024-10-18T21:36:16.2216081+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-wheelchair-accessible</td>
+<td>rollstuhlgängig</td>
+<td>accesssitios</td>
+<td>Wheelchair accessible</td>
+<td>accessible en fauteuil roulant</td>
+<td>accessibile in sedia a rotelle</td>
+<td>2024-10-21T16:01:37.1466767+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-wheelchair-inaccessbile</td>
+<td>nicht rollstuhlgängig</td>
+<td>accesssitios</td>
+<td>not wheelchair accessible</td>
+<td>non accessible en fauteuil roulant</td>
+<td>non accessibile in sedia a rotelle</td>
+<td>2024-10-21T16:01:36.262454+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-wheelchair-partiallyaccessible</td>
+<td>eingeschränkt rollstuhlgängig</td>
+<td>accesssitios</td>
+<td>partially wheelchair accessible</td>
+<td>partiellement accessible en fauteuil roulant</td>
+<td>parzialmente accessibile in sedia a rotelle</td>
+<td>2024-10-21T16:01:37.8951288+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-walkingdisability-accessible</td>
+<td>zugänglich für Menschen mit einer Gehbehinderung</td>
+<td>accesssitios</td>
+<td>accessible for persons with walking impediments</td>
+<td>accessible pour personnes avec handicap de la marche</td>
+<td>accessibile alle persone con difficoltà di deambulazione</td>
+<td>2024-10-21T16:01:34.991543+00:00</td>
+</tr>
+<tr>
+<td>tso_gratis-tso-test</td>
+<td>gratis TSO Test</td>
+<td>campaign</td>
+<td>gratis TSO Test</td>
+<td>gratis TSO Test</td>
+<td>gratis TSO Test</td>
+<td>2025-02-17T07:32:09.9320159+00:00</td>
+</tr>
+<tr>
+<td>tso_gratis-test</td>
+<td>gratis Test</td>
+<td>campaign</td>
+<td>gratis Test</td>
+<td>gratis Test</td>
+<td>gratis Test</td>
+<td>2025-02-17T07:32:11.3357765+00:00</td>
+</tr>
+<tr>
+<td>price-range-event-package-300</td>
+<td>Pauschale ohne Übernachtung: über CHF 301</td>
+<td>price-range-event-package</td>
+<td>Package without overnight: more than CHF 301</td>
+<td>Forfait sans nuitée : plus de CHF 301</td>
+<td>Pacchetto senza pernottamento: oltre CHF 301.–</td>
+<td>2025-10-20T15:02:08.5798959+00:00</td>
+</tr>
+<tr>
+<td>price-range-event-package-overnight-200</td>
+<td>Pauschale mit Übernachtung: 200-300 CHF</td>
+<td>price-range-event-package-overnight</td>
+<td>Package with overnight: 200-300 CHF</td>
+<td>Forfait avec nuitée : 200-300 CHF</td>
+<td>Pacchetto con pernottamento: 200-300 CHF</td>
+<td>2025-10-20T15:02:10.2914871+00:00</td>
+</tr>
+<tr>
+<td>price-range-event-package-150</td>
+<td>Pauschale ohne Übernachtung: 151 - 200 CHF</td>
+<td>price-range-event-package</td>
+<td>Package without overnight: 151 - 200 CHF</td>
+<td>Forfait sans nuitée : 151 - 200 CHF</td>
+<td>Pacchetto senza pernottamento: 151 - 200 CHF</td>
+<td>2025-10-20T15:02:09.1108574+00:00</td>
+</tr>
+<tr>
+<td>price-range-event-package-200</td>
+<td>Pauschale ohne Übernachtung: 201 - 300 CHF</td>
+<td>price-range-event-package</td>
+<td>Package without overnight: 201 - 300 CHF</td>
+<td>Forfait sans nuitée : 201 - 300 CHF</td>
+<td>Pacchetto senza pernottamento: 201 - 300 CHF</td>
+<td>2025-10-20T15:02:08.6141683+00:00</td>
+</tr>
+<tr>
+<td>price-range-event-package-80</td>
+<td>Pauschale ohne Übernachtung: 80 - 150 CHF</td>
+<td>price-range-event-package</td>
+<td>Package without overnight: 80 - 150 CHF</td>
+<td>Forfait sans nuitée : 80 - 150 CHF</td>
+<td>Pacchetto senza pernottamento: 80 - 150 CHF</td>
+<td>2025-10-20T15:02:10.3418476+00:00</td>
+</tr>
+<tr>
+<td>price-range-event-package-overnight-450</td>
+<td>Pauschale mit Übernachtung: über CHF 451</td>
+<td>price-range-event-package-overnight</td>
+<td>Package with overnight: more than CHF 451</td>
+<td>Forfait avec nuitée : plus de CHF 451</td>
+<td>Pacchetto con pernottamento: oltre CHF 451.–</td>
+<td>2025-10-20T15:02:08.7214401+00:00</td>
+</tr>
+<tr>
+<td>price-range-event-package-overnight-300</td>
+<td>Pauschale mit Übernachtung: 301 - 450 CHF</td>
+<td>price-range-event-package-overnight</td>
+<td>Package with overnight: 301 - 450 CHF</td>
+<td>Forfait avec nuitée : 301 - 450 CHF</td>
+<td>Pacchetto con pernottamento: 301 - 450 CHF</td>
+<td>2025-10-20T15:02:09.0441764+00:00</td>
+</tr>
+<tr>
+<td>profile-culture-5</td>
+<td>Kultur hoch</td>
+<td>profile-culture</td>
+<td>Culture high</td>
+<td>Élevée culturelle</td>
+<td>Cultura alta</td>
+<td>2025-02-24T12:59:06.8542497+00:00</td>
+</tr>
+<tr>
+<td>profile-culture-3</td>
+<td>Kultur mittel</td>
+<td>profile-culture</td>
+<td>Culture medium</td>
+<td>Milieu de culture</td>
+<td>Terreno di coltura</td>
+<td>2025-02-24T12:59:06.393519+00:00</td>
+</tr>
+<tr>
+<td>profile-enjoyment-3</td>
+<td>Genuss mittel</td>
+<td>profile-enjoyment</td>
+<td>Enjoyment medium</td>
+<td>Stimulant</td>
+<td>Stimolanti</td>
+<td>2025-02-27T08:47:47.7175447+00:00</td>
+</tr>
+<tr>
+<td>profile-culture-1</td>
+<td>Kultur niedrig</td>
+<td>profile-culture</td>
+<td>Culture low</td>
+<td>Culture faible</td>
+<td>Cultura bassa</td>
+<td>2025-02-24T12:59:05.3275153+00:00</td>
+</tr>
+<tr>
+<td>profile-fun-3</td>
+<td>Spass mittel</td>
+<td>profile-fun</td>
+<td>Fun medium</td>
+<td>Média amusant</td>
+<td>Mezzo divertente</td>
+<td>2025-02-24T12:54:59.1307257+00:00</td>
+</tr>
+<tr>
+<td>profile-relaxation-3</td>
+<td>Entspannung mittel</td>
+<td>profile-relaxation</td>
+<td>Relaxation medium</td>
+<td>Milieu de relaxation</td>
+<td>Mezzo di rilassamento</td>
+<td>2025-02-24T12:59:10.6033449+00:00</td>
+</tr>
+<tr>
+<td>profile-sport-3</td>
+<td>Sport mittel</td>
+<td>profile-sport</td>
+<td>Sport medium</td>
+<td>Sport moyen</td>
+<td>Mezzo sportivo</td>
+<td>2025-02-24T12:59:44.0359824+00:00</td>
+</tr>
+<tr>
+<td>tso_test-projekt-tso-ost</td>
+<td>Test Projekt TSO OST</td>
+<td>campaign</td>
+<td>Test Projekt TSO OST</td>
+<td>Test Projekt TSO OST</td>
+<td>Test Projekt TSO OST</td>
+<td>2025-02-24T09:57:14.0665627+00:00</td>
+</tr>
+<tr>
+<td>tso_test2-tso</td>
+<td>test2_tso</td>
+<td>campaign</td>
+<td>test2_tso</td>
+<td>test2_tso</td>
+<td>test2_tso</td>
+<td>2025-07-02T02:53:18.7140771+00:00</td>
+</tr>
+<tr>
+<td>seasonality-year-round</td>
+<td>Ganzjährig</td>
+<td>seasonality</td>
+<td>Perennial</td>
+<td>Pérenne</td>
+<td>Perenne</td>
+<td>2025-03-13T21:43:20.4260118+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-arena</td>
+<td>Arena</td>
+<td>atmosphere</td>
+<td>arena</td>
+<td>Arène</td>
+<td>Arena</td>
+<td>2025-09-23T12:47:34.1991523+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-leisure</td>
+<td>Freizeit</td>
+<td>atmosphere</td>
+<td>leisure</td>
+<td>Loisir</td>
+<td>Tempo libero</td>
+<td>2025-09-23T12:47:34.184177+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-classic</td>
+<td>Klassisch</td>
+<td>atmosphere</td>
+<td>classic</td>
+<td>Classique</td>
+<td>Classico</td>
+<td>2025-09-23T12:47:34.8397152+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-historic</td>
+<td>Historisch</td>
+<td>atmosphere</td>
+<td>historic</td>
+<td>Historique</td>
+<td>Storico</td>
+<td>2025-09-23T12:47:34.1054164+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-industrial</td>
+<td>Industrial</td>
+<td>atmosphere</td>
+<td>industrial</td>
+<td>Industriel</td>
+<td>Industriale</td>
+<td>2025-09-23T12:47:34.2049886+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-rustic</td>
+<td>Urchig</td>
+<td>atmosphere</td>
+<td>rustic</td>
+<td>Urchig</td>
+<td>Urchig</td>
+<td>2025-09-23T12:47:35.8911453+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-outdoor</td>
+<td>Outdoor</td>
+<td>atmosphere</td>
+<td>outdoor</td>
+<td>Extérieur</td>
+<td>All’aperto</td>
+<td>2025-09-23T12:47:35.356701+00:00</td>
+</tr>
+<tr>
+<td>audience-info-beginner</td>
+<td>Beginner</td>
+<td>audience-info</td>
+<td>Beginner</td>
+<td>Débutant</td>
+<td>Principiante</td>
+<td>2025-05-22T22:01:36.477828+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-theater</td>
+<td>Theatersaal</td>
+<td>atmosphere</td>
+<td>theaterhall</td>
+<td>Auditorium</td>
+<td>Auditorio</td>
+<td>2025-09-23T12:47:36.0505703+00:00</td>
+</tr>
+<tr>
+<td>audience-info-residents</td>
+<td>Einheimisch</td>
+<td>audience-info</td>
+<td>Native</td>
+<td>Indigène</td>
+<td>Nativo</td>
+<td>2025-05-22T22:01:37.5166599+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-modern</td>
+<td>Modern</td>
+<td>atmosphere</td>
+<td>modern</td>
+<td>Moderne</td>
+<td>Moderno</td>
+<td>2025-09-23T12:47:34.8371207+00:00</td>
+</tr>
+<tr>
+<td>audience-info-instructor</td>
+<td>Skilehrer</td>
+<td>audience-info</td>
+<td>Ski instructor</td>
+<td>Moniteur de ski</td>
+<td>Maestro di sci</td>
+<td>2025-05-22T22:01:41.6191389+00:00</td>
+</tr>
+<tr>
+<td>tso_ost-test-views</td>
+<td>OST Test Views</td>
+<td>campaign</td>
+<td>OST Test Views</td>
+<td>OST Test Views</td>
+<td>OST Test Views</td>
+<td>2025-05-26T07:53:11.4916009+00:00</td>
+</tr>
+<tr>
+<td>image-event-venue</td>
+<td>Veranstaltungsort</td>
+<td>image-event</td>
+<td>Venue</td>
+<td>Lieu</td>
+<td>Sede</td>
+<td>2025-06-19T21:04:06.9629619+00:00</td>
+</tr>
+<tr>
+<td>image-bathroom</td>
+<td>Badezimmer</td>
+<td>image</td>
+<td>Bathroom</td>
+<td>Salle de Bains</td>
+<td>Stanza da bagno</td>
+<td>2025-06-28T07:32:42.1783856+00:00</td>
+</tr>
+<tr>
+<td>image-entrance</td>
+<td>Eingang</td>
+<td>image</td>
+<td>Entrance</td>
+<td>Entrée</td>
+<td>Entrata</td>
+<td>2025-06-28T07:33:00.1764992+00:00</td>
+</tr>
+<tr>
+<td>image-outdoor-exterior-autumn</td>
+<td>Aussenansicht Herbst</td>
+<td>image-outdoor</td>
+<td>Exterior autumn</td>
+<td>Vue extérieure de l’automne</td>
+<td>Vista esterna dell'autunno</td>
+<td>2025-06-28T07:33:36.4087472+00:00</td>
+</tr>
+<tr>
+<td>image-outdoor-exterior-spring</td>
+<td>Aussenansich Frühling</td>
+<td>image-outdoor</td>
+<td>Exterior spring</td>
+<td>À l’extérieur du printemps</td>
+<td>Primavera esterna</td>
+<td>2025-06-28T07:33:48.2922234+00:00</td>
+</tr>
+<tr>
+<td>image-outdoor-exterior-summer</td>
+<td>Aussenansicht Sommer</td>
+<td>image-outdoor</td>
+<td>Exterior summer</td>
+<td>Vue extérieure été</td>
+<td>Vista esterna estate</td>
+<td>2025-06-28T07:33:48.295074+00:00</td>
+</tr>
+<tr>
+<td>image-outdoor-exterior-winter</td>
+<td>Aussenansicht Winter</td>
+<td>image-outdoor</td>
+<td>Exterior winter</td>
+<td>Vue extérieure hiver</td>
+<td>Vista esterna inverno</td>
+<td>2025-06-28T07:33:57.925976+00:00</td>
+</tr>
+<tr>
+<td>image-reception</td>
+<td>Rezeption</td>
+<td>image</td>
+<td>Reception</td>
+<td>Réception</td>
+<td>Ricevimento</td>
+<td>2025-06-28T07:34:13.1416746+00:00</td>
+</tr>
+<tr>
+<td>life-après-ski</td>
+<td>Après Ski</td>
+<td>life</td>
+<td>Après Ski</td>
+<td>Après-ski</td>
+<td>Après Ski</td>
+<td>2025-06-28T07:34:48.315728+00:00</td>
+</tr>
+<tr>
+<td>school-level-secondary-second grade</td>
+<td>2. Sekundarstufe</td>
+<td>school-level</td>
+<td>2. Secondary education</td>
+<td>2. Enseignement secondaire</td>
+<td>2. Istruzione secondaria</td>
+<td>2025-06-28T07:43:28.9621048+00:00</td>
+</tr>
+<tr>
+<td>school-level-secondary-first grade</td>
+<td>1. Sekundarstufe</td>
+<td>school-level</td>
+<td>1. Secondary education</td>
+<td>1. Enseignement secondaire</td>
+<td>1. Istruzione secondaria</td>
+<td>2025-06-28T07:43:28.9635468+00:00</td>
+</tr>
+<tr>
+<td>culinary-african</td>
+<td>Afrika</td>
+<td>culinary</td>
+<td>Africa</td>
+<td>Afrique</td>
+<td>Africa</td>
+<td>2025-09-09T17:43:55.0325372+00:00</td>
+</tr>
+<tr>
+<td>culinary-catering</td>
+<td>Catering-Service</td>
+<td>culinary</td>
+<td>Catering service</td>
+<td>Service traiteur</td>
+<td>Servizio catering</td>
+<td>2025-09-09T17:43:56.9147496+00:00</td>
+</tr>
+<tr>
+<td>culinary-iberian</td>
+<td>Iberische Spezialitäten</td>
+<td>culinary</td>
+<td>Iberian specialties</td>
+<td>Spécialités ibériques</td>
+<td>Specialità iberiche</td>
+<td>2025-09-09T17:44:00.0846906+00:00</td>
+</tr>
+<tr>
+<td>culinary-vietnam</td>
+<td>Vietnam</td>
+<td>culinary</td>
+<td>Vietnam</td>
+<td>Viêt Nam</td>
+<td>Vietnam</td>
+<td>2025-09-09T17:44:03.2946089+00:00</td>
+</tr>
+<tr>
+<td>culinary-takeaway</td>
+<td>Takeaway</td>
+<td>culinary</td>
+<td>Takeaway</td>
+<td>Emporter</td>
+<td>Da asporto</td>
+<td>2025-09-09T17:44:03.482527+00:00</td>
+</tr>
+<tr>
+<td>culinary-turkish</td>
+<td>Türkische Spezialitäten</td>
+<td>culinary</td>
+<td>Turkish specialties</td>
+<td>Spécialités turques</td>
+<td>Specialità turche</td>
+<td>2025-09-09T17:44:04.9029643+00:00</td>
+</tr>
+<tr>
+<td>culinary-northafrica</td>
+<td>Nordafrikanische Spezialitäten</td>
+<td>culinary</td>
+<td>North African specialties</td>
+<td>Spécialités nord-africaines</td>
+<td>Specialità nordafricane</td>
+<td>2025-09-09T17:44:03.5698585+00:00</td>
+</tr>
+<tr>
+<td>culinary-delivery</td>
+<td>Lieferdienst</td>
+<td>culinary</td>
+<td>Delivery service</td>
+<td>Service de livraison</td>
+<td>Servizio di consegna</td>
+<td>2025-09-09T17:44:04.9332255+00:00</td>
+</tr>
+<tr>
+<td>culinary-centralamerica</td>
+<td>Mittelamerika</td>
+<td>culinary</td>
+<td>Central America</td>
+<td>Amérique centrale</td>
+<td>America centrale</td>
+<td>2025-09-09T17:44:06.9612831+00:00</td>
+</tr>
+<tr>
+<td>culinary-homestyle</td>
+<td>Gutbürgerlich</td>
+<td>culinary</td>
+<td>Home-style</td>
+<td>Style maison</td>
+<td>Stile casalingo</td>
+<td>2025-09-09T17:44:08.8688406+00:00</td>
+</tr>
+<tr>
+<td>culinary-china</td>
+<td>Chinesisch</td>
+<td>culinary</td>
+<td>Chinese</td>
+<td>Chinois</td>
+<td>Cinese</td>
+<td>2025-09-09T17:44:09.9475337+00:00</td>
+</tr>
+<tr>
+<td>culinary-fusion</td>
+<td>Fusion Cuisine</td>
+<td>culinary</td>
+<td>Fusion Cuisine</td>
+<td>Fusion Cuisine</td>
+<td>Cucina Fusion</td>
+<td>2025-09-09T17:44:11.1116149+00:00</td>
+</tr>
+<tr>
+<td>culinary-persian</td>
+<td>Persisch</td>
+<td>culinary</td>
+<td>Persian</td>
+<td>Perse</td>
+<td>Farsi</td>
+<td>2025-09-09T17:44:13.2077342+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-water</td>
+<td>Am Wasser</td>
+<td>atmosphere</td>
+<td>at waterside</td>
+<td>Près de l’eau</td>
+<td>Vicino all'acqua</td>
+<td>2025-09-23T12:47:34.2456936+00:00</td>
+</tr>
+<tr>
+<td>atmosphere-rural</td>
+<td>Ländlich</td>
+<td>atmosphere</td>
+<td>rural</td>
+<td>Rural</td>
+<td>Rurale</td>
+<td>2025-09-23T12:47:36.0330234+00:00</td>
+</tr>
+<tr>
+<td>tso_test-tag-1</td>
+<td>Test Tag 1</td>
+<td>campaign</td>
+<td>Test Tag 1</td>
+<td>Test Tag 1</td>
+<td>Test Tag 1</td>
+<td>2025-11-03T11:08:06.2722575+00:00</td>
+</tr>
+<tr>
+<td>tso_test-tag-2</td>
+<td>Test Tag 2</td>
+<td>campaign</td>
+<td>Test Tag 2</td>
+<td>Test Tag 2</td>
+<td>Test Tag 2</td>
+<td>2025-11-03T11:08:05.6553625+00:00</td>
+</tr>
+<tr>
+<td>tso_test-tag-3</td>
+<td>Test Tag 3</td>
+<td>campaign</td>
+<td>Test Tag 3</td>
+<td>Test Tag 3</td>
+<td>Test Tag 3</td>
+<td>2025-11-03T11:08:13.41452+00:00</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+  
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "content.tabs.link", "content.code.copy", "content.action.view", "content.action.edit", "search.suggest", "search.highlight", "search.share"], "search": "../../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.e71a0d61.min.js"></script>
+      
+        <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+      
+        <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+      
+        <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+      
+        <script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+      
+        <script src="https://cdn.datatables.net/responsive/2.5.0/js/responsive.bootstrap5.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../javascripts/datatables-init.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
+      
+    
+  </body>
+</html>
