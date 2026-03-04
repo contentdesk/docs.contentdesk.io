@@ -313,7 +313,7 @@ Anzahl Tags: 576
 <td>up to 12 years</td>
 <td>jusqu’à 12 ans</td>
 <td>fino a 12 anni</td>
-<td>2025-03-31T09:16:14.4166531+00:00</td>
+<td>2025-12-18T13:30:07.0775671+00:00</td>
 </tr>
 <tr>
 <td>audience-age-till-16</td>
@@ -349,7 +349,7 @@ Anzahl Tags: 576
 <td>Families</td>
 <td>Famille</td>
 <td>Famiglie</td>
-<td>2025-03-31T09:16:58.5267446+00:00</td>
+<td>2025-12-18T13:29:02.9982515+00:00</td>
 </tr>
 <tr>
 <td>audience-group-female</td>
@@ -376,7 +376,7 @@ Anzahl Tags: 576
 <td>Infants up to approx. 6 years</td>
 <td>Nourrissons jusqu’à environ 6 ans</td>
 <td>Neonati fino a circa 6 anni</td>
-<td>2025-03-31T09:17:13.2357284+00:00</td>
+<td>2025-12-18T13:29:03.3361594+00:00</td>
 </tr>
 <tr>
 <td>audience-group-male</td>
@@ -394,7 +394,7 @@ Anzahl Tags: 576
 <td>Parents</td>
 <td>Parents</td>
 <td>Genitori</td>
-<td>2025-03-31T09:17:45.6977852+00:00</td>
+<td>2025-12-18T13:29:03.0594692+00:00</td>
 </tr>
 <tr>
 <td>audience-group-seniors</td>
@@ -1888,7 +1888,7 @@ Anzahl Tags: 576
 <td>Kindergarten</td>
 <td>École maternelle</td>
 <td>Scuola materna</td>
-<td>2025-03-31T09:30:13.6490625+00:00</td>
+<td>2025-12-18T13:29:21.9638322+00:00</td>
 </tr>
 <tr>
 <td>school-level-primary-fifth-sixth-grade</td>
@@ -3418,7 +3418,7 @@ Anzahl Tags: 576
 <td>From 4 years</td>
 <td>À partir de 4 ans</td>
 <td>A partire da 4 anni</td>
-<td>2025-03-31T09:34:07.3127488+00:00</td>
+<td>2025-12-18T13:30:07.0831962+00:00</td>
 </tr>
 <tr>
 <td>audience-age-2</td>
@@ -3427,7 +3427,7 @@ Anzahl Tags: 576
 <td>From 2 years</td>
 <td>À partir de 2 ans</td>
 <td>A partire da 2 anni</td>
-<td>2025-03-31T09:34:06.7952595+00:00</td>
+<td>2025-12-18T13:30:07.0772275+00:00</td>
 </tr>
 <tr>
 <td>audience-age-9</td>
@@ -3445,7 +3445,7 @@ Anzahl Tags: 576
 <td>From 3 years</td>
 <td>À partir de 3 ans</td>
 <td>A partire da 3 anni</td>
-<td>2025-03-31T09:34:07.2096199+00:00</td>
+<td>2025-12-18T13:30:07.0772274+00:00</td>
 </tr>
 <tr>
 <td>audience-age-7</td>

@@ -29,16 +29,16 @@ audience-age-17;audience-age;From 17 years;Ab 17 Jahre;A partir de 17 ans;Dai 17
 audience-age-18;audience-age;From 18 years;Ab 18 Jahre;A partir de 18 ans;Dai 18 anni;2025-03-31T09:15:53.2191796+00:00
 audience-age-6;audience-age;From 6 years;Ab 6 Jahre;A partir de 6 ans;Dai 6 anni;2025-03-31T09:16:02.3543281+00:00
 audience-age-8;audience-age;From 8 years;Ab 8 Jahre;A partir de 8 ans;Da 8 anni;2025-03-31T09:16:03.351316+00:00
-audience-age-till-12;audience-age;up to 12 years;bis 12 Jahre;jusqu’à 12 ans;fino a 12 anni;2025-03-31T09:16:14.4166531+00:00
+audience-age-till-12;audience-age;up to 12 years;bis 12 Jahre;jusqu’à 12 ans;fino a 12 anni;2025-12-18T13:30:07.0775671+00:00
 audience-age-till-16;audience-age;up to 16 years;bis 16 Jahre;jusqu’à 16 ans;fino a 16 anni;2025-03-31T09:16:14.0061293+00:00
 audience-group-adults;audience-group;Adults;Erwachsene;Adulte;Adulti;2025-03-31T09:16:17.0095132+00:00
 audience-group-children;audience-group;Children;Kinder;Enfants;Bambini;2025-03-31T09:16:34.0648755+00:00
-audience-group-family;audience-group;Families;Familien;Famille;Famiglie;2025-03-31T09:16:58.5267446+00:00
+audience-group-family;audience-group;Families;Familien;Famille;Famiglie;2025-12-18T13:29:02.9982515+00:00
 audience-group-female;audience-group;Women;Frauen;Femme;Donne;2025-03-31T09:16:53.072787+00:00
 audience-group-handicaped;audience-group;People with disabilities;Menschen mit Behinderungen;Personnes handicapées;Persone con disabilità;2025-03-31T09:17:09.9618319+00:00
-audience-group-infants;audience-group;Infants up to approx. 6 years;Kleinkinder bis ca. 6 Jahre;Nourrissons jusqu’à environ 6 ans;Neonati fino a circa 6 anni;2025-03-31T09:17:13.2357284+00:00
+audience-group-infants;audience-group;Infants up to approx. 6 years;Kleinkinder bis ca. 6 Jahre;Nourrissons jusqu’à environ 6 ans;Neonati fino a circa 6 anni;2025-12-18T13:29:03.3361594+00:00
 audience-group-male;audience-group;Men;Männer;Hommes;Uomini;2025-03-31T09:17:43.3079848+00:00
-audience-group-parents;audience-group;Parents;Eltern;Parents;Genitori;2025-03-31T09:17:45.6977852+00:00
+audience-group-parents;audience-group;Parents;Eltern;Parents;Genitori;2025-12-18T13:29:03.0594692+00:00
 audience-group-seniors;audience-group;Seniors;Senioren;Aînés;Anziani;2025-03-31T09:17:48.0181957+00:00
 audience-group-lgbt;audience-group;LGBT+;LGBT+;LGBT+;LGBT+;2025-03-31T09:17:40.5591929+00:00
 audience-group-singles;audience-group;Alleinstehende_Singles;Alleinstehende_Singles;Alleinstehende_Singles;Alleinstehende_Singles;2025-03-31T09:17:53.9037144+00:00
@@ -204,7 +204,7 @@ proposed-by-editor;proposed;Editorially recommended;redaktionell empfohlen;Recom
 school-difficulty-level-difficult;school-difficulty-level;difficult for students;schwierig für Schüler;difficile pour les étudiants;difficile per gli studenti;2025-03-31T09:30:14.6437863+00:00
 school-difficulty-level-easy;school-difficulty-level;simple-easy for students;einfach-leicht für Schüler;Simple-facile pour les étudiants;semplice-facile per gli studenti;2025-07-11T06:36:01.0355201+00:00
 school-difficulty-level-medium;school-difficulty-level;medium difficult for students;mittelschwierig für Schüler;Moyen difficile pour les étudiants;medio difficile per gli studenti;2025-03-31T09:30:16.0098475+00:00
-school-level-kindergarden;school-level;Kindergarten;Kindergarten;École maternelle;Scuola materna;2025-03-31T09:30:13.6490625+00:00
+school-level-kindergarden;school-level;Kindergarten;Kindergarten;École maternelle;Scuola materna;2025-12-18T13:29:21.9638322+00:00
 school-level-primary-fifth-sixth-grade;school-level;5th/6th primary class;5./6. Primarklasse;5ème/6ème classe primaire;5ª/6ª classe primaria;2025-07-09T14:11:22.4994754+00:00
 school-level-primary-first-second-grade;school-level;1st/2nd primary class;1./2. Primarklasse;1ère/2ème classe primaire;1ª/2ª classe primaria;2025-03-31T09:30:19.6067541+00:00
 school-level-primary-third-fourth-grade;school-level;3rd/4th primary class;3./4. Primarklasse;3ème/4ème classe primaire;3ª/4ª classe primaria;2025-07-09T14:11:17.8484533+00:00
@@ -374,10 +374,10 @@ pns-at-campsite;located-at;At Campsite;Beim Campingplatz;Au Camping;Al Campeggio
 pns-rv-parking;located-at;RV Parking;Wohnmobilstellplatz;Aires camping-car;Parcheggio RV;2025-03-31T09:34:06.2891738+00:00
 pns-at-mountain-railway;located-at;At Mountain Railway;Bei Bergbahn;Près téléphérique;Alla ferrovia di montagna;2025-03-31T09:34:05.5625015+00:00
 audience-age-5;audience-age;From 5 years;Ab 5 Jahre;À partir de 5 ans;A partire da 5 anni;2025-03-31T09:34:08.0361603+00:00
-audience-age-4;audience-age;From 4 years;Ab 4 Jahre;À partir de 4 ans;A partire da 4 anni;2025-03-31T09:34:07.3127488+00:00
-audience-age-2;audience-age;From 2 years;Ab 2 Jahre;À partir de 2 ans;A partire da 2 anni;2025-03-31T09:34:06.7952595+00:00
+audience-age-4;audience-age;From 4 years;Ab 4 Jahre;À partir de 4 ans;A partire da 4 anni;2025-12-18T13:30:07.0831962+00:00
+audience-age-2;audience-age;From 2 years;Ab 2 Jahre;À partir de 2 ans;A partire da 2 anni;2025-12-18T13:30:07.0772275+00:00
 audience-age-9;audience-age;From 9 years;Ab 9 Jahre;À partir de 9 ans;A partire da 9 anni;2025-03-31T09:34:10.2146776+00:00
-audience-age-3;audience-age;From 3 years;Ab 3 Jahre;À partir de 3 ans;A partire da 3 anni;2025-03-31T09:34:07.2096199+00:00
+audience-age-3;audience-age;From 3 years;Ab 3 Jahre;À partir de 3 ans;A partire da 3 anni;2025-12-18T13:30:07.0772274+00:00
 audience-age-7;audience-age;From 7 years;Ab 7 Jahre;À partir de 7 ans;A partire da 7 anni;2025-03-31T09:34:08.0320557+00:00
 tourismregion-baselregion;tourismregion;Basel Region;Basel Region;Région bâloise;Regione di Basilea;2025-03-31T09:34:13.048524+00:00
 tourismregion-aarauregion;tourismregion;Aarau Region;Aarau Region;Région Argovie;Regione di Aarau;2025-03-31T09:34:10.4022539+00:00
