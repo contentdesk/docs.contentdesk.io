@@ -232,27 +232,27 @@ classDiagram
 |             | [areaServed]                            | [areaServed discover]                   | -                         |
 |             | [isRelatedTo]                           | [isRelatedTo discover]                   | -                         |
 
-[offers]: ../../schema/offers
-[itemOffered]: ../../schema/itemOffered
-[areaServed]: ../../schema/areaServed
+[offers]: ../../schemaArchiv/offers
+[itemOffered]: ../../schemaArchiv/itemOffered
+[areaServed]: ../../schemaArchiv/areaServed
 
-[availableAtOrFrom]: ../../schema/availableAtOrFrom
-[itemReviewed]: ../../schema/itemReviewed
-[isRelatedTo]: ../../schema/
-[offeredBy]: ../../schema/offeredBy
-[location]: ../../schema/location
+[availableAtOrFrom]: ../../schemaArchiv/availableAtOrFrom
+[itemReviewed]: ../../schemaArchiv/itemReviewed
+[isRelatedTo]: ../../schemaArchiv/isRelatedTo
+[offeredBy]: ../../schemaArchiv/offeredBy
+[location]: ../../schemaArchiv/location
 
-[identifier]: ../../schema/identifier
-[avs_id]: ../../schema/avs_id
-[validFrom]: ../../schema/validFrom
-[validThrough]: ../../schema/validThrough
-[HowToDirection]: ../../schema/HowToDirection
-[publicTransport]: ../../schema/publicTransport
-[parking]: ../../schema/parking
-[name]: ../../schema/name
-[disambiguatingDescription]: ../../schema/name
-[description]: ../../schema/description
-[channel]: ../../schema/channel
+[identifier]: ../../schemaArchiv/identifier
+[avs_id]: ../../schemaArchiv/avs_id
+[validFrom]: ../../schemaArchiv/validFrom
+[validThrough]: ../../schemaArchiv/validThrough
+[HowToDirection]: ../../schemaArchiv/HowToDirection
+[publicTransport]: ../../schemaArchiv/publicTransport
+[parking]: ../../schemaArchiv/parking
+[name]: ../../schemaArchiv/name
+[disambiguatingDescription]: ../../schemaArchiv/disambiguatingDescription
+[description]: ../../schemaArchiv/description
+[channel]: ../../schemaArchiv/channel
 
 [additionalProperty discover]: https://docs.discover.swiss/dev/quickstarts/how-to-work-with-traveler-and-itemField/#example-special-additionalproperty
 [Place discover]: https://docs.discover.swiss/dev/reference/dataschema/definition/infocenter-classes/Place/

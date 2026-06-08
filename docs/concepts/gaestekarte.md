@@ -52,16 +52,16 @@ graph TD
 
 ### Types
 
-* [GuestCard](../../schema/GuestCard)
-* [Offer](../../schema/Offer)
-* [Product](../../schema/Product)
-* [Place](../../schema/Place)
+* [GuestCard](../../schemaArchiv/GuestCard)
+* [Offer](../../schemaArchiv/Offer)
+* [Product](../../schemaArchiv/Product)
+* [Place](../../schemaArchiv/Place)
 
 ### Properties
 
-* [itemOffered](../../schema/itemOffered) - Verknüpfung
-* [isRelatedTo](../../schema/isRelatedTo) - Verknüpfung
-* [areaServed](../../schema/areaServed) - Verknüpfung
+* [itemOffered](../../schemaArchiv/itemOffered) - Verknüpfung
+* [isRelatedTo](../../schemaArchiv/isRelatedTo) - Verknüpfung
+* [areaServed](../../schemaArchiv/areaServed) - Verknüpfung
 
 !!! info "Hinweis"
 
