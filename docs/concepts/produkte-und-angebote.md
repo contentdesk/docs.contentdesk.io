@@ -111,12 +111,22 @@ https://schema.org/hasVariant
 ``` mermaid
 graph TB
     subgraph Site
-        Directory --> Product-Detail --> Offer-Detail
+        direction TB
+        Directory --> Product-Detail -->|"offers ✅👁️"| Offer-Detail
         Teaser --> Product-Detail
         Link --> Product-Detail
-        Place-Detail --> Offer-Detail
-        Place-Detail --> Product-Detail
-        Offer-Detail --> Place-Detail
+        Place-Detail --> |"?❌👁️"| Offer-Detail
+        Place-Detail --> |"?❌👁️"| Product-Detail
+        subgraph New-Detail-Sie
+            direction TB
+            Place-Detail
+        end
+        subgraph Detail-Site
+            direction TB
+            Offer-Detail --> |"availableAtOrFrom ✅👁️"|Place-Detail
+            Offer-Detail --> |"itemOffered ✅"| Product-Detail
+        end
+        
     end
     subgraph schema.org
         direction TD
