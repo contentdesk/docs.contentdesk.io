@@ -38,7 +38,7 @@ flowchart LR
 
 ## Ähnliche Verknüpfungen
 
-* [availableAtOrFrom](/schema/availableAtOrFrom)
+* [availableAtOrFrom](/schemaArchiv/availableAtOrFrom)
 
 
 ## Hinweise

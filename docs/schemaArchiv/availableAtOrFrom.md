@@ -46,7 +46,7 @@ flowchart LR
 
 ## Ähnliche Verknüpfungen
 
-[areaServed](/schema/areaServed)
+[areaServed](/schemaArchiv/areaServed)
 
 ## Hinweise
 
