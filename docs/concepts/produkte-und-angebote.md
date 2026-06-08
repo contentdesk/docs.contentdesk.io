@@ -134,18 +134,15 @@ graph TB
         direction TD
         Product --> |"offers"| Offer
         Offer --> |"itemOffered"| Product
-        Offer --> |"availableAtOrFrom / Verfügbar"| LocalBusiness
-        Offer --> |"areaServed / Lieferbereich"| LocalBusiness
-        LocalBusiness --> |"❌?"| Offer
-        Offer --> |"offeredBy"| LocalBusiness
-        Offer --> |"seller"| LocalBusiness
-        LocalBusiness --> |"makesOffer"| Offer
+        Offer --> |"availableAtOrFrom ✅"| LocalBusiness
+        Offer --> |"areaServed "| LocalBusiness
+        LocalBusiness --> |"makesOffer ✅"| Offer
+        Offer --> |"offeredBy ✅"| LocalBusiness
         LocalBusiness --> |"hasPOS"| Place
         LocalBusiness --> |"location"| Place
         LocalBusiness --> |"areaServed"| Place
         LocalBusiness --> |"owner"| Organization
         LocalBusiness --> |"hasOfferCatalog"| OfferCatalog
-        OfferCatalog --> |"itemListElement[]"| Offer
     end
 
     subgraph discover.swiss
