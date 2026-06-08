@@ -6,8 +6,8 @@
 * [FAQ]
 * [OpenData]
 
-[Produkte und Angebote]: /concepts/produkte-und-angebote.md
-[Reviews and recommendations]: /concepts/reviews-and-recommendations.md
-[Gästekarte]: /concepts/gaestekarte.md
-[FAQ]: /concepts/faq.md
-[OpenData]: /concepts/OpenData.md
+[Produkte und Angebote]: /concepts/produkte-und-angebote
+[Reviews and recommendations]: /concepts/reviews-and-recommendations
+[Gästekarte]: /concepts/gaestekarte
+[FAQ]: /concepts/faq
+[OpenData]: /concepts/opendata
