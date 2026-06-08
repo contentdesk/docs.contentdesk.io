@@ -124,12 +124,14 @@ graph TB
         Offer --> |"itemOffered"| Product
         Offer --> |"availableAtOrFrom / Verfügbar"| Place
         Offer --> |"areaServed / Lieferbereich"| Place
-        Place --> |"? "| Offer
+        Place --> |"?"| Offer
         Offer --> |"offeredBy"| Organization
+        Offer --> |"seller"| Organization
         Organization --> |"makesOffer"| Offer
         Organization --> |"hasPOS"| Place
         Organization --> |"location"| Place
         Organization --> |"areaServed"| Place
+        Place --> |"owner"| Organization
     end
 
     subgraph discover.swiss
@@ -139,6 +141,7 @@ graph TB
         OfferDS -->|areaServed| PlaceDS["POI (Place)"]
         ProductDS -->|areaServed| PlaceDS["POI (Place)"]
     end
+
 ```
 
 [Mermaid Live Editor](https://mermaid.ai/live/edit#pako:eNqVlF2vmjAYx78K6dWWqAdERbjYMg_ZsuQkmmnOxcYuKn2ERqCmLW4e9Zvtbl9spVVhDufGVfvw_z3vsEcxI4AClHC8Sa3FJCos9YhyaQxzKsGYqiekHGLJ-M7qdt9YM85IGctuCBLTTJumqxXwk6HGFoAF8BamljzRYv1XwSzDMdwP9Yfslr8mboQN0sigIFfdEHEKOe4xntSOiO4JZYW1CBt5mLDa8yFCrIomInQwca_SOKtUr3NtAFJJTz5uiPFWJYqXGbyTU_6es9x6sJ6Br37-SJaYa76q6BbNAc-Bb4Eo7ImCerVUcWmctpD6eibfWvfKYKaEyU4LeYIL-oKrDjX0DesZy_EahPHbEqAFSLGYTedtlbaIMxabHP5NXvenBWisx9WCECpitgXeE9-oEK1LMqmtH0oQ8hFz8iVCl7P16jT31xH6WqVzoOITZFgCWbBTX8K5IvSpKb4aRzg3dL1Ul5XSvD6vpZp_VShVE77vrG7LqSnG0_SjYqvr7-Ql2n-yurOoo_5JlKBA8hI6KAee4-qK9pUoQlJ9ihChQB0JrHCZyQhFxVFhG1x8Ziw_k5yVSYqCFc6EupUboloZUqwGll-sXIUE_sjKQqLAGY097QUFe_Rd3XuDgd_3fW846Nue6zpOB-1Q4Lq94cj1-o7t-o4_Hg-PHfSi4zo9u287nmfbI_V64I9Gx18ofarM)
