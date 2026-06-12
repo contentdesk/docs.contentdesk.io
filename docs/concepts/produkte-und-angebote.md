@@ -119,7 +119,7 @@ graph TB
         Product-Detail -->|"offers ✅👁️"| Offer-Detail
         Place-Detail --> |"makesOffer ✅👁️"| Offer-Detail
         Place-Detail --> |"?❌👁️"| Product-Detail
-        subgraph New-Detail-Sie
+        subgraph New-Detail-Site
             direction TB
             Place-Detail("LocalBusiness")
         end
