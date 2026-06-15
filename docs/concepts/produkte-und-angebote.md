@@ -76,7 +76,7 @@ graph TB
     end
 ```
 
-## schema.org
+### schema.org
 ``` mermaid
 graph TB
     subgraph schema.org
@@ -96,7 +96,7 @@ graph TB
     end
 ```
 
-## Site
+### Sitemap
 ``` mermaid
 graph TB
     subgraph Site
