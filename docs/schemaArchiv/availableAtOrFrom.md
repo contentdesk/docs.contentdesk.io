@@ -51,5 +51,5 @@ flowchart LR
 ## Hinweise
 
 !!! info "Hinweis"
-    Bei wird areaServed statt availableAtOrFrom für die Verknüpfung der Produkte mit einem POI verwendet.
+    Bei Gästekarten discover.swiss wird areaServed statt availableAtOrFrom für die Verknüpfung der Produkte mit einem POI verwendet.
     https://docs.discover.swiss/dev/concepts/offers/
