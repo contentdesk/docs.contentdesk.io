@@ -39,7 +39,7 @@ Die Angebote / Leistungen sind von anderen Leistungsträgern
 
 * Marketing zum Mitmachen
 
-## Contentdesk, Schema.org Typen, discover.swiss
+## Typen - Contentdesk, Schema.org , discover.swiss
 
 | Contentdesk       | Schema.org         | discover.swiss                              | Bemerkung                              |
 | -----------       | --------------     | --------------     | ------------------------------------   |
@@ -48,6 +48,23 @@ Die Angebote / Leistungen sind von anderen Leistungsträgern
 | Offer             | Offer            | Offer            |                                       |
 |                   | ProductModel?      | ?            | Für Ähnlich wie Product mit weiteren spezifischen Properties wie isVariantOf, predecessorOf,successorOf |
 | Group             | ProductCollection? | ?            |                                        |
+
+## Verknüpfungen
+
+| schema.org | Contentdesk | discover.swiss | Bemerkung |
+|---------|--------|--------| --------|
+| [isRelatedTo](../../schemaArchiv/offers) | ✅ | ✅ | Hinweis auf ein anderes bzw. verwandes Produkt. Wird bei discover.swiss für Gästekarte Case verwendet❗ |
+| [itemOffered](../../schemaArchiv/itemOffered) | ✅ | ✅ | Angebot zu Produkt. Wird bei discover.swiss für Gästekarte Case verwendet❗ |
+| [areaServed](../../schemaArchiv/areaServed) | ✅ | ✅ | Das geografische Gebiet, in dem eine Dienstleistung oder ein Produkt angeboten wird. Wird bei discover.swiss für Gästekarte Case verwendet❗ |
+| [offers](../../schemaArchiv/offers) | ✅ | ✅ | Produkt zu Angebot. |
+| [offeredBy ](../../schemaArchiv/offeredBy ) | ✅ | ✅ | Angebot zu Organisation/LocalBusiness. |
+| [availableAtOrFrom](../../schemaArchiv/availableAtOrFrom) | ✅ | ✅ | Ort an dem das Angebot erhältich ist. |
+| [makesOffer ](../../schemaArchiv/makesOffer) | ❌ | ✅ | Organization zum Angebot. |
+| [hasOfferCatalog](../../schemaArchiv/hasOfferCatalog) | ❌ | ❌ | Organization zum Angebot-Katalog. |
+
+### Problematik
+
+isRelatedTo 
 
 
 ### Mapping
