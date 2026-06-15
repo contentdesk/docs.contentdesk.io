@@ -39,14 +39,15 @@ Die Angebote / Leistungen sind von anderen Leistungsträgern
 
 * Marketing zum Mitmachen
 
-## Contentdesk und Schema.org Typen
+## Contentdesk, Schema.org Typen, discover.swiss
 
-| Contentdesk       | Schema.org         | Bemerkung                              |
-| -----------       | --------------     | ------------------------------------   |
-| Product-Model / Variante    | ProductGroup       | Produkt Variante                       |
-| Product           | Product            |                                        |
-|                   | ProductModel?      | Für Ähnlich wie Product mit weiteren spezifischen Properties wie isVariantOf, predecessorOf,successorOf |
-| Group             | ProductCollection? |                                        |
+| Contentdesk       | Schema.org         | discover.swiss                              | Bemerkung                              |
+| -----------       | --------------     | --------------     | ------------------------------------   |
+| Product-Model / Variante    | ProductGroup       | ?   | Produkt Variante                       |
+| Product           | Product            | Product            |                                       |
+| Offer             | Offer            | Offer            |                                       |
+|                   | ProductModel?      | ?            | Für Ähnlich wie Product mit weiteren spezifischen Properties wie isVariantOf, predecessorOf,successorOf |
+| Group             | ProductCollection? | ?            |                                        |
 
 
 ### Mapping
