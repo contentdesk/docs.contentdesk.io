@@ -59,7 +59,7 @@ Die Angebote / Leistungen sind von anderen Leistungsträgern
 | [offers](../../schemaArchiv/offers) | ✅ | ✅ | Produkt zu Angebot. |
 | [offeredBy ](../../schemaArchiv/offeredBy ) | ✅ | ✅ | Angebot zu Organisation/LocalBusiness. |
 | [availableAtOrFrom](../../schemaArchiv/availableAtOrFrom) | ✅ | ✅ | Ort an dem das Angebot erhältich ist. |
-| [makesOffer ](../../schemaArchiv/makesOffer) | ❌ | ✅ | Organization zum Angebot. |
+| [makesOffer ](../../schemaArchiv/makesOffer) | ❌ | ❌ | Organization zum Angebot. |
 | [hasOfferCatalog](../../schemaArchiv/hasOfferCatalog) | ❌ | ❌ | Organization zum Angebot-Katalog. |
 
 ### Problematik
@@ -150,6 +150,7 @@ graph TB
     end
     subgraph schema.org
         direction TD
+        Product --> |"isRelatedTo"| Offer
         Product --> |"offers"| Offer
         Offer --> |"itemOffered"| Product
         Offer --> |"availableAtOrFrom ✅"| LocalBusiness
@@ -178,6 +179,7 @@ graph TB
 
 ### Links / Verknüpfungen
 
+* [isRelatedTo](../../schemaArchiv/isRelatedTo)
 * [offers](../../schemaArchiv/offers)
 * [itemOffered](../../schemaArchiv/itemOffered)
 * [availableAtOrFrom](../../schemaArchiv/availableAtOrFrom)
