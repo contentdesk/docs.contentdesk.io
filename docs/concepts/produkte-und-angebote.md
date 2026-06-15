@@ -136,7 +136,7 @@ graph TB
         Product --> |"offers"| Offer
         Offer --> |"itemOffered"| Product
         Offer --> |"availableAtOrFrom ✅"| LocalBusiness
-        Offer --> |"areaServed "| LocalBusiness
+        Offer --> |"areaServed "| Place
         LocalBusiness --> |"makesOffer ✅"| Offer
         Offer --> |"offeredBy ✅"| LocalBusiness
         LocalBusiness --> |"hasPOS"| Place
