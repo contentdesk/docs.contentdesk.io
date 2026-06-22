@@ -51,16 +51,19 @@ Die Angebote / Leistungen sind von anderen Leistungsträgern
 
 ## Properties / Verknüpfungen
 
-| schema.org | Contentdesk | discover.swiss | Bemerkung |
-|---------|--------|--------| --------|
-| [isRelatedTo](../../schemaArchiv/offers) | ✅ | ✅ | Hinweis auf ein anderes bzw. verwandes Produkt. Wird bei discover.swiss für Gästekarte Case verwendet❗ |
-| [itemOffered](../../schemaArchiv/itemOffered) | ✅ | ✅ | Angebot zu Produkt. Wird bei discover.swiss für Gästekarte Case verwendet❗ |
-| [areaServed](../../schemaArchiv/areaServed) | ✅ | ✅ | Das geografische Gebiet, in dem eine Dienstleistung oder ein Produkt angeboten wird. Wird bei discover.swiss für Gästekarte Case verwendet❗ |
-| [offers](../../schemaArchiv/offers) | ✅ | ✅ | Produkt zu Angebot. |
-| [offeredBy ](../../schemaArchiv/offeredBy ) | ✅ | ✅ | Angebot zu Organisation/LocalBusiness. |
-| [availableAtOrFrom](../../schemaArchiv/availableAtOrFrom) | ✅ | ✅ | Ort an dem das Angebot erhältich ist. |
-| [makesOffer ](../../schemaArchiv/makesOffer) | ❌ | ❌ | Organization zum Angebot. |
-| [hasOfferCatalog](../../schemaArchiv/hasOfferCatalog) | ❌ | ❌ | Organization zum Angebot-Katalog. |
+| schema.org | Contentdesk | discover.swiss | Contao | Bemerkung |
+|---------|--------|--------| --------| --------|
+| [isRelatedTo](../../schemaArchiv/offers) | ✅ | ✅ | ❌ | Hinweis auf ein anderes bzw. verwandes Produkt. Wird bei discover.swiss für Gästekarte Case verwendet❗ |
+| [itemOffered](../../schemaArchiv/itemOffered) | ✅ | ✅ | ❌ | Angebot zu Produkt. Wird bei discover.swiss für Gästekarte Case verwendet❗ |
+| [areaServed](../../schemaArchiv/areaServed) | ✅ | ✅ | ❌ | Das geografische Gebiet, in dem eine Dienstleistung oder ein Produkt angeboten wird. Wird bei discover.swiss für Gästekarte Case verwendet❗ |
+| [offers](../../schemaArchiv/offers) | ✅ | ✅ | ❌ | Produkt zu Angebot. |
+| [offeredBy ](../../schemaArchiv/offeredBy ) | ✅ | ✅ | ❌ |Angebot zu Organisation/LocalBusiness. |
+| [availableAtOrFrom](../../schemaArchiv/availableAtOrFrom) | ✅ | ✅ | ❌ | Ort an dem das Angebot erhältich ist. |
+| [makesOffer ](../../schemaArchiv/makesOffer) | ❌ | ❌ | ❌ | Organization zum Angebot. |
+| [hasOfferCatalog](../../schemaArchiv/hasOfferCatalog) | ❌ | ❌ | ❌ | Organization zum Angebot-Katalog. |
+| Recommendation❌ | ✅ | ❌ | ✅ | Manuel gepflegte Empfehlungen im Contentdesk |
+| [event](../../schemaArchiv/event) | ✅ | ✅ | ✅ | Dazugehörige Veranstaltungen bei einem Place |
+| [location](../../schemaArchiv/location) | ✅ | ✅ | ✅ | Dazugehöriger Place bei einer Veranstaltung |
 
 ## Übersicht Gesamt mit allen Verknüpfungen und Schemas
 
