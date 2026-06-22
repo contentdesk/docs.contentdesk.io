@@ -14,7 +14,7 @@ Hinweis auf ein anderes oder verwandtes Produkt.
 
 ``` mermaid
 graph TB
-  Product --> |isRelatedTo| Offer("Offer(Product)")
+  Product --> |isRelatedTo| Offer
 ```
 
 ### Beispiel
