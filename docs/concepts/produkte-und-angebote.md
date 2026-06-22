@@ -95,27 +95,60 @@ graph TB
         LocalBusiness --> |"hasOfferCatalog"| OfferCatalog
     end
 ```
-
 ### Sitemap
+#### Sitemap - Case Allgemein
 ``` mermaid
 graph TB
     subgraph Site
         direction TB
-        Directory --> Product-Detail
+        Directory --> Offer-Detail
+        Teaser --> Offer-Detail
+        Link --> Offer-Detail
+
+        Place-Detail --> |"makesOffer ✅👁️"| Offer-Detail
+        
+        subgraph Place-Detail-Site
+            direction TB
+            Place-Detail("LocalBusiness Detail")
+        end
+        subgraph Offer-Detail-Site
+            direction TB
+            Offer-Detail --> |"availableAtOrFrom ✅👁️"|Place-Detail
+            
+        end
+        subgraph Product-Detail-Site
+            Product-Detail -->|"offers ✅👁️"| Offer-Detail
+            Product-Detail -->|"isRelatedTo ✅👁️"| Offer-Detail
+            Offer-Detail --> |"itemOffered ✅"| Product-Detail
+            Place-Detail --> |"?❌👁️"| Product-Detail
+
+        end
+    end
+```
+
+#### Sitemap - Case Gästekarte
+``` mermaid
+graph TB
+    subgraph Site
+        direction TB
+        Directory --> Product-Detail("Gästekarte")
         Teaser --> Product-Detail
         Link --> Product-Detail
 
-        Product-Detail -->|"offers ✅👁️"| Offer-Detail
         Place-Detail --> |"makesOffer ✅👁️"| Offer-Detail
-        Place-Detail --> |"?❌👁️"| Product-Detail
-        subgraph New-Detail-Site
+        
+        subgraph Place-Detail-Site
             direction TB
-            Place-Detail("LocalBusiness")
+            Place-Detail("LocalBusiness Detail")
         end
-        subgraph Detail-Site
+        subgraph Offer-Detail-Site
             direction TB
             Offer-Detail --> |"availableAtOrFrom ✅👁️"|Place-Detail
+        end
+        subgraph Product-Detail-Site
+            Product-Detail -->|"isRelatedTo ✅👁️"| Offer-Detail
             Offer-Detail --> |"itemOffered ✅"| Product-Detail
+            Place-Detail --> |"?❌👁️ --> Auszeichnungen?"| Product-Detail
         end
     end
 ```
