@@ -51,3 +51,10 @@ flowchart LR
 ## Ähnliche Verknüpfungen
 
 [event](/schemaArchiv/event)
+
+
+### Used
+
+| Schema.org | Contentdesk | discover.swiss | Outdooractive | Guidle | Bemerkung |
+| ---------  | --------    | -------------  | ------------- | ------ | ------ |
+| ✅        | ✅          | ✅            |  ?             | ?      |  |
