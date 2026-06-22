@@ -55,6 +55,11 @@ flowchart LR
 
 ### Used
 
-| Schema.org | Contentdesk | discover.swiss | Outdooractive | Guidle | Bemerkung |
-| ---------  | --------    | -------------  | ------------- | ------ | ------    |
-| ✅        | ✅          | ✅            |  ?             | ?      |           |
+| Provider                    | Used     | Bemerkung |
+| ---------                   | -------- | --------- |
+| Schema.org                  | ✅       |           | 
+| Contentdesk                 | ✅       |           | 
+| discover.swiss              | ✅       |           | 
+| Outdooractive               | ❌       | ?          | 
+| [Guidle](../connect/guidle) | ❌       | Nutzt `address` siehe Dokumentaton | 
+| OpenStreetMap               | ❌       | Verknüpft keine Events mit Locations |

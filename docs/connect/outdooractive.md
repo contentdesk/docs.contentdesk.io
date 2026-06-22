@@ -45,3 +45,16 @@ Attribute und Verknüpfungen (Association Type) welche zu Outdooractive übertra
 
 
 [name]: ../schema/name.md
+
+
+### Weiteres
+
+Dabei bei https://www.tourismtechalliance.org/fields-js
+
+### Neue Schnittstelle
+
+Dokumentation:
+https://developers.outdooractive.com/OutdooractiveInterface/GeoJSON/
+
+Kategorien:
+https://developers.outdooractive.com/OutdooractiveInterface/GeoJSON/categories.html?lang=de#de
