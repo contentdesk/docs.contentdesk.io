@@ -1,0 +1,189 @@
+code;label-en_US;label-de_CH;label-fr_FR;label-it_IT;attribute;sort_order
+sui_01;Activities;Aktivitäten;Activités;Attività;leisure;0
+sui_0111;Air sports;Luftsport;Sports aériens;Sport aerei;leisure;1
+sui_011103;Hang gliding;Drachenfliegen;Deltaplane;Deltaplano;leisure;2
+sui_011104;Hot air balloon flying;Heissluftballonfliegen;Vol en montgolfière;Volo in mongolfiera;leisure;3
+sui_011101;Paragliding;Gleitschirmfliegen;Parapente;Parapendio;leisure;4
+sui_011102;Skydiving;Fallschirmspringen;Parachutisme;Paracadutismo;leisure;5
+sui_0109;Aquatics;Wassersport;Natation;Sport acquatico;leisure;6
+sui_010904;Canoeing;Kanufahren;Canoé;Canoismo;leisure;7
+sui_010901;Canyoning;Canyoning;Canyoning;Canyoning;leisure;8
+sui_010913;Dive;Tauchen;Plonger;Tuffarsi;leisure;9
+sui_010902;Fish;Fischen;Poisson;Pesce;leisure;10
+sui_010903;Kayaking;Kajakfahren;Kayak;Kayak;leisure;11
+sui_010915;Kitesurfing;Kitesurfen;Kitesurf;Kitesurf;leisure;12
+sui_010916;Pedalos;Pedalos;Pédalos;Pedalò;leisure;13
+sui_010905;Rafting;Rafting;Rafting;Fluitazione;leisure;14
+sui_010906;Row;Rudern;Ramer;Fila;leisure;15
+sui_010908;Sail;Segeln;Voile;Vela;leisure;16
+sui_010911;SUPStandUpPaddling;SUPStandUpPaddling;SUPStandUpPaddling;SUPStandUpPaddling;leisure;17
+sui_010912;Surfing;Surfen;Surf;Surf;leisure;18
+sui_010907;Swim;Schwimmen;Nager;Nuotare;leisure;19
+sui_010914;Waterskiing & Wakeboard;Wasserski & Wakeboard;Ski nautique & Wakeboard;Sci nautico & Wakeboard;leisure;20
+sui_010917;Windsurfing;Windsurfen;Planche à voile;Windsurf;leisure;21
+sui_0116;Athletics;Leichtathletik;Athlétisme;Atletica;leisure;22
+sui_0108;Ball sports;Ballsport;Sports de balle;Sport con la palla;leisure;23
+sui_010813;American football;American Football;Football américain;Football americano;leisure;24
+sui_010801;Badminton;Badminton;Badminton;Badminton;leisure;25
+sui_010814;Baseball;Baseball;Base-ball;Baseball;leisure;26
+sui_010815;Basketball;Basketball;Basket-ball;Pallacanestro;leisure;27
+sui_010802;Beach volleyball;Beachvolleyball;Beach-volley;Beach volley;leisure;28
+sui_010803;Billiards;Billard;Billard;Biliardo;leisure;29
+sui_010804;Bocce;Boccia;Lyonnaises;Bocce;leisure;30
+sui_010817;Floorball;Unihockey;Floorball;Floorball;leisure;31
+sui_010805;Football;Fussball;Football;Calcio;leisure;32
+sui_010806;Gulf;Golf;Golfe;Golfo;leisure;33
+sui_010807;Handball;Handball;Handball;Pallamano;leisure;34
+sui_010809;Miniature golf;Minigolf;Golf miniature;Minigolf;leisure;35
+sui_010808;Skittles;Kegeln;Skittles;Birillo;leisure;36
+sui_010810;Squash;Squash;Courge;Schiacciare;leisure;37
+sui_010816;Table tennis;Tischtennis;Ping-pong;Ping-pong;leisure;38
+sui_010811;Tennis;Tennis;Tennis;Tennis;leisure;39
+sui_010812;Volleyball;Volleyball;Volley-ball;Pallavolo;leisure;40
+sui_0104;Climbing;Klettersport;Escalade;Arrampicata;leisure;41
+sui_010401;Bouldering;Bouldern;Bloc;Bouldering;leisure;42
+sui_010403;Climb;Klettern;Grimper;Arrampicarsi;leisure;43
+sui_010402;Ice climbing;Eisklettern;Escalade sur glace;Arrampicata su ghiaccio;leisure;44
+sui_010404;Sport climbing;Sportklettern;Escalade sportive;Arrampicata sportiva;leisure;45
+sui_0102;Cycling;Velofahren;Cyclisme;Ciclismo;leisure;46
+sui_010203;Bicycle;Fahrrad;Bicyclette;Bicicletta;leisure;47
+sui_010201;E-Bike;E-Bike;Vélo électrique;E-Bike;leisure;48
+sui_010202;E-mountain bike;E-Mountainbike;Vélo de montagne électrique;E-mountain bike;leisure;49
+sui_010204;Gravel bike;Gravelbike;Vélo de gravier;Bici gravel;leisure;50
+sui_010205;Mountain bike;Mountainbike;VTT;Rampichino;leisure;51
+sui_010207;Racer;Rennrad;Coureur;Corridore;leisure;52
+sui_0117;Dance;Tanzen;Danser;Ballo;leisure;53
+sui_0115;Dog sports;Hundesport;Sports canins;Sport per cani;leisure;54
+sui_0114;Equitation;Reitsport;Équitation;Equitazione;leisure;55
+sui_011401;Ride;Reiten;Chevaucher;Cavalcare;leisure;56
+sui_0107;Fitness;Fitness;Aptitude;Idoneità;leisure;57
+sui_010701;Aerobics;Aerobic;Aérobic;Aerobica;leisure;58
+sui_010702;Biathlon;Biathlon;Biathlon;Biathlon;leisure;59
+sui_010703;Fitness training;Fitnesstraining;Entraînement physique;Allenamento fitness;leisure;60
+sui_010705;Pilates;Pilates;Pilates;Pilates;leisure;61
+sui_010706;Spinning;Spinning;Filage;Filatura;leisure;62
+sui_010707;Triathlon;Triathlon;Triathlon;Triathlon;leisure;63
+sui_010709;Wellness;Wellness;Bien-être;Benessere;leisure;64
+sui_010708;Yoga;Yoga;Yoga;Yoga;leisure;65
+sui_0105;Fun Sports;Fun-Sport;Sports amusants;Sport divertenti;leisure;66
+sui_010502;Bungee jumping;Bungee-Jumping;Saut;Bungee jumping;leisure;67
+sui_010519;Mountain cart;Mountaincart;Chariot de montagne;Carrello da montagna;leisure;68
+sui_010520;Scooter;Trottinett;Trottinette;Monopattino;leisure;69
+sui_010516;Ski jumping;Skispringen;Saut à ski;Salto con gli sci;leisure;70
+sui_010518;Summer tobogganing;Sommerrodeln;Luge d’été;Slittino estivo;leisure;71
+sui_0106;Martial arts;Kampfsport;Arts martiaux;Arti marziali;leisure;72
+sui_010604;Boxing;Boxen;Boxe;Boxe;leisure;73
+sui_010601;Endurance training;Ausdauertraining;Entraînement d’endurance;Allenamento di resistenza;leisure;74
+sui_010605;Fencing;Fechten;Escrime;Scherma;leisure;75
+sui_010603;Qi Gong;Qi Gong;Qi Gong;Qi Gong;leisure;76
+sui_010602;Strength training;Krafttraining;Entraînement en force;Allenamento della forza;leisure;77
+sui_010607;Swing;Schwingen;Balançoire;Altalena;leisure;78
+sui_010608;Tai Chi;Tai Chi;Tai Chi;Tai Chi;leisure;79
+sui_010606;Wrestle;Ringen;Lutter;Lottare;leisure;80
+sui_0113;Motorsports;Motorsport;Sport automobile;Sport motoristici;leisure;81
+sui_011302;Go-cart;Go-Kart;Kart;Carrello;leisure;82
+sui_011301;Karting;Kartfahren;Karting;Karting;leisure;83
+sui_0101;On foot;Zu Fuss;À pied;A piedi;leisure;84
+sui_010104;Geocaching;Geocaching;Géocaching;Geocaching;leisure;85
+sui_010105;Jog;Joggen;Faire du jogging;Spintarella;leisure;86
+sui_010113;Long-distance hiking;Weitwandern;Randonnée de longue distance;Escursioni a lunga distanza;leisure;87
+sui_010106;Marathon running;Marathonlaufen;Marathon;Maratona;leisure;88
+sui_010114;Mountaineering;Bergsteigen;Alpinisme;Alpinismo;leisure;89
+sui_010108;Orienteering;Orientierungslaufen;Orientation;Orienteering;leisure;90
+sui_010109;Pilgrimage;Pilgern;Pèlerinage;Pellegrinaggio;leisure;91
+sui_010107;Pole walking;Nordic walking;Marche à la perche;Pole walking;leisure;92
+sui_010110;Stroll;Spazieren;Promenade;Passeggiare;leisure;93
+sui_010111;Trail running;Trailrunning;Course en sentier;Trail running;leisure;94
+sui_010112;Wander;Wandern;Errer;Vagabondare;leisure;95
+sui_0112;Shooting sports;Schiesssport;Sports de tir;Sport di tiro;leisure;96
+sui_011201;Archery;Bogenschiessen;Archerie;Tiro con l'arco;leisure;97
+sui_011202;Shoot;Schiessen;Tirer;Sparare;leisure;98
+sui_0103;Skating;Skaten;Patinage;Pattinaggio;leisure;99
+sui_010301;Inline skating;Inline-Skating;Roller;Pattinaggio in linea;leisure;100
+sui_010302;Roller skis;Rollski;Skis à roulettes;Skiroll;leisure;101
+sui_0110;Winter sports;Wintersport;Sports d’hiver;Sport invernali;leisure;102
+sui_011001;Bobsleighing;Bobfahren;Bobsleighing;Bob;leisure;103
+sui_011007;Cross country;Langlaufen;Ski de fond;Sci di fondo;leisure;104
+sui_01100701;Cross-country skiing classic;Langlaufen Klassisch;Ski de fond classic;Classica di sci di fondo;leisure;105
+sui_01100702;Cross-country skiing skating;Langlaufen Skating;Ski de fond skating;Sci di fondo Pattinaggio;leisure;106
+sui_011002;Curling;Curling;Curling;Arricciatura;leisure;107
+sui_011005;Curling;Eisstockschiessen;Curling;Arricciatura;leisure;108
+sui_011006;Freeriding;Freeriden;Freeride;Freeride;leisure;109
+sui_011003;Ice fishing;Eisangeln;Pêche sur glace;Pesca sul ghiaccio;leisure;110
+sui_011021;Ice hockey;Eishockey;Hockey sur glace;Hockey su ghiaccio;leisure;111
+sui_011004;Ice skating;Eislaufen;Patinage;Pattinaggio su ghiaccio;leisure;112
+sui_011019;Ski jumping;Skispringen;Saut à ski;Salto con gli sci;leisure;113
+sui_011012;Skiing;Skifahren;Ski;Sciare;leisure;114
+sui_011013;Skijoring;Skijöring;Skijoring;Skijoring;leisure;115
+sui_011014;Skitouring;Skitour;Ski de randonnée;Sci;leisure;116
+sui_011008;Sleigh;Pferdeschlitten;Traîneau;Slitta;leisure;117
+sui_011015;Snowbike;Snowbike;Motoneige;Snowbike;leisure;118
+sui_011016;Snowboarding;Snowboarden;Snowboard;Snowboard;leisure;119
+sui_011011;Snowshoeing;Schneeschuhwandern;Raquette;Racchette da neve;leisure;120
+sui_011017;Telemark;Telemark;Télémark;Telemark;leisure;121
+sui_011010;Tobogganing;Schlitteln;Luge;Slittino;leisure;122
+sui_011009;Tobogganing and bobsleigh;Rodel- und Bobsport;Toboggan et bobsleigh;Slittino e bob;leisure;123
+sui_011018;Winter fun sports;Winter-Funsport;Sports d’hiver;Sport invernali divertenti;leisure;124
+sui_011020;Winter hiking;Winterwandern;Randonnée hivernale;Escursioni invernali;leisure;125
+sui_02;Culture;Kultur;Culture;Cultura;leisure;126
+sui_0202;Architecture;Architektur;Architecture;Architettura;leisure;127
+sui_0210;Art;Kunst;BrW;Arte;leisure;128
+sui_0219;Art in public space;Kunst im öffentlichen Raum;L’art dans l’espace public;Arte nello spazio pubblico;leisure;129
+sui_0209;Cultural history;Kulturgeschichte;Histoire culturelle;Storia culturale;leisure;130
+sui_0221;Custom;Brauchtum;Coutume;Costume;leisure;131
+sui_0215;Dance;Tanzen;Danser;Ballo;leisure;132
+sui_0205;Design;Design;Concevoir;Disegno;leisure;133
+sui_0211;Literature;Literatur;Littérature;Letteratura;leisure;134
+sui_0220;Market;Markt;Marché;Mercato;leisure;135
+sui_0206;Movie;Film;Film;Film;leisure;136
+sui_0213;Music;Musik;Musique;Musica;leisure;137
+sui_0214;Natural sciences;Naturwissenschaften;Sciences naturelles;Scienze naturali;leisure;138
+sui_0212;Paint;Malen;Peinture;Dipingere;leisure;139
+sui_0208;Photography;Fotografie;Photographie;Fotografia;leisure;140
+sui_0218;Spirituality;Spiritualität;Spiritualité;Spiritualità;leisure;141
+sui_021802;Meditation;Meditation;Méditation;Meditazione;leisure;142
+sui_021804;Pilgrimage;Wallfahrt;Pèlerinage;Pellegrinaggio;leisure;143
+sui_021803;Procession;Prozession;Cortège;Processione;leisure;144
+sui_021801;Service;Gottesdienst;Service;Servizio;leisure;145
+sui_0204;Stage;Bühne;Étape;Palco;leisure;146
+sui_0203;Visual arts;Bildende Kunst;Arts visuels;Arti visive;leisure;147
+sui_06;Nature;Natur;Nature;Natura;leisure;148
+sui_0604;Cultural landscape;Kulturlandschaft;Paysage culturel;Paesaggio culturale;leisure;149
+sui_0603;Fauna;Fauna;Faune;Fauna;leisure;150
+sui_0602;Flora;Flora;Flore;Flora;leisure;151
+sui_0601;Geology;Geologie;Géologie;Geologia;leisure;152
+sui_0605;Landscape;Naturlandschaft;Paysage;Paesaggio;leisure;153
+sui_05;Shopping;Einkaufen;Achats;Compere;leisure;154
+sui_0504;Clothing;Bekleidung;Vêtement;Abbigliamento;leisure;155
+sui_0505;Fashion;Mode;Mode;Moda;leisure;156
+sui_0502;Food;Lebensmittel;Nourriture;Cibo;leisure;157
+sui_0507;Producer;Produzent;Producteur;Produttore;leisure;158
+sui_0506;Regional products;Regionalprodukte;Produits régionaux;Prodotti regionali;leisure;159
+sui_0501;Retailers;Fachhandel;Détaillants;Rivenditori;leisure;160
+sui_0503;Souvenirs & Gifts;Souvenirs & Geschenke;Souvenirs & Cadeaux;Souvenir & Regali;leisure;161
+sui_03;Society;Gesellschaft;Société;Società;leisure;162
+sui_0319;Auction;Auktion;Vente aux enchères;Asta;leisure;163
+sui_0306;Care;Betreuung;Soin;Cura;leisure;164
+sui_0330;Christmas;Weihnachtsfeier;Noël;Natale;leisure;165
+sui_0317;Clubs;Treff;Trèfle;Fiori;leisure;166
+sui_0324;Company event;Firmenevent;Evénement d’entreprise;Evento aziendale;leisure;167
+sui_0331;Concert;Konzert;Concert;Concerto;leisure;168
+sui_0313;Congress/Conference/Meeting;Kongress/Konferenz/Tagung;Congrès;Congresso/Conferenza/Riunione;leisure;169
+sui_0304;Consultation;Beratung;Consultation;Consultazione;leisure;170
+sui_0307;Coworking;Coworking;Coworking;Coworking;leisure;171
+sui_0311;Craft;Handwerk;Métier;Mestiere;leisure;172
+sui_0333;Cultural event;Kulturelle Veranstaltung;Evénement culturel;Evento culturale;leisure;173
+sui_0309;Disposal;Entsorgung;Disposition;Disposizione;leisure;174
+sui_0332;Exhibition/Vernissage;Ausstellung/Vernissage;Exposition/Vernissage;Mostra/Vernissage;leisure;175
+sui_0326;Hybrid event;Hybrider Event;Événement hybride;Evento ibrido;leisure;176
+sui_0323;Industry;Gewerbe;Industrie;Industria;leisure;177
+sui_0321;Lectures;Vorträge;Conférences;Conferenze;leisure;178
+sui_0314;Measure;Messen;Mesurer;Misura;leisure;179
+sui_0320;Meeting;Versammlung;Réunion;Riunione;leisure;180
+sui_0327;Meeting;Meeting;Réunion;Riunione;leisure;181
+sui_0316;Networking;Networking;Réseautage;Networking;leisure;182
+sui_0328;Private event;Privater Anlass;Événement privé;Evento privato;leisure;183
+sui_0329;Team Event;Teamevent;Épreuve par équipe;Evento di squadra;leisure;184
+sui_0305;Visits;Besichtigungen;Visites;Visite;leisure;185
+sui_0325;Wedding;Hochzeit;Mariage;Matrimonio;leisure;186
+sui_0322;Workshops/Seminar;Workshops/Seminar;Ateliers;Workshop/Seminari;leisure;187
