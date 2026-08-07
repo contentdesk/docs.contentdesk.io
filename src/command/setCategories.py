@@ -77,7 +77,25 @@ def main():
             fr = body['labels']['fr_FR'] if 'fr_FR' in body['labels'] else ''
             it = body['labels']['it_IT'] if 'it_IT' in body['labels'] else ''
             file.write(f"{code};{parent};{en};{de};{fr};{it}\n")
-        
+
+    # Create Akeneo Attribut-Option Import CSV
+    ## Format code, label-de_CH, label-en_US, label-fr_FR, label-it_IT, attribute, sort_order
+    with open("../../output/contentdesk/attribute/leisure-options.csv", "w", encoding='utf-8') as file:
+        sort_order = 0
+        # Write header
+        file.write("code;label-en_US;label-de_CH;label-fr_FR;label-it_IT;attribute;sort_order\n")
+        for code, body in akeneoCategories.items():
+            # skip the root category
+            if code == 'sui_root':
+                continue
+            parent = body['parent'] if body['parent'] else ''
+            en = body['labels']['en_US'] if 'en_US' in body['labels'] else ''
+            de = body['labels']['de_CH'] if 'de_CH' in body['labels'] else ''
+            fr = body['labels']['fr_FR'] if 'fr_FR' in body['labels'] else ''
+            it = body['labels']['it_IT'] if 'it_IT' in body['labels'] else ''
+            file.write(f"{code};{en};{de};{fr};{it};leisure;{sort_order}\n")
+            sort_order += 1
+    
     # Create markdown file
     MarkdownService.createCategoriesIndexMarkdown(akeneoCategories)
 
