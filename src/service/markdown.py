@@ -69,6 +69,7 @@ class MarkdownService:
             f.write("<div class=\"grid cards\" markdown>\n\n")
             f.write("- :fontawesome-solid-file-csv: [CSV Export](https://docs.contentdesk.io/schema/categories.csv)\n\n")
             f.write("- :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/categories.csv)\n\n")
+            f.write("- :fontawesome-solid-file-csv: [Import Contentdesk Attribute Option CSV](https://docs.contentdesk.io/schema/leisure-options.csv)\n\n")
             f.write("</div>\n")
             f.write("Anzahl Kategorien: " + str(len(categoriesData)) + "\n\n")
             f.write("""<table id="charts-table" class="display" style="width:100%">
