@@ -80,7 +80,7 @@ def main():
 
     # Create Akeneo Attribut-Option Import CSV
     ## Format code, label-de_CH, label-en_US, label-fr_FR, label-it_IT, attribute, sort_order
-    with open("../../output/contentdesk/attribute/leisure-options.csv", "w", encoding='utf-8') as file:
+    with open("../../output/contentdesk/attribute/leisure/leisure-attributoptions.csv", "w", encoding='utf-8') as file:
         sort_order = 0
         # Write header
         file.write("code;label-en_US;label-de_CH;label-fr_FR;label-it_IT;attribute;sort_order\n")
