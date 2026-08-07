@@ -104,16 +104,18 @@ sui_010302;sui_0103;Roller skis;Rollski;Skis à roulettes;Skiroll
 sui_0110;sui_01;Winter sports;Wintersport;Sports d’hiver;Sport invernali
 sui_011001;sui_0110;Bobsleighing;Bobfahren;Bobsleighing;Bob
 sui_011007;sui_0110;Cross country;Langlaufen;Ski de fond;Sci di fondo
+sui_01100701;sui_011007;Cross-country skiing classic;Langlaufen Klassisch;Ski de fond classic;Classica di sci di fondo
+sui_01100702;sui_011007;Cross-country skiing skating;Langlaufen Skating;Ski de fond skating;Sci di fondo Pattinaggio
 sui_011002;sui_0110;Curling;Curling;Curling;Arricciatura
 sui_011005;sui_0110;Curling;Eisstockschiessen;Curling;Arricciatura
 sui_011006;sui_0110;Freeriding;Freeriden;Freeride;Freeride
 sui_011003;sui_0110;Ice fishing;Eisangeln;Pêche sur glace;Pesca sul ghiaccio
 sui_011021;sui_0110;Ice hockey;Eishockey;Hockey sur glace;Hockey su ghiaccio
 sui_011004;sui_0110;Ice skating;Eislaufen;Patinage;Pattinaggio su ghiaccio
-sui_011014;sui_0110;Ski;Skitour;Ski;Sci
 sui_011019;sui_0110;Ski jumping;Skispringen;Saut à ski;Salto con gli sci
 sui_011012;sui_0110;Skiing;Skifahren;Ski;Sciare
 sui_011013;sui_0110;Skijoring;Skijöring;Skijoring;Skijoring
+sui_011014;sui_0110;Skitouring;Skitour;Ski de randonnée;Sci
 sui_011008;sui_0110;Sleigh;Pferdeschlitten;Traîneau;Slitta
 sui_011015;sui_0110;Snowbike;Snowbike;Motoneige;Snowbike
 sui_011016;sui_0110;Snowboarding;Snowboarden;Snowboard;Snowboard

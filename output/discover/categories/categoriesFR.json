@@ -543,14 +543,26 @@
                             "name": "Ski"
                         },
                         {
-                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011014",
-                            "identifier": "sui_011014",
-                            "name": "Ski"
-                        },
-                        {
                             "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011007",
                             "identifier": "sui_011007",
-                            "name": "Ski de fond"
+                            "name": "Ski de fond",
+                            "children": [
+                                {
+                                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_01100701",
+                                    "identifier": "sui_01100701",
+                                    "name": "Ski de fond classic"
+                                },
+                                {
+                                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_01100702",
+                                    "identifier": "sui_01100702",
+                                    "name": "Ski de fond skating"
+                                }
+                            ]
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011014",
+                            "identifier": "sui_011014",
+                            "name": "Ski de randonn\u00e9e"
                         },
                         {
                             "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011013",

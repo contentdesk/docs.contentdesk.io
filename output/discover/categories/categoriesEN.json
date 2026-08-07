@@ -552,7 +552,19 @@
                         {
                             "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011007",
                             "identifier": "sui_011007",
-                            "name": "Cross country"
+                            "name": "Cross country",
+                            "children": [
+                                {
+                                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_01100701",
+                                    "identifier": "sui_01100701",
+                                    "name": "Cross-country skiing classic"
+                                },
+                                {
+                                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_01100702",
+                                    "identifier": "sui_01100702",
+                                    "name": "Cross-country skiing skating"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011002",
@@ -585,11 +597,6 @@
                             "name": "Ice skating"
                         },
                         {
-                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011014",
-                            "identifier": "sui_011014",
-                            "name": "Ski"
-                        },
-                        {
                             "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011019",
                             "identifier": "sui_011019",
                             "name": "Ski jumping"
@@ -603,6 +610,11 @@
                             "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011013",
                             "identifier": "sui_011013",
                             "name": "Skijoring"
+                        },
+                        {
+                            "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011014",
+                            "identifier": "sui_011014",
+                            "name": "Skitouring"
                         },
                         {
                             "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011008",

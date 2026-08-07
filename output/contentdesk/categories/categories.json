@@ -1059,6 +1059,26 @@
             "it_IT": "Sci di fondo"
         }
     },
+    "sui_01100701": {
+        "code": "sui_01100701",
+        "parent": "sui_011007",
+        "labels": {
+            "en_US": "Cross-country skiing classic",
+            "de_CH": "Langlaufen Klassisch",
+            "fr_FR": "Ski de fond classic",
+            "it_IT": "Classica di sci di fondo"
+        }
+    },
+    "sui_01100702": {
+        "code": "sui_01100702",
+        "parent": "sui_011007",
+        "labels": {
+            "en_US": "Cross-country skiing skating",
+            "de_CH": "Langlaufen Skating",
+            "fr_FR": "Ski de fond skating",
+            "it_IT": "Sci di fondo Pattinaggio"
+        }
+    },
     "sui_011002": {
         "code": "sui_011002",
         "parent": "sui_0110",
@@ -1119,16 +1139,6 @@
             "it_IT": "Pattinaggio su ghiaccio"
         }
     },
-    "sui_011014": {
-        "code": "sui_011014",
-        "parent": "sui_0110",
-        "labels": {
-            "en_US": "Ski",
-            "de_CH": "Skitour",
-            "fr_FR": "Ski",
-            "it_IT": "Sci"
-        }
-    },
     "sui_011019": {
         "code": "sui_011019",
         "parent": "sui_0110",
@@ -1157,6 +1167,16 @@
             "de_CH": "Skij\u00f6ring",
             "fr_FR": "Skijoring",
             "it_IT": "Skijoring"
+        }
+    },
+    "sui_011014": {
+        "code": "sui_011014",
+        "parent": "sui_0110",
+        "labels": {
+            "en_US": "Skitouring",
+            "de_CH": "Skitour",
+            "fr_FR": "Ski de randonn\u00e9e",
+            "it_IT": "Sci"
         }
     },
     "sui_011008": {

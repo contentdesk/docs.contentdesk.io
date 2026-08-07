@@ -12,7 +12,7 @@ hide:
 - :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/categories.csv)
 
 </div>
-Anzahl Kategorien: 187
+Anzahl Kategorien: 189
 
 <table id="charts-table" class="display" style="width:100%">
         <thead>
@@ -876,6 +876,22 @@ Anzahl Kategorien: 187
 <td>Sci di fondo</td>
 </tr>
 <tr>
+<td>sui_01100701</td>
+<td>Langlaufen Klassisch</td>
+<td>sui_011007</td>
+<td>Cross-country skiing classic</td>
+<td>Ski de fond classic</td>
+<td>Classica di sci di fondo</td>
+</tr>
+<tr>
+<td>sui_01100702</td>
+<td>Langlaufen Skating</td>
+<td>sui_011007</td>
+<td>Cross-country skiing skating</td>
+<td>Ski de fond skating</td>
+<td>Sci di fondo Pattinaggio</td>
+</tr>
+<tr>
 <td>sui_011002</td>
 <td>Curling</td>
 <td>sui_0110</td>
@@ -924,14 +940,6 @@ Anzahl Kategorien: 187
 <td>Pattinaggio su ghiaccio</td>
 </tr>
 <tr>
-<td>sui_011014</td>
-<td>Skitour</td>
-<td>sui_0110</td>
-<td>Ski</td>
-<td>Ski</td>
-<td>Sci</td>
-</tr>
-<tr>
 <td>sui_011019</td>
 <td>Skispringen</td>
 <td>sui_0110</td>
@@ -954,6 +962,14 @@ Anzahl Kategorien: 187
 <td>Skijoring</td>
 <td>Skijoring</td>
 <td>Skijoring</td>
+</tr>
+<tr>
+<td>sui_011014</td>
+<td>Skitour</td>
+<td>sui_0110</td>
+<td>Skitouring</td>
+<td>Ski de randonnée</td>
+<td>Sci</td>
 </tr>
 <tr>
 <td>sui_011008</td>

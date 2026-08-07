@@ -580,7 +580,19 @@
                         {
                             "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011007",
                             "identifier": "sui_011007",
-                            "name": "Sci di fondo"
+                            "name": "Sci di fondo",
+                            "children": [
+                                {
+                                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_01100701",
+                                    "identifier": "sui_01100701",
+                                    "name": "Classica di sci di fondo"
+                                },
+                                {
+                                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_01100702",
+                                    "identifier": "sui_01100702",
+                                    "name": "Sci di fondo Pattinaggio"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011012",

@@ -520,7 +520,19 @@
                         {
                             "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011007",
                             "identifier": "sui_011007",
-                            "name": "Langlaufen"
+                            "name": "Langlaufen",
+                            "children": [
+                                {
+                                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_01100701",
+                                    "identifier": "sui_01100701",
+                                    "name": "Langlaufen Klassisch"
+                                },
+                                {
+                                    "@id": "https://api.discover.swiss/test/info/v2/categories/sui_01100702",
+                                    "identifier": "sui_01100702",
+                                    "name": "Langlaufen Skating"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://api.discover.swiss/test/info/v2/categories/sui_011008",
