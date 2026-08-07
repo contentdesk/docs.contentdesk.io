@@ -12,7 +12,7 @@ hide:
 - :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/tags.csv)
 
 </div>
-Anzahl Tags: 576
+Anzahl Tags: 592
 
 <table id="charts-table" class="display" style="width:100%">
         <thead>
@@ -34,7 +34,7 @@ Anzahl Tags: 576
 <td>JST Mountain Drive</td>
 <td>JST Mountain Drive</td>
 <td>JST Mountain Drive</td>
-<td>2025-11-28T07:29:02.2072087+00:00</td>
+<td>2026-05-26T14:36:34.6652234+00:00</td>
 </tr>
 <tr>
 <td>accessibility-swisstrack</td>
@@ -43,7 +43,7 @@ Anzahl Tags: 576
 <td>Swisstrack</td>
 <td>Swisstrack</td>
 <td>Swisstrack</td>
-<td>2025-10-03T16:34:28.1102685+00:00</td>
+<td>2026-05-26T14:58:13.0845319+00:00</td>
 </tr>
 <tr>
 <td>accessibility-visual-impairment</td>
@@ -52,7 +52,7 @@ Anzahl Tags: 576
 <td>Visual impairment</td>
 <td>Déficience visuelle</td>
 <td>Disabilità visiva</td>
-<td>2025-03-31T09:14:09.3138602+00:00</td>
+<td>2026-05-26T14:36:35.3968553+00:00</td>
 </tr>
 <tr>
 <td>accessibility-walking-only-less-than-10mins</td>
@@ -61,7 +61,7 @@ Anzahl Tags: 576
 <td>only reachable on foot-less-than-10min</td>
 <td>Accessible uniquement à pied à moins de 10 minutes</td>
 <td>raggiungibile solo a piedi - meno di 10 minuti</td>
-<td>2025-03-31T09:14:09.3821594+00:00</td>
+<td>2026-05-26T14:58:13.5745515+00:00</td>
 </tr>
 <tr>
 <td>accessibility-walking-only-more-than-10mins</td>
@@ -70,7 +70,7 @@ Anzahl Tags: 576
 <td>only within walking distance-more-than-10min</td>
 <td>seulement à distance de marche-plus-de-10min</td>
 <td>solo a pochi passi-più-di-10 minuti</td>
-<td>2025-03-31T09:14:09.5131477+00:00</td>
+<td>2026-05-26T14:58:13.7346121+00:00</td>
 </tr>
 <tr>
 <td>accessibility-walking-time-unknown</td>
@@ -79,7 +79,7 @@ Anzahl Tags: 576
 <td>only accessible on foot-no time</td>
 <td>Accessible uniquement à pied, pas de temps</td>
 <td>accessibile solo a piedi, senza tempo</td>
-<td>2025-03-31T09:14:09.5184699+00:00</td>
+<td>2026-05-26T14:36:35.8526553+00:00</td>
 </tr>
 <tr>
 <td>accessibility-wheelchair-accessible</td>
@@ -88,7 +88,7 @@ Anzahl Tags: 576
 <td>Wheelchair accessible</td>
 <td>Accessible en fauteuil roulant</td>
 <td>Accessibile ai disabili</td>
-<td>2025-03-31T09:14:09.6716846+00:00</td>
+<td>2026-05-26T14:36:36.0630386+00:00</td>
 </tr>
 <tr>
 <td>accessibility-wheelchair-inaccessbile</td>
@@ -97,7 +97,7 @@ Anzahl Tags: 576
 <td>not wheelchair accessible</td>
 <td>Non accessible en fauteuil roulant</td>
 <td>non accessibile in sedia a rotelle</td>
-<td>2025-03-31T09:14:09.8818418+00:00</td>
+<td>2026-05-26T14:36:36.5724694+00:00</td>
 </tr>
 <tr>
 <td>accomodation-breakfastonly</td>
@@ -106,7 +106,7 @@ Anzahl Tags: 576
 <td>breakfast only</td>
 <td>Petit-déjeuner seulement</td>
 <td>solo colazione</td>
-<td>2025-01-08T09:52:50.6694999+00:00</td>
+<td>2026-05-26T14:58:14.1471582+00:00</td>
 </tr>
 <tr>
 <td>accomodation-groups</td>
@@ -115,7 +115,7 @@ Anzahl Tags: 576
 <td>Group accommodation</td>
 <td>Hébergement de groupe</td>
 <td>Alloggi per gruppi</td>
-<td>2025-03-31T09:14:09.9235745+00:00</td>
+<td>2026-05-26T14:36:37.0290205+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-alternativ-arty</td>
@@ -124,7 +124,7 @@ Anzahl Tags: 576
 <td>Alternative Arty</td>
 <td>Arty alternatif</td>
 <td>Alternative Arty</td>
-<td>2025-09-23T12:47:34.1286917+00:00</td>
+<td>2026-05-26T14:36:37.6136792+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-comedy</td>
@@ -133,7 +133,7 @@ Anzahl Tags: 576
 <td>Comedy</td>
 <td>Comédie</td>
 <td>Commedia</td>
-<td>2025-03-31T09:14:11.3763024+00:00</td>
+<td>2026-05-26T14:36:39.0547985+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-cool-and-trendy</td>
@@ -142,7 +142,7 @@ Anzahl Tags: 576
 <td>trendy-hip</td>
 <td>branché-branché</td>
 <td>trendy-hip</td>
-<td>2025-03-31T09:14:16.1919957+00:00</td>
+<td>2026-05-26T14:36:41.7054654+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-cultural-and-inspiring</td>
@@ -151,7 +151,7 @@ Anzahl Tags: 576
 <td>culturally inspiring</td>
 <td>Culturellement inspirant</td>
 <td>Culturalmente stimolante</td>
-<td>2025-03-31T09:14:17.0386654+00:00</td>
+<td>2026-05-26T14:36:42.7874207+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-glamurous-and-chic</td>
@@ -160,7 +160,7 @@ Anzahl Tags: 576
 <td>Glam-chic</td>
 <td>Glam-chic</td>
 <td>Glam-chic</td>
-<td>2025-03-31T09:14:17.4488092+00:00</td>
+<td>2026-05-26T14:36:43.1111135+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-lgbtq</td>
@@ -169,7 +169,7 @@ Anzahl Tags: 576
 <td>LGBTQ</td>
 <td>LGBTQ</td>
 <td>LGBTQ</td>
-<td>2025-03-31T09:18:06.5107384+00:00</td>
+<td>2026-05-26T14:36:43.1919539+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-lively-and-cheerful</td>
@@ -178,7 +178,7 @@ Anzahl Tags: 576
 <td>cheerful and exuberant</td>
 <td>Gai et exubérant</td>
 <td>allegro ed esuberante</td>
-<td>2025-03-31T09:14:19.0847162+00:00</td>
+<td>2026-05-26T14:36:44.6805369+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-relaxed-and-cosy</td>
@@ -187,7 +187,7 @@ Anzahl Tags: 576
 <td>relaxed and cosy</td>
 <td>Détendu et confortable</td>
 <td>rilassato e accogliente</td>
-<td>2025-03-31T09:14:20.6113525+00:00</td>
+<td>2026-05-26T14:58:14.2024897+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-traditional</td>
@@ -196,7 +196,7 @@ Anzahl Tags: 576
 <td>traditional</td>
 <td>traditionnel</td>
 <td>tradizionale</td>
-<td>2025-03-31T09:14:22.292001+00:00</td>
+<td>2026-05-26T14:36:44.4337968+00:00</td>
 </tr>
 <tr>
 <td>atmosphere</td>
@@ -205,7 +205,7 @@ Anzahl Tags: 576
 <td>Mood</td>
 <td>Humeur</td>
 <td>Umore</td>
-<td>2025-03-31T09:20:33.9232696+00:00</td>
+<td>2026-05-26T14:36:46.1295965+00:00</td>
 </tr>
 <tr>
 <td>audience-age-10</td>
@@ -214,7 +214,7 @@ Anzahl Tags: 576
 <td>From 10 years</td>
 <td>A partir de 10 ans</td>
 <td>Da 10 anni</td>
-<td>2025-12-02T09:34:47.7948822+00:00</td>
+<td>2026-05-26T14:58:15.3010877+00:00</td>
 </tr>
 <tr>
 <td>audience-age-11</td>
@@ -223,7 +223,7 @@ Anzahl Tags: 576
 <td>From 11 years</td>
 <td>A partir de 11 ans</td>
 <td>Da 11 anni</td>
-<td>2025-03-31T09:14:29.026823+00:00</td>
+<td>2026-05-26T14:58:15.9842421+00:00</td>
 </tr>
 <tr>
 <td>audience-age-12</td>
@@ -232,7 +232,7 @@ Anzahl Tags: 576
 <td>From 12 years</td>
 <td>A partir de 12 ans</td>
 <td>Da 12 anni</td>
-<td>2025-03-31T09:14:30.4399614+00:00</td>
+<td>2026-05-26T14:58:17.9012+00:00</td>
 </tr>
 <tr>
 <td>audience-age-13</td>
@@ -241,7 +241,7 @@ Anzahl Tags: 576
 <td>From 13 years</td>
 <td>A partir de 13 ans</td>
 <td>Da 13 anni</td>
-<td>2025-03-31T09:14:36.9065189+00:00</td>
+<td>2026-05-26T14:36:49.0354551+00:00</td>
 </tr>
 <tr>
 <td>audience-age-14</td>
@@ -250,7 +250,7 @@ Anzahl Tags: 576
 <td>From 14 years</td>
 <td>A partir de 14 ans</td>
 <td>Dai 14 anni</td>
-<td>2025-12-02T09:43:48.293978+00:00</td>
+<td>2026-05-26T14:36:50.636401+00:00</td>
 </tr>
 <tr>
 <td>audience-age-15</td>
@@ -259,7 +259,7 @@ Anzahl Tags: 576
 <td>From 15 years</td>
 <td>A partir de 15 ans</td>
 <td>Dai 15 anni</td>
-<td>2025-03-31T09:15:03.9914763+00:00</td>
+<td>2026-05-26T14:37:12.1035379+00:00</td>
 </tr>
 <tr>
 <td>audience-age-16</td>
@@ -268,7 +268,7 @@ Anzahl Tags: 576
 <td>From 16 years</td>
 <td>A partir de 16 ans</td>
 <td>Dai 16 anni</td>
-<td>2025-03-31T09:15:33.2576971+00:00</td>
+<td>2026-05-26T14:58:19.9914295+00:00</td>
 </tr>
 <tr>
 <td>audience-age-17</td>
@@ -277,7 +277,7 @@ Anzahl Tags: 576
 <td>From 17 years</td>
 <td>A partir de 17 ans</td>
 <td>Dai 17 anni</td>
-<td>2025-03-31T09:15:52.6918818+00:00</td>
+<td>2026-05-26T14:58:21.8871058+00:00</td>
 </tr>
 <tr>
 <td>audience-age-18</td>
@@ -286,7 +286,7 @@ Anzahl Tags: 576
 <td>From 18 years</td>
 <td>A partir de 18 ans</td>
 <td>Dai 18 anni</td>
-<td>2025-03-31T09:15:53.2191796+00:00</td>
+<td>2026-05-26T14:58:22.2897307+00:00</td>
 </tr>
 <tr>
 <td>audience-age-6</td>
@@ -295,7 +295,7 @@ Anzahl Tags: 576
 <td>From 6 years</td>
 <td>A partir de 6 ans</td>
 <td>Dai 6 anni</td>
-<td>2025-03-31T09:16:02.3543281+00:00</td>
+<td>2026-05-26T14:58:28.6749008+00:00</td>
 </tr>
 <tr>
 <td>audience-age-8</td>
@@ -304,7 +304,7 @@ Anzahl Tags: 576
 <td>From 8 years</td>
 <td>A partir de 8 ans</td>
 <td>Da 8 anni</td>
-<td>2025-03-31T09:16:03.351316+00:00</td>
+<td>2026-05-26T14:58:33.575525+00:00</td>
 </tr>
 <tr>
 <td>audience-age-till-12</td>
@@ -313,7 +313,7 @@ Anzahl Tags: 576
 <td>up to 12 years</td>
 <td>jusqu’à 12 ans</td>
 <td>fino a 12 anni</td>
-<td>2025-12-18T13:30:07.0775671+00:00</td>
+<td>2026-05-26T14:58:39.7595527+00:00</td>
 </tr>
 <tr>
 <td>audience-age-till-16</td>
@@ -322,7 +322,7 @@ Anzahl Tags: 576
 <td>up to 16 years</td>
 <td>jusqu’à 16 ans</td>
 <td>fino a 16 anni</td>
-<td>2025-03-31T09:16:14.0061293+00:00</td>
+<td>2026-05-26T14:58:42.832407+00:00</td>
 </tr>
 <tr>
 <td>audience-group-adults</td>
@@ -331,7 +331,7 @@ Anzahl Tags: 576
 <td>Adults</td>
 <td>Adulte</td>
 <td>Adulti</td>
-<td>2025-03-31T09:16:17.0095132+00:00</td>
+<td>2026-05-26T14:37:24.1127529+00:00</td>
 </tr>
 <tr>
 <td>audience-group-children</td>
@@ -340,7 +340,7 @@ Anzahl Tags: 576
 <td>Children</td>
 <td>Enfants</td>
 <td>Bambini</td>
-<td>2025-03-31T09:16:34.0648755+00:00</td>
+<td>2026-05-26T14:58:41.2915187+00:00</td>
 </tr>
 <tr>
 <td>audience-group-family</td>
@@ -349,7 +349,7 @@ Anzahl Tags: 576
 <td>Families</td>
 <td>Famille</td>
 <td>Famiglie</td>
-<td>2025-12-18T13:29:02.9982515+00:00</td>
+<td>2026-05-26T14:37:28.121149+00:00</td>
 </tr>
 <tr>
 <td>audience-group-female</td>
@@ -358,7 +358,7 @@ Anzahl Tags: 576
 <td>Women</td>
 <td>Femme</td>
 <td>Donne</td>
-<td>2025-03-31T09:16:53.072787+00:00</td>
+<td>2026-05-26T14:58:43.2450877+00:00</td>
 </tr>
 <tr>
 <td>audience-group-handicaped</td>
@@ -367,7 +367,7 @@ Anzahl Tags: 576
 <td>People with disabilities</td>
 <td>Personnes handicapées</td>
 <td>Persone con disabilità</td>
-<td>2025-03-31T09:17:09.9618319+00:00</td>
+<td>2026-05-26T14:59:34.8371475+00:00</td>
 </tr>
 <tr>
 <td>audience-group-infants</td>
@@ -376,7 +376,7 @@ Anzahl Tags: 576
 <td>Infants up to approx. 6 years</td>
 <td>Nourrissons jusqu’à environ 6 ans</td>
 <td>Neonati fino a circa 6 anni</td>
-<td>2025-12-18T13:29:03.3361594+00:00</td>
+<td>2026-05-26T14:58:50.0256641+00:00</td>
 </tr>
 <tr>
 <td>audience-group-male</td>
@@ -385,7 +385,7 @@ Anzahl Tags: 576
 <td>Men</td>
 <td>Hommes</td>
 <td>Uomini</td>
-<td>2025-03-31T09:17:43.3079848+00:00</td>
+<td>2026-05-26T14:37:31.8441512+00:00</td>
 </tr>
 <tr>
 <td>audience-group-parents</td>
@@ -394,7 +394,7 @@ Anzahl Tags: 576
 <td>Parents</td>
 <td>Parents</td>
 <td>Genitori</td>
-<td>2025-12-18T13:29:03.0594692+00:00</td>
+<td>2026-05-26T14:37:33.4937775+00:00</td>
 </tr>
 <tr>
 <td>audience-group-seniors</td>
@@ -403,7 +403,7 @@ Anzahl Tags: 576
 <td>Seniors</td>
 <td>Aînés</td>
 <td>Anziani</td>
-<td>2025-03-31T09:17:48.0181957+00:00</td>
+<td>2026-05-26T14:37:36.0258005+00:00</td>
 </tr>
 <tr>
 <td>audience-group-lgbt</td>
@@ -412,7 +412,7 @@ Anzahl Tags: 576
 <td>LGBT+</td>
 <td>LGBT+</td>
 <td>LGBT+</td>
-<td>2025-03-31T09:17:40.5591929+00:00</td>
+<td>2026-05-26T14:37:30.207881+00:00</td>
 </tr>
 <tr>
 <td>audience-group-singles</td>
@@ -421,7 +421,7 @@ Anzahl Tags: 576
 <td>Alleinstehende_Singles</td>
 <td>Alleinstehende_Singles</td>
 <td>Alleinstehende_Singles</td>
-<td>2025-03-31T09:17:53.9037144+00:00</td>
+<td>2026-05-26T14:38:28.7494475+00:00</td>
 </tr>
 <tr>
 <td>audience-group-students</td>
@@ -430,7 +430,7 @@ Anzahl Tags: 576
 <td>Students</td>
 <td>Étudiants</td>
 <td>Studenti</td>
-<td>2025-03-31T09:18:05.9563745+00:00</td>
+<td>2026-05-26T14:38:29.2048044+00:00</td>
 </tr>
 <tr>
 <td>audience-group-youth</td>
@@ -439,7 +439,7 @@ Anzahl Tags: 576
 <td>Adolescent</td>
 <td>Adolescent</td>
 <td>Adolescente</td>
-<td>2025-03-31T09:18:09.3503757+00:00</td>
+<td>2026-05-26T14:38:29.7636564+00:00</td>
 </tr>
 <tr>
 <td>audience-info-age</td>
@@ -448,7 +448,7 @@ Anzahl Tags: 576
 <td>Rating</td>
 <td>Notation</td>
 <td>Valutazione</td>
-<td>2025-03-31T09:18:30.1248646+00:00</td>
+<td>2026-05-26T14:38:31.6609544+00:00</td>
 </tr>
 <tr>
 <td>audience-info-all</td>
@@ -457,7 +457,7 @@ Anzahl Tags: 576
 <td>Open to all</td>
 <td>Ouvert à tous</td>
 <td>Aperto a tutti</td>
-<td>2025-03-31T09:18:30.7518193+00:00</td>
+<td>2026-05-26T14:58:53.1301209+00:00</td>
 </tr>
 <tr>
 <td>audience-info-children</td>
@@ -466,7 +466,7 @@ Anzahl Tags: 576
 <td>Also recommended for children</td>
 <td>Également recommandé pour les enfants</td>
 <td>Consigliato anche per i bambini</td>
-<td>2025-03-31T09:18:42.7130687+00:00</td>
+<td>2026-05-26T14:38:32.4047381+00:00</td>
 </tr>
 <tr>
 <td>audience-info-groups</td>
@@ -475,7 +475,7 @@ Anzahl Tags: 576
 <td>Also suitable for groups / companies (special offers)</td>
 <td>Convient également aux groupes / entreprises (offres spéciales)</td>
 <td>Adatto anche per gruppi / aziende (offerte speciali)</td>
-<td>2025-03-31T09:19:10.7677287+00:00</td>
+<td>2026-05-26T14:38:48.3242813+00:00</td>
 </tr>
 <tr>
 <td>audience-info-invitationonly</td>
@@ -484,7 +484,7 @@ Anzahl Tags: 576
 <td>By invitation</td>
 <td>Sur invitation</td>
 <td>Su invito</td>
-<td>2025-03-31T09:19:08.5577405+00:00</td>
+<td>2026-05-26T14:38:50.585883+00:00</td>
 </tr>
 <tr>
 <td>audience-group-mixed</td>
@@ -493,7 +493,7 @@ Anzahl Tags: 576
 <td>Mixed (Men & Women)</td>
 <td>Mixte (Hommes & Femmes)</td>
 <td>Misto (Uomini e Donne)</td>
-<td>2025-03-31T09:17:44.1922437+00:00</td>
+<td>2026-05-26T14:38:52.595279+00:00</td>
 </tr>
 <tr>
 <td>audience-info-membersonly</td>
@@ -502,7 +502,7 @@ Anzahl Tags: 576
 <td>For members only</td>
 <td>Pour les membres seulement</td>
 <td>Solo per i membri</td>
-<td>2025-03-31T09:19:46.8090418+00:00</td>
+<td>2026-05-26T14:59:09.0600608+00:00</td>
 </tr>
 <tr>
 <td>audience-info-school</td>
@@ -511,7 +511,7 @@ Anzahl Tags: 576
 <td>Also suitable for school classes (special offers)</td>
 <td>Convient également aux classes scolaires (offres spéciales)</td>
 <td>Adatto anche per scolaresche (offerte speciali)</td>
-<td>2025-03-31T09:19:48.3906772+00:00</td>
+<td>2026-05-26T14:59:10.0109968+00:00</td>
 </tr>
 <tr>
 <td>audience-information-playtime-aftermidnight</td>
@@ -520,7 +520,7 @@ Anzahl Tags: 576
 <td>after midnight</td>
 <td>après minuit</td>
 <td>dopo la mezzanotte</td>
-<td>2025-03-31T09:20:24.9412347+00:00</td>
+<td>2026-05-26T14:38:52.180793+00:00</td>
 </tr>
 <tr>
 <td>audience-information-playtime-afternoon</td>
@@ -529,7 +529,7 @@ Anzahl Tags: 576
 <td>in the afternoon</td>
 <td>dans l’après-midi</td>
 <td>nel pomeriggio</td>
-<td>2025-03-31T09:20:26.9494958+00:00</td>
+<td>2026-05-26T14:38:53.3702216+00:00</td>
 </tr>
 <tr>
 <td>audience-information-playtime-evening</td>
@@ -538,7 +538,7 @@ Anzahl Tags: 576
 <td>only in the evening</td>
 <td>seulement le soir</td>
 <td>solo la sera</td>
-<td>2025-03-31T09:20:28.6450018+00:00</td>
+<td>2026-05-26T14:38:54.583886+00:00</td>
 </tr>
 <tr>
 <td>audience-information-playtime-lunchtime</td>
@@ -547,7 +547,7 @@ Anzahl Tags: 576
 <td>Only at noon</td>
 <td>Seulement à midi</td>
 <td>Solo a mezzogiorno</td>
-<td>2025-03-31T09:20:33.3664133+00:00</td>
+<td>2026-05-26T14:59:33.8504196+00:00</td>
 </tr>
 <tr>
 <td>audience-information-playtime-morning</td>
@@ -556,7 +556,7 @@ Anzahl Tags: 576
 <td>only in the morning</td>
 <td>seulement le matin</td>
 <td>solo al mattino</td>
-<td>2025-03-31T09:20:32.8004214+00:00</td>
+<td>2026-05-26T14:59:35.8864127+00:00</td>
 </tr>
 <tr>
 <td>audience-information-playtime-nocturne</td>
@@ -565,7 +565,7 @@ Anzahl Tags: 576
 <td>at midnight</td>
 <td>à minuit</td>
 <td>a mezzanotte</td>
-<td>2025-03-31T09:20:47.7729035+00:00</td>
+<td>2026-05-26T14:59:39.116257+00:00</td>
 </tr>
 <tr>
 <td>distance-to-public-transport-station-less-than-100m</td>
@@ -574,7 +574,7 @@ Anzahl Tags: 576
 <td>Distance less than 100m to OeV</td>
 <td>Distance inférieure à 100m à OeV</td>
 <td>Distanza meno di 100m da OeV</td>
-<td>2025-03-31T09:20:43.4026031+00:00</td>
+<td>2026-05-26T14:59:39.6713951+00:00</td>
 </tr>
 <tr>
 <td>distance-to-public-transport-station-less-than-10km</td>
@@ -583,7 +583,7 @@ Anzahl Tags: 576
 <td>Distance less than 10km to OeV</td>
 <td>Distance inférieure à 10km d’OeV</td>
 <td>Distanza meno di 10km da OeV</td>
-<td>2025-03-31T09:20:44.5440294+00:00</td>
+<td>2026-05-26T14:38:56.9181095+00:00</td>
 </tr>
 <tr>
 <td>distance-to-public-transport-station-less-than-1km</td>
@@ -592,7 +592,7 @@ Anzahl Tags: 576
 <td>Distance less than 1km to OeV</td>
 <td>Distance inférieure à 1 km d’OeV</td>
 <td>Distanza meno di 1km da OeV</td>
-<td>2025-03-31T09:20:45.3983689+00:00</td>
+<td>2026-05-26T14:59:41.3141142+00:00</td>
 </tr>
 <tr>
 <td>distance-to-public-transport-station-more-than-10km</td>
@@ -601,7 +601,7 @@ Anzahl Tags: 576
 <td>Distance more than 10km to OeV</td>
 <td>Distance de plus de 10 km à OeV</td>
 <td>Distanza più di 10km da OeV</td>
-<td>2025-03-31T09:20:44.9964679+00:00</td>
+<td>2026-05-26T14:59:42.2964836+00:00</td>
 </tr>
 <tr>
 <td>distance-to-public-transport-station-more-than-1km</td>
@@ -610,7 +610,7 @@ Anzahl Tags: 576
 <td>Distance more than 1km to OeV</td>
 <td>Distance de plus de 1 km à OeV</td>
 <td>Distanza più di 1 km da OeV</td>
-<td>2025-03-31T09:20:50.9667653+00:00</td>
+<td>2026-05-26T14:59:41.885858+00:00</td>
 </tr>
 <tr>
 <td>distance-to-train-station-less-than-100m</td>
@@ -619,7 +619,7 @@ Anzahl Tags: 576
 <td>Distance less than 100m to the train station</td>
 <td>Distance inférieure à 100m de la gare</td>
 <td>Distanza meno di 100m dalla stazione ferroviaria</td>
-<td>2025-03-31T09:20:49.8167271+00:00</td>
+<td>2026-05-26T14:59:42.9347999+00:00</td>
 </tr>
 <tr>
 <td>distance-to-train-station-less-than-10km</td>
@@ -628,7 +628,7 @@ Anzahl Tags: 576
 <td>Distance less than 10km to the train station</td>
 <td>Distance inférieure à 10 km de la gare</td>
 <td>Distanza meno di 10km dalla stazione ferroviaria</td>
-<td>2025-03-31T09:20:50.5415822+00:00</td>
+<td>2026-05-26T14:38:57.3149075+00:00</td>
 </tr>
 <tr>
 <td>distance-to-train-station-less-than-1km</td>
@@ -637,7 +637,7 @@ Anzahl Tags: 576
 <td>Distance less than 1km to the train station</td>
 <td>Distance inférieure à 1 km de la gare</td>
 <td>Distanza meno di 1km dalla stazione ferroviaria</td>
-<td>2025-03-31T09:20:51.4068358+00:00</td>
+<td>2026-05-26T14:39:00.3073814+00:00</td>
 </tr>
 <tr>
 <td>distance-to-train-station-more-than-10km</td>
@@ -646,7 +646,7 @@ Anzahl Tags: 576
 <td>Distance more than 10km to the train station</td>
 <td>Distance plus de 10 km de la gare</td>
 <td>Distanza più di 10km dalla stazione ferroviaria</td>
-<td>2025-03-31T09:20:51.9599943+00:00</td>
+<td>2026-05-26T14:59:43.5163758+00:00</td>
 </tr>
 <tr>
 <td>distance-to-train-station-more-than-1km</td>
@@ -655,7 +655,7 @@ Anzahl Tags: 576
 <td>Distance more than 1km to the train station</td>
 <td>Distance à plus de 1 km de la gare</td>
 <td>Distanza più di 1 km dalla stazione ferroviaria</td>
-<td>2025-03-31T09:20:56.9519382+00:00</td>
+<td>2026-05-26T15:00:16.7383435+00:00</td>
 </tr>
 <tr>
 <td>duration-1-2-hours</td>
@@ -664,7 +664,7 @@ Anzahl Tags: 576
 <td>Duration 1-2 hours</td>
 <td>Durée 1-2 heures</td>
 <td>Durata 1-2 ore</td>
-<td>2025-03-31T09:20:56.9204032+00:00</td>
+<td>2026-05-26T14:39:01.145579+00:00</td>
 </tr>
 <tr>
 <td>duration-1-3-hours</td>
@@ -673,7 +673,7 @@ Anzahl Tags: 576
 <td>Duration 1-3 hours</td>
 <td>Durée 1-3 heures</td>
 <td>Durata 1-3 ore</td>
-<td>2025-03-31T09:20:53.691487+00:00</td>
+<td>2026-05-26T14:59:43.9354542+00:00</td>
 </tr>
 <tr>
 <td>duration-3-5-hours</td>
@@ -682,7 +682,7 @@ Anzahl Tags: 576
 <td>Duration 3-5 hours</td>
 <td>Durée 3-5 heures</td>
 <td>Durata 3-5 ore</td>
-<td>2025-03-31T09:20:58.6177912+00:00</td>
+<td>2026-05-26T14:39:01.2456866+00:00</td>
 </tr>
 <tr>
 <td>duration-4-6-hours</td>
@@ -691,7 +691,7 @@ Anzahl Tags: 576
 <td>Duration 4-6 hours</td>
 <td>Durée 4-6 heures</td>
 <td>Durata 4-6 ore</td>
-<td>2025-03-31T09:21:30.5561949+00:00</td>
+<td>2026-05-26T14:59:54.4992491+00:00</td>
 </tr>
 <tr>
 <td>duration-full-day</td>
@@ -700,7 +700,7 @@ Anzahl Tags: 576
 <td>Duration all day</td>
 <td>Durée toute la journée</td>
 <td>Durata tutto il giorno</td>
-<td>2025-03-31T09:21:41.6132014+00:00</td>
+<td>2026-05-26T14:59:45.3744585+00:00</td>
 </tr>
 <tr>
 <td>duration-multiple-days</td>
@@ -709,7 +709,7 @@ Anzahl Tags: 576
 <td>Duration of several days</td>
 <td>Durée de plusieurs jours</td>
 <td>Durata di più giorni</td>
-<td>2025-03-31T09:20:59.8345087+00:00</td>
+<td>2026-05-26T14:39:10.5541801+00:00</td>
 </tr>
 <tr>
 <td>duration-half-day</td>
@@ -718,7 +718,7 @@ Anzahl Tags: 576
 <td>Duration half day</td>
 <td>Durée demi-journée</td>
 <td>Durata mezza giornata</td>
-<td>2025-03-31T09:21:32.1404634+00:00</td>
+<td>2026-05-26T14:39:01.8484542+00:00</td>
 </tr>
 <tr>
 <td>genre-3d</td>
@@ -727,7 +727,7 @@ Anzahl Tags: 576
 <td>.3D</td>
 <td>..3D</td>
 <td>..3D</td>
-<td>2025-03-31T09:20:59.2367004+00:00</td>
+<td>2026-05-26T14:39:09.8928931+00:00</td>
 </tr>
 <tr>
 <td>genre-action</td>
@@ -736,7 +736,7 @@ Anzahl Tags: 576
 <td>Action</td>
 <td>Action</td>
 <td>Azione</td>
-<td>2025-03-31T09:30:15.0571935+00:00</td>
+<td>2026-05-26T14:59:54.9366798+00:00</td>
 </tr>
 <tr>
 <td>genre-scifi</td>
@@ -745,7 +745,7 @@ Anzahl Tags: 576
 <td>Science fiction</td>
 <td>Science-fiction</td>
 <td>Fantascienza</td>
-<td>2025-03-31T09:21:02.7817539+00:00</td>
+<td>2026-05-26T14:59:55.4317735+00:00</td>
 </tr>
 <tr>
 <td>genre-adventure</td>
@@ -754,7 +754,7 @@ Anzahl Tags: 576
 <td>Adventure</td>
 <td>Aventure</td>
 <td>Avventura</td>
-<td>2025-03-31T09:21:03.3727702+00:00</td>
+<td>2026-05-26T14:39:12.0234328+00:00</td>
 </tr>
 <tr>
 <td>genre-ballet</td>
@@ -763,7 +763,7 @@ Anzahl Tags: 576
 <td>Ballet</td>
 <td>Ballet</td>
 <td>Balletto</td>
-<td>2025-03-31T09:21:04.1473724+00:00</td>
+<td>2026-05-26T15:02:38.2355326+00:00</td>
 </tr>
 <tr>
 <td>genre-biography</td>
@@ -772,7 +772,7 @@ Anzahl Tags: 576
 <td>Biography</td>
 <td>Biographie</td>
 <td>Biografia</td>
-<td>2025-03-31T09:21:06.2536286+00:00</td>
+<td>2026-05-26T14:39:12.7096207+00:00</td>
 </tr>
 <tr>
 <td>genre-blackandwhite</td>
@@ -781,7 +781,7 @@ Anzahl Tags: 576
 <td>Black</td>
 <td>Noir</td>
 <td>Nero</td>
-<td>2025-03-31T09:21:10.4883474+00:00</td>
+<td>2026-05-26T14:59:56.0953481+00:00</td>
 </tr>
 <tr>
 <td>genre-cartoon</td>
@@ -790,7 +790,7 @@ Anzahl Tags: 576
 <td>Animation</td>
 <td>Animation</td>
 <td>Animazione</td>
-<td>2025-03-31T09:21:08.3428164+00:00</td>
+<td>2026-05-26T14:39:13.2162273+00:00</td>
 </tr>
 <tr>
 <td>genre-children</td>
@@ -799,7 +799,7 @@ Anzahl Tags: 576
 <td>Children's film</td>
 <td>Film pour enfants</td>
 <td>Film per bambini</td>
-<td>2025-03-31T09:21:10.9793319+00:00</td>
+<td>2026-05-26T14:59:56.4903565+00:00</td>
 </tr>
 <tr>
 <td>genre-classicfilms</td>
@@ -808,7 +808,7 @@ Anzahl Tags: 576
 <td>Movie classics</td>
 <td>Classiques du cinéma</td>
 <td>Classici del cinema</td>
-<td>2025-03-31T09:21:12.7596066+00:00</td>
+<td>2026-05-26T15:00:10.2254298+00:00</td>
 </tr>
 <tr>
 <td>genre-comedy</td>
@@ -817,7 +817,7 @@ Anzahl Tags: 576
 <td>Comedy</td>
 <td>Comédie</td>
 <td>Commedia</td>
-<td>2025-03-31T09:21:13.3148869+00:00</td>
+<td>2026-05-26T14:59:57.285011+00:00</td>
 </tr>
 <tr>
 <td>genre-documentary</td>
@@ -826,7 +826,7 @@ Anzahl Tags: 576
 <td>Documentation</td>
 <td>Documentation</td>
 <td>Documentazione</td>
-<td>2025-03-31T09:21:14.7976185+00:00</td>
+<td>2026-05-26T15:00:10.9342943+00:00</td>
 </tr>
 <tr>
 <td>genre-disaster</td>
@@ -835,7 +835,7 @@ Anzahl Tags: 576
 <td>Calamities</td>
 <td>Calamités</td>
 <td>Calamità</td>
-<td>2025-03-31T09:21:14.1719083+00:00</td>
+<td>2026-05-26T14:39:14.1475163+00:00</td>
 </tr>
 <tr>
 <td>genre-erotic_adultsonly</td>
@@ -844,7 +844,7 @@ Anzahl Tags: 576
 <td>Eroticism</td>
 <td>Érotisme</td>
 <td>Erotismo</td>
-<td>2025-03-31T09:21:16.429538+00:00</td>
+<td>2026-05-26T15:00:14.4337755+00:00</td>
 </tr>
 <tr>
 <td>genre-drama</td>
@@ -853,7 +853,7 @@ Anzahl Tags: 576
 <td>Drama</td>
 <td>Drame</td>
 <td>Dramma</td>
-<td>2025-03-31T09:21:14.5769+00:00</td>
+<td>2026-05-26T15:00:15.7965262+00:00</td>
 </tr>
 <tr>
 <td>genre-experimental</td>
@@ -862,7 +862,7 @@ Anzahl Tags: 576
 <td>Experimental film</td>
 <td>Film expérimental</td>
 <td>Film sperimentale</td>
-<td>2025-03-31T09:21:17.9294123+00:00</td>
+<td>2026-05-26T14:39:15.9434785+00:00</td>
 </tr>
 <tr>
 <td>genre-family</td>
@@ -871,7 +871,7 @@ Anzahl Tags: 576
 <td>Family film</td>
 <td>Film familial</td>
 <td>Film per famiglie</td>
-<td>2025-03-31T09:21:20.0216485+00:00</td>
+<td>2026-05-26T15:00:14.8726398+00:00</td>
 </tr>
 <tr>
 <td>genre-fantasy</td>
@@ -880,7 +880,7 @@ Anzahl Tags: 576
 <td>Fantasy</td>
 <td>Fantaisie</td>
 <td>Fantasia</td>
-<td>2025-03-31T09:21:20.4110197+00:00</td>
+<td>2026-05-26T15:00:45.2902126+00:00</td>
 </tr>
 <tr>
 <td>genre-history</td>
@@ -889,7 +889,7 @@ Anzahl Tags: 576
 <td>Historical</td>
 <td>Historique</td>
 <td>Storico</td>
-<td>2025-03-31T09:21:20.779226+00:00</td>
+<td>2026-05-26T14:39:14.6263013+00:00</td>
 </tr>
 <tr>
 <td>genre-home</td>
@@ -898,7 +898,7 @@ Anzahl Tags: 576
 <td>Heimatfilm</td>
 <td>Heimatfilm</td>
 <td>Heimatfilm</td>
-<td>2025-03-31T09:21:20.8700177+00:00</td>
+<td>2026-05-26T15:00:16.0947069+00:00</td>
 </tr>
 <tr>
 <td>genre-horror</td>
@@ -907,7 +907,7 @@ Anzahl Tags: 576
 <td>Horror</td>
 <td>Horreur</td>
 <td>Orrore</td>
-<td>2025-03-31T09:21:22.3430502+00:00</td>
+<td>2026-05-26T14:39:16.8202839+00:00</td>
 </tr>
 <tr>
 <td>genre-musical</td>
@@ -916,7 +916,7 @@ Anzahl Tags: 576
 <td>Musical</td>
 <td>Musical</td>
 <td>Musicale</td>
-<td>2025-03-31T09:21:22.7362361+00:00</td>
+<td>2026-05-26T15:00:16.5708888+00:00</td>
 </tr>
 <tr>
 <td>genre-lunchmovie</td>
@@ -925,7 +925,7 @@ Anzahl Tags: 576
 <td>Lunch cinema</td>
 <td>Déjeuner cinéma</td>
 <td>Pranzo cinema</td>
-<td>2025-03-31T09:21:22.3228478+00:00</td>
+<td>2026-05-26T14:39:17.2420032+00:00</td>
 </tr>
 <tr>
 <td>genre-musicfilm</td>
@@ -934,7 +934,7 @@ Anzahl Tags: 576
 <td>Music film</td>
 <td>Film musical</td>
 <td>Film musicale</td>
-<td>2025-03-31T09:21:22.7869092+00:00</td>
+<td>2026-05-26T15:00:17.1071841+00:00</td>
 </tr>
 <tr>
 <td>genre-mystery</td>
@@ -943,7 +943,7 @@ Anzahl Tags: 576
 <td>Mystery</td>
 <td>Mystère</td>
 <td>Mistero</td>
-<td>2025-03-31T09:21:24.5090696+00:00</td>
+<td>2026-05-26T15:00:16.6628917+00:00</td>
 </tr>
 <tr>
 <td>genre-opera</td>
@@ -952,7 +952,7 @@ Anzahl Tags: 576
 <td>Opera</td>
 <td>Opéra</td>
 <td>Opera</td>
-<td>2025-03-31T09:21:24.9271793+00:00</td>
+<td>2026-05-26T14:39:18.1331412+00:00</td>
 </tr>
 <tr>
 <td>genre-others</td>
@@ -961,7 +961,7 @@ Anzahl Tags: 576
 <td>Other genres</td>
 <td>Autres genres</td>
 <td>Altri generi</td>
-<td>2025-03-31T09:21:26.9754503+00:00</td>
+<td>2026-05-26T14:39:24.808821+00:00</td>
 </tr>
 <tr>
 <td>genre-prelaunch</td>
@@ -970,7 +970,7 @@ Anzahl Tags: 576
 <td>Preview</td>
 <td>Aperçu</td>
 <td>Anteprima</td>
-<td>2025-03-31T09:21:28.0980873+00:00</td>
+<td>2026-05-26T15:00:17.8096402+00:00</td>
 </tr>
 <tr>
 <td>genre-premiere</td>
@@ -979,7 +979,7 @@ Anzahl Tags: 576
 <td>Premiere</td>
 <td>Première</td>
 <td>Prima</td>
-<td>2025-03-31T09:21:28.683143+00:00</td>
+<td>2026-05-26T15:00:17.5273187+00:00</td>
 </tr>
 <tr>
 <td>genre-problem</td>
@@ -988,7 +988,7 @@ Anzahl Tags: 576
 <td>Problem film</td>
 <td>Film problématique</td>
 <td>Film problematico</td>
-<td>2025-03-31T09:22:25.3542836+00:00</td>
+<td>2026-05-26T14:39:24.1490265+00:00</td>
 </tr>
 <tr>
 <td>genre-roadmovie</td>
@@ -997,7 +997,7 @@ Anzahl Tags: 576
 <td>Road Movie</td>
 <td>Road Movie</td>
 <td>Road Movie</td>
-<td>2025-03-31T09:21:30.1597597+00:00</td>
+<td>2026-05-26T15:00:18.0353324+00:00</td>
 </tr>
 <tr>
 <td>genre-short</td>
@@ -1006,7 +1006,7 @@ Anzahl Tags: 576
 <td>Short film</td>
 <td>Court-métrage</td>
 <td>Cortometraggio</td>
-<td>2025-03-31T09:21:36.0903237+00:00</td>
+<td>2026-05-26T14:39:29.4270418+00:00</td>
 </tr>
 <tr>
 <td>genre-romance</td>
@@ -1015,7 +1015,7 @@ Anzahl Tags: 576
 <td>Romance</td>
 <td>Romance</td>
 <td>Romanzo</td>
-<td>2025-03-31T09:21:34.9659694+00:00</td>
+<td>2026-05-26T14:39:25.3358069+00:00</td>
 </tr>
 <tr>
 <td>genre-silentmovie</td>
@@ -1024,7 +1024,7 @@ Anzahl Tags: 576
 <td>Silent film</td>
 <td>Film muet</td>
 <td>Film muti</td>
-<td>2025-03-31T09:21:35.5840973+00:00</td>
+<td>2026-05-26T15:00:18.3676884+00:00</td>
 </tr>
 <tr>
 <td>genre-special_filmnoir</td>
@@ -1033,7 +1033,7 @@ Anzahl Tags: 576
 <td>Film noir</td>
 <td>Film noir</td>
 <td>Film noir</td>
-<td>2025-03-31T09:21:36.0351668+00:00</td>
+<td>2026-05-26T14:39:31.9499695+00:00</td>
 </tr>
 <tr>
 <td>genre-sport</td>
@@ -1042,7 +1042,7 @@ Anzahl Tags: 576
 <td>Sport</td>
 <td>Sport</td>
 <td>Sport</td>
-<td>2025-03-31T09:22:18.1383985+00:00</td>
+<td>2026-05-26T15:00:18.5924208+00:00</td>
 </tr>
 <tr>
 <td>genre-studiomovie</td>
@@ -1051,7 +1051,7 @@ Anzahl Tags: 576
 <td>Studio film</td>
 <td>Film de studio</td>
 <td>Film in studio</td>
-<td>2025-03-31T09:21:36.4564224+00:00</td>
+<td>2026-05-26T15:00:18.7981679+00:00</td>
 </tr>
 <tr>
 <td>genre-theatermovie</td>
@@ -1060,7 +1060,7 @@ Anzahl Tags: 576
 <td>Theatrical film</td>
 <td>Film théâtral</td>
 <td>Film teatrale</td>
-<td>2025-03-31T09:21:36.483845+00:00</td>
+<td>2026-05-26T14:39:30.0487887+00:00</td>
 </tr>
 <tr>
 <td>genre-thriller</td>
@@ -1069,7 +1069,7 @@ Anzahl Tags: 576
 <td>Detective story</td>
 <td>Histoire policière</td>
 <td>Romanzo poliziesco</td>
-<td>2025-03-31T09:21:36.9171001+00:00</td>
+<td>2026-05-26T14:39:30.4822956+00:00</td>
 </tr>
 <tr>
 <td>genre-tragedy</td>
@@ -1078,7 +1078,7 @@ Anzahl Tags: 576
 <td>Tragicomedy</td>
 <td>Tragicomédie</td>
 <td>Tragicommedia</td>
-<td>2025-03-31T09:21:37.9311598+00:00</td>
+<td>2026-05-26T14:39:31.1554054+00:00</td>
 </tr>
 <tr>
 <td>genre-truestory</td>
@@ -1087,7 +1087,7 @@ Anzahl Tags: 576
 <td>True Story</td>
 <td>Histoire vraie</td>
 <td>Storia vera</td>
-<td>2025-03-31T09:21:37.9213048+00:00</td>
+<td>2026-05-26T14:39:31.7080966+00:00</td>
 </tr>
 <tr>
 <td>genre-war</td>
@@ -1096,7 +1096,7 @@ Anzahl Tags: 576
 <td>War</td>
 <td>Guerre</td>
 <td>Guerra</td>
-<td>2025-03-31T09:21:37.4879486+00:00</td>
+<td>2026-05-26T15:00:19.2164994+00:00</td>
 </tr>
 <tr>
 <td>genre-western</td>
@@ -1105,7 +1105,7 @@ Anzahl Tags: 576
 <td>Western</td>
 <td>Occidental</td>
 <td>Occidentale</td>
-<td>2025-03-31T09:21:41.1399845+00:00</td>
+<td>2026-05-26T15:00:19.630691+00:00</td>
 </tr>
 <tr>
 <td>literature</td>
@@ -1114,7 +1114,7 @@ Anzahl Tags: 576
 <td>literature</td>
 <td>littérature</td>
 <td>letteratura</td>
-<td>2025-03-31T09:21:38.3937837+00:00</td>
+<td>2026-05-26T15:00:20.0482405+00:00</td>
 </tr>
 <tr>
 <td>music-classic</td>
@@ -1123,7 +1123,7 @@ Anzahl Tags: 576
 <td>Classical music</td>
 <td>Musique classique</td>
 <td>Musica classica</td>
-<td>2025-03-31T09:21:58.1905016+00:00</td>
+<td>2026-05-26T15:00:20.2666248+00:00</td>
 </tr>
 <tr>
 <td>music-folk</td>
@@ -1132,7 +1132,7 @@ Anzahl Tags: 576
 <td>Folk</td>
 <td>Peuple</td>
 <td>Popolo</td>
-<td>2025-03-31T09:21:39.2831298+00:00</td>
+<td>2026-05-26T15:00:22.5075434+00:00</td>
 </tr>
 <tr>
 <td>parking-covered</td>
@@ -1141,7 +1141,7 @@ Anzahl Tags: 576
 <td>Garage</td>
 <td>Garage</td>
 <td>Garage</td>
-<td>2025-03-31T09:22:14.6948713+00:00</td>
+<td>2026-05-26T15:00:21.3721617+00:00</td>
 </tr>
 <tr>
 <td>music-jazz-pop-rock</td>
@@ -1150,7 +1150,7 @@ Anzahl Tags: 576
 <td>Jazz/Pop/Rock</td>
 <td>Jazz/Pop/Rock</td>
 <td>Jazz/Pop/Rock</td>
-<td>2025-03-31T09:22:00.7036687+00:00</td>
+<td>2026-05-26T15:00:41.3848624+00:00</td>
 </tr>
 <tr>
 <td>parking-no</td>
@@ -1159,7 +1159,7 @@ Anzahl Tags: 576
 <td>No parking</td>
 <td>Stationnement interdit</td>
 <td>Divieto di parcheggio</td>
-<td>2025-03-31T09:22:15.6597592+00:00</td>
+<td>2026-05-26T15:00:41.7400627+00:00</td>
 </tr>
 <tr>
 <td>parking-own-bus-chargeable</td>
@@ -1168,7 +1168,7 @@ Anzahl Tags: 576
 <td>Own paid parking for buses</td>
 <td>Propre parking payant pour les bus</td>
 <td>Parcheggio privato a pagamento per gli autobus</td>
-<td>2025-03-31T09:22:15.2709933+00:00</td>
+<td>2026-05-26T15:00:42.8618149+00:00</td>
 </tr>
 <tr>
 <td>parking-own-bus-free</td>
@@ -1177,7 +1177,7 @@ Anzahl Tags: 576
 <td>own free parking for buses</td>
 <td>propre parking gratuit pour les bus</td>
 <td>proprio parcheggio gratuito per gli autobus</td>
-<td>2025-03-31T09:22:24.9678002+00:00</td>
+<td>2026-05-26T15:00:43.4624475+00:00</td>
 </tr>
 <tr>
 <td>parking-own-chargeable</td>
@@ -1186,7 +1186,7 @@ Anzahl Tags: 576
 <td>own paid parking</td>
 <td>parking payant propre</td>
 <td>parcheggio privato a pagamento</td>
-<td>2025-03-31T09:22:21.996874+00:00</td>
+<td>2026-05-26T14:39:32.1707203+00:00</td>
 </tr>
 <tr>
 <td>parking-own-free</td>
@@ -1195,7 +1195,7 @@ Anzahl Tags: 576
 <td>own free parking</td>
 <td>Propre parking gratuit</td>
 <td>parcheggio gratuito</td>
-<td>2025-03-31T09:22:22.5601186+00:00</td>
+<td>2026-05-26T14:39:32.4690975+00:00</td>
 </tr>
 <tr>
 <td>parking-own-mobilehome-chargeable</td>
@@ -1204,7 +1204,7 @@ Anzahl Tags: 576
 <td>Own parking for mobile homes</td>
 <td>Parking propre pour mobil-homes</td>
 <td>Parcheggio privato per case mobili</td>
-<td>2025-03-31T09:22:23.3542393+00:00</td>
+<td>2026-05-26T14:39:33.2103169+00:00</td>
 </tr>
 <tr>
 <td>parking-own-mobilehome-free</td>
@@ -1213,7 +1213,7 @@ Anzahl Tags: 576
 <td>own free parking for mobile homes</td>
 <td>Propre parking gratuit pour les mobil-homes</td>
 <td>parcheggio gratuito per case mobili</td>
-<td>2025-03-31T09:22:23.7374638+00:00</td>
+<td>2026-05-26T15:00:44.3706274+00:00</td>
 </tr>
 <tr>
 <td>parking-public-bus-nearby-chargeable</td>
@@ -1222,7 +1222,7 @@ Anzahl Tags: 576
 <td>Paid parking for buses nearby</td>
 <td>Parking payant pour les bus à proximité</td>
 <td>Parcheggio a pagamento per autobus nelle vicinanze</td>
-<td>2025-03-31T09:22:24.1464703+00:00</td>
+<td>2026-05-26T14:39:33.6561448+00:00</td>
 </tr>
 <tr>
 <td>parking-public-bus-nearby-free</td>
@@ -1231,7 +1231,7 @@ Anzahl Tags: 576
 <td>Free parking for buses nearby</td>
 <td>Parking gratuit pour les bus à proximité</td>
 <td>Parcheggio gratuito per gli autobus nelle vicinanze</td>
-<td>2025-03-31T09:23:58.3091498+00:00</td>
+<td>2026-05-26T15:00:43.8660422+00:00</td>
 </tr>
 <tr>
 <td>parking-public-mobilehome-nearby-free</td>
@@ -1240,7 +1240,7 @@ Anzahl Tags: 576
 <td>Free parking for mobile homes nearby</td>
 <td>Parking gratuit pour mobil-homes à proximité</td>
 <td>Parcheggio gratuito per case mobili nelle vicinanze</td>
-<td>2025-03-31T09:24:00.396452+00:00</td>
+<td>2026-05-26T14:39:34.2017495+00:00</td>
 </tr>
 <tr>
 <td>parking-public-mobilehome-nearby-chargeable</td>
@@ -1249,7 +1249,7 @@ Anzahl Tags: 576
 <td>Paid parking for mobile homes nearby</td>
 <td>Parking payant pour mobil-homes à proximité</td>
 <td>Parcheggio a pagamento per case mobili nelle vicinanze</td>
-<td>2025-03-31T09:23:58.8759515+00:00</td>
+<td>2026-05-26T14:39:35.1206209+00:00</td>
 </tr>
 <tr>
 <td>parking-public-nearby-free</td>
@@ -1258,7 +1258,7 @@ Anzahl Tags: 576
 <td>Free parking nearby</td>
 <td>Parking gratuit à proximité</td>
 <td>Parcheggio gratuito nelle vicinanze</td>
-<td>2025-03-31T09:24:00.9137164+00:00</td>
+<td>2026-05-26T14:39:34.3527393+00:00</td>
 </tr>
 <tr>
 <td>parking-public-nearby-chargeable</td>
@@ -1267,7 +1267,7 @@ Anzahl Tags: 576
 <td>Paid parking nearby</td>
 <td>Parking payant à proximité</td>
 <td>Parcheggio a pagamento nelle vicinanze</td>
-<td>2025-03-31T09:24:16.3625333+00:00</td>
+<td>2026-05-26T14:44:37.3059171+00:00</td>
 </tr>
 <tr>
 <td>parking-valet</td>
@@ -1276,7 +1276,7 @@ Anzahl Tags: 576
 <td>Valet parking</td>
 <td>Voiturier</td>
 <td>Parcheggio</td>
-<td>2025-03-31T09:22:24.5755475+00:00</td>
+<td>2026-05-26T15:00:44.7825461+00:00</td>
 </tr>
 <tr>
 <td>profile-enjoyment-1</td>
@@ -1339,7 +1339,7 @@ Anzahl Tags: 576
 <td>Apprentices</td>
 <td>Apprentis</td>
 <td>Apprendisti</td>
-<td>2025-03-31T09:22:26.9110057+00:00</td>
+<td>2026-05-26T14:39:35.6442893+00:00</td>
 </tr>
 <tr>
 <td>reduction-citycard</td>
@@ -1348,7 +1348,7 @@ Anzahl Tags: 576
 <td>Reduction with tourism card</td>
 <td>Réduction avec carte de tourisme</td>
 <td>Riduzione con tessera turistica</td>
-<td>2025-03-31T09:22:36.9511585+00:00</td>
+<td>2026-05-26T15:00:45.8437877+00:00</td>
 </tr>
 <tr>
 <td>reduction-family</td>
@@ -1357,7 +1357,7 @@ Anzahl Tags: 576
 <td>Families</td>
 <td>Famille</td>
 <td>Famiglie</td>
-<td>2025-03-31T09:23:01.5060494+00:00</td>
+<td>2026-05-26T15:00:53.9764368+00:00</td>
 </tr>
 <tr>
 <td>reduction-donations</td>
@@ -1366,7 +1366,7 @@ Anzahl Tags: 576
 <td>Volunteer Contribution Donations</td>
 <td>Dons de contributions bénévoles</td>
 <td>Donazioni di contributi volontari</td>
-<td>2025-03-31T09:22:39.6527374+00:00</td>
+<td>2026-05-26T14:39:35.7377774+00:00</td>
 </tr>
 <tr>
 <td>reduction-free-till-16</td>
@@ -1375,7 +1375,7 @@ Anzahl Tags: 576
 <td>Free admission for children up to 16 years</td>
 <td>Entrée gratuite pour les enfants jusqu’à 16 ans</td>
 <td>Ingresso gratuito per ragazzi fino a 16 anni</td>
-<td>2025-03-31T09:23:16.4114064+00:00</td>
+<td>2026-05-26T14:39:38.4396575+00:00</td>
 </tr>
 <tr>
 <td>reduction-free-till-12</td>
@@ -1384,7 +1384,7 @@ Anzahl Tags: 576
 <td>Free admission for children up to 12 years</td>
 <td>Entrée gratuite pour les enfants jusqu’à 12 ans</td>
 <td>Ingresso gratuito per bambini fino a 12 anni</td>
-<td>2025-03-31T09:23:03.6888293+00:00</td>
+<td>2026-05-26T15:00:51.1112536+00:00</td>
 </tr>
 <tr>
 <td>reduction-free</td>
@@ -1393,7 +1393,7 @@ Anzahl Tags: 576
 <td>Free admission</td>
 <td>Entrée libre</td>
 <td>Ingresso libero</td>
-<td>2025-03-31T09:23:33.0040506+00:00</td>
+<td>2026-05-26T15:00:48.5866146+00:00</td>
 </tr>
 <tr>
 <td>reduction-free-till-6</td>
@@ -1402,7 +1402,7 @@ Anzahl Tags: 576
 <td>Free admission for children up to 6 years</td>
 <td>Entrée gratuite pour les enfants jusqu’à 6 ans</td>
 <td>Ingresso gratuito per bambini fino a 6 anni</td>
-<td>2025-03-31T09:23:07.7754798+00:00</td>
+<td>2026-05-26T14:39:48.1195683+00:00</td>
 </tr>
 <tr>
 <td>reduction-group</td>
@@ -1411,7 +1411,7 @@ Anzahl Tags: 576
 <td>Groups</td>
 <td>Groupe</td>
 <td>Gruppi</td>
-<td>2025-03-31T09:23:34.3722573+00:00</td>
+<td>2026-05-26T15:00:56.0724127+00:00</td>
 </tr>
 <tr>
 <td>reduction-general</td>
@@ -1420,7 +1420,7 @@ Anzahl Tags: 576
 <td>general reductions</td>
 <td>Réductions générales</td>
 <td>Riduzioni generali</td>
-<td>2025-03-31T09:23:33.2117889+00:00</td>
+<td>2026-05-26T15:00:53.370196+00:00</td>
 </tr>
 <tr>
 <td>reduction-handicaped</td>
@@ -1429,7 +1429,7 @@ Anzahl Tags: 576
 <td>Invalid</td>
 <td>Non valide</td>
 <td>Non valido</td>
-<td>2025-03-31T09:23:38.1217388+00:00</td>
+<td>2026-05-26T15:00:59.0866895+00:00</td>
 </tr>
 <tr>
 <td>reduction-localpopulation</td>
@@ -1438,7 +1438,7 @@ Anzahl Tags: 576
 <td>Local</td>
 <td>Local</td>
 <td>Locale</td>
-<td>2025-03-31T09:23:46.8837757+00:00</td>
+<td>2026-05-26T15:01:02.9758277+00:00</td>
 </tr>
 <tr>
 <td>reduction-membercard</td>
@@ -1447,7 +1447,7 @@ Anzahl Tags: 576
 <td>Membership reduction</td>
 <td>Réduction du nombre de membres</td>
 <td>Riduzione dell'iscrizione</td>
-<td>2025-03-31T09:23:47.3484001+00:00</td>
+<td>2026-05-26T15:01:14.4910085+00:00</td>
 </tr>
 <tr>
 <td>reduction-multipledaypass</td>
@@ -1456,7 +1456,7 @@ Anzahl Tags: 576
 <td>Multi-day ticket reduction</td>
 <td>Réduction de billets de plusieurs jours</td>
 <td>Riduzione del biglietto di più giorni</td>
-<td>2025-03-31T09:23:55.7419634+00:00</td>
+<td>2026-05-26T14:39:52.3142118+00:00</td>
 </tr>
 <tr>
 <td>reduction-percentagebased</td>
@@ -1465,7 +1465,7 @@ Anzahl Tags: 576
 <td>percentage reduction</td>
 <td>pourcentage de réduction</td>
 <td>riduzione percentuale</td>
-<td>2025-03-31T09:23:54.897325+00:00</td>
+<td>2026-05-26T15:01:03.4816205+00:00</td>
 </tr>
 <tr>
 <td>reduction-presale</td>
@@ -1474,7 +1474,7 @@ Anzahl Tags: 576
 <td>Presale</td>
 <td>Prévente</td>
 <td>Prevendita</td>
-<td>2025-03-31T09:23:58.6184476+00:00</td>
+<td>2026-05-26T14:39:53.0303525+00:00</td>
 </tr>
 <tr>
 <td>reduction-seniors</td>
@@ -1483,7 +1483,7 @@ Anzahl Tags: 576
 <td>Seniors</td>
 <td>Aînés</td>
 <td>Anziani</td>
-<td>2025-03-31T09:24:01.0319539+00:00</td>
+<td>2026-05-26T15:01:04.2179785+00:00</td>
 </tr>
 <tr>
 <td>reduction-students</td>
@@ -1492,7 +1492,7 @@ Anzahl Tags: 576
 <td>Students</td>
 <td>Étudiants</td>
 <td>Studenti</td>
-<td>2025-03-31T09:24:02.718176+00:00</td>
+<td>2026-05-26T15:01:08.4235745+00:00</td>
 </tr>
 <tr>
 <td>reservation-online</td>
@@ -1501,7 +1501,7 @@ Anzahl Tags: 576
 <td>Online reservation</td>
 <td>Réservation en ligne</td>
 <td>Prenotazione</td>
-<td>2025-03-31T09:24:13.521043+00:00</td>
+<td>2026-05-26T15:01:21.6029763+00:00</td>
 </tr>
 <tr>
 <td>seasonality-summer-only</td>
@@ -1510,7 +1510,7 @@ Anzahl Tags: 576
 <td>Summer season</td>
 <td>Saison estivale</td>
 <td>Stagione estiva</td>
-<td>2025-03-28T21:48:40.7429091+00:00</td>
+<td>2026-05-26T14:39:55.5123052+00:00</td>
 </tr>
 <tr>
 <td>seasonality-winter-only</td>
@@ -1519,7 +1519,7 @@ Anzahl Tags: 576
 <td>Winter season</td>
 <td>Saison d’hiver</td>
 <td>Stagione invernale</td>
-<td>2025-03-28T21:48:42.344776+00:00</td>
+<td>2026-05-26T14:39:56.9840585+00:00</td>
 </tr>
 <tr>
 <td>transport-mountainrailway</td>
@@ -1528,7 +1528,7 @@ Anzahl Tags: 576
 <td>Mountain railway ascent/descent</td>
 <td>Ascension/descente du chemin de fer de montagne</td>
 <td>Salita/discesa in montagna</td>
-<td>2025-03-31T09:24:09.7830227+00:00</td>
+<td>2026-05-26T15:01:22.8804614+00:00</td>
 </tr>
 <tr>
 <td>weather-conditions-dry-days</td>
@@ -1537,7 +1537,7 @@ Anzahl Tags: 576
 <td>Dry weather</td>
 <td>Temps sec</td>
 <td>Tempo asciutto</td>
-<td>2025-03-31T09:24:09.4149469+00:00</td>
+<td>2026-05-26T14:39:58.3361573+00:00</td>
 </tr>
 <tr>
 <td>weather-conditions-snow-days</td>
@@ -1546,7 +1546,7 @@ Anzahl Tags: 576
 <td>Snow</td>
 <td>Neige</td>
 <td>Neve</td>
-<td>2025-03-31T09:24:15.9059925+00:00</td>
+<td>2026-05-26T15:01:23.8245792+00:00</td>
 </tr>
 <tr>
 <td>weather-conditions-wet-days</td>
@@ -1555,7 +1555,7 @@ Anzahl Tags: 576
 <td>Wet weather</td>
 <td>Pluvieux</td>
 <td>Tempo piovoso</td>
-<td>2025-03-31T09:24:17.2715727+00:00</td>
+<td>2026-05-26T15:01:24.2746616+00:00</td>
 </tr>
 <tr>
 <td>accessibility-suitableforperambulators</td>
@@ -1564,7 +1564,7 @@ Anzahl Tags: 576
 <td>Stroller Friendly</td>
 <td>Poussette amicale</td>
 <td>Passeggino amichevole</td>
-<td>2025-10-03T16:34:26.8032076+00:00</td>
+<td>2026-05-26T14:40:06.795458+00:00</td>
 </tr>
 <tr>
 <td>culinary-breakfast</td>
@@ -1573,7 +1573,7 @@ Anzahl Tags: 576
 <td>Breakfast</td>
 <td>Petit déjeuner</td>
 <td>Colazione</td>
-<td>2025-03-31T09:24:21.0787141+00:00</td>
+<td>2026-05-26T15:01:38.4012052+00:00</td>
 </tr>
 <tr>
 <td>culinary-brunch</td>
@@ -1582,7 +1582,7 @@ Anzahl Tags: 576
 <td>Brunch</td>
 <td>Brunch</td>
 <td>Brunch</td>
-<td>2025-03-31T09:25:13.0313901+00:00</td>
+<td>2026-05-26T14:40:16.0072363+00:00</td>
 </tr>
 <tr>
 <td>culinary-dailyspecial</td>
@@ -1591,7 +1591,7 @@ Anzahl Tags: 576
 <td>Specials of the day</td>
 <td>Spéciaux du jour</td>
 <td>Offerte speciali del giorno</td>
-<td>2025-03-31T09:24:17.0454535+00:00</td>
+<td>2026-05-26T15:01:41.2848781+00:00</td>
 </tr>
 <tr>
 <td>culinary-dinner</td>
@@ -1600,7 +1600,7 @@ Anzahl Tags: 576
 <td>Supper</td>
 <td>Souper</td>
 <td>Cena</td>
-<td>2025-03-31T09:25:31.95705+00:00</td>
+<td>2026-05-26T14:40:24.7328563+00:00</td>
 </tr>
 <tr>
 <td>culinary-cooktogether</td>
@@ -1609,7 +1609,7 @@ Anzahl Tags: 576
 <td>Cooking together</td>
 <td>Cuisiner ensemble</td>
 <td>Cucinare insieme</td>
-<td>2025-03-31T09:25:31.0776092+00:00</td>
+<td>2026-05-26T14:40:21.7961765+00:00</td>
 </tr>
 <tr>
 <td>culinary-dinnerwithprogram</td>
@@ -1618,7 +1618,7 @@ Anzahl Tags: 576
 <td>Meals with program</td>
 <td>Repas avec programme</td>
 <td>Pasti con programma</td>
-<td>2025-03-31T09:25:36.112458+00:00</td>
+<td>2026-05-26T15:01:43.2209757+00:00</td>
 </tr>
 <tr>
 <td>culinary-foodfestival</td>
@@ -1627,7 +1627,7 @@ Anzahl Tags: 576
 <td>Food Festival</td>
 <td>Festival gastronomique</td>
 <td>Festa del cibo</td>
-<td>2025-03-31T09:25:25.8888903+00:00</td>
+<td>2026-05-26T15:01:44.2487333+00:00</td>
 </tr>
 <tr>
 <td>culinary-eattogether</td>
@@ -1636,7 +1636,7 @@ Anzahl Tags: 576
 <td>Eating together</td>
 <td>Manger ensemble</td>
 <td>Mangiare insieme</td>
-<td>2025-03-31T09:25:03.4289071+00:00</td>
+<td>2026-05-26T15:01:43.3815249+00:00</td>
 </tr>
 <tr>
 <td>culinary-lunch</td>
@@ -1645,7 +1645,7 @@ Anzahl Tags: 576
 <td>Lunch</td>
 <td>Déjeuner</td>
 <td>Pranzo</td>
-<td>2025-03-31T09:25:39.892703+00:00</td>
+<td>2026-05-26T14:40:31.2341118+00:00</td>
 </tr>
 <tr>
 <td>culinary-seasonal</td>
@@ -1654,7 +1654,7 @@ Anzahl Tags: 576
 <td>seasonal specialities</td>
 <td>Spécialités de saison</td>
 <td>Specialità stagionali</td>
-<td>2025-03-31T09:25:48.4198416+00:00</td>
+<td>2026-05-26T14:40:33.2499826+00:00</td>
 </tr>
 <tr>
 <td>culinary-tasting</td>
@@ -1663,7 +1663,7 @@ Anzahl Tags: 576
 <td>Tasting</td>
 <td>Dégustation</td>
 <td>Degustazione</td>
-<td>2025-03-31T09:25:49.8923378+00:00</td>
+<td>2026-05-26T14:40:37.3202127+00:00</td>
 </tr>
 <tr>
 <td>culinary-variousculinary</td>
@@ -1672,7 +1672,7 @@ Anzahl Tags: 576
 <td>more culinary delights</td>
 <td>Plus de délices culinaires</td>
 <td>Altre delizie culinarie</td>
-<td>2025-03-31T09:25:52.0714758+00:00</td>
+<td>2026-05-26T15:01:47.5919519+00:00</td>
 </tr>
 <tr>
 <td>culinary-specialoccasions</td>
@@ -1681,7 +1681,7 @@ Anzahl Tags: 576
 <td>special occasions</td>
 <td>Occasions spéciales</td>
 <td>Occasioni speciali</td>
-<td>2025-03-31T09:24:59.3185416+00:00</td>
+<td>2026-05-26T14:40:37.7143794+00:00</td>
 </tr>
 <tr>
 <td>general-dogfriendly</td>
@@ -1690,7 +1690,7 @@ Anzahl Tags: 576
 <td>Dog friendly</td>
 <td>Chien accepté</td>
 <td>Dog friendly</td>
-<td>2025-03-31T09:24:24.7529419+00:00</td>
+<td>2026-05-26T14:40:41.2304005+00:00</td>
 </tr>
 <tr>
 <td>general-dining</td>
@@ -1699,7 +1699,7 @@ Anzahl Tags: 576
 <td>Refreshments</td>
 <td>Rafraîchissements</td>
 <td>Rinfreschi</td>
-<td>2025-03-31T09:26:08.9392005+00:00</td>
+<td>2026-05-26T14:40:48.9625729+00:00</td>
 </tr>
 <tr>
 <td>general-educational</td>
@@ -1708,7 +1708,7 @@ Anzahl Tags: 576
 <td>instructive</td>
 <td>instructif</td>
 <td>istruttivo</td>
-<td>2025-03-31T09:28:08.3327048+00:00</td>
+<td>2026-05-26T15:01:53.6660171+00:00</td>
 </tr>
 <tr>
 <td>general-fireplace</td>
@@ -1717,7 +1717,7 @@ Anzahl Tags: 576
 <td>Fire pit on the way</td>
 <td>Foyer sur le chemin</td>
 <td>Pozzo del fuoco sulla strada</td>
-<td>2025-03-31T09:28:13.516124+00:00</td>
+<td>2026-05-26T15:01:53.2010844+00:00</td>
 </tr>
 <tr>
 <td>general-shopping</td>
@@ -1726,7 +1726,7 @@ Anzahl Tags: 576
 <td>Shopping on the go</td>
 <td>Shopping en déplacement</td>
 <td>Shopping in movimento</td>
-<td>2025-03-31T09:25:30.6693785+00:00</td>
+<td>2026-05-26T14:40:56.3690643+00:00</td>
 </tr>
 <tr>
 <td>general-publictoilet</td>
@@ -1735,7 +1735,7 @@ Anzahl Tags: 576
 <td>public toilet on the way</td>
 <td>toilettes publiques sur le chemin</td>
 <td>servizi igienici pubblici lungo la strada</td>
-<td>2025-03-31T09:30:15.1921369+00:00</td>
+<td>2026-05-26T14:40:56.9202351+00:00</td>
 </tr>
 <tr>
 <td>general-suitableforfamilies</td>
@@ -1744,7 +1744,7 @@ Anzahl Tags: 576
 <td>family-friendly</td>
 <td>Adapté aux familles</td>
 <td>adatto alle famiglie</td>
-<td>2025-03-31T09:25:53.4007649+00:00</td>
+<td>2026-05-26T14:41:01.4722533+00:00</td>
 </tr>
 <tr>
 <td>general-playground</td>
@@ -1753,7 +1753,7 @@ Anzahl Tags: 576
 <td>Playground on the way</td>
 <td>Aire de jeux sur le chemin</td>
 <td>Parco giochi lungo la strada</td>
-<td>2025-03-31T09:25:16.4363907+00:00</td>
+<td>2026-05-26T15:01:57.5473576+00:00</td>
 </tr>
 <tr>
 <td>incentive-quiz</td>
@@ -1762,7 +1762,7 @@ Anzahl Tags: 576
 <td>with puzzles</td>
 <td>avec des puzzles</td>
 <td>con puzzle</td>
-<td>2025-03-31T09:28:40.9873423+00:00</td>
+<td>2026-05-26T15:01:57.7779513+00:00</td>
 </tr>
 <tr>
 <td>incentive-reward</td>
@@ -1771,7 +1771,7 @@ Anzahl Tags: 576
 <td>with reward at the end</td>
 <td>avec récompense à la fin</td>
 <td>con ricompensa alla fine</td>
-<td>2025-03-31T09:28:42.033017+00:00</td>
+<td>2026-05-26T15:01:58.2787001+00:00</td>
 </tr>
 <tr>
 <td>profile-enjoyment-5</td>
@@ -1798,7 +1798,7 @@ Anzahl Tags: 576
 <td>Tour</td>
 <td>Tour</td>
 <td>Viaggio</td>
-<td>2025-03-31T09:28:21.8045427+00:00</td>
+<td>2026-05-26T14:41:18.982699+00:00</td>
 </tr>
 <tr>
 <td>trail-onewaytour</td>
@@ -1807,7 +1807,7 @@ Anzahl Tags: 576
 <td>Back and forth</td>
 <td>Aller et retour</td>
 <td>Andata e ritorno</td>
-<td>2025-03-31T09:29:43.1564141+00:00</td>
+<td>2026-05-26T14:43:32.4740647+00:00</td>
 </tr>
 <tr>
 <td>trail-scenic</td>
@@ -1816,7 +1816,7 @@ Anzahl Tags: 576
 <td>promising</td>
 <td>prometteur</td>
 <td>promettente</td>
-<td>2025-03-31T09:24:28.165496+00:00</td>
+<td>2026-05-26T15:01:58.4145609+00:00</td>
 </tr>
 <tr>
 <td>trail-multistagetour</td>
@@ -1825,7 +1825,7 @@ Anzahl Tags: 576
 <td>Stage tour</td>
 <td>Tour d’étape</td>
 <td>Tour di tappa</td>
-<td>2025-03-31T09:28:42.9886568+00:00</td>
+<td>2026-05-26T14:42:56.229259+00:00</td>
 </tr>
 <tr>
 <td>trail-pointtopoint</td>
@@ -1834,7 +1834,7 @@ Anzahl Tags: 576
 <td>From A to B</td>
 <td>De A à B</td>
 <td>Da A a B</td>
-<td>2025-03-31T09:28:47.3402574+00:00</td>
+<td>2026-05-26T14:43:40.1960691+00:00</td>
 </tr>
 <tr>
 <td>transport-publictransportfriendly</td>
@@ -1843,7 +1843,7 @@ Anzahl Tags: 576
 <td>accessible by public transport</td>
 <td>Accessible par les transports en commun</td>
 <td>raggiungibile con i mezzi pubblici</td>
-<td>2025-03-31T09:26:07.8119844+00:00</td>
+<td>2026-05-26T14:43:44.1419118+00:00</td>
 </tr>
 <tr>
 <td>proposed-by-editor</td>
@@ -1852,7 +1852,7 @@ Anzahl Tags: 576
 <td>Editorially recommended</td>
 <td>Recommandation éditoriale</td>
 <td>Editorialmente consigliato</td>
-<td>2024-10-02T09:26:24.1416399+00:00</td>
+<td>2026-05-26T15:02:04.5881728+00:00</td>
 </tr>
 <tr>
 <td>school-difficulty-level-difficult</td>
@@ -1861,7 +1861,7 @@ Anzahl Tags: 576
 <td>difficult for students</td>
 <td>difficile pour les étudiants</td>
 <td>difficile per gli studenti</td>
-<td>2025-03-31T09:30:14.6437863+00:00</td>
+<td>2026-05-26T14:44:12.2467237+00:00</td>
 </tr>
 <tr>
 <td>school-difficulty-level-easy</td>
@@ -1870,7 +1870,7 @@ Anzahl Tags: 576
 <td>simple-easy for students</td>
 <td>Simple-facile pour les étudiants</td>
 <td>semplice-facile per gli studenti</td>
-<td>2025-07-11T06:36:01.0355201+00:00</td>
+<td>2026-05-26T14:44:12.6620978+00:00</td>
 </tr>
 <tr>
 <td>school-difficulty-level-medium</td>
@@ -1879,7 +1879,7 @@ Anzahl Tags: 576
 <td>medium difficult for students</td>
 <td>Moyen difficile pour les étudiants</td>
 <td>medio difficile per gli studenti</td>
-<td>2025-03-31T09:30:16.0098475+00:00</td>
+<td>2026-05-26T14:44:17.3271489+00:00</td>
 </tr>
 <tr>
 <td>school-level-kindergarden</td>
@@ -1888,7 +1888,7 @@ Anzahl Tags: 576
 <td>Kindergarten</td>
 <td>École maternelle</td>
 <td>Scuola materna</td>
-<td>2025-12-18T13:29:21.9638322+00:00</td>
+<td>2026-05-26T14:44:13.2772779+00:00</td>
 </tr>
 <tr>
 <td>school-level-primary-fifth-sixth-grade</td>
@@ -1897,7 +1897,7 @@ Anzahl Tags: 576
 <td>5th/6th primary class</td>
 <td>5ème/6ème classe primaire</td>
 <td>5ª/6ª classe primaria</td>
-<td>2025-07-09T14:11:22.4994754+00:00</td>
+<td>2026-05-26T14:44:16.8428834+00:00</td>
 </tr>
 <tr>
 <td>school-level-primary-first-second-grade</td>
@@ -1906,7 +1906,7 @@ Anzahl Tags: 576
 <td>1st/2nd primary class</td>
 <td>1ère/2ème classe primaire</td>
 <td>1ª/2ª classe primaria</td>
-<td>2025-03-31T09:30:19.6067541+00:00</td>
+<td>2026-05-26T14:44:13.7019648+00:00</td>
 </tr>
 <tr>
 <td>school-level-primary-third-fourth-grade</td>
@@ -1915,7 +1915,7 @@ Anzahl Tags: 576
 <td>3rd/4th primary class</td>
 <td>3ème/4ème classe primaire</td>
 <td>3ª/4ª classe primaria</td>
-<td>2025-07-09T14:11:17.8484533+00:00</td>
+<td>2026-05-26T14:44:16.386087+00:00</td>
 </tr>
 <tr>
 <td>schooltrip-category-action</td>
@@ -1924,7 +1924,7 @@ Anzahl Tags: 576
 <td>Fun and action</td>
 <td>Amusement et action</td>
 <td>Divertimento e azione</td>
-<td>2025-03-31T09:30:15.5780004+00:00</td>
+<td>2026-05-26T14:44:17.7674004+00:00</td>
 </tr>
 <tr>
 <td>schooltrip-category-animals</td>
@@ -1933,7 +1933,7 @@ Anzahl Tags: 576
 <td>Animals</td>
 <td>Animaux</td>
 <td>Animali</td>
-<td>2025-03-31T09:30:17.941119+00:00</td>
+<td>2026-05-26T15:02:12.6427642+00:00</td>
 </tr>
 <tr>
 <td>schooltrip-category-castles-monastery</td>
@@ -1942,7 +1942,7 @@ Anzahl Tags: 576
 <td>Castles Castles Monasteries</td>
 <td>Châteaux Châteaux Monastères</td>
 <td>Castelli Castelli Monasteri</td>
-<td>2025-03-31T09:30:22.8084181+00:00</td>
+<td>2026-05-26T15:02:13.8598325+00:00</td>
 </tr>
 <tr>
 <td>schooltrip-category-history-and-culture</td>
@@ -1951,7 +1951,7 @@ Anzahl Tags: 576
 <td>History and culture</td>
 <td>Histoire et culture</td>
 <td>Storia e cultura</td>
-<td>2025-07-09T14:11:14.1416799+00:00</td>
+<td>2026-05-26T15:02:14.2553317+00:00</td>
 </tr>
 <tr>
 <td>schooltrip-category-museums</td>
@@ -1960,7 +1960,7 @@ Anzahl Tags: 576
 <td>Museums</td>
 <td>Musées</td>
 <td>Musei</td>
-<td>2025-07-09T14:11:26.7248508+00:00</td>
+<td>2026-05-26T14:44:21.1173525+00:00</td>
 </tr>
 <tr>
 <td>schooltrip-category-nature-and-environment</td>
@@ -1969,7 +1969,7 @@ Anzahl Tags: 576
 <td>Nature and environment</td>
 <td>Nature et environnement</td>
 <td>Natura e ambiente</td>
-<td>2025-03-31T09:30:17.5278927+00:00</td>
+<td>2026-05-26T14:44:20.67666+00:00</td>
 </tr>
 <tr>
 <td>schooltrip-category-romans</td>
@@ -1978,7 +1978,7 @@ Anzahl Tags: 576
 <td>Roman</td>
 <td>Romain</td>
 <td>Romano</td>
-<td>2025-03-31T09:30:21.6006613+00:00</td>
+<td>2026-05-26T15:02:14.2564729+00:00</td>
 </tr>
 <tr>
 <td>schooltrip-category-science</td>
@@ -1987,7 +1987,7 @@ Anzahl Tags: 576
 <td>Science</td>
 <td>Science</td>
 <td>Scienza</td>
-<td>2025-03-31T09:30:22.0500614+00:00</td>
+<td>2026-05-26T14:44:20.2037327+00:00</td>
 </tr>
 <tr>
 <td>schooltrip-category-exercise-and-sport</td>
@@ -1996,7 +1996,7 @@ Anzahl Tags: 576
 <td>Exercise and sport</td>
 <td>Exercice et sport</td>
 <td>Esercizio fisico e sport</td>
-<td>2025-03-31T09:30:23.3485607+00:00</td>
+<td>2026-05-26T15:02:15.6038606+00:00</td>
 </tr>
 <tr>
 <td>schooltrip-category-culture-at-school</td>
@@ -2005,7 +2005,7 @@ Anzahl Tags: 576
 <td>Culture sets a precedent</td>
 <td>La culture va à l’école</td>
 <td>La cultura va a scuola</td>
-<td>2025-03-31T09:30:23.3885301+00:00</td>
+<td>2026-05-26T15:02:15.7240389+00:00</td>
 </tr>
 <tr>
 <td>school-level-secondary-first-grade</td>
@@ -2014,7 +2014,7 @@ Anzahl Tags: 576
 <td>1. Secondary education</td>
 <td>1. Enseignement secondaire</td>
 <td>1. Istruzione secondaria</td>
-<td>2025-03-31T09:30:23.7405684+00:00</td>
+<td>2026-05-26T13:02:37.7076135+00:00</td>
 </tr>
 <tr>
 <td>school-level-secondary-second-grade</td>
@@ -2023,7 +2023,7 @@ Anzahl Tags: 576
 <td>2. Secondary education</td>
 <td>2. Enseignement secondaire</td>
 <td>2. Istruzione secondaria</td>
-<td>2025-10-03T16:34:48.4208933+00:00</td>
+<td>2026-05-26T15:02:16.9059622+00:00</td>
 </tr>
 <tr>
 <td>profile-fun-1</td>
@@ -2086,7 +2086,7 @@ Anzahl Tags: 576
 <td>Gourmet</td>
 <td>Gourmet</td>
 <td>Buongustaio</td>
-<td>2025-03-31T09:30:37.3877758+00:00</td>
+<td>2026-05-26T14:44:38.7999231+00:00</td>
 </tr>
 <tr>
 <td>culinary-french</td>
@@ -2095,7 +2095,7 @@ Anzahl Tags: 576
 <td>French</td>
 <td>Français</td>
 <td>Francese</td>
-<td>2025-03-31T09:30:37.1583347+00:00</td>
+<td>2026-05-26T14:44:42.7541804+00:00</td>
 </tr>
 <tr>
 <td>culinary-local-specialities</td>
@@ -2104,7 +2104,7 @@ Anzahl Tags: 576
 <td>Local specialities</td>
 <td>Spécialités locales</td>
 <td>Specialità locali</td>
-<td>2025-03-31T09:30:43.5097673+00:00</td>
+<td>2026-05-26T14:45:01.6332657+00:00</td>
 </tr>
 <tr>
 <td>culinary-italian</td>
@@ -2113,7 +2113,7 @@ Anzahl Tags: 576
 <td>Italian</td>
 <td>Italien</td>
 <td>Italiano</td>
-<td>2025-03-31T09:30:51.257688+00:00</td>
+<td>2026-05-26T14:44:51.6441831+00:00</td>
 </tr>
 <tr>
 <td>culinary-indian</td>
@@ -2122,7 +2122,7 @@ Anzahl Tags: 576
 <td>Indian</td>
 <td>Indien</td>
 <td>Indiano</td>
-<td>2025-03-31T09:30:42.9482854+00:00</td>
+<td>2026-05-26T15:02:30.831151+00:00</td>
 </tr>
 <tr>
 <td>culinary-healthy</td>
@@ -2131,7 +2131,7 @@ Anzahl Tags: 576
 <td>Healthy</td>
 <td>Sain</td>
 <td>Sano</td>
-<td>2025-03-31T09:30:42.9342689+00:00</td>
+<td>2026-05-26T14:44:49.7563951+00:00</td>
 </tr>
 <tr>
 <td>culinary-fish</td>
@@ -2140,7 +2140,7 @@ Anzahl Tags: 576
 <td>Fish/Seafood</td>
 <td>Poissons/fruits de mer</td>
 <td>Pesce/Frutti di mare</td>
-<td>2025-09-09T17:43:53.1473892+00:00</td>
+<td>2026-05-26T15:02:30.177256+00:00</td>
 </tr>
 <tr>
 <td>culinary-american</td>
@@ -2149,7 +2149,7 @@ Anzahl Tags: 576
 <td>American</td>
 <td>Américain</td>
 <td>Americano</td>
-<td>2025-03-31T09:30:23.8594001+00:00</td>
+<td>2026-05-26T14:44:50.5230278+00:00</td>
 </tr>
 <tr>
 <td>culinary-asian</td>
@@ -2158,7 +2158,7 @@ Anzahl Tags: 576
 <td>Asian</td>
 <td>Asiatique</td>
 <td>Asiatico</td>
-<td>2025-03-31T09:30:27.0223238+00:00</td>
+<td>2026-05-26T14:45:45.0017746+00:00</td>
 </tr>
 <tr>
 <td>culinary-dessert</td>
@@ -2167,7 +2167,7 @@ Anzahl Tags: 576
 <td>Desserts</td>
 <td>Desserts</td>
 <td>Dolci</td>
-<td>2025-03-31T09:30:29.9785388+00:00</td>
+<td>2026-05-26T15:02:30.4817417+00:00</td>
 </tr>
 <tr>
 <td>dance-modern</td>
@@ -2176,7 +2176,7 @@ Anzahl Tags: 576
 <td>Modern</td>
 <td>Moderne</td>
 <td>Moderno</td>
-<td>2025-03-31T09:30:40.8503799+00:00</td>
+<td>2026-05-26T14:46:03.3968933+00:00</td>
 </tr>
 <tr>
 <td>culinary-japanese-sushi</td>
@@ -2185,7 +2185,7 @@ Anzahl Tags: 576
 <td>Japanese sushi</td>
 <td>Sushi japonais</td>
 <td>Sushi giapponese</td>
-<td>2025-03-31T09:31:13.6076295+00:00</td>
+<td>2026-05-26T14:46:04.0004952+00:00</td>
 </tr>
 <tr>
 <td>dance-ballet</td>
@@ -2194,7 +2194,7 @@ Anzahl Tags: 576
 <td>Ballet</td>
 <td>Ballet</td>
 <td>Balletto</td>
-<td>2025-03-31T09:30:44.8412336+00:00</td>
+<td>2026-05-26T15:02:33.914683+00:00</td>
 </tr>
 <tr>
 <td>dance-show</td>
@@ -2203,7 +2203,7 @@ Anzahl Tags: 576
 <td>Show</td>
 <td>Montrer</td>
 <td>Mostrare</td>
-<td>2025-03-31T09:30:54.4961943+00:00</td>
+<td>2026-05-26T14:46:16.6625227+00:00</td>
 </tr>
 <tr>
 <td>dance-dance-theater</td>
@@ -2212,7 +2212,7 @@ Anzahl Tags: 576
 <td>Dance theater</td>
 <td>Danse théâtre</td>
 <td>Teatro danza</td>
-<td>2025-03-31T09:33:04.738593+00:00</td>
+<td>2026-05-26T14:46:10.5842542+00:00</td>
 </tr>
 <tr>
 <td>culinary-spanish</td>
@@ -2221,7 +2221,7 @@ Anzahl Tags: 576
 <td>Spanish</td>
 <td>Espagnol</td>
 <td>Spagnolo</td>
-<td>2025-03-31T09:30:44.0438467+00:00</td>
+<td>2026-05-26T15:02:34.2857284+00:00</td>
 </tr>
 <tr>
 <td>dance-performance</td>
@@ -2230,7 +2230,7 @@ Anzahl Tags: 576
 <td>Performance</td>
 <td>Performance</td>
 <td>Prestazione</td>
-<td>2025-03-31T09:30:38.3484717+00:00</td>
+<td>2026-05-26T14:46:16.0547879+00:00</td>
 </tr>
 <tr>
 <td>culinary-vegetarian</td>
@@ -2239,7 +2239,7 @@ Anzahl Tags: 576
 <td>Vegetarian</td>
 <td>Végétarien</td>
 <td>Vegetariano</td>
-<td>2025-03-31T09:30:35.0223548+00:00</td>
+<td>2026-05-26T15:02:34.8298607+00:00</td>
 </tr>
 <tr>
 <td>dance-ball</td>
@@ -2248,7 +2248,7 @@ Anzahl Tags: 576
 <td>Ball</td>
 <td>Ballon</td>
 <td>Palla</td>
-<td>2025-03-31T09:30:59.0998048+00:00</td>
+<td>2026-05-26T14:46:16.7986207+00:00</td>
 </tr>
 <tr>
 <td>languages-chinese</td>
@@ -2257,7 +2257,7 @@ Anzahl Tags: 576
 <td>Chinese</td>
 <td>Chinois</td>
 <td>Cinese</td>
-<td>2025-03-31T09:31:15.6270282+00:00</td>
+<td>2026-05-26T14:46:18.8689606+00:00</td>
 </tr>
 <tr>
 <td>languages-english</td>
@@ -2266,7 +2266,7 @@ Anzahl Tags: 576
 <td>English</td>
 <td>Anglais</td>
 <td>Inglese</td>
-<td>2025-03-31T09:31:04.8053609+00:00</td>
+<td>2026-05-26T15:02:38.568999+00:00</td>
 </tr>
 <tr>
 <td>life-christmas</td>
@@ -2275,7 +2275,7 @@ Anzahl Tags: 576
 <td>Christmas</td>
 <td>Noël</td>
 <td>Natale</td>
-<td>2025-03-31T09:31:17.2532864+00:00</td>
+<td>2026-05-26T15:02:39.0229936+00:00</td>
 </tr>
 <tr>
 <td>languages-japanese</td>
@@ -2284,7 +2284,7 @@ Anzahl Tags: 576
 <td>Japanese</td>
 <td>Japonais</td>
 <td>Giapponese</td>
-<td>2025-03-31T09:31:00.8761892+00:00</td>
+<td>2026-05-26T15:02:39.4812585+00:00</td>
 </tr>
 <tr>
 <td>life-alpine-experience</td>
@@ -2293,7 +2293,7 @@ Anzahl Tags: 576
 <td>Alpine experience</td>
 <td>Expérience alpine</td>
 <td>Esperienza alpina</td>
-<td>2025-03-31T09:31:22.5916145+00:00</td>
+<td>2026-05-26T14:46:19.5594922+00:00</td>
 </tr>
 <tr>
 <td>languages-hindi</td>
@@ -2302,7 +2302,7 @@ Anzahl Tags: 576
 <td>Hindi</td>
 <td>Hindi</td>
 <td>Hindi</td>
-<td>2025-03-31T09:31:16.8758476+00:00</td>
+<td>2026-05-26T14:46:18.9739445+00:00</td>
 </tr>
 <tr>
 <td>life-sleeping-in-the-straw</td>
@@ -2311,7 +2311,7 @@ Anzahl Tags: 576
 <td>Sleeping in straw</td>
 <td>Dormir dans la paille</td>
 <td>Dormire nella paglia</td>
-<td>2025-03-31T09:31:29.1479068+00:00</td>
+<td>2026-05-26T15:02:43.8238851+00:00</td>
 </tr>
 <tr>
 <td>life-festival</td>
@@ -2320,7 +2320,7 @@ Anzahl Tags: 576
 <td>Festival</td>
 <td>Fête</td>
 <td>Festival</td>
-<td>2025-03-31T09:31:02.4681555+00:00</td>
+<td>2026-05-26T14:46:30.0056488+00:00</td>
 </tr>
 <tr>
 <td>languages-french</td>
@@ -2329,7 +2329,7 @@ Anzahl Tags: 576
 <td>French</td>
 <td>Français</td>
 <td>Francese</td>
-<td>2025-03-31T09:31:17.7463942+00:00</td>
+<td>2026-05-26T15:02:39.496599+00:00</td>
 </tr>
 <tr>
 <td>languages-italian</td>
@@ -2338,7 +2338,7 @@ Anzahl Tags: 576
 <td>Italian</td>
 <td>Italien</td>
 <td>Italiano</td>
-<td>2025-03-31T09:31:01.2896296+00:00</td>
+<td>2026-05-26T14:46:19.6737759+00:00</td>
 </tr>
 <tr>
 <td>life-apres-ski</td>
@@ -2347,7 +2347,7 @@ Anzahl Tags: 576
 <td>Après Ski</td>
 <td>Après-ski</td>
 <td>Après Ski</td>
-<td>2025-03-31T09:31:21.6849516+00:00</td>
+<td>2026-05-26T15:02:44.0989147+00:00</td>
 </tr>
 <tr>
 <td>life-nature</td>
@@ -2356,7 +2356,7 @@ Anzahl Tags: 576
 <td>Nature</td>
 <td>Nature</td>
 <td>Natura</td>
-<td>2025-03-31T09:31:19.5863401+00:00</td>
+<td>2026-05-26T14:46:27.1240054+00:00</td>
 </tr>
 <tr>
 <td>life-guided</td>
@@ -2365,7 +2365,7 @@ Anzahl Tags: 576
 <td>Guided</td>
 <td>Guidé</td>
 <td>Guidato</td>
-<td>2025-03-31T09:31:22.1743752+00:00</td>
+<td>2026-05-26T14:46:26.5656688+00:00</td>
 </tr>
 <tr>
 <td>life-recreation-and-leisure</td>
@@ -2374,7 +2374,7 @@ Anzahl Tags: 576
 <td>Leisure</td>
 <td>Loisir</td>
 <td>Tempo libero</td>
-<td>2025-03-31T09:31:20.2520938+00:00</td>
+<td>2026-05-26T14:46:29.3341084+00:00</td>
 </tr>
 <tr>
 <td>life-adventure-farm</td>
@@ -2383,7 +2383,7 @@ Anzahl Tags: 576
 <td>Adventure farm</td>
 <td>Ferme d’aventure</td>
 <td>Fattoria avventura</td>
-<td>2025-03-31T09:31:12.0445339+00:00</td>
+<td>2026-05-26T14:46:32.0528615+00:00</td>
 </tr>
 <tr>
 <td>music-rap</td>
@@ -2392,7 +2392,7 @@ Anzahl Tags: 576
 <td>Rap</td>
 <td>Rap</td>
 <td>Colpo</td>
-<td>2025-03-31T09:32:07.3847027+00:00</td>
+<td>2026-05-26T15:02:40.139496+00:00</td>
 </tr>
 <tr>
 <td>music-symphony-orchestra</td>
@@ -2401,7 +2401,7 @@ Anzahl Tags: 576
 <td>Symphony orchestra</td>
 <td>Orchestre symphonique</td>
 <td>Orchestra sinfonica</td>
-<td>2025-03-31T09:32:21.5224672+00:00</td>
+<td>2026-05-26T14:46:30.2693817+00:00</td>
 </tr>
 <tr>
 <td>languages-german</td>
@@ -2410,7 +2410,7 @@ Anzahl Tags: 576
 <td>German</td>
 <td>Allemand</td>
 <td>Tedesco</td>
-<td>2025-03-31T09:31:02.2358125+00:00</td>
+<td>2026-05-26T14:46:30.7176836+00:00</td>
 </tr>
 <tr>
 <td>market-street-market</td>
@@ -2419,7 +2419,7 @@ Anzahl Tags: 576
 <td>Street Market</td>
 <td>Marché de rue</td>
 <td>Mercato di strada</td>
-<td>2025-03-31T09:31:37.1341014+00:00</td>
+<td>2026-05-26T15:02:44.5483875+00:00</td>
 </tr>
 <tr>
 <td>life-open-air</td>
@@ -2428,7 +2428,7 @@ Anzahl Tags: 576
 <td>Open</td>
 <td>Ouvrir</td>
 <td>Aperto</td>
-<td>2025-03-31T09:31:17.3352705+00:00</td>
+<td>2026-05-26T14:46:37.318349+00:00</td>
 </tr>
 <tr>
 <td>music-folk-music</td>
@@ -2437,7 +2437,7 @@ Anzahl Tags: 576
 <td>Folk music</td>
 <td>Musique folk</td>
 <td>Musica popolare</td>
-<td>2025-03-31T09:33:20.741913+00:00</td>
+<td>2026-05-26T14:46:32.4980137+00:00</td>
 </tr>
 <tr>
 <td>life-summer-activities</td>
@@ -2446,7 +2446,7 @@ Anzahl Tags: 576
 <td>Summer</td>
 <td>Été</td>
 <td>Estate</td>
-<td>2025-03-31T09:31:29.57616+00:00</td>
+<td>2026-05-26T15:02:44.9036788+00:00</td>
 </tr>
 <tr>
 <td>music-techno</td>
@@ -2455,7 +2455,7 @@ Anzahl Tags: 576
 <td>Techno</td>
 <td>Techno</td>
 <td>Techno</td>
-<td>2025-03-31T09:32:23.7420644+00:00</td>
+<td>2026-05-26T14:46:33.4530726+00:00</td>
 </tr>
 <tr>
 <td>music-church</td>
@@ -2464,7 +2464,7 @@ Anzahl Tags: 576
 <td>Church</td>
 <td>Église</td>
 <td>Chiesa</td>
-<td>2025-03-31T09:31:50.4500281+00:00</td>
+<td>2026-05-26T14:46:31.1506112+00:00</td>
 </tr>
 <tr>
 <td>music-trance</td>
@@ -2473,7 +2473,7 @@ Anzahl Tags: 576
 <td>Trance</td>
 <td>Transe</td>
 <td>Trance</td>
-<td>2025-03-31T09:32:25.8270989+00:00</td>
+<td>2026-05-26T15:02:44.9996012+00:00</td>
 </tr>
 <tr>
 <td>music-gothic</td>
@@ -2482,7 +2482,7 @@ Anzahl Tags: 576
 <td>Gothic</td>
 <td>Gothique</td>
 <td>Gotico</td>
-<td>2025-03-31T09:32:01.9585262+00:00</td>
+<td>2026-05-26T14:46:36.2534054+00:00</td>
 </tr>
 <tr>
 <td>music-punk</td>
@@ -2491,7 +2491,7 @@ Anzahl Tags: 576
 <td>Punk</td>
 <td>Punk</td>
 <td>Punk</td>
-<td>2025-03-31T09:32:07.2039586+00:00</td>
+<td>2026-05-26T15:02:46.5903147+00:00</td>
 </tr>
 <tr>
 <td>music-chamber</td>
@@ -2500,7 +2500,7 @@ Anzahl Tags: 576
 <td>Chamber music</td>
 <td>Musique de chambre</td>
 <td>Musica da camera</td>
-<td>2025-03-31T09:31:33.4795998+00:00</td>
+<td>2026-05-26T14:46:37.084672+00:00</td>
 </tr>
 <tr>
 <td>market-christmas-market</td>
@@ -2509,7 +2509,7 @@ Anzahl Tags: 576
 <td>Christmas market</td>
 <td>Marché de Noël</td>
 <td>Mercatino di Natale</td>
-<td>2025-03-31T09:31:25.4232337+00:00</td>
+<td>2026-05-26T15:02:49.3857311+00:00</td>
 </tr>
 <tr>
 <td>music-swing</td>
@@ -2518,7 +2518,7 @@ Anzahl Tags: 576
 <td>Swing</td>
 <td>Balançoire</td>
 <td>Altalena</td>
-<td>2025-03-31T09:32:23.0392834+00:00</td>
+<td>2026-05-26T15:02:48.5813511+00:00</td>
 </tr>
 <tr>
 <td>music-yodel</td>
@@ -2527,7 +2527,7 @@ Anzahl Tags: 576
 <td>Yodel</td>
 <td>Iodler</td>
 <td>Gorgheggiare</td>
-<td>2025-03-31T09:32:27.9540489+00:00</td>
+<td>2026-05-26T14:46:40.8630413+00:00</td>
 </tr>
 <tr>
 <td>seasonality-winter</td>
@@ -2536,7 +2536,7 @@ Anzahl Tags: 576
 <td>Winter</td>
 <td>Hiver</td>
 <td>Inverno</td>
-<td>2025-03-31T09:32:32.4149495+00:00</td>
+<td>2026-05-26T14:46:37.8043947+00:00</td>
 </tr>
 <tr>
 <td>regional-customs-carnival</td>
@@ -2545,7 +2545,7 @@ Anzahl Tags: 576
 <td>Fasnacht</td>
 <td>Fasnacht</td>
 <td>Fasnacht</td>
-<td>2025-03-31T09:33:31.6243871+00:00</td>
+<td>2026-05-26T14:46:43.6189032+00:00</td>
 </tr>
 <tr>
 <td>weekdays-wednesday</td>
@@ -2554,7 +2554,7 @@ Anzahl Tags: 576
 <td>Wednesday</td>
 <td>Mercredi</td>
 <td>Mercoledì</td>
-<td>2025-03-31T09:33:29.37464+00:00</td>
+<td>2026-05-26T14:46:46.9840397+00:00</td>
 </tr>
 <tr>
 <td>culinary-gluten-free</td>
@@ -2563,7 +2563,7 @@ Anzahl Tags: 576
 <td>Gluten-free</td>
 <td>Sans gluten</td>
 <td>Senza glutine</td>
-<td>2025-03-31T09:30:33.841848+00:00</td>
+<td>2026-05-26T15:02:49.3997827+00:00</td>
 </tr>
 <tr>
 <td>seasonality-spring</td>
@@ -2572,7 +2572,7 @@ Anzahl Tags: 576
 <td>Spring</td>
 <td>Source</td>
 <td>Primavera</td>
-<td>2025-03-31T09:32:31.2817434+00:00</td>
+<td>2026-05-26T15:02:51.8552138+00:00</td>
 </tr>
 <tr>
 <td>weekdays-friday</td>
@@ -2581,7 +2581,7 @@ Anzahl Tags: 576
 <td>Friday</td>
 <td>Vendredi</td>
 <td>Venerdì</td>
-<td>2025-03-31T09:33:26.0437594+00:00</td>
+<td>2026-05-26T15:02:52.7255254+00:00</td>
 </tr>
 <tr>
 <td>culinary-pizza</td>
@@ -2590,7 +2590,7 @@ Anzahl Tags: 576
 <td>Pizza</td>
 <td>Pizza</td>
 <td>Pizza</td>
-<td>2025-03-31T09:30:45.4851654+00:00</td>
+<td>2026-05-26T15:02:50.7880449+00:00</td>
 </tr>
 <tr>
 <td>culinary-streetfood</td>
@@ -2599,7 +2599,7 @@ Anzahl Tags: 576
 <td>Street food</td>
 <td>Cuisine de rue</td>
 <td>Cibo di strada</td>
-<td>2025-03-31T09:30:40.3612698+00:00</td>
+<td>2026-05-26T14:46:49.5099601+00:00</td>
 </tr>
 <tr>
 <td>culinary-thai</td>
@@ -2608,7 +2608,7 @@ Anzahl Tags: 576
 <td>Thai</td>
 <td>Thaï</td>
 <td>Tailandese</td>
-<td>2025-03-31T09:30:49.5888834+00:00</td>
+<td>2026-05-26T14:46:49.8350181+00:00</td>
 </tr>
 <tr>
 <td>transport-rickshaw</td>
@@ -2617,7 +2617,7 @@ Anzahl Tags: 576
 <td>Rickshaw</td>
 <td>Pousse-pousse</td>
 <td>Risciò</td>
-<td>2025-03-31T09:32:58.152504+00:00</td>
+<td>2026-05-26T14:46:49.9271043+00:00</td>
 </tr>
 <tr>
 <td>culinary-oriental</td>
@@ -2626,7 +2626,7 @@ Anzahl Tags: 576
 <td>Oriental</td>
 <td>Oriental</td>
 <td>Orientale</td>
-<td>2025-03-31T09:30:49.5552479+00:00</td>
+<td>2026-05-26T14:46:50.3765586+00:00</td>
 </tr>
 <tr>
 <td>culinary-bbq</td>
@@ -2635,7 +2635,7 @@ Anzahl Tags: 576
 <td>BBQ</td>
 <td>BBQ</td>
 <td>Barbecue</td>
-<td>2025-03-31T09:30:28.5309074+00:00</td>
+<td>2026-05-26T15:02:53.3403482+00:00</td>
 </tr>
 <tr>
 <td>culinary-mediterranean</td>
@@ -2644,7 +2644,7 @@ Anzahl Tags: 576
 <td>Mediterranean</td>
 <td>Méditerranéen</td>
 <td>Mediterraneo</td>
-<td>2025-03-31T09:30:38.8268049+00:00</td>
+<td>2026-05-26T14:46:51.4135414+00:00</td>
 </tr>
 <tr>
 <td>culinary-mexican</td>
@@ -2653,7 +2653,7 @@ Anzahl Tags: 576
 <td>Mexican</td>
 <td>Mexicain</td>
 <td>Messicano</td>
-<td>2025-03-31T09:30:43.3687903+00:00</td>
+<td>2026-05-26T14:46:54.7385448+00:00</td>
 </tr>
 <tr>
 <td>culinary-pasta</td>
@@ -2662,7 +2662,7 @@ Anzahl Tags: 576
 <td>Pasta</td>
 <td>Pâtes alimentaires</td>
 <td>Pasta</td>
-<td>2025-03-31T09:30:58.7196553+00:00</td>
+<td>2026-05-26T15:03:00.498225+00:00</td>
 </tr>
 <tr>
 <td>transport-transfer</td>
@@ -2671,7 +2671,7 @@ Anzahl Tags: 576
 <td>Transfer</td>
 <td>Transfert</td>
 <td>Trasferimento</td>
-<td>2025-03-31T09:33:00.60568+00:00</td>
+<td>2026-05-26T14:46:54.3030045+00:00</td>
 </tr>
 <tr>
 <td>weekdays-saturday</td>
@@ -2680,7 +2680,7 @@ Anzahl Tags: 576
 <td>Saturday</td>
 <td>Samedi</td>
 <td>Sabato</td>
-<td>2025-03-31T09:33:27.7071812+00:00</td>
+<td>2026-05-26T14:46:57.8223012+00:00</td>
 </tr>
 <tr>
 <td>weekdays-monday</td>
@@ -2689,7 +2689,7 @@ Anzahl Tags: 576
 <td>Monday</td>
 <td>Lundi</td>
 <td>Lunedì</td>
-<td>2025-03-31T09:33:28.5463641+00:00</td>
+<td>2026-05-26T15:03:01.8244358+00:00</td>
 </tr>
 <tr>
 <td>culinary-poke</td>
@@ -2698,7 +2698,7 @@ Anzahl Tags: 576
 <td>Poke</td>
 <td>Piquer</td>
 <td>Attizzare</td>
-<td>2025-03-31T09:30:42.0157099+00:00</td>
+<td>2026-05-26T14:46:57.8738958+00:00</td>
 </tr>
 <tr>
 <td>swissness-local-product</td>
@@ -2707,7 +2707,7 @@ Anzahl Tags: 576
 <td>Local Product</td>
 <td>Produit local</td>
 <td>Prodotto Locale</td>
-<td>2025-03-31T09:33:22.8900952+00:00</td>
+<td>2026-05-26T14:46:58.4074261+00:00</td>
 </tr>
 <tr>
 <td>culinary-international</td>
@@ -2716,7 +2716,7 @@ Anzahl Tags: 576
 <td>International</td>
 <td>International</td>
 <td>Internazionale</td>
-<td>2025-03-31T09:30:46.2093014+00:00</td>
+<td>2026-05-26T14:47:00.396178+00:00</td>
 </tr>
 <tr>
 <td>transport-bus</td>
@@ -2725,7 +2725,7 @@ Anzahl Tags: 576
 <td>Bus</td>
 <td>Bus</td>
 <td>Autobus</td>
-<td>2025-03-31T09:32:52.7650659+00:00</td>
+<td>2026-05-26T14:46:58.314354+00:00</td>
 </tr>
 <tr>
 <td>culinary-vegan</td>
@@ -2734,7 +2734,7 @@ Anzahl Tags: 576
 <td>Vegan</td>
 <td>Végétalien</td>
 <td>Vegano</td>
-<td>2025-03-31T09:30:51.9202196+00:00</td>
+<td>2026-05-26T14:46:59.0915508+00:00</td>
 </tr>
 <tr>
 <td>life-concert</td>
@@ -2743,7 +2743,7 @@ Anzahl Tags: 576
 <td>Concert</td>
 <td>Concert</td>
 <td>Concerto</td>
-<td>2025-03-31T09:31:20.8423121+00:00</td>
+<td>2026-05-26T15:03:03.4587977+00:00</td>
 </tr>
 <tr>
 <td>life-mountain</td>
@@ -2752,7 +2752,7 @@ Anzahl Tags: 576
 <td>Mountain</td>
 <td>Montagne</td>
 <td>Montagna</td>
-<td>2025-03-31T09:31:28.7254671+00:00</td>
+<td>2026-05-26T15:03:02.4422505+00:00</td>
 </tr>
 <tr>
 <td>languages-portuguese</td>
@@ -2761,7 +2761,7 @@ Anzahl Tags: 576
 <td>Portuguese</td>
 <td>Portugais</td>
 <td>Portoghese</td>
-<td>2025-03-31T09:31:02.0036316+00:00</td>
+<td>2026-05-26T15:03:02.8703283+00:00</td>
 </tr>
 <tr>
 <td>dance-classic</td>
@@ -2770,7 +2770,7 @@ Anzahl Tags: 576
 <td>Classic</td>
 <td>Classique</td>
 <td>Classico</td>
-<td>2025-03-31T09:30:51.4707926+00:00</td>
+<td>2026-05-26T15:03:04.3816741+00:00</td>
 </tr>
 <tr>
 <td>life-holiday-camp</td>
@@ -2779,7 +2779,7 @@ Anzahl Tags: 576
 <td>Holiday camp</td>
 <td>Camp de vacances</td>
 <td>Villaggio turistico</td>
-<td>2025-03-31T09:31:17.664758+00:00</td>
+<td>2026-05-26T14:47:11.1849371+00:00</td>
 </tr>
 <tr>
 <td>languages-spanish</td>
@@ -2788,7 +2788,7 @@ Anzahl Tags: 576
 <td>Spanish</td>
 <td>Espagnol</td>
 <td>Spagnolo</td>
-<td>2025-03-31T09:31:03.1802643+00:00</td>
+<td>2026-05-26T14:46:59.6662746+00:00</td>
 </tr>
 <tr>
 <td>life-outdoor</td>
@@ -2797,7 +2797,7 @@ Anzahl Tags: 576
 <td>Outdoor</td>
 <td>Extérieur</td>
 <td>All’aperto</td>
-<td>2025-03-31T09:31:22.2715961+00:00</td>
+<td>2026-05-26T15:03:04.7938507+00:00</td>
 </tr>
 <tr>
 <td>music-baroque</td>
@@ -2806,7 +2806,7 @@ Anzahl Tags: 576
 <td>Baroque</td>
 <td>Baroque</td>
 <td>Barocco</td>
-<td>2025-03-31T09:31:37.9486623+00:00</td>
+<td>2026-05-26T14:47:02.6176723+00:00</td>
 </tr>
 <tr>
 <td>languages-russian</td>
@@ -2815,7 +2815,7 @@ Anzahl Tags: 576
 <td>Russian</td>
 <td>Russe</td>
 <td>Russo</td>
-<td>2025-03-31T09:31:23.3367784+00:00</td>
+<td>2026-05-26T15:03:05.7062365+00:00</td>
 </tr>
 <tr>
 <td>market-farmers-market</td>
@@ -2824,7 +2824,7 @@ Anzahl Tags: 576
 <td>Farmer's Market</td>
 <td>Marché fermier</td>
 <td>Mercato contadino</td>
-<td>2025-03-31T09:31:33.0388102+00:00</td>
+<td>2026-05-26T15:03:05.9049681+00:00</td>
 </tr>
 <tr>
 <td>weekdays-tuesday</td>
@@ -2833,7 +2833,7 @@ Anzahl Tags: 576
 <td>Tuesday</td>
 <td>Mardi</td>
 <td>Martedì</td>
-<td>2025-03-31T09:33:28.1554203+00:00</td>
+<td>2026-05-26T15:03:12.2195056+00:00</td>
 </tr>
 <tr>
 <td>market-flea-market</td>
@@ -2842,7 +2842,7 @@ Anzahl Tags: 576
 <td>Flea market</td>
 <td>Marché aux puces</td>
 <td>Mercato delle pulci</td>
-<td>2025-03-31T09:32:13.9318299+00:00</td>
+<td>2026-05-26T15:03:06.194896+00:00</td>
 </tr>
 <tr>
 <td>life-indoor</td>
@@ -2851,7 +2851,7 @@ Anzahl Tags: 576
 <td>Indoor</td>
 <td>Intérieur</td>
 <td>Interno</td>
-<td>2025-03-31T09:31:13.0000746+00:00</td>
+<td>2026-05-26T14:47:09.0801761+00:00</td>
 </tr>
 <tr>
 <td>market-fair</td>
@@ -2860,7 +2860,7 @@ Anzahl Tags: 576
 <td>Fair</td>
 <td>Juste</td>
 <td>Fiera</td>
-<td>2025-03-31T09:31:18.1099463+00:00</td>
+<td>2026-05-26T14:47:09.6068418+00:00</td>
 </tr>
 <tr>
 <td>music-chapel</td>
@@ -2869,7 +2869,7 @@ Anzahl Tags: 576
 <td>Ländlerkapelle</td>
 <td>Ländlerkapelle</td>
 <td>Ländlerkapelle</td>
-<td>2025-03-31T09:31:43.9382718+00:00</td>
+<td>2026-05-26T15:03:06.364955+00:00</td>
 </tr>
 <tr>
 <td>regional-customs-flag-waving</td>
@@ -2878,7 +2878,7 @@ Anzahl Tags: 576
 <td>Flag-waving</td>
 <td>Agitement de drapeau</td>
 <td>Sventolare la bandiera</td>
-<td>2025-03-31T09:32:28.9115655+00:00</td>
+<td>2026-05-26T14:47:10.5920836+00:00</td>
 </tr>
 <tr>
 <td>transport-boat</td>
@@ -2887,7 +2887,7 @@ Anzahl Tags: 576
 <td>Boat</td>
 <td>Bateau</td>
 <td>Barca</td>
-<td>2025-03-31T09:32:59.0399918+00:00</td>
+<td>2026-05-26T15:03:10.879632+00:00</td>
 </tr>
 <tr>
 <td>weekdays-thursday</td>
@@ -2896,7 +2896,7 @@ Anzahl Tags: 576
 <td>Thursday</td>
 <td>Jeudi</td>
 <td>Giovedì</td>
-<td>2025-03-31T09:33:28.9421306+00:00</td>
+<td>2026-05-26T15:03:14.4706788+00:00</td>
 </tr>
 <tr>
 <td>transport-e-tuktuk</td>
@@ -2905,7 +2905,7 @@ Anzahl Tags: 576
 <td>E-TukTuk</td>
 <td>E-TukTuk</td>
 <td>E-TukTuk</td>
-<td>2025-03-31T09:32:58.5738786+00:00</td>
+<td>2026-05-26T15:03:12.2468013+00:00</td>
 </tr>
 <tr>
 <td>life-excursions</td>
@@ -2914,7 +2914,7 @@ Anzahl Tags: 576
 <td>Destinations</td>
 <td>Destinations</td>
 <td>Destinazioni</td>
-<td>2025-03-31T09:31:22.1567058+00:00</td>
+<td>2026-05-26T14:47:10.0588285+00:00</td>
 </tr>
 <tr>
 <td>swissness-sustainable-production</td>
@@ -2923,7 +2923,7 @@ Anzahl Tags: 576
 <td>Sustainable production</td>
 <td>Production durable</td>
 <td>Produzione sostenibile</td>
-<td>2025-03-31T09:33:25.1521952+00:00</td>
+<td>2026-05-26T14:47:11.6005973+00:00</td>
 </tr>
 <tr>
 <td>music-alphorn</td>
@@ -2932,7 +2932,7 @@ Anzahl Tags: 576
 <td>Alphorn</td>
 <td>Cor des Alpes</td>
 <td>Alphorn</td>
-<td>2025-03-31T09:31:35.0367451+00:00</td>
+<td>2026-05-26T14:47:12.3627448+00:00</td>
 </tr>
 <tr>
 <td>seasonality-summer</td>
@@ -2941,7 +2941,7 @@ Anzahl Tags: 576
 <td>Summer</td>
 <td>Été</td>
 <td>Estate</td>
-<td>2025-03-31T09:32:32.2581473+00:00</td>
+<td>2026-05-26T15:03:12.5543437+00:00</td>
 </tr>
 <tr>
 <td>weekdays-sunday</td>
@@ -2950,7 +2950,7 @@ Anzahl Tags: 576
 <td>Sunday</td>
 <td>Dimanche</td>
 <td>Domenica</td>
-<td>2025-03-31T09:33:30.7953171+00:00</td>
+<td>2026-05-26T15:03:12.7005634+00:00</td>
 </tr>
 <tr>
 <td>music-reggaeton</td>
@@ -2959,7 +2959,7 @@ Anzahl Tags: 576
 <td>Reggaeton</td>
 <td>Reggaeton</td>
 <td>Reggaeton</td>
-<td>2025-03-31T09:32:16.4879156+00:00</td>
+<td>2026-05-26T15:03:12.707831+00:00</td>
 </tr>
 <tr>
 <td>transport-e-bike</td>
@@ -2968,7 +2968,7 @@ Anzahl Tags: 576
 <td>E-Bike</td>
 <td>Vélo électrique</td>
 <td>E-Bike</td>
-<td>2025-03-31T09:32:37.0707342+00:00</td>
+<td>2026-05-26T14:47:13.7339741+00:00</td>
 </tr>
 <tr>
 <td>music-soul</td>
@@ -2977,7 +2977,7 @@ Anzahl Tags: 576
 <td>Soul</td>
 <td>Âme</td>
 <td>Anima</td>
-<td>2025-03-31T09:32:18.0759707+00:00</td>
+<td>2026-05-26T15:03:20.4555454+00:00</td>
 </tr>
 <tr>
 <td>music-house</td>
@@ -2986,7 +2986,7 @@ Anzahl Tags: 576
 <td>House</td>
 <td>Maison</td>
 <td>Casa</td>
-<td>2025-03-31T09:32:03.3035933+00:00</td>
+<td>2026-05-26T14:47:22.8718777+00:00</td>
 </tr>
 <tr>
 <td>music-electric</td>
@@ -2995,7 +2995,7 @@ Anzahl Tags: 576
 <td>Electric</td>
 <td>Électrique</td>
 <td>Elettrico</td>
-<td>2025-03-31T09:32:04.0040659+00:00</td>
+<td>2026-05-26T14:47:17.5794519+00:00</td>
 </tr>
 <tr>
 <td>music-rockabilly</td>
@@ -3004,7 +3004,7 @@ Anzahl Tags: 576
 <td>Rockabilly</td>
 <td>Rockabilly</td>
 <td>Rockabilly</td>
-<td>2025-03-31T09:32:17.174641+00:00</td>
+<td>2026-05-26T15:03:13.6881765+00:00</td>
 </tr>
 <tr>
 <td>music-funk</td>
@@ -3013,7 +3013,7 @@ Anzahl Tags: 576
 <td>Funk</td>
 <td>Funk</td>
 <td>Funk</td>
-<td>2025-03-31T09:31:58.6666215+00:00</td>
+<td>2026-05-26T14:47:15.0850786+00:00</td>
 </tr>
 <tr>
 <td>music-metal</td>
@@ -3022,7 +3022,7 @@ Anzahl Tags: 576
 <td>Metal</td>
 <td>Métal</td>
 <td>Metallo</td>
-<td>2025-03-31T09:32:06.9535874+00:00</td>
+<td>2026-05-26T14:47:22.0136356+00:00</td>
 </tr>
 <tr>
 <td>seasonality-autumn</td>
@@ -3031,7 +3031,7 @@ Anzahl Tags: 576
 <td>Autumn</td>
 <td>Automne</td>
 <td>Autunno</td>
-<td>2025-03-31T09:32:30.4463421+00:00</td>
+<td>2026-05-26T15:03:13.1239496+00:00</td>
 </tr>
 <tr>
 <td>music-hardcore-techno</td>
@@ -3040,7 +3040,7 @@ Anzahl Tags: 576
 <td>Hardcore Techno</td>
 <td>Hardcore Techno</td>
 <td>Hardcore Techno</td>
-<td>2025-03-31T09:31:58.160452+00:00</td>
+<td>2026-05-26T14:47:25.3690092+00:00</td>
 </tr>
 <tr>
 <td>swissness-made-in-switzerland</td>
@@ -3049,7 +3049,7 @@ Anzahl Tags: 576
 <td>Made-in-Switzerland</td>
 <td>Fabriqué en Suisse</td>
 <td>Made in Switzerland</td>
-<td>2025-03-31T09:33:24.1842581+00:00</td>
+<td>2026-05-26T15:03:22.7264111+00:00</td>
 </tr>
 <tr>
 <td>regional-customs-alpine-ascension</td>
@@ -3058,7 +3058,7 @@ Anzahl Tags: 576
 <td>Cattle Procession</td>
 <td>Procession bovine</td>
 <td>Processione del bestiame</td>
-<td>2025-03-31T09:32:28.4943845+00:00</td>
+<td>2026-05-26T14:47:22.4201629+00:00</td>
 </tr>
 <tr>
 <td>life-winter-activities</td>
@@ -3067,7 +3067,7 @@ Anzahl Tags: 576
 <td>Winter</td>
 <td>Hiver</td>
 <td>Inverno</td>
-<td>2025-03-31T09:31:23.7646297+00:00</td>
+<td>2026-05-26T15:03:22.7467654+00:00</td>
 </tr>
 <tr>
 <td>music-blues</td>
@@ -3076,7 +3076,7 @@ Anzahl Tags: 576
 <td>Blues</td>
 <td>Blues</td>
 <td>Blues</td>
-<td>2025-03-31T09:31:38.5664135+00:00</td>
+<td>2026-05-26T14:47:25.8731219+00:00</td>
 </tr>
 <tr>
 <td>music-hip-hop</td>
@@ -3085,7 +3085,7 @@ Anzahl Tags: 576
 <td>Hip-hop</td>
 <td>Hip-hop</td>
 <td>Hip-hop</td>
-<td>2025-03-31T09:31:51.7083164+00:00</td>
+<td>2026-05-26T14:47:20.025998+00:00</td>
 </tr>
 <tr>
 <td>music-piano</td>
@@ -3094,7 +3094,7 @@ Anzahl Tags: 576
 <td>Piano</td>
 <td>Piano</td>
 <td>Pianoforte</td>
-<td>2025-03-31T09:32:06.7770084+00:00</td>
+<td>2026-05-26T14:47:19.5959477+00:00</td>
 </tr>
 <tr>
 <td>life-snow-sports</td>
@@ -3103,7 +3103,7 @@ Anzahl Tags: 576
 <td>Snow sports</td>
 <td>Sports de neige</td>
 <td>Sport sulla neve</td>
-<td>2025-03-31T09:31:22.5943026+00:00</td>
+<td>2026-05-26T14:47:26.731029+00:00</td>
 </tr>
 <tr>
 <td>music-country</td>
@@ -3112,7 +3112,7 @@ Anzahl Tags: 576
 <td>Country</td>
 <td>Pays</td>
 <td>Paese</td>
-<td>2025-03-31T09:31:50.8548713+00:00</td>
+<td>2026-05-26T15:03:16.1825667+00:00</td>
 </tr>
 <tr>
 <td>music-karaoke</td>
@@ -3121,7 +3121,7 @@ Anzahl Tags: 576
 <td>Karaoke</td>
 <td>Karaoké</td>
 <td>Karaoke</td>
-<td>2025-03-31T09:32:04.2178487+00:00</td>
+<td>2026-05-26T15:03:14.9129488+00:00</td>
 </tr>
 <tr>
 <td>music-reggae</td>
@@ -3130,7 +3130,7 @@ Anzahl Tags: 576
 <td>Reggae</td>
 <td>Reggae</td>
 <td>Reggae</td>
-<td>2025-03-31T09:32:14.2499296+00:00</td>
+<td>2026-05-26T14:47:26.3551253+00:00</td>
 </tr>
 <tr>
 <td>accomodation-luggage-transport</td>
@@ -3139,7 +3139,7 @@ Anzahl Tags: 576
 <td>Baggage</td>
 <td>Bagage</td>
 <td>Bagaglio</td>
-<td>2025-03-31T09:33:31.2074876+00:00</td>
+<td>2026-05-26T15:03:30.4292083+00:00</td>
 </tr>
 <tr>
 <td>hiking-alpine-hiking</td>
@@ -3148,7 +3148,7 @@ Anzahl Tags: 576
 <td>Alpine hiking</td>
 <td>Randonnée alpine</td>
 <td>Escursioni alpine</td>
-<td>2025-03-31T09:33:42.8344681+00:00</td>
+<td>2026-05-26T15:03:30.9137998+00:00</td>
 </tr>
 <tr>
 <td>accomodation-accomodation</td>
@@ -3157,7 +3157,7 @@ Anzahl Tags: 576
 <td>Spend the night</td>
 <td>Passez la nuit</td>
 <td>Trascorri la notte</td>
-<td>2025-06-28T07:17:13.0744246+00:00</td>
+<td>2026-05-26T14:47:32.6952779+00:00</td>
 </tr>
 <tr>
 <td>hiking-mountain-hiking</td>
@@ -3166,7 +3166,7 @@ Anzahl Tags: 576
 <td>Hiking</td>
 <td>Randonnée</td>
 <td>Escursionismo</td>
-<td>2025-03-31T09:33:40.1692695+00:00</td>
+<td>2026-05-26T15:03:34.2392299+00:00</td>
 </tr>
 <tr>
 <td>market-rent</td>
@@ -3175,7 +3175,7 @@ Anzahl Tags: 576
 <td>Renting</td>
 <td>Location</td>
 <td>Affitto</td>
-<td>2025-03-31T09:33:46.4902733+00:00</td>
+<td>2026-05-26T15:03:34.5974424+00:00</td>
 </tr>
 <tr>
 <td>market-buy</td>
@@ -3184,7 +3184,7 @@ Anzahl Tags: 576
 <td>Buy</td>
 <td>Acheter</td>
 <td>Comprare</td>
-<td>2025-03-31T09:33:48.9092934+00:00</td>
+<td>2026-05-26T14:47:32.919451+00:00</td>
 </tr>
 <tr>
 <td>hiking-hiking</td>
@@ -3193,7 +3193,7 @@ Anzahl Tags: 576
 <td>Wander</td>
 <td>Errer</td>
 <td>Vagabondare</td>
-<td>2025-06-28T07:31:43.1662124+00:00</td>
+<td>2026-05-26T15:03:36.6690171+00:00</td>
 </tr>
 <tr>
 <td>transport-cable-railway</td>
@@ -3202,7 +3202,7 @@ Anzahl Tags: 576
 <td>Mountain railway</td>
 <td>Chemin de fer de montagne</td>
 <td>Ferrovia di montagna</td>
-<td>2025-03-31T09:33:49.3888614+00:00</td>
+<td>2026-05-26T15:03:35.2023547+00:00</td>
 </tr>
 <tr>
 <td>audience-info-association</td>
@@ -3211,7 +3211,7 @@ Anzahl Tags: 576
 <td>association</td>
 <td>Entreprises/Entreprises</td>
 <td>Aziende/Aziende</td>
-<td>2025-06-28T07:26:14.8383693+00:00</td>
+<td>2026-05-26T15:03:37.8778767+00:00</td>
 </tr>
 <tr>
 <td>life-wellness</td>
@@ -3220,7 +3220,7 @@ Anzahl Tags: 576
 <td>Wellness</td>
 <td>Bien-être</td>
 <td>Benessere</td>
-<td>2025-03-31T09:33:58.0455112+00:00</td>
+<td>2026-05-26T15:03:37.994579+00:00</td>
 </tr>
 <tr>
 <td>general-picnic</td>
@@ -3229,7 +3229,7 @@ Anzahl Tags: 576
 <td>Picnic area on the way</td>
 <td>Aire de pique-sur le chemin</td>
 <td>Area picnic lungo la strada</td>
-<td>2025-03-31T09:33:55.7001673+00:00</td>
+<td>2026-05-26T14:47:34.2924618+00:00</td>
 </tr>
 <tr>
 <td>transport-mobility</td>
@@ -3238,7 +3238,7 @@ Anzahl Tags: 576
 <td>Mobility</td>
 <td>Mobilité</td>
 <td>Mobilità</td>
-<td>2025-03-31T09:33:58.0907223+00:00</td>
+<td>2026-05-26T14:47:33.3644029+00:00</td>
 </tr>
 <tr>
 <td>culinary-winetour</td>
@@ -3247,7 +3247,7 @@ Anzahl Tags: 576
 <td>Wine Tour</td>
 <td>Visite des vins</td>
 <td>Tour del vino</td>
-<td>2025-03-31T09:33:58.5041743+00:00</td>
+<td>2026-05-26T14:47:38.8019309+00:00</td>
 </tr>
 <tr>
 <td>region-central-ch</td>
@@ -3256,7 +3256,7 @@ Anzahl Tags: 576
 <td>Central</td>
 <td>Central</td>
 <td>Centrale</td>
-<td>2025-03-31T09:34:02.1563402+00:00</td>
+<td>2026-05-26T14:47:39.8672736+00:00</td>
 </tr>
 <tr>
 <td>culinary-fast-food</td>
@@ -3265,7 +3265,7 @@ Anzahl Tags: 576
 <td>Fast food</td>
 <td>Restauration rapide</td>
 <td>Fast food</td>
-<td>2024-10-02T09:32:54.7478327+00:00</td>
+<td>2026-05-26T14:47:40.0115973+00:00</td>
 </tr>
 <tr>
 <td>region-bernese-mountains</td>
@@ -3274,7 +3274,7 @@ Anzahl Tags: 576
 <td>Bernese Oberland</td>
 <td>Oberland bernois</td>
 <td>Bernese Oberland</td>
-<td>2025-03-31T09:34:00.3254159+00:00</td>
+<td>2026-05-26T14:47:40.4053007+00:00</td>
 </tr>
 <tr>
 <td>region-eastern-ch</td>
@@ -3283,7 +3283,7 @@ Anzahl Tags: 576
 <td>Eastern switzerland</td>
 <td>Suisse orientale</td>
 <td>Svizzera orientale</td>
-<td>2025-03-31T09:34:03.1224977+00:00</td>
+<td>2026-05-26T15:03:49.6457152+00:00</td>
 </tr>
 <tr>
 <td>region-zuerich</td>
@@ -3292,7 +3292,7 @@ Anzahl Tags: 576
 <td>Zurich Region</td>
 <td>Région de Zurich</td>
 <td>Zurigo Regione</td>
-<td>2025-03-31T09:34:02.0073639+00:00</td>
+<td>2026-05-26T14:47:40.9408569+00:00</td>
 </tr>
 <tr>
 <td>region-zuerichsee</td>
@@ -3301,7 +3301,7 @@ Anzahl Tags: 576
 <td>Rapperswil Lake Zurich</td>
 <td>Lac de Rapperswil Zurich</td>
 <td>Rapperswil Lago di Zurigo</td>
-<td>2025-03-31T09:34:02.6319641+00:00</td>
+<td>2026-05-26T14:47:41.6717404+00:00</td>
 </tr>
 <tr>
 <td>schooltrip-category-kultur-macht-schule</td>
@@ -3310,7 +3310,7 @@ Anzahl Tags: 576
 <td>Culture sets a precedent</td>
 <td>La culture va à l’école</td>
 <td>La cultura va a scuola</td>
-<td>2025-03-31T09:34:03.2017858+00:00</td>
+<td>2026-05-26T14:47:41.2656036+00:00</td>
 </tr>
 <tr>
 <td>transport-onfoot</td>
@@ -3319,7 +3319,7 @@ Anzahl Tags: 576
 <td>On foot</td>
 <td>À pied</td>
 <td>A piedi</td>
-<td>2025-03-31T09:34:04.6653288+00:00</td>
+<td>2026-05-26T15:03:49.9884652+00:00</td>
 </tr>
 <tr>
 <td>transport-segway</td>
@@ -3328,7 +3328,7 @@ Anzahl Tags: 576
 <td>Segway</td>
 <td>Segway</td>
 <td>Segway (Segway)</td>
-<td>2025-03-31T09:34:03.342913+00:00</td>
+<td>2026-05-26T15:03:49.7158247+00:00</td>
 </tr>
 <tr>
 <td>pns-at-restaurant-parking</td>
@@ -3337,7 +3337,7 @@ Anzahl Tags: 576
 <td>At Restaurant Parking</td>
 <td>Gastronomie</td>
 <td>Al parcheggio Ristorante</td>
-<td>2025-03-31T09:34:05.9156665+00:00</td>
+<td>2026-05-26T15:03:51.8138831+00:00</td>
 </tr>
 <tr>
 <td>pns-at-marina</td>
@@ -3346,7 +3346,7 @@ Anzahl Tags: 576
 <td>At marina</td>
 <td>Ports de plaisance</td>
 <td>Alla marina</td>
-<td>2025-03-31T09:34:06.355325+00:00</td>
+<td>2026-05-26T14:47:42.7428126+00:00</td>
 </tr>
 <tr>
 <td>pns-at-private-house</td>
@@ -3355,7 +3355,7 @@ Anzahl Tags: 576
 <td>At Private house</td>
 <td>Chez l’habitant</td>
 <td>In Casa Privata</td>
-<td>2025-03-31T09:34:06.7079801+00:00</td>
+<td>2026-05-26T15:03:51.9455262+00:00</td>
 </tr>
 <tr>
 <td>pns-at-farmhouse</td>
@@ -3364,7 +3364,7 @@ Anzahl Tags: 576
 <td>At Farmhouse</td>
 <td>Agrotourisme</td>
 <td>Alla Fattoria</td>
-<td>2025-03-31T09:34:05.7303118+00:00</td>
+<td>2026-05-26T15:03:52.220595+00:00</td>
 </tr>
 <tr>
 <td>pns-nature-spot</td>
@@ -3373,7 +3373,7 @@ Anzahl Tags: 576
 <td>Nature spot</td>
 <td>Au naturel</td>
 <td>Posto Naturale</td>
-<td>2025-10-26T06:50:42.2544193+00:00</td>
+<td>2026-05-26T14:47:43.8113279+00:00</td>
 </tr>
 <tr>
 <td>pns-at-campsite</td>
@@ -3382,7 +3382,7 @@ Anzahl Tags: 576
 <td>At Campsite</td>
 <td>Au Camping</td>
 <td>Al Campeggio</td>
-<td>2025-03-31T09:34:04.8339011+00:00</td>
+<td>2026-05-26T14:47:42.8567536+00:00</td>
 </tr>
 <tr>
 <td>pns-rv-parking</td>
@@ -3391,7 +3391,7 @@ Anzahl Tags: 576
 <td>RV Parking</td>
 <td>Aires camping-car</td>
 <td>Parcheggio RV</td>
-<td>2025-03-31T09:34:06.2891738+00:00</td>
+<td>2026-05-26T15:03:52.5513411+00:00</td>
 </tr>
 <tr>
 <td>pns-at-mountain-railway</td>
@@ -3400,7 +3400,7 @@ Anzahl Tags: 576
 <td>At Mountain Railway</td>
 <td>Près téléphérique</td>
 <td>Alla ferrovia di montagna</td>
-<td>2025-03-31T09:34:05.5625015+00:00</td>
+<td>2026-05-26T14:47:43.1646626+00:00</td>
 </tr>
 <tr>
 <td>audience-age-5</td>
@@ -3409,7 +3409,7 @@ Anzahl Tags: 576
 <td>From 5 years</td>
 <td>À partir de 5 ans</td>
 <td>A partire da 5 anni</td>
-<td>2025-03-31T09:34:08.0361603+00:00</td>
+<td>2026-05-26T14:47:45.0147953+00:00</td>
 </tr>
 <tr>
 <td>audience-age-4</td>
@@ -3418,7 +3418,7 @@ Anzahl Tags: 576
 <td>From 4 years</td>
 <td>À partir de 4 ans</td>
 <td>A partire da 4 anni</td>
-<td>2025-12-18T13:30:07.0831962+00:00</td>
+<td>2026-05-26T14:47:45.3628838+00:00</td>
 </tr>
 <tr>
 <td>audience-age-2</td>
@@ -3427,7 +3427,7 @@ Anzahl Tags: 576
 <td>From 2 years</td>
 <td>À partir de 2 ans</td>
 <td>A partire da 2 anni</td>
-<td>2025-12-18T13:30:07.0772275+00:00</td>
+<td>2026-05-26T14:47:45.8717331+00:00</td>
 </tr>
 <tr>
 <td>audience-age-9</td>
@@ -3436,7 +3436,7 @@ Anzahl Tags: 576
 <td>From 9 years</td>
 <td>À partir de 9 ans</td>
 <td>A partire da 9 anni</td>
-<td>2025-03-31T09:34:10.2146776+00:00</td>
+<td>2026-05-26T14:47:46.8210441+00:00</td>
 </tr>
 <tr>
 <td>audience-age-3</td>
@@ -3445,7 +3445,7 @@ Anzahl Tags: 576
 <td>From 3 years</td>
 <td>À partir de 3 ans</td>
 <td>A partire da 3 anni</td>
-<td>2025-12-18T13:30:07.0772274+00:00</td>
+<td>2026-05-26T15:03:56.8562044+00:00</td>
 </tr>
 <tr>
 <td>audience-age-7</td>
@@ -3454,7 +3454,7 @@ Anzahl Tags: 576
 <td>From 7 years</td>
 <td>À partir de 7 ans</td>
 <td>A partire da 7 anni</td>
-<td>2025-03-31T09:34:08.0320557+00:00</td>
+<td>2026-05-26T14:47:46.3796985+00:00</td>
 </tr>
 <tr>
 <td>tourismregion-baselregion</td>
@@ -3463,7 +3463,7 @@ Anzahl Tags: 576
 <td>Basel Region</td>
 <td>Région bâloise</td>
 <td>Regione di Basilea</td>
-<td>2025-03-31T09:34:13.048524+00:00</td>
+<td>2026-05-26T15:03:58.0660357+00:00</td>
 </tr>
 <tr>
 <td>tourismregion-aarauregion</td>
@@ -3472,7 +3472,7 @@ Anzahl Tags: 576
 <td>Aarau Region</td>
 <td>Région Argovie</td>
 <td>Regione di Aarau</td>
-<td>2025-03-31T09:34:10.4022539+00:00</td>
+<td>2026-05-26T14:47:46.9238715+00:00</td>
 </tr>
 <tr>
 <td>tourismregion-bernregion</td>
@@ -3481,7 +3481,7 @@ Anzahl Tags: 576
 <td>Bern Region</td>
 <td>Région Berne</td>
 <td>Regione di Berna</td>
-<td>2025-03-31T09:34:13.5551204+00:00</td>
+<td>2026-05-26T14:47:48.024032+00:00</td>
 </tr>
 <tr>
 <td>tourismregion-genf</td>
@@ -3490,7 +3490,7 @@ Anzahl Tags: 576
 <td>Geneva</td>
 <td>Genève</td>
 <td>Ginevra</td>
-<td>2025-03-31T09:34:18.7274998+00:00</td>
+<td>2026-05-26T15:03:58.4315014+00:00</td>
 </tr>
 <tr>
 <td>tourismregion-genferseegebiet</td>
@@ -3499,7 +3499,7 @@ Anzahl Tags: 576
 <td>Lake Geneva Region (Vaud)</td>
 <td>Région lémanique (Vaud)</td>
 <td>Regione del Lago di Ginevra (Vaud)</td>
-<td>2025-03-31T09:34:22.6798956+00:00</td>
+<td>2026-05-26T15:04:00.1535034+00:00</td>
 </tr>
 <tr>
 <td>tourismregion-jura</td>
@@ -3508,7 +3508,7 @@ Anzahl Tags: 576
 <td>Jura & Three-Lakes</td>
 <td>Jura & Trois-Lacs</td>
 <td>Giura e Tre Laghi</td>
-<td>2025-03-31T09:34:26.7916913+00:00</td>
+<td>2026-05-26T15:04:01.5578148+00:00</td>
 </tr>
 <tr>
 <td>tourismregion-fribourgregion</td>
@@ -3517,7 +3517,7 @@ Anzahl Tags: 576
 <td>Fribourg Region</td>
 <td>Région Fribourg</td>
 <td>Regione di Friburgo</td>
-<td>2025-03-31T09:34:18.0691276+00:00</td>
+<td>2026-05-26T15:04:02.4568296+00:00</td>
 </tr>
 <tr>
 <td>tourismregion-ostschweiz</td>
@@ -3526,7 +3526,7 @@ Anzahl Tags: 576
 <td>Eastern switzerland</td>
 <td>Suisse orientale</td>
 <td>Svizzera orientale</td>
-<td>2025-03-31T09:34:33.9588904+00:00</td>
+<td>2026-05-26T15:04:05.3839619+00:00</td>
 </tr>
 <tr>
 <td>tourismregion-luzern</td>
@@ -3535,7 +3535,7 @@ Anzahl Tags: 576
 <td>Lucerne / Lake Lucerne</td>
 <td>Lucerne / Lac des Quatre-Cantons</td>
 <td>Lucerna / Lago dei Quattro Cantoni</td>
-<td>2025-03-31T09:34:33.8214977+00:00</td>
+<td>2026-05-26T15:04:07.0098594+00:00</td>
 </tr>
 <tr>
 <td>tourismregion-tessin</td>
@@ -3544,7 +3544,7 @@ Anzahl Tags: 576
 <td>Ticino</td>
 <td>Tessin</td>
 <td>Ticino</td>
-<td>2025-03-31T09:34:43.8287234+00:00</td>
+<td>2026-05-26T15:04:07.5191628+00:00</td>
 </tr>
 <tr>
 <td>tourismregion-wallis</td>
@@ -3553,7 +3553,7 @@ Anzahl Tags: 576
 <td>Valais</td>
 <td>Valais</td>
 <td>Vallese</td>
-<td>2025-03-31T09:34:50.7056587+00:00</td>
+<td>2026-05-26T15:04:16.7427332+00:00</td>
 </tr>
 <tr>
 <td>tourismregion-zuerichregion</td>
@@ -3562,7 +3562,7 @@ Anzahl Tags: 576
 <td>Zurich Region</td>
 <td>Région zurichoise</td>
 <td>Regione di Zurigo</td>
-<td>2025-03-31T09:34:51.7030362+00:00</td>
+<td>2026-05-26T14:47:48.2906389+00:00</td>
 </tr>
 <tr>
 <td>tourismzone-city</td>
@@ -3571,7 +3571,7 @@ Anzahl Tags: 576
 <td>City</td>
 <td>Ville</td>
 <td>Città</td>
-<td>2025-03-31T09:35:00.2514975+00:00</td>
+<td>2026-05-26T14:47:49.4016169+00:00</td>
 </tr>
 <tr>
 <td>tourismzone-countryside</td>
@@ -3580,7 +3580,7 @@ Anzahl Tags: 576
 <td>Land</td>
 <td>Terre</td>
 <td>Terra</td>
-<td>2025-03-31T09:35:10.5640221+00:00</td>
+<td>2026-05-26T15:04:16.1362968+00:00</td>
 </tr>
 <tr>
 <td>tourismzone-town</td>
@@ -3589,7 +3589,7 @@ Anzahl Tags: 576
 <td>Small town</td>
 <td>Bourg</td>
 <td>Cittadina</td>
-<td>2025-03-31T09:35:25.7172083+00:00</td>
+<td>2026-05-26T14:47:51.6595614+00:00</td>
 </tr>
 <tr>
 <td>tourismregion-graubunden</td>
@@ -3598,7 +3598,7 @@ Anzahl Tags: 576
 <td>Graubünden</td>
 <td>Grisons</td>
 <td>Grigioni</td>
-<td>2025-03-31T09:35:26.9648354+00:00</td>
+<td>2026-05-26T15:04:18.7670725+00:00</td>
 </tr>
 <tr>
 <td>tourismzone-mountains</td>
@@ -3607,7 +3607,7 @@ Anzahl Tags: 576
 <td>Mountain</td>
 <td>Montagne</td>
 <td>Montagna</td>
-<td>2025-03-31T09:35:23.9343696+00:00</td>
+<td>2026-05-26T14:47:58.5197898+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-bathroom</td>
@@ -3616,7 +3616,7 @@ Anzahl Tags: 576
 <td>Bathroom</td>
 <td>Salle de Bains</td>
 <td>Stanza da bagno</td>
-<td>2025-03-31T09:35:58.6824492+00:00</td>
+<td>2026-05-26T15:04:38.2266056+00:00</td>
 </tr>
 <tr>
 <td>accomodation</td>
@@ -3625,7 +3625,7 @@ Anzahl Tags: 576
 <td>Spend the night</td>
 <td>Passez la nuit</td>
 <td>Trascorri la notte</td>
-<td>2025-03-31T09:35:51.0199134+00:00</td>
+<td>2026-05-26T14:48:03.6435008+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-bed</td>
@@ -3634,7 +3634,7 @@ Anzahl Tags: 576
 <td>Bed</td>
 <td>Lit</td>
 <td>Letto</td>
-<td>2025-03-31T09:35:59.3076352+00:00</td>
+<td>2026-05-26T14:48:09.722295+00:00</td>
 </tr>
 <tr>
 <td>hiking</td>
@@ -3643,7 +3643,7 @@ Anzahl Tags: 576
 <td>Wander</td>
 <td>Errer</td>
 <td>Vagabondare</td>
-<td>2025-03-31T09:35:55.1063941+00:00</td>
+<td>2026-05-26T14:48:05.6574504+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-city-view</td>
@@ -3652,7 +3652,7 @@ Anzahl Tags: 576
 <td>View of the city</td>
 <td>Ville</td>
 <td>Città</td>
-<td>2025-03-31T09:36:00.8625601+00:00</td>
+<td>2026-05-26T15:04:38.6019138+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-coffee-machine</td>
@@ -3661,7 +3661,7 @@ Anzahl Tags: 576
 <td>Coffee machine</td>
 <td>Percolateur</td>
 <td>Caffettiera</td>
-<td>2025-03-31T09:36:01.3183988+00:00</td>
+<td>2026-05-26T14:48:13.5915537+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-desk</td>
@@ -3670,7 +3670,7 @@ Anzahl Tags: 576
 <td>Desk</td>
 <td>Établi</td>
 <td>Pancone</td>
-<td>2025-09-04T16:07:19.4727365+00:00</td>
+<td>2026-05-26T15:04:39.8307321+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-lake-view</td>
@@ -3679,7 +3679,7 @@ Anzahl Tags: 576
 <td>Lake view</td>
 <td>Lac</td>
 <td>Lago</td>
-<td>2025-03-31T09:36:22.1670795+00:00</td>
+<td>2026-05-26T15:04:38.7997009+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-garden-view</td>
@@ -3688,7 +3688,7 @@ Anzahl Tags: 576
 <td>Garden view</td>
 <td>Jardin</td>
 <td>Giardino</td>
-<td>2025-03-31T09:36:03.0489782+00:00</td>
+<td>2026-05-26T15:04:39.2207665+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-courtyard-view</td>
@@ -3697,7 +3697,7 @@ Anzahl Tags: 576
 <td>View of the courtyard</td>
 <td>Vue sur la cour</td>
 <td>Veduta del cortile</td>
-<td>2025-03-31T09:36:01.894179+00:00</td>
+<td>2026-05-26T14:48:14.4260653+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-lounge</td>
@@ -3706,7 +3706,7 @@ Anzahl Tags: 576
 <td>Lounge</td>
 <td>Salon</td>
 <td>Salotto</td>
-<td>2025-03-31T09:36:04.1004611+00:00</td>
+<td>2026-05-26T15:04:39.7304685+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-river-view</td>
@@ -3715,7 +3715,7 @@ Anzahl Tags: 576
 <td>River view</td>
 <td>Fleuve</td>
 <td>Fiume</td>
-<td>2025-03-31T09:36:05.8291901+00:00</td>
+<td>2026-05-26T14:48:14.9748976+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-mini-fridge</td>
@@ -3724,7 +3724,7 @@ Anzahl Tags: 576
 <td>Mini fridge</td>
 <td>Minibar</td>
 <td>Minibar</td>
-<td>2025-03-31T09:36:04.8372035+00:00</td>
+<td>2026-05-26T14:48:15.4720749+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-sitting-area</td>
@@ -3733,7 +3733,7 @@ Anzahl Tags: 576
 <td>Sitting area</td>
 <td>Sièges</td>
 <td>Salotto</td>
-<td>2025-03-31T09:36:07.4710223+00:00</td>
+<td>2026-05-26T15:04:39.3585857+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-mountain-view</td>
@@ -3742,7 +3742,7 @@ Anzahl Tags: 576
 <td>Mountain view</td>
 <td>Montagnes</td>
 <td>Montagne</td>
-<td>2025-03-31T09:36:05.3828882+00:00</td>
+<td>2026-05-26T15:04:39.2287222+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-street-view</td>
@@ -3751,7 +3751,7 @@ Anzahl Tags: 576
 <td>View onto the street</td>
 <td>Vue sur la rue</td>
 <td>Veduta della strada</td>
-<td>2025-03-31T09:36:07.9626028+00:00</td>
+<td>2026-05-26T14:48:16.0754508+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-terrace-balcony</td>
@@ -3760,7 +3760,7 @@ Anzahl Tags: 576
 <td>Balcony or terrace</td>
 <td>Balcon ou terrasse</td>
 <td>Balcone o terrazzo</td>
-<td>2025-03-31T09:36:08.4185939+00:00</td>
+<td>2026-05-26T14:48:16.662547+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-tv</td>
@@ -3769,7 +3769,7 @@ Anzahl Tags: 576
 <td>TV</td>
 <td>Télévision</td>
 <td>Televisione</td>
-<td>2025-03-31T09:36:09.9011521+00:00</td>
+<td>2026-05-26T15:04:39.7491793+00:00</td>
 </tr>
 <tr>
 <td>image-entertainment-childcare-service</td>
@@ -3778,7 +3778,7 @@ Anzahl Tags: 576
 <td>Childcare service</td>
 <td>Garde d’enfants</td>
 <td>Assistenza all'infanzia</td>
-<td>2025-03-31T09:36:27.4658329+00:00</td>
+<td>2026-05-26T15:04:40.4053302+00:00</td>
 </tr>
 <tr>
 <td>image-amenity-wardrobe-closet</td>
@@ -3787,7 +3787,7 @@ Anzahl Tags: 576
 <td>Wardrobe or closet</td>
 <td>Vestiaire</td>
 <td>Guardaroba</td>
-<td>2025-03-31T09:36:13.4777119+00:00</td>
+<td>2026-05-26T15:04:40.334649+00:00</td>
 </tr>
 <tr>
 <td>image-entertainment-playground</td>
@@ -3796,7 +3796,7 @@ Anzahl Tags: 576
 <td>Playground</td>
 <td>Terrain de jeu</td>
 <td>Parco giochi</td>
-<td>2025-03-31T09:36:11.7327472+00:00</td>
+<td>2026-05-26T14:48:17.1371918+00:00</td>
 </tr>
 <tr>
 <td>image-entertainment-programme</td>
@@ -3805,7 +3805,7 @@ Anzahl Tags: 576
 <td>Entertainment programme</td>
 <td>Programme d’éclairage</td>
 <td>Programma luci</td>
-<td>2025-03-31T09:36:13.9582952+00:00</td>
+<td>2026-05-26T15:04:40.4151088+00:00</td>
 </tr>
 <tr>
 <td>image-event-co-working-space</td>
@@ -3814,7 +3814,7 @@ Anzahl Tags: 576
 <td>Co-working space</td>
 <td>Co-Working Zone</td>
 <td>Zona di co-working</td>
-<td>2025-03-31T09:36:14.4595+00:00</td>
+<td>2026-05-26T15:04:40.9265512+00:00</td>
 </tr>
 <tr>
 <td>image-entertainment-playroom</td>
@@ -3823,7 +3823,7 @@ Anzahl Tags: 576
 <td>Playroom</td>
 <td>Salle</td>
 <td>Ludoteca</td>
-<td>2025-03-31T09:36:12.996814+00:00</td>
+<td>2026-05-26T15:04:40.802413+00:00</td>
 </tr>
 <tr>
 <td>image-event-conference-room</td>
@@ -3832,7 +3832,7 @@ Anzahl Tags: 576
 <td>Conference room</td>
 <td>Salle de conférence</td>
 <td>Sala conferenze</td>
-<td>2025-03-31T09:36:15.0670089+00:00</td>
+<td>2026-05-26T15:04:41.7512297+00:00</td>
 </tr>
 <tr>
 <td>image-event-meeting-room</td>
@@ -3841,7 +3841,7 @@ Anzahl Tags: 576
 <td>Meeting room</td>
 <td>Salle de réunion</td>
 <td>Sala riunioni</td>
-<td>2025-03-31T09:36:16.9349105+00:00</td>
+<td>2026-05-26T15:04:41.1960566+00:00</td>
 </tr>
 <tr>
 <td>image-food-breakfast-room</td>
@@ -3850,7 +3850,7 @@ Anzahl Tags: 576
 <td>Breakfast room</td>
 <td>Salle de petit-déjeuner</td>
 <td>Sala colazione</td>
-<td>2025-03-31T09:36:19.6606275+00:00</td>
+<td>2026-05-26T15:04:42.4436686+00:00</td>
 </tr>
 <tr>
 <td>image-food-bar</td>
@@ -3859,7 +3859,7 @@ Anzahl Tags: 576
 <td>Bar</td>
 <td>Bar</td>
 <td>Bar</td>
-<td>2025-03-31T09:36:19.123059+00:00</td>
+<td>2026-05-26T15:04:42.5473533+00:00</td>
 </tr>
 <tr>
 <td>image-food-breakfast</td>
@@ -3868,7 +3868,7 @@ Anzahl Tags: 576
 <td>Breakfast</td>
 <td>Petit déjeuner</td>
 <td>Colazione</td>
-<td>2025-03-31T09:36:20.1231624+00:00</td>
+<td>2026-05-26T15:04:43.2377855+00:00</td>
 </tr>
 <tr>
 <td>image-food-dining-room</td>
@@ -3877,7 +3877,7 @@ Anzahl Tags: 576
 <td>Dining room</td>
 <td>Réfectoire</td>
 <td>Refettorio</td>
-<td>2025-03-31T09:36:20.6622654+00:00</td>
+<td>2026-05-26T14:48:18.4515763+00:00</td>
 </tr>
 <tr>
 <td>image-event-wedding-services</td>
@@ -3886,7 +3886,7 @@ Anzahl Tags: 576
 <td>Wedding services</td>
 <td>Événements de mariage</td>
 <td>Eventi di nozze</td>
-<td>2025-03-31T09:36:17.5815746+00:00</td>
+<td>2026-05-26T14:48:18.9638832+00:00</td>
 </tr>
 <tr>
 <td>image-food-restaurant</td>
@@ -3895,7 +3895,7 @@ Anzahl Tags: 576
 <td>Restaurant</td>
 <td>Restaurant</td>
 <td>Ristorante</td>
-<td>2025-03-31T09:36:22.6347163+00:00</td>
+<td>2026-05-26T14:48:44.8727797+00:00</td>
 </tr>
 <tr>
 <td>image-indoor-library</td>
@@ -3904,7 +3904,7 @@ Anzahl Tags: 576
 <td>Library</td>
 <td>Bibliothèque</td>
 <td>Biblioteca</td>
-<td>2025-03-31T09:36:25.2907949+00:00</td>
+<td>2026-05-26T15:04:43.179232+00:00</td>
 </tr>
 <tr>
 <td>image-food-room-service</td>
@@ -3913,7 +3913,7 @@ Anzahl Tags: 576
 <td>Room service</td>
 <td>Service en chambre</td>
 <td>Servizio in camera</td>
-<td>2025-03-31T09:36:23.1573127+00:00</td>
+<td>2026-05-26T15:04:43.613491+00:00</td>
 </tr>
 <tr>
 <td>image-food-snack-bar</td>
@@ -3922,7 +3922,7 @@ Anzahl Tags: 576
 <td>Snack bar</td>
 <td>Snack-bar</td>
 <td>Tavola calda</td>
-<td>2025-03-31T09:36:24.8041226+00:00</td>
+<td>2026-05-26T14:48:45.5089339+00:00</td>
 </tr>
 <tr>
 <td>image-indoor-entrance</td>
@@ -3931,7 +3931,7 @@ Anzahl Tags: 576
 <td>Entrance area</td>
 <td>Entrée</td>
 <td>Entrata</td>
-<td>2025-03-31T09:36:39.4228582+00:00</td>
+<td>2026-05-26T14:48:45.9661658+00:00</td>
 </tr>
 <tr>
 <td>image-indoor-lounge</td>
@@ -3940,7 +3940,7 @@ Anzahl Tags: 576
 <td>Lounge</td>
 <td>Salon</td>
 <td>Salotto</td>
-<td>2025-03-31T09:36:25.7752838+00:00</td>
+<td>2026-05-26T15:04:44.0837879+00:00</td>
 </tr>
 <tr>
 <td>image-indoor-lobby</td>
@@ -3949,7 +3949,7 @@ Anzahl Tags: 576
 <td>Lobby</td>
 <td>Lobby</td>
 <td>Atrio</td>
-<td>2025-03-31T09:36:38.8988187+00:00</td>
+<td>2026-05-26T15:04:43.8227851+00:00</td>
 </tr>
 <tr>
 <td>image-indoor-reception</td>
@@ -3958,7 +3958,7 @@ Anzahl Tags: 576
 <td>Reception</td>
 <td>Réception</td>
 <td>Ricevimento</td>
-<td>2025-03-31T09:36:43.1506246+00:00</td>
+<td>2026-05-26T14:48:46.9499672+00:00</td>
 </tr>
 <tr>
 <td>image-outdoor-exterior</td>
@@ -3967,7 +3967,7 @@ Anzahl Tags: 576
 <td>Exterior</td>
 <td>Dehors</td>
 <td>Fuori</td>
-<td>2025-03-31T09:36:28.937306+00:00</td>
+<td>2026-05-26T14:48:48.9962819+00:00</td>
 </tr>
 <tr>
 <td>image-outdoor-garden</td>
@@ -3976,7 +3976,7 @@ Anzahl Tags: 576
 <td>Garden</td>
 <td>Jardin</td>
 <td>Giardino</td>
-<td>2025-03-31T09:36:30.9264785+00:00</td>
+<td>2026-05-26T14:48:48.2040825+00:00</td>
 </tr>
 <tr>
 <td>image-sport-bike-storage</td>
@@ -3985,7 +3985,7 @@ Anzahl Tags: 576
 <td>Bike storage</td>
 <td>Local à vélos</td>
 <td>Deposito bici</td>
-<td>2025-03-31T09:36:32.1006812+00:00</td>
+<td>2026-05-26T15:04:44.0174581+00:00</td>
 </tr>
 <tr>
 <td>image-outdoor-terrace-balcony</td>
@@ -3994,7 +3994,7 @@ Anzahl Tags: 576
 <td>Terrace/Balcony</td>
 <td>Terrasse/Balcon</td>
 <td>Terrazza/Balcone</td>
-<td>2025-03-31T09:36:31.5182058+00:00</td>
+<td>2026-05-26T14:48:50.5655298+00:00</td>
 </tr>
 <tr>
 <td>image-sport-fitness-room</td>
@@ -4003,7 +4003,7 @@ Anzahl Tags: 576
 <td>Fitness Room</td>
 <td>Salle de fitness</td>
 <td>Sala fitness</td>
-<td>2025-03-31T09:36:34.2737982+00:00</td>
+<td>2026-05-26T15:04:44.4911726+00:00</td>
 </tr>
 <tr>
 <td>image-sport-e-bike-charging-stations</td>
@@ -4012,7 +4012,7 @@ Anzahl Tags: 576
 <td>Charging stations for E-Bike</td>
 <td>Borne de recharge pour vélos électriques</td>
 <td>Stazione di ricarica per e-bike</td>
-<td>2025-03-31T09:36:33.8068289+00:00</td>
+<td>2026-05-26T14:48:51.6180042+00:00</td>
 </tr>
 <tr>
 <td>image-sport-golf-course</td>
@@ -4021,7 +4021,7 @@ Anzahl Tags: 576
 <td>Golf course</td>
 <td>Terrain de golf</td>
 <td>Golf</td>
-<td>2025-03-31T09:36:34.8435469+00:00</td>
+<td>2026-05-26T15:04:44.6289417+00:00</td>
 </tr>
 <tr>
 <td>image-sport-ski-equipment-storage</td>
@@ -4030,7 +4030,7 @@ Anzahl Tags: 576
 <td>Ski equipment storage</td>
 <td>Ski</td>
 <td>Sci</td>
-<td>2025-03-31T09:36:36.2991358+00:00</td>
+<td>2026-05-26T15:04:44.9434969+00:00</td>
 </tr>
 <tr>
 <td>image-sport-indoor-swimming-pool</td>
@@ -4039,7 +4039,7 @@ Anzahl Tags: 576
 <td>Indoor swimming pool</td>
 <td>Piscine intérieure</td>
 <td>Piscina coperta</td>
-<td>2025-03-31T09:36:35.3258662+00:00</td>
+<td>2026-05-26T15:04:45.1088797+00:00</td>
 </tr>
 <tr>
 <td>image-wellness-relaxation-room</td>
@@ -4048,7 +4048,7 @@ Anzahl Tags: 576
 <td>Relaxation room</td>
 <td>Salle de relaxation</td>
 <td>Sala relax</td>
-<td>2025-03-31T09:36:36.9758441+00:00</td>
+<td>2026-05-26T15:04:45.2220851+00:00</td>
 </tr>
 <tr>
 <td>image-wellness-steam-bath</td>
@@ -4057,7 +4057,7 @@ Anzahl Tags: 576
 <td>Steam bath</td>
 <td>Bain de vapeur</td>
 <td>Vapore</td>
-<td>2025-03-31T09:36:37.9520598+00:00</td>
+<td>2026-05-26T14:48:51.1336509+00:00</td>
 </tr>
 <tr>
 <td>image-wellness-sauna</td>
@@ -4066,7 +4066,7 @@ Anzahl Tags: 576
 <td>Sauna</td>
 <td>Sauna</td>
 <td>Sauna</td>
-<td>2025-03-31T09:36:37.4483937+00:00</td>
+<td>2026-05-26T15:04:45.8935742+00:00</td>
 </tr>
 <tr>
 <td>image-wellness-thermal-baths</td>
@@ -4075,7 +4075,7 @@ Anzahl Tags: 576
 <td>Thermal baths</td>
 <td>Bain thermal</td>
 <td>Terme</td>
-<td>2025-03-31T09:36:38.4451782+00:00</td>
+<td>2026-05-26T14:48:52.1955885+00:00</td>
 </tr>
 <tr>
 <td>image-wellness-whirlpool-jacuzzi</td>
@@ -4084,7 +4084,7 @@ Anzahl Tags: 576
 <td>Whirlpool or Jacuzzi</td>
 <td>Jacuzzi</td>
 <td>Idromassaggio</td>
-<td>2025-03-31T09:36:42.6954991+00:00</td>
+<td>2026-05-26T14:48:52.760714+00:00</td>
 </tr>
 <tr>
 <td>image-wellness-treatments</td>
@@ -4093,7 +4093,7 @@ Anzahl Tags: 576
 <td>Wellness treatments</td>
 <td>Soins de bien-être</td>
 <td>Trattamenti Benessere</td>
-<td>2025-03-31T09:36:39.9826109+00:00</td>
+<td>2026-05-26T14:48:57.0383488+00:00</td>
 </tr>
 <tr>
 <td>image-sport-outdoor-swimming-pool</td>
@@ -4102,7 +4102,7 @@ Anzahl Tags: 576
 <td>Outdoor swimming pool</td>
 <td>Piscine extérieure</td>
 <td>Piscina all'aperto</td>
-<td>2025-03-31T09:36:35.7995455+00:00</td>
+<td>2026-05-26T14:48:53.2300185+00:00</td>
 </tr>
 <tr>
 <td>image-saisonality-summer</td>
@@ -4111,7 +4111,7 @@ Anzahl Tags: 576
 <td>Summer</td>
 <td>Été</td>
 <td>Estate</td>
-<td>2025-03-31T09:38:16.7956555+00:00</td>
+<td>2026-05-26T15:04:45.6727923+00:00</td>
 </tr>
 <tr>
 <td>areascope-local</td>
@@ -4120,7 +4120,7 @@ Anzahl Tags: 576
 <td>Local</td>
 <td>Local</td>
 <td>Locale</td>
-<td>2025-03-31T09:37:35.2407873+00:00</td>
+<td>2026-05-26T14:48:56.0571392+00:00</td>
 </tr>
 <tr>
 <td>areascope-national</td>
@@ -4129,7 +4129,7 @@ Anzahl Tags: 576
 <td>National</td>
 <td>National</td>
 <td>Nazionale</td>
-<td>2025-03-31T09:37:43.2059447+00:00</td>
+<td>2026-05-26T14:48:57.5357146+00:00</td>
 </tr>
 <tr>
 <td>areascope-regional</td>
@@ -4138,7 +4138,7 @@ Anzahl Tags: 576
 <td>Regional</td>
 <td>Régional</td>
 <td>Regionale</td>
-<td>2025-03-31T09:36:43.8118782+00:00</td>
+<td>2026-05-26T14:48:57.4450527+00:00</td>
 </tr>
 <tr>
 <td>image-saisonality-winter</td>
@@ -4147,7 +4147,7 @@ Anzahl Tags: 576
 <td>Winter</td>
 <td>Hiver</td>
 <td>Inverno</td>
-<td>2025-03-31T09:38:15.9624166+00:00</td>
+<td>2026-05-26T14:49:07.2639558+00:00</td>
 </tr>
 <tr>
 <td>located-at-city</td>
@@ -4156,7 +4156,7 @@ Anzahl Tags: 576
 <td>City</td>
 <td>Ville</td>
 <td>Città</td>
-<td>2025-09-23T12:49:20.5091633+00:00</td>
+<td>2026-05-26T15:04:57.4149574+00:00</td>
 </tr>
 <tr>
 <td>located-at-lake</td>
@@ -4165,7 +4165,7 @@ Anzahl Tags: 576
 <td>Lake</td>
 <td>Lac</td>
 <td>Lago</td>
-<td>2025-09-23T12:49:18.7265636+00:00</td>
+<td>2026-05-26T15:04:57.7956437+00:00</td>
 </tr>
 <tr>
 <td>located-at-city-centre</td>
@@ -4174,7 +4174,7 @@ Anzahl Tags: 576
 <td>City centre</td>
 <td>Centre-ville</td>
 <td>Centro</td>
-<td>2025-09-23T12:49:19.5486808+00:00</td>
+<td>2026-05-26T14:49:56.0635881+00:00</td>
 </tr>
 <tr>
 <td>located-at-countryside</td>
@@ -4183,7 +4183,7 @@ Anzahl Tags: 576
 <td>Countryside</td>
 <td>Campagne</td>
 <td>Campagna</td>
-<td>2025-09-23T12:49:19.5567344+00:00</td>
+<td>2026-05-26T15:05:14.0183714+00:00</td>
 </tr>
 <tr>
 <td>located-at-river</td>
@@ -4192,7 +4192,7 @@ Anzahl Tags: 576
 <td>River</td>
 <td>Fleuve</td>
 <td>Fiume</td>
-<td>2025-09-23T12:49:18.5354634+00:00</td>
+<td>2026-05-26T15:05:13.1565692+00:00</td>
 </tr>
 <tr>
 <td>located-at-mountains</td>
@@ -4201,7 +4201,7 @@ Anzahl Tags: 576
 <td>Mountains</td>
 <td>Montagnes</td>
 <td>Montagne</td>
-<td>2025-09-23T12:49:18.5401083+00:00</td>
+<td>2026-05-26T14:49:38.1545302+00:00</td>
 </tr>
 <tr>
 <td>located-at-airport</td>
@@ -4210,7 +4210,7 @@ Anzahl Tags: 576
 <td>Airport</td>
 <td>Aéroport</td>
 <td>Aeroporto</td>
-<td>2025-09-23T12:49:18.5339415+00:00</td>
+<td>2026-05-26T15:05:11.8850652+00:00</td>
 </tr>
 <tr>
 <td>culinary-lactosefree</td>
@@ -4219,7 +4219,7 @@ Anzahl Tags: 576
 <td>Lactose-free</td>
 <td>Sans lactose</td>
 <td>Senza lattosio</td>
-<td>2025-03-31T09:37:39.1593605+00:00</td>
+<td>2026-05-26T14:49:38.3722268+00:00</td>
 </tr>
 <tr>
 <td>culinary-coffeeandcake</td>
@@ -4228,7 +4228,7 @@ Anzahl Tags: 576
 <td>Coffee and cake</td>
 <td>Café et gâteau</td>
 <td>Caffè e torta</td>
-<td>2025-03-31T09:37:34.7383804+00:00</td>
+<td>2026-05-26T15:05:26.6763678+00:00</td>
 </tr>
 <tr>
 <td>culinary-swiss</td>
@@ -4237,7 +4237,7 @@ Anzahl Tags: 576
 <td>Swiss</td>
 <td>Suisse</td>
 <td>Svizzero</td>
-<td>2025-03-31T09:38:00.7335044+00:00</td>
+<td>2026-05-26T14:49:40.2116572+00:00</td>
 </tr>
 <tr>
 <td>price-range-low</td>
@@ -4246,7 +4246,7 @@ Anzahl Tags: 576
 <td>Low</td>
 <td>Faible</td>
 <td>Basso</td>
-<td>2025-02-24T13:05:15.7728024+00:00</td>
+<td>2026-05-26T14:50:01.2462047+00:00</td>
 </tr>
 <tr>
 <td>price-range-mid</td>
@@ -4255,7 +4255,7 @@ Anzahl Tags: 576
 <td>Mid</td>
 <td>Moyen</td>
 <td>Medio</td>
-<td>2025-02-24T13:05:15.527739+00:00</td>
+<td>2026-05-26T15:05:15.4191822+00:00</td>
 </tr>
 <tr>
 <td>price-range-high</td>
@@ -4264,7 +4264,7 @@ Anzahl Tags: 576
 <td>High</td>
 <td>Haut</td>
 <td>Alto</td>
-<td>2025-02-24T13:05:14.9932777+00:00</td>
+<td>2026-05-26T15:05:23.3698228+00:00</td>
 </tr>
 <tr>
 <td>trail-summittour</td>
@@ -4273,7 +4273,7 @@ Anzahl Tags: 576
 <td>Summit tour</td>
 <td>Tour du sommet</td>
 <td>Tour in vetta</td>
-<td>2025-03-31T09:38:18.8999677+00:00</td>
+<td>2026-05-26T15:05:31.7125861+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-accessiblebreakfastarea</td>
@@ -4282,7 +4282,7 @@ Anzahl Tags: 576
 <td>accessible breakfast area</td>
 <td>Espace petit déjeuner accessible en fauteuil roulant</td>
 <td>Area colazione priva di barriere architettoniche</td>
-<td>2024-10-21T16:01:28.3495189+00:00</td>
+<td>2026-05-26T14:50:22.2441977+00:00</td>
 </tr>
 <tr>
 <td>accessibility-wheelchair-partiallyaccessible</td>
@@ -4291,7 +4291,7 @@ Anzahl Tags: 576
 <td>partially wheelchair accessible</td>
 <td>partiellement accessible en fauteuil roulant</td>
 <td>parzialmente accessibile in sedia a rotelle</td>
-<td>2024-10-21T16:01:25.0531314+00:00</td>
+<td>2026-05-26T14:50:25.1403873+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-accessiblehotelroom</td>
@@ -4300,7 +4300,7 @@ Anzahl Tags: 576
 <td>accessible rooms</td>
 <td>Chambre accessible</td>
 <td>Camera priva di barriere architettoniche</td>
-<td>2024-10-21T16:01:29.5180973+00:00</td>
+<td>2026-05-26T14:50:22.502795+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-accessiblebathroom</td>
@@ -4309,7 +4309,7 @@ Anzahl Tags: 576
 <td>accessible bathroom with roll-in shower</td>
 <td>Salle de bains adaptée aux fauteuils roulants</td>
 <td>Bagno privo di barriere architettoniche</td>
-<td>2024-10-21T16:01:25.9829469+00:00</td>
+<td>2026-05-26T15:05:55.7349009+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-accessibleindoorpool</td>
@@ -4318,7 +4318,7 @@ Anzahl Tags: 576
 <td>accessible indoor pool</td>
 <td>Piscine intérieure adaptée aux fauteuils roulants</td>
 <td>Piscina coperta priva di barriere architettoniche</td>
-<td>2024-10-21T16:01:30.725968+00:00</td>
+<td>2026-05-26T15:05:55.1943791+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-accessibleoutdoorpool</td>
@@ -4327,7 +4327,7 @@ Anzahl Tags: 576
 <td>accessible outdoor pool</td>
 <td>Piscine extérieure adaptée aux fauteuils roulants</td>
 <td>Piscina all'aperto priva di barriere architettoniche</td>
-<td>2024-10-21T16:01:31.6828533+00:00</td>
+<td>2026-05-26T14:50:30.6934924+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-accessiblepublictoilet</td>
@@ -4336,7 +4336,7 @@ Anzahl Tags: 576
 <td>Public toilet wheelchair accessible</td>
 <td>Toilettes publiques adaptées aux fauteuils roulants</td>
 <td>Servizi igienici pubblici accessibili alle sedie a rotelle</td>
-<td>2024-10-21T16:01:32.6125909+00:00</td>
+<td>2026-05-26T15:05:58.1467368+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-accessiblepublicarea</td>
@@ -4345,7 +4345,7 @@ Anzahl Tags: 576
 <td>Public areas accessible</td>
 <td>Espaces publics accessibles en fauteuil roulant</td>
 <td>Aree comuni prive di barriere architettoniche</td>
-<td>2024-10-18T21:36:09.9574686+00:00</td>
+<td>2026-05-26T14:50:31.3306362+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-bathtub</td>
@@ -4354,7 +4354,7 @@ Anzahl Tags: 576
 <td>Bathtub available</td>
 <td>Baignoire disponible</td>
 <td>Vasca da bagno disponibile</td>
-<td>2024-10-18T21:36:10.0852802+00:00</td>
+<td>2026-05-26T15:05:55.9157463+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-accessiblelift</td>
@@ -4363,7 +4363,7 @@ Anzahl Tags: 576
 <td>Wheelchair accessible lift</td>
 <td>Ascenseur accessible</td>
 <td>Ascensore privo di barriere architettoniche</td>
-<td>2024-10-18T21:36:09.1078462+00:00</td>
+<td>2026-05-26T14:50:42.1181533+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-bedheight4550</td>
@@ -4372,7 +4372,7 @@ Anzahl Tags: 576
 <td>Bed height 45-50 cm</td>
 <td>Hauteur du lit 45-50 cm</td>
 <td>Altezza del letto 45-50 cm</td>
-<td>2024-10-18T21:36:10.7890477+00:00</td>
+<td>2026-05-26T15:06:09.2968338+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-forgroups</td>
@@ -4381,7 +4381,7 @@ Anzahl Tags: 576
 <td>suitable for groups</td>
 <td>approprié pour des groupes</td>
 <td>ideale per gruppi</td>
-<td>2024-11-04T15:27:50.3021241+00:00</td>
+<td>2026-05-26T14:51:02.1697641+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-bedheightelectrically</td>
@@ -4390,7 +4390,7 @@ Anzahl Tags: 576
 <td>Electrically height-adjustable bed</td>
 <td>Lit à hauteur réglable électriquement</td>
 <td>Letto regolabile elettricamente in altezza</td>
-<td>2024-10-21T16:01:32.9247266+00:00</td>
+<td>2026-05-26T15:06:01.7575641+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-bedunderrunable</td>
@@ -4399,7 +4399,7 @@ Anzahl Tags: 576
 <td>Bed usable for hoists</td>
 <td>Hauteur du bord inférieur du lit d’au moins 13 cm</td>
 <td>Letto con spazio libero sotto il letto per inserire il sollevatore</td>
-<td>2024-10-18T21:36:10.8377021+00:00</td>
+<td>2026-05-26T14:50:42.7472624+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-graprails</td>
@@ -4408,7 +4408,7 @@ Anzahl Tags: 576
 <td>Handles available</td>
 <td>Barres d’appui disponibles</td>
 <td>Maniglie di sostegno disponibili</td>
-<td>2024-10-18T21:36:11.7186882+00:00</td>
+<td>2026-05-26T14:50:51.0828382+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-hearingimpaired</td>
@@ -4417,7 +4417,7 @@ Anzahl Tags: 576
 <td>Offers for guests with hearing impairments</td>
 <td>Offres destinées aux personnes avec handicap auditif</td>
 <td>Offerte per ospiti con ipoacusia (sorde o disabilità uditiva)</td>
-<td>2024-10-18T21:36:11.6500801+00:00</td>
+<td>2026-05-26T15:06:01.2419893+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-parking</td>
@@ -4426,7 +4426,7 @@ Anzahl Tags: 576
 <td>Wheelchair accessible parking space</td>
 <td>Place de parc adaptée aux fauteuils roulants</td>
 <td>Parcheggio accessibile in sedia a rotelle</td>
-<td>2024-10-18T21:36:11.6371349+00:00</td>
+<td>2026-05-26T15:06:04.0146067+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-partiallyaccessiblehotelroom</td>
@@ -4435,7 +4435,7 @@ Anzahl Tags: 576
 <td>partially accessible room</td>
 <td>Chambre partiellement accessible</td>
 <td>Camera in parte priva di barriere architettoniche</td>
-<td>2024-10-21T16:01:34.6951243+00:00</td>
+<td>2026-05-26T15:06:09.4149775+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-hotelspitex</td>
@@ -4444,7 +4444,7 @@ Anzahl Tags: 576
 <td>Hotelspitex</td>
 <td>Hotelspitex</td>
 <td>Hotelspitex</td>
-<td>2024-10-18T21:36:11.6955647+00:00</td>
+<td>2026-05-26T14:51:02.9769257+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-partiallyaccessiblelift</td>
@@ -4453,7 +4453,7 @@ Anzahl Tags: 576
 <td>Lift partly accessible</td>
 <td>Ascenseur partiellement accessible</td>
 <td>Ascensore in parte privo di barriere architettoniche</td>
-<td>2024-10-18T21:36:13.540266+00:00</td>
+<td>2026-05-26T15:06:18.8087157+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-partiallyaccessiblepublicarea</td>
@@ -4462,7 +4462,7 @@ Anzahl Tags: 576
 <td>Public areas partially accessible</td>
 <td>Espaces publics partiellement accessibles en fauteuil roulant</td>
 <td>Aree comuni in parte prive di barriere architettoniche</td>
-<td>2024-10-18T21:36:13.5419174+00:00</td>
+<td>2026-05-26T15:06:20.1545829+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-partiallyaccessiblepublictoilet</td>
@@ -4471,7 +4471,7 @@ Anzahl Tags: 576
 <td>Public toilet partially wheelchair accessible</td>
 <td>Toilettes publiques partiellement adaptées aux fauteuils roulants</td>
 <td>Servizi igienici pubblici con accesso limitato alle sedie a rotelle</td>
-<td>2024-10-21T16:01:34.7457022+00:00</td>
+<td>2026-05-26T15:06:17.5575664+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-showerchair</td>
@@ -4480,7 +4480,7 @@ Anzahl Tags: 576
 <td>Shower chair</td>
 <td>Chaise de douche</td>
 <td>Sedia da doccia</td>
-<td>2024-10-18T21:36:13.2815314+00:00</td>
+<td>2026-05-26T14:51:04.4104395+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-poollift</td>
@@ -4489,7 +4489,7 @@ Anzahl Tags: 576
 <td>Pool lift available</td>
 <td>Élévateur de piscine disponible</td>
 <td>Sollevatore per piscina presente</td>
-<td>2024-10-18T21:36:12.5038437+00:00</td>
+<td>2026-05-26T15:06:25.8068182+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-sideentrance</td>
@@ -4498,7 +4498,7 @@ Anzahl Tags: 576
 <td>Access only via side entrance</td>
 <td>Accès uniquement par l'entrée secondaire</td>
 <td>Accesso solo da ingresso laterale</td>
-<td>2024-10-18T21:36:12.6693901+00:00</td>
+<td>2026-05-26T15:06:26.213084+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-washbowlunderrunable</td>
@@ -4507,7 +4507,7 @@ Anzahl Tags: 576
 <td>accessible washbasin in the hotel room</td>
 <td>Espace sous le lavabo adapté aux fauteuils roulants dans une chambre d'hôtel</td>
 <td>Lavandino adatto a sedia a rotelle</td>
-<td>2024-10-21T16:01:34.8610024+00:00</td>
+<td>2026-05-26T15:06:22.557241+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-visuallyimpaired</td>
@@ -4516,7 +4516,7 @@ Anzahl Tags: 576
 <td>Offers for guests with visual impairments</td>
 <td>Offres destinés aux personnes avec handicap visuel</td>
 <td>Offerte per ospiti ipovedenti</td>
-<td>2024-10-18T21:36:13.5029568+00:00</td>
+<td>2026-05-26T15:06:26.8744665+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-parking-accessible</td>
@@ -4525,7 +4525,7 @@ Anzahl Tags: 576
 <td>Parking place wheelchair accessible</td>
 <td>Place de parc accessible en fauteuil roulant</td>
 <td>Parcheggio accessibile in sedia a rotelle</td>
-<td>2024-10-18T21:36:15.3566406+00:00</td>
+<td>2026-05-26T14:51:05.0487925+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-inductivehearing</td>
@@ -4534,7 +4534,7 @@ Anzahl Tags: 576
 <td>Magnetic loop</td>
 <td>Boucle magnétique</td>
 <td>Sistema a induzione magnetica</td>
-<td>2024-10-18T21:36:14.3585784+00:00</td>
+<td>2026-05-26T14:51:05.7209991+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-hs-wheelchairshuttle</td>
@@ -4543,7 +4543,7 @@ Anzahl Tags: 576
 <td>Wheelchair accessible hotel shuttle</td>
 <td>Service de navette adapté aux fauteuils roulants</td>
 <td>Servizio Shuttle/ Taxi accessibile in sedia a rotelle</td>
-<td>2024-10-18T21:36:15.1216722+00:00</td>
+<td>2026-05-26T15:06:30.3854298+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-parking-partiallyaccessible</td>
@@ -4552,7 +4552,7 @@ Anzahl Tags: 576
 <td>Parking place partially wheelchair accessible</td>
 <td>Place de parc partiellement accessible en fauteuil roulant</td>
 <td>Parcheggio parzialmente accessibile in sedia a rotelle</td>
-<td>2024-10-18T21:36:15.1597792+00:00</td>
+<td>2026-05-26T14:51:10.8997707+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-parking-inaccessible</td>
@@ -4561,7 +4561,7 @@ Anzahl Tags: 576
 <td>Parking place not wheelchair accessible</td>
 <td>Pas de places de stationnement accessibles</td>
 <td>Parcheggio non accessibile in sedia a rotelle</td>
-<td>2024-10-18T21:36:15.4039635+00:00</td>
+<td>2026-05-26T14:51:06.3274166+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-service-disabilityhearing</td>
@@ -4570,7 +4570,7 @@ Anzahl Tags: 576
 <td>Facilities for persons with hearing impairments</td>
 <td>Aménagements pour personnes handicapées de l'ouïe</td>
 <td>Impianti/strutture per persone con handicap uditivi</td>
-<td>2024-10-18T21:36:16.9750227+00:00</td>
+<td>2026-05-26T15:06:43.8449077+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-service-disabilitycognitive</td>
@@ -4579,7 +4579,7 @@ Anzahl Tags: 576
 <td>Facilities for persons with cognitive impairments</td>
 <td>Aménagements pour personnes avec déficience intellectuelle</td>
 <td>Offerta per persone con disturbi cognitivi</td>
-<td>2024-10-18T21:36:15.1479132+00:00</td>
+<td>2026-05-26T15:06:30.6324339+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-service-disabilityvisual</td>
@@ -4588,7 +4588,7 @@ Anzahl Tags: 576
 <td>Facilities for persons with visual impairments</td>
 <td>Aménagements pour personnes handicapées de la vue</td>
 <td>Impianti/strutture per persone con handicap visivi</td>
-<td>2024-10-18T21:36:16.0396035+00:00</td>
+<td>2026-05-26T15:06:34.4119958+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-toilet-accessible</td>
@@ -4597,7 +4597,7 @@ Anzahl Tags: 576
 <td>Toilets wheelchair accessible</td>
 <td>Toilettes accessibles en fauteuil roulant</td>
 <td>WC accessibile in sedia a rotelle</td>
-<td>2024-10-18T21:36:16.7886479+00:00</td>
+<td>2026-05-26T15:06:31.0823268+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-signlanguage</td>
@@ -4606,7 +4606,7 @@ Anzahl Tags: 576
 <td>Offer in sign language</td>
 <td>Offres en langue des signes</td>
 <td>Offerta nella lingua dei segni</td>
-<td>2024-10-18T21:36:15.9733389+00:00</td>
+<td>2026-05-26T14:51:30.864481+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-toilet-inaccessible</td>
@@ -4615,7 +4615,7 @@ Anzahl Tags: 576
 <td>Toilets not wheelchair accessible</td>
 <td>Toilettes non accessibles en fauteuil roulant</td>
 <td>WC non accessibile in sedia a rotelle</td>
-<td>2024-10-18T21:36:17.1384182+00:00</td>
+<td>2026-05-26T15:06:34.9421768+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-toilet-partiallyaccessible</td>
@@ -4624,7 +4624,7 @@ Anzahl Tags: 576
 <td>Toilets partially wheelchair accessible</td>
 <td>Toilettes partiellement accessibles en fauteuil roulant</td>
 <td>WC parzialmente accessibile in sedia a rotelle</td>
-<td>2024-10-18T21:36:16.2216081+00:00</td>
+<td>2026-05-26T15:06:41.517449+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-wheelchair-accessible</td>
@@ -4633,7 +4633,7 @@ Anzahl Tags: 576
 <td>Wheelchair accessible</td>
 <td>accessible en fauteuil roulant</td>
 <td>accessibile in sedia a rotelle</td>
-<td>2024-10-21T16:01:37.1466767+00:00</td>
+<td>2026-05-26T15:06:44.2954545+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-wheelchair-inaccessbile</td>
@@ -4642,7 +4642,7 @@ Anzahl Tags: 576
 <td>not wheelchair accessible</td>
 <td>non accessible en fauteuil roulant</td>
 <td>non accessibile in sedia a rotelle</td>
-<td>2024-10-21T16:01:36.262454+00:00</td>
+<td>2026-05-26T14:51:31.9348077+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-wheelchair-partiallyaccessible</td>
@@ -4651,7 +4651,7 @@ Anzahl Tags: 576
 <td>partially wheelchair accessible</td>
 <td>partiellement accessible en fauteuil roulant</td>
 <td>parzialmente accessibile in sedia a rotelle</td>
-<td>2024-10-21T16:01:37.8951288+00:00</td>
+<td>2026-05-26T14:51:38.7475385+00:00</td>
 </tr>
 <tr>
 <td>accesssitios-walkingdisability-accessible</td>
@@ -4660,7 +4660,7 @@ Anzahl Tags: 576
 <td>accessible for persons with walking impediments</td>
 <td>accessible pour personnes avec handicap de la marche</td>
 <td>accessibile alle persone con difficoltà di deambulazione</td>
-<td>2024-10-21T16:01:34.991543+00:00</td>
+<td>2026-05-26T15:07:06.1643435+00:00</td>
 </tr>
 <tr>
 <td>tso_gratis-tso-test</td>
@@ -4687,7 +4687,7 @@ Anzahl Tags: 576
 <td>Package without overnight: more than CHF 301</td>
 <td>Forfait sans nuitée : plus de CHF 301</td>
 <td>Pacchetto senza pernottamento: oltre CHF 301.–</td>
-<td>2025-10-20T15:02:08.5798959+00:00</td>
+<td>2026-05-26T14:53:46.5926865+00:00</td>
 </tr>
 <tr>
 <td>price-range-event-package-overnight-200</td>
@@ -4696,7 +4696,7 @@ Anzahl Tags: 576
 <td>Package with overnight: 200-300 CHF</td>
 <td>Forfait avec nuitée : 200-300 CHF</td>
 <td>Pacchetto con pernottamento: 200-300 CHF</td>
-<td>2025-10-20T15:02:10.2914871+00:00</td>
+<td>2026-05-26T14:53:47.6268185+00:00</td>
 </tr>
 <tr>
 <td>price-range-event-package-150</td>
@@ -4705,7 +4705,7 @@ Anzahl Tags: 576
 <td>Package without overnight: 151 - 200 CHF</td>
 <td>Forfait sans nuitée : 151 - 200 CHF</td>
 <td>Pacchetto senza pernottamento: 151 - 200 CHF</td>
-<td>2025-10-20T15:02:09.1108574+00:00</td>
+<td>2026-05-26T14:53:47.2655435+00:00</td>
 </tr>
 <tr>
 <td>price-range-event-package-200</td>
@@ -4714,7 +4714,7 @@ Anzahl Tags: 576
 <td>Package without overnight: 201 - 300 CHF</td>
 <td>Forfait sans nuitée : 201 - 300 CHF</td>
 <td>Pacchetto senza pernottamento: 201 - 300 CHF</td>
-<td>2025-10-20T15:02:08.6141683+00:00</td>
+<td>2026-05-26T14:53:48.1710667+00:00</td>
 </tr>
 <tr>
 <td>price-range-event-package-80</td>
@@ -4723,7 +4723,7 @@ Anzahl Tags: 576
 <td>Package without overnight: 80 - 150 CHF</td>
 <td>Forfait sans nuitée : 80 - 150 CHF</td>
 <td>Pacchetto senza pernottamento: 80 - 150 CHF</td>
-<td>2025-10-20T15:02:10.3418476+00:00</td>
+<td>2026-05-26T15:08:18.2345121+00:00</td>
 </tr>
 <tr>
 <td>price-range-event-package-overnight-450</td>
@@ -4732,7 +4732,7 @@ Anzahl Tags: 576
 <td>Package with overnight: more than CHF 451</td>
 <td>Forfait avec nuitée : plus de CHF 451</td>
 <td>Pacchetto con pernottamento: oltre CHF 451.–</td>
-<td>2025-10-20T15:02:08.7214401+00:00</td>
+<td>2026-05-26T14:53:48.52404+00:00</td>
 </tr>
 <tr>
 <td>price-range-event-package-overnight-300</td>
@@ -4741,7 +4741,7 @@ Anzahl Tags: 576
 <td>Package with overnight: 301 - 450 CHF</td>
 <td>Forfait avec nuitée : 301 - 450 CHF</td>
 <td>Pacchetto con pernottamento: 301 - 450 CHF</td>
-<td>2025-10-20T15:02:09.0441764+00:00</td>
+<td>2026-05-26T14:53:48.7173109+00:00</td>
 </tr>
 <tr>
 <td>profile-culture-5</td>
@@ -4831,7 +4831,7 @@ Anzahl Tags: 576
 <td>Perennial</td>
 <td>Pérenne</td>
 <td>Perenne</td>
-<td>2025-03-13T21:43:20.4260118+00:00</td>
+<td>2026-05-26T14:54:03.2734724+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-arena</td>
@@ -4840,7 +4840,7 @@ Anzahl Tags: 576
 <td>arena</td>
 <td>Arène</td>
 <td>Arena</td>
-<td>2025-09-23T12:47:34.1991523+00:00</td>
+<td>2026-05-26T15:08:37.1279198+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-leisure</td>
@@ -4849,7 +4849,7 @@ Anzahl Tags: 576
 <td>leisure</td>
 <td>Loisir</td>
 <td>Tempo libero</td>
-<td>2025-09-23T12:47:34.184177+00:00</td>
+<td>2026-05-26T14:54:11.3819557+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-classic</td>
@@ -4858,7 +4858,7 @@ Anzahl Tags: 576
 <td>classic</td>
 <td>Classique</td>
 <td>Classico</td>
-<td>2025-09-23T12:47:34.8397152+00:00</td>
+<td>2026-05-26T15:08:37.6885502+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-historic</td>
@@ -4867,7 +4867,7 @@ Anzahl Tags: 576
 <td>historic</td>
 <td>Historique</td>
 <td>Storico</td>
-<td>2025-09-23T12:47:34.1054164+00:00</td>
+<td>2026-05-26T14:54:12.0416489+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-industrial</td>
@@ -4876,7 +4876,7 @@ Anzahl Tags: 576
 <td>industrial</td>
 <td>Industriel</td>
 <td>Industriale</td>
-<td>2025-09-23T12:47:34.2049886+00:00</td>
+<td>2026-05-26T14:54:11.733534+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-rustic</td>
@@ -4885,7 +4885,7 @@ Anzahl Tags: 576
 <td>rustic</td>
 <td>Urchig</td>
 <td>Urchig</td>
-<td>2025-09-23T12:47:35.8911453+00:00</td>
+<td>2026-05-26T15:08:37.7455568+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-outdoor</td>
@@ -4894,7 +4894,7 @@ Anzahl Tags: 576
 <td>outdoor</td>
 <td>Extérieur</td>
 <td>All’aperto</td>
-<td>2025-09-23T12:47:35.356701+00:00</td>
+<td>2026-05-26T14:54:11.9087883+00:00</td>
 </tr>
 <tr>
 <td>audience-info-beginner</td>
@@ -4903,7 +4903,7 @@ Anzahl Tags: 576
 <td>Beginner</td>
 <td>Débutant</td>
 <td>Principiante</td>
-<td>2025-05-22T22:01:36.477828+00:00</td>
+<td>2026-05-26T14:54:12.2556313+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-theater</td>
@@ -4912,7 +4912,7 @@ Anzahl Tags: 576
 <td>theaterhall</td>
 <td>Auditorium</td>
 <td>Auditorio</td>
-<td>2025-09-23T12:47:36.0505703+00:00</td>
+<td>2026-05-26T14:54:13.2425101+00:00</td>
 </tr>
 <tr>
 <td>audience-info-residents</td>
@@ -4921,7 +4921,7 @@ Anzahl Tags: 576
 <td>Native</td>
 <td>Indigène</td>
 <td>Nativo</td>
-<td>2025-05-22T22:01:37.5166599+00:00</td>
+<td>2026-05-26T14:54:12.4582904+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-modern</td>
@@ -4930,7 +4930,7 @@ Anzahl Tags: 576
 <td>modern</td>
 <td>Moderne</td>
 <td>Moderno</td>
-<td>2025-09-23T12:47:34.8371207+00:00</td>
+<td>2026-05-26T15:08:37.6655169+00:00</td>
 </tr>
 <tr>
 <td>audience-info-instructor</td>
@@ -4939,7 +4939,7 @@ Anzahl Tags: 576
 <td>Ski instructor</td>
 <td>Moniteur de ski</td>
 <td>Maestro di sci</td>
-<td>2025-05-22T22:01:41.6191389+00:00</td>
+<td>2026-05-26T14:54:12.731406+00:00</td>
 </tr>
 <tr>
 <td>tso_ost-test-views</td>
@@ -4957,7 +4957,7 @@ Anzahl Tags: 576
 <td>Venue</td>
 <td>Lieu</td>
 <td>Sede</td>
-<td>2025-06-19T21:04:06.9629619+00:00</td>
+<td>2026-05-26T15:08:39.8125453+00:00</td>
 </tr>
 <tr>
 <td>image-bathroom</td>
@@ -4966,7 +4966,7 @@ Anzahl Tags: 576
 <td>Bathroom</td>
 <td>Salle de Bains</td>
 <td>Stanza da bagno</td>
-<td>2025-06-28T07:32:42.1783856+00:00</td>
+<td>2026-05-26T14:54:13.425586+00:00</td>
 </tr>
 <tr>
 <td>image-entrance</td>
@@ -4975,7 +4975,7 @@ Anzahl Tags: 576
 <td>Entrance</td>
 <td>Entrée</td>
 <td>Entrata</td>
-<td>2025-06-28T07:33:00.1764992+00:00</td>
+<td>2026-05-26T15:08:39.3153812+00:00</td>
 </tr>
 <tr>
 <td>image-outdoor-exterior-autumn</td>
@@ -4984,7 +4984,7 @@ Anzahl Tags: 576
 <td>Exterior autumn</td>
 <td>Vue extérieure de l’automne</td>
 <td>Vista esterna dell'autunno</td>
-<td>2025-06-28T07:33:36.4087472+00:00</td>
+<td>2026-05-26T15:08:39.2111141+00:00</td>
 </tr>
 <tr>
 <td>image-outdoor-exterior-spring</td>
@@ -4993,7 +4993,7 @@ Anzahl Tags: 576
 <td>Exterior spring</td>
 <td>À l’extérieur du printemps</td>
 <td>Primavera esterna</td>
-<td>2025-06-28T07:33:48.2922234+00:00</td>
+<td>2026-05-26T15:08:40.4614206+00:00</td>
 </tr>
 <tr>
 <td>image-outdoor-exterior-summer</td>
@@ -5002,7 +5002,7 @@ Anzahl Tags: 576
 <td>Exterior summer</td>
 <td>Vue extérieure été</td>
 <td>Vista esterna estate</td>
-<td>2025-06-28T07:33:48.295074+00:00</td>
+<td>2026-05-26T14:54:13.7306379+00:00</td>
 </tr>
 <tr>
 <td>image-outdoor-exterior-winter</td>
@@ -5011,7 +5011,7 @@ Anzahl Tags: 576
 <td>Exterior winter</td>
 <td>Vue extérieure hiver</td>
 <td>Vista esterna inverno</td>
-<td>2025-06-28T07:33:57.925976+00:00</td>
+<td>2026-05-26T14:54:13.9425671+00:00</td>
 </tr>
 <tr>
 <td>image-reception</td>
@@ -5020,7 +5020,7 @@ Anzahl Tags: 576
 <td>Reception</td>
 <td>Réception</td>
 <td>Ricevimento</td>
-<td>2025-06-28T07:34:13.1416746+00:00</td>
+<td>2026-05-26T15:08:41.4153299+00:00</td>
 </tr>
 <tr>
 <td>life-après-ski</td>
@@ -5029,7 +5029,7 @@ Anzahl Tags: 576
 <td>Après Ski</td>
 <td>Après-ski</td>
 <td>Après Ski</td>
-<td>2025-06-28T07:34:48.315728+00:00</td>
+<td>2026-05-26T14:54:14.3365796+00:00</td>
 </tr>
 <tr>
 <td>school-level-secondary-second grade</td>
@@ -5038,7 +5038,7 @@ Anzahl Tags: 576
 <td>2. Secondary education</td>
 <td>2. Enseignement secondaire</td>
 <td>2. Istruzione secondaria</td>
-<td>2025-06-28T07:43:28.9621048+00:00</td>
+<td>2026-05-26T15:08:40.6734171+00:00</td>
 </tr>
 <tr>
 <td>school-level-secondary-first grade</td>
@@ -5047,7 +5047,7 @@ Anzahl Tags: 576
 <td>1. Secondary education</td>
 <td>1. Enseignement secondaire</td>
 <td>1. Istruzione secondaria</td>
-<td>2025-06-28T07:43:28.9635468+00:00</td>
+<td>2026-05-26T15:08:41.2435549+00:00</td>
 </tr>
 <tr>
 <td>culinary-african</td>
@@ -5056,7 +5056,7 @@ Anzahl Tags: 576
 <td>Africa</td>
 <td>Afrique</td>
 <td>Africa</td>
-<td>2025-09-09T17:43:55.0325372+00:00</td>
+<td>2026-05-26T15:08:43.8709171+00:00</td>
 </tr>
 <tr>
 <td>culinary-catering</td>
@@ -5065,7 +5065,7 @@ Anzahl Tags: 576
 <td>Catering service</td>
 <td>Service traiteur</td>
 <td>Servizio catering</td>
-<td>2025-09-09T17:43:56.9147496+00:00</td>
+<td>2026-05-26T15:08:43.4838879+00:00</td>
 </tr>
 <tr>
 <td>culinary-iberian</td>
@@ -5074,7 +5074,7 @@ Anzahl Tags: 576
 <td>Iberian specialties</td>
 <td>Spécialités ibériques</td>
 <td>Specialità iberiche</td>
-<td>2025-09-09T17:44:00.0846906+00:00</td>
+<td>2026-05-26T15:08:43.9522237+00:00</td>
 </tr>
 <tr>
 <td>culinary-vietnam</td>
@@ -5083,7 +5083,7 @@ Anzahl Tags: 576
 <td>Vietnam</td>
 <td>Viêt Nam</td>
 <td>Vietnam</td>
-<td>2025-09-09T17:44:03.2946089+00:00</td>
+<td>2026-05-26T15:08:45.8095724+00:00</td>
 </tr>
 <tr>
 <td>culinary-takeaway</td>
@@ -5092,7 +5092,7 @@ Anzahl Tags: 576
 <td>Takeaway</td>
 <td>Emporter</td>
 <td>Da asporto</td>
-<td>2025-09-09T17:44:03.482527+00:00</td>
+<td>2026-05-26T14:54:19.0383161+00:00</td>
 </tr>
 <tr>
 <td>culinary-turkish</td>
@@ -5101,7 +5101,7 @@ Anzahl Tags: 576
 <td>Turkish specialties</td>
 <td>Spécialités turques</td>
 <td>Specialità turche</td>
-<td>2025-09-09T17:44:04.9029643+00:00</td>
+<td>2026-05-26T15:08:45.8773549+00:00</td>
 </tr>
 <tr>
 <td>culinary-northafrica</td>
@@ -5110,7 +5110,7 @@ Anzahl Tags: 576
 <td>North African specialties</td>
 <td>Spécialités nord-africaines</td>
 <td>Specialità nordafricane</td>
-<td>2025-09-09T17:44:03.5698585+00:00</td>
+<td>2026-05-26T15:08:52.7039277+00:00</td>
 </tr>
 <tr>
 <td>culinary-delivery</td>
@@ -5119,7 +5119,7 @@ Anzahl Tags: 576
 <td>Delivery service</td>
 <td>Service de livraison</td>
 <td>Servizio di consegna</td>
-<td>2025-09-09T17:44:04.9332255+00:00</td>
+<td>2026-05-26T15:08:44.5088539+00:00</td>
 </tr>
 <tr>
 <td>culinary-centralamerica</td>
@@ -5128,7 +5128,7 @@ Anzahl Tags: 576
 <td>Central America</td>
 <td>Amérique centrale</td>
 <td>America centrale</td>
-<td>2025-09-09T17:44:06.9612831+00:00</td>
+<td>2026-05-26T15:08:44.8082787+00:00</td>
 </tr>
 <tr>
 <td>culinary-homestyle</td>
@@ -5137,7 +5137,7 @@ Anzahl Tags: 576
 <td>Home-style</td>
 <td>Style maison</td>
 <td>Stile casalingo</td>
-<td>2025-09-09T17:44:08.8688406+00:00</td>
+<td>2026-05-26T14:54:18.5005521+00:00</td>
 </tr>
 <tr>
 <td>culinary-china</td>
@@ -5146,7 +5146,7 @@ Anzahl Tags: 576
 <td>Chinese</td>
 <td>Chinois</td>
 <td>Cinese</td>
-<td>2025-09-09T17:44:09.9475337+00:00</td>
+<td>2026-05-26T14:54:18.5373022+00:00</td>
 </tr>
 <tr>
 <td>culinary-fusion</td>
@@ -5155,7 +5155,7 @@ Anzahl Tags: 576
 <td>Fusion Cuisine</td>
 <td>Fusion Cuisine</td>
 <td>Cucina Fusion</td>
-<td>2025-09-09T17:44:11.1116149+00:00</td>
+<td>2026-05-26T15:08:45.2927051+00:00</td>
 </tr>
 <tr>
 <td>culinary-persian</td>
@@ -5164,7 +5164,7 @@ Anzahl Tags: 576
 <td>Persian</td>
 <td>Perse</td>
 <td>Farsi</td>
-<td>2025-09-09T17:44:13.2077342+00:00</td>
+<td>2026-05-26T15:08:44.810746+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-water</td>
@@ -5173,7 +5173,7 @@ Anzahl Tags: 576
 <td>at waterside</td>
 <td>Près de l’eau</td>
 <td>Vicino all'acqua</td>
-<td>2025-09-23T12:47:34.2456936+00:00</td>
+<td>2026-05-26T15:08:45.3497747+00:00</td>
 </tr>
 <tr>
 <td>atmosphere-rural</td>
@@ -5182,7 +5182,7 @@ Anzahl Tags: 576
 <td>rural</td>
 <td>Rural</td>
 <td>Rurale</td>
-<td>2025-09-23T12:47:36.0330234+00:00</td>
+<td>2026-05-26T15:08:48.8223466+00:00</td>
 </tr>
 <tr>
 <td>tso_test-tag-1</td>
@@ -5210,6 +5210,150 @@ Anzahl Tags: 576
 <td>Test Tag 3</td>
 <td>Test Tag 3</td>
 <td>2025-11-03T11:08:13.41452+00:00</td>
+</tr>
+<tr>
+<td>gdl-feed-kire</td>
+<td>Kinderregion GDL feed</td>
+<td>gdl-feed</td>
+<td>Kinderregion GDL feed</td>
+<td>Flux GDL de la région des enfants</td>
+<td>Feed GDL della Regione dei Bambini</td>
+<td>2026-05-26T15:09:22.1220718+00:00</td>
+</tr>
+<tr>
+<td>month-january</td>
+<td>Januar</td>
+<td>month</td>
+<td>January</td>
+<td>Janvier</td>
+<td>Gennaio</td>
+<td>2026-05-26T15:09:25.3790437+00:00</td>
+</tr>
+<tr>
+<td>month-december</td>
+<td>Dezember</td>
+<td>month</td>
+<td>December</td>
+<td>Décembre</td>
+<td>Dicembre</td>
+<td>2026-05-26T15:09:26.150196+00:00</td>
+</tr>
+<tr>
+<td>month-august</td>
+<td>August</td>
+<td>month</td>
+<td>August</td>
+<td>Août</td>
+<td>Agosto</td>
+<td>2026-05-26T14:54:46.7778062+00:00</td>
+</tr>
+<tr>
+<td>month-february</td>
+<td>Februar</td>
+<td>month</td>
+<td>February</td>
+<td>Février</td>
+<td>Febbraio</td>
+<td>2026-05-26T14:54:47.0924279+00:00</td>
+</tr>
+<tr>
+<td>month-june</td>
+<td>Juni</td>
+<td>month</td>
+<td>June</td>
+<td>Juin</td>
+<td>Giugno</td>
+<td>2026-05-26T14:54:47.3307643+00:00</td>
+</tr>
+<tr>
+<td>month-july</td>
+<td>Juli</td>
+<td>month</td>
+<td>July</td>
+<td>Juillet</td>
+<td>Luglio</td>
+<td>2026-05-26T15:09:47.7265112+00:00</td>
+</tr>
+<tr>
+<td>month-march</td>
+<td>März</td>
+<td>month</td>
+<td>March</td>
+<td>Mars</td>
+<td>Marzo</td>
+<td>2026-05-26T15:09:36.137633+00:00</td>
+</tr>
+<tr>
+<td>month-april</td>
+<td>April</td>
+<td>month</td>
+<td>April</td>
+<td>Avril</td>
+<td>Aprile</td>
+<td>2026-05-26T14:54:47.5591264+00:00</td>
+</tr>
+<tr>
+<td>month-may</td>
+<td>Mai</td>
+<td>month</td>
+<td>May</td>
+<td>Mai</td>
+<td>Maggio</td>
+<td>2026-05-26T14:54:54.1206071+00:00</td>
+</tr>
+<tr>
+<td>month-november</td>
+<td>November</td>
+<td>month</td>
+<td>November</td>
+<td>Novembre</td>
+<td>Novembre</td>
+<td>2026-05-26T14:56:21.1526807+00:00</td>
+</tr>
+<tr>
+<td>month-september</td>
+<td>September</td>
+<td>month</td>
+<td>September</td>
+<td>Septembre</td>
+<td>Settembre</td>
+<td>2026-05-26T14:56:37.8594878+00:00</td>
+</tr>
+<tr>
+<td>month-october</td>
+<td>Oktober</td>
+<td>month</td>
+<td>October</td>
+<td>Octobre</td>
+<td>Ottobre</td>
+<td>2026-05-26T14:57:04.1263547+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-qualityinfo-selfdeclared</td>
+<td>Vom Betrieb geprüft</td>
+<td>accesssitios-qualityinfo</td>
+<td>Verified by the business</td>
+<td>Vérifié par l'entreprise</td>
+<td>Verificato dall'azienda</td>
+<td>2026-06-15T08:18:54.3446265+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-qualityinfo-none</td>
+<td>Ungeprüft</td>
+<td>accesssitios-qualityinfo</td>
+<td>Not verified</td>
+<td>Non vérifié</td>
+<td>Non verificato</td>
+<td>2026-06-15T08:18:55.1023777+00:00</td>
+</tr>
+<tr>
+<td>accesssitios-qualityinfo-audited</td>
+<td>Von Fachorganisation geprüft</td>
+<td>accesssitios-qualityinfo</td>
+<td>Verified by specialist organization</td>
+<td>Vérifié par une organisation professionnelle</td>
+<td>Verificato da un'organizzazione specializzata</td>
+<td>2026-06-15T08:19:01.0240956+00:00</td>
 </tr>
 </tbody>
 </table>
