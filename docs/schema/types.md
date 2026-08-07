@@ -12,7 +12,7 @@ hide:
 - :octicons-git-compare-16: [Compare CSV](https://github.com/contentdesk/docs.contentdesk.io/blob/main/docs/schema/types.csv)
 
 </div>
-Anzahl Typen: 589
+Anzahl Typen: 654
 
 <table id="charts-table" class="display" style="width:100%">
         <thead>
@@ -102,8 +102,8 @@ Anzahl Typen: 589
 <tr>
 <td>NatureReserve</td>
 <td>Naturschutzgebiet</td>
-<td>CivicStructure</td>
-<td>Nature reserve</td>
+<td>ProtectedArea</td>
+<td>Nature Reserve</td>
 <td>Réserve naturelle</td>
 <td>Riserva naturale</td>
 </tr>
@@ -118,9 +118,9 @@ Anzahl Typen: 589
 <tr>
 <td>ProtectedArea</td>
 <td>Schutzgebiet</td>
-<td>CivicStructure</td>
-<td>Protected area</td>
-<td>Zone protégée</td>
+<td>Place</td>
+<td>Protected Area</td>
+<td>Aire protégée</td>
 <td>Area protetta</td>
 </tr>
 <tr>
@@ -186,6 +186,14 @@ Anzahl Typen: 589
 <td>Image Object</td>
 <td>Image objet</td>
 <td>Oggetto Immagine</td>
+</tr>
+<tr>
+<td>ElevationProfile</td>
+<td>Höhenprofil</td>
+<td>ImageObject</td>
+<td>Elevation profile</td>
+<td>Profil d’altitude</td>
+<td>Profilo altimetrico</td>
 </tr>
 <tr>
 <td>Logo</td>
@@ -710,8 +718,8 @@ Anzahl Typen: 589
 <tr>
 <td>NaturePark</td>
 <td>Naturpark</td>
-<td>CivicStructure</td>
-<td>Nature park</td>
+<td>ProtectedArea</td>
+<td>Nature Park</td>
 <td>Parc naturel</td>
 <td>Parco naturale</td>
 </tr>
@@ -782,7 +790,7 @@ Anzahl Typen: 589
 <tr>
 <td>Biotope</td>
 <td>Biotop</td>
-<td>CivicStructure</td>
+<td>ProtectedArea</td>
 <td>Biotope</td>
 <td>Biotope</td>
 <td>Biotopo</td>
@@ -3436,6 +3444,494 @@ Anzahl Typen: 589
 <td>paesaggio urbano</td>
 </tr>
 <tr>
+<td>BiospherePark</td>
+<td>Biosphärenpark</td>
+<td>ProtectedArea</td>
+<td>Biosphere Park</td>
+<td>Parc de la biosphère</td>
+<td>Parco della biosfera</td>
+</tr>
+<tr>
+<td>BiosphereReserve</td>
+<td>Biosphärenreservat</td>
+<td>ProtectedArea</td>
+<td>Biosphere Reserve</td>
+<td>Réserve de biosphère</td>
+<td>Riserva della biosfera</td>
+</tr>
+<tr>
+<td>BirdSanctuary</td>
+<td>Vogelschutzgebiet</td>
+<td>ProtectedArea</td>
+<td>Bird Sanctuary</td>
+<td>Zone de protection des oiseaux</td>
+<td>Zona di protezione degli uccelli</td>
+</tr>
+<tr>
+<td>BufferZone</td>
+<td>Puffer- oder Pflegezone</td>
+<td>ProtectedArea</td>
+<td>Buffer Zone</td>
+<td>Zone tampon</td>
+<td>Zona tampone</td>
+</tr>
+<tr>
+<td>CantonalHuntingReserves</td>
+<td>Jagdbanngebiet kantonal</td>
+<td>ProtectedArea</td>
+<td>Cantonal Hunting Reserves</td>
+<td>Réserves de chasse cantonales</td>
+<td>Riserve di caccia cantonali</td>
+</tr>
+<tr>
+<td>CantonalNatureReserve</td>
+<td>Kantonales Naturschutzgebiet</td>
+<td>ProtectedArea</td>
+<td>Cantonal Nature Reserve</td>
+<td>Réserve naturelle cantonale</td>
+<td>Riserva naturale cantonale</td>
+</tr>
+<tr>
+<td>ChapelZone</td>
+<td>Kapellenzone</td>
+<td>ProtectedArea</td>
+<td>Chapel Zone</td>
+<td>Zone de chapelle</td>
+<td>Zona cappella</td>
+</tr>
+<tr>
+<td>CoreZone</td>
+<td>Kernzone</td>
+<td>ProtectedArea</td>
+<td>Core Zone</td>
+<td>Zone centrale</td>
+<td>Zona centrale</td>
+</tr>
+<tr>
+<td>CureZone</td>
+<td>Kurzone</td>
+<td>ProtectedArea</td>
+<td>Cure Zone</td>
+<td>Zone de cure</td>
+<td>Zona termale</td>
+</tr>
+<tr>
+<td>DbuNatureHeritageArea</td>
+<td>DBU Naturerbefläche</td>
+<td>ProtectedArea</td>
+<td>DBU Nature Heritage Area</td>
+<td>Zone de patrimoine naturel DBU</td>
+<td>Area di patrimonio naturale DBU</td>
+</tr>
+<tr>
+<td>DevelopmentZone</td>
+<td>Entwicklungszone</td>
+<td>ProtectedArea</td>
+<td>Development Zone</td>
+<td>Zone de développement</td>
+<td>Zona di sviluppo</td>
+</tr>
+<tr>
+<td>EcologicalDevelopmentArea</td>
+<td>Ökologische Entwicklungsfläche</td>
+<td>ProtectedArea</td>
+<td>Ecological Development Area</td>
+<td>Zone de développement écologique</td>
+<td>Area di sviluppo ecologico</td>
+</tr>
+<tr>
+<td>EmeraldNetworkArea</td>
+<td>Gebiet mit besonderem Schutzinteresse (Smaragd Netzwerk)</td>
+<td>ProtectedArea</td>
+<td>Area of Special Conservation Interest (Emerald Network)</td>
+<td>Zone d'intérêt spécial de conservation (Réseau Émeraude)</td>
+<td>Area di interesse conservativo speciale (Rete Smeraldo)</td>
+</tr>
+<tr>
+<td>FaunaFloraHabitatArea</td>
+<td>Fauna-Flora-Habitat Gebiet</td>
+<td>ProtectedArea</td>
+<td>Fauna-Flora-Habitat Area</td>
+<td>Zone Faune-Flore-Habitat</td>
+<td>Zona Fauna-Flora-Habitat</td>
+</tr>
+<tr>
+<td>FederalFenlandsInventory</td>
+<td>Bundesinventar der Flachmoore von nationaler Bedeutung</td>
+<td>ProtectedArea</td>
+<td>Federal Inventory of Fenlands of National Importance</td>
+<td>Inventaire fédéral des bas-marais d'importance nationale</td>
+<td>Inventario federale delle paludi basse d'importanza nazionale</td>
+</tr>
+<tr>
+<td>FederalHuntingReserves</td>
+<td>Eidgenössische Jagdbanngebiete</td>
+<td>ProtectedArea</td>
+<td>Federal Hunting Reserves</td>
+<td>Réserves fédérales de chasse</td>
+<td>Riserve federali di caccia</td>
+</tr>
+<tr>
+<td>FederalLandscapeInventory</td>
+<td>Bundeslandschaftsinventar</td>
+<td>ProtectedArea</td>
+<td>Federal Landscape Inventory</td>
+<td>Inventaire fédéral des paysages</td>
+<td>Inventario federale dei paesaggi</td>
+</tr>
+<tr>
+<td>FederalMiresInventory</td>
+<td>Bundesinventar der Moorlandschaften von besonderer Schönheit und von nationaler Bedeutung</td>
+<td>ProtectedArea</td>
+<td>Federal Inventory of Mires of Outstanding Beauty and National Importance</td>
+<td>Inventaire fédéral des paysages de marais d'une beauté particulière et d'importance nationale</td>
+<td>Inventario federale dei paesaggi palustri di particolare bellezza e d'importanza nazionale</td>
+</tr>
+<tr>
+<td>FederalWaterbirdsInventory</td>
+<td>Bundesinventar der Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung</td>
+<td>ProtectedArea</td>
+<td>Federal Inventory of Reserves for Waterbirds and Migratory Birds of International and National Importance</td>
+<td>Inventaire fédéral des réserves d'oiseaux d'eau et de migrateurs d'importance internationale et nationale</td>
+<td>Inventario federale delle riserve per uccelli acquatici e migratori d'importanza internazionale e nazionale</td>
+</tr>
+<tr>
+<td>FloraProtectionArea</td>
+<td>Pflanzenschutzgebiet</td>
+<td>ProtectedArea</td>
+<td>Flora Protection Area</td>
+<td>Zone de protection de la flore</td>
+<td>Area di protezione della flora</td>
+</tr>
+<tr>
+<td>ForestArea</td>
+<td>Waldareal</td>
+<td>ProtectedArea</td>
+<td>Forest Area</td>
+<td>Zone forestière</td>
+<td>Area forestale</td>
+</tr>
+<tr>
+<td>ForestWildlifeProtectionZone</td>
+<td>Wald- und Wildschutzzone</td>
+<td>ProtectedArea</td>
+<td>Forest and Wildlife Protection Zone</td>
+<td>Zone de protection forêt et faune</td>
+<td>Zona di protezione foresta e fauna</td>
+</tr>
+<tr>
+<td>ForestWildlifeSanctuary</td>
+<td>Wald-Wild-Schongebiet</td>
+<td>ProtectedArea</td>
+<td>Forest Wildlife Sanctuary</td>
+<td>Réserve forestière de faune</td>
+<td>Zona di rispetto forestale-faunistica</td>
+</tr>
+<tr>
+<td>FungalReserve</td>
+<td>Pilzschutzgebiet</td>
+<td>ProtectedArea</td>
+<td>Fungal Reserve</td>
+<td>Réserve mycologique</td>
+<td>Riserva micologica</td>
+</tr>
+<tr>
+<td>GuardianDogPasture</td>
+<td>Alpweiden mit Herdenschutzhunden</td>
+<td>ProtectedArea</td>
+<td>Alpine Pastures with Livestock Guardian Dogs</td>
+<td>Alpages avec chiens de protection du troupeau</td>
+<td>Pascoli alpini con cani da protezione del gregge</td>
+</tr>
+<tr>
+<td>HorticulturalMonument</td>
+<td>Gartenbau-Denkmal</td>
+<td>ProtectedArea</td>
+<td>Horticultural Monument</td>
+<td>Monument horticole</td>
+<td>Monumento orticolo</td>
+</tr>
+<tr>
+<td>HuntingEntryProhibition</td>
+<td>Jagdrechtliches Betretungsverbot</td>
+<td>ProtectedArea</td>
+<td>Hunting Law Entry Prohibition</td>
+<td>Interdiction d'entrée selon le droit de la chasse</td>
+<td>Divieto di accesso secondo la legge sulla caccia</td>
+</tr>
+<tr>
+<td>IntermediateZone</td>
+<td>Zwischenzone</td>
+<td>ProtectedArea</td>
+<td>Intermediate Zone</td>
+<td>Zone intermédiaire</td>
+<td>Zona intermedia</td>
+</tr>
+<tr>
+<td>LandscapeNatureProtectionArea</td>
+<td>Landschafts- und Naturschutzgebiet</td>
+<td>ProtectedArea</td>
+<td>Landscape and Nature Protection Area</td>
+<td>Zone de protection du paysage et de la nature</td>
+<td>Area di protezione del paesaggio e della natura</td>
+</tr>
+<tr>
+<td>LandscapePark</td>
+<td>Landschaftspark</td>
+<td>ProtectedArea</td>
+<td>Landscape Park</td>
+<td>Parc paysager</td>
+<td>Parco paesaggistico</td>
+</tr>
+<tr>
+<td>LandscapeProtectionArea</td>
+<td>Landschaftsschutzgebiet</td>
+<td>ProtectedArea</td>
+<td>Landscape Protection Area</td>
+<td>Zone de protection du paysage</td>
+<td>Area di protezione del paesaggio</td>
+</tr>
+<tr>
+<td>NationalNatureMonument</td>
+<td>Nationales Naturmonument</td>
+<td>ProtectedArea</td>
+<td>National Nature Monument</td>
+<td>Monument naturel national</td>
+<td>Monumento naturale nazionale</td>
+</tr>
+<tr>
+<td>NationalPark</td>
+<td>Nationalpark</td>
+<td>ProtectedArea</td>
+<td>National Park</td>
+<td>Parc national</td>
+<td>Parco nazionale</td>
+</tr>
+<tr>
+<td>NatureDiscoveryPark</td>
+<td>Naturerlebnispark</td>
+<td>ProtectedArea</td>
+<td>Nature Discovery Park</td>
+<td>Parc de découverte de la nature</td>
+<td>Parco di scoperta della natura</td>
+</tr>
+<tr>
+<td>NatureMonument</td>
+<td>Naturdenkmal</td>
+<td>ProtectedArea</td>
+<td>Nature Monument</td>
+<td>Monument naturel</td>
+<td>Monumento naturale</td>
+</tr>
+<tr>
+<td>NatureProtectionZone</td>
+<td>Naturschutzzone</td>
+<td>ProtectedArea</td>
+<td>Nature Protection Zone</td>
+<td>Zone de protection de la nature</td>
+<td>Zona di protezione della natura</td>
+</tr>
+<tr>
+<td>ProtectedBiotopes</td>
+<td>Geschützte Biotope</td>
+<td>ProtectedArea</td>
+<td>Protected Biotopes</td>
+<td>Biotopes protégés</td>
+<td>Biotopi protetti</td>
+</tr>
+<tr>
+<td>ProtectedHabitat</td>
+<td>Geschützter Lebensraum</td>
+<td>ProtectedArea</td>
+<td>Protected Habitat</td>
+<td>Habitat protégé</td>
+<td>Habitat protetto</td>
+</tr>
+<tr>
+<td>ProtectedLandscapeElement</td>
+<td>Geschützter Landschaftsbestandteil</td>
+<td>ProtectedArea</td>
+<td>Protected Landscape Element</td>
+<td>Élément de paysage protégé</td>
+<td>Elemento paesaggistico protetto</td>
+</tr>
+<tr>
+<td>ProtectedLandscapeSection</td>
+<td>Geschützter Landschaftsteil</td>
+<td>ProtectedArea</td>
+<td>Protected Landscape Section</td>
+<td>Section de paysage protégée</td>
+<td>Sezione paesaggistica protetta</td>
+</tr>
+<tr>
+<td>ProtectedNaturalObjects</td>
+<td>Geschützte Naturgebilde von örtlicher Bedeutung</td>
+<td>ProtectedArea</td>
+<td>Protected Natural Objects of Local Importance</td>
+<td>Objets naturels protégés d'importance locale</td>
+<td>Oggetti naturali protetti di importanza locale</td>
+</tr>
+<tr>
+<td>ProtectionZone</td>
+<td>Schutzzone</td>
+<td>ProtectedArea</td>
+<td>Protection Zone</td>
+<td>Zone de protection</td>
+<td>Zona di protezione</td>
+</tr>
+<tr>
+<td>QuietZone</td>
+<td>Ruhezone</td>
+<td>ProtectedArea</td>
+<td>Quiet Zone</td>
+<td>Zone de tranquillité</td>
+<td>Zona di quiete</td>
+</tr>
+<tr>
+<td>RamsarWetlandArea</td>
+<td>RAMSAR Feuchtgebiet</td>
+<td>ProtectedArea</td>
+<td>RAMSAR Wetland Area</td>
+<td>Zone humide RAMSAR</td>
+<td>Area umida RAMSAR</td>
+</tr>
+<tr>
+<td>RecoveryZone</td>
+<td>Erholungszone</td>
+<td>ProtectedArea</td>
+<td>Recovery Zone</td>
+<td>Zone de récupération</td>
+<td>Zona di recupero</td>
+</tr>
+<tr>
+<td>RegionalLandscapeInventory</td>
+<td>Regionales Landschaftsinventar</td>
+<td>ProtectedArea</td>
+<td>Regional Landscape Inventory</td>
+<td>Inventaire régional des paysages</td>
+<td>Inventario regionale dei paesaggi</td>
+</tr>
+<tr>
+<td>RegionalNaturePark</td>
+<td>Regionaler Naturpark</td>
+<td>ProtectedArea</td>
+<td>Regional Nature Park</td>
+<td>Parc naturel régional</td>
+<td>Parco naturale regionale</td>
+</tr>
+<tr>
+<td>RegionalPark</td>
+<td>Regionaler Park</td>
+<td>ProtectedArea</td>
+<td>Regional Park</td>
+<td>Parc régional</td>
+<td>Parco regionale</td>
+</tr>
+<tr>
+<td>RegionalProtectedAreas</td>
+<td>Örtliche Schutzgebiete</td>
+<td>ProtectedArea</td>
+<td>Regional Protected Areas</td>
+<td>Zones protégées régionales</td>
+<td>Aree protette regionali</td>
+</tr>
+<tr>
+<td>RestArea</td>
+<td>Ruhegebiet</td>
+<td>ProtectedArea</td>
+<td>Rest Area</td>
+<td>Zone de repos</td>
+<td>Area di riposo</td>
+</tr>
+<tr>
+<td>RestrictedMilitaryArea</td>
+<td>Militärisches Sperrgebiet</td>
+<td>ProtectedArea</td>
+<td>Restricted Military Area</td>
+<td>Zone militaire restreinte</td>
+<td>Area militare riservata</td>
+</tr>
+<tr>
+<td>SpecialProtectionArea</td>
+<td>Sonderschutzgebiet</td>
+<td>ProtectedArea</td>
+<td>Special Protection Area</td>
+<td>Zone de protection spéciale</td>
+<td>Area di protezione speciale</td>
+</tr>
+<tr>
+<td>SpecialPurposeForest</td>
+<td>Wald mit besonderem Zweck</td>
+<td>ProtectedArea</td>
+<td>Special Purpose Forest</td>
+<td>Forêt à usage spécial</td>
+<td>Foresta a scopo speciale</td>
+</tr>
+<tr>
+<td>StrictNatureReserve</td>
+<td>Strenges Naturreservat</td>
+<td>ProtectedArea</td>
+<td>Strict Nature Reserve</td>
+<td>Réserve naturelle stricte</td>
+<td>Riserva naturale integrale</td>
+</tr>
+<tr>
+<td>SurroundingZone</td>
+<td>Umgebungszone</td>
+<td>ProtectedArea</td>
+<td>Surrounding Zone</td>
+<td>Zone environnante</td>
+<td>Zona circostante</td>
+</tr>
+<tr>
+<td>SwissNationalPark</td>
+<td>Schweizerischer Nationalpark</td>
+<td>ProtectedArea</td>
+<td>Swiss National Park</td>
+<td>Parc national suisse</td>
+<td>Parco nazionale svizzero</td>
+</tr>
+<tr>
+<td>UnescoWorldHeritage</td>
+<td>UNESCO Welterbe</td>
+<td>ProtectedArea</td>
+<td>UNESCO World Heritage</td>
+<td>Patrimoine mondial UNESCO</td>
+<td>Patrimonio mondiale UNESCO</td>
+</tr>
+<tr>
+<td>VoluntaryWildlifeRefuge</td>
+<td>Freiwillige Wildruhezone</td>
+<td>ProtectedArea</td>
+<td>Voluntary Wildlife Refuge</td>
+<td>Zone de tranquillité faunique volontaire</td>
+<td>Zona di rifugio volontaria della fauna selvatica</td>
+</tr>
+<tr>
+<td>WildlifeRefuge</td>
+<td>Wildruhezone</td>
+<td>ProtectedArea</td>
+<td>Wildlife Refuge</td>
+<td>Zone de tranquillité pour la faune</td>
+<td>Zona di rifugio della fauna selvatica</td>
+</tr>
+<tr>
+<td>WildlifeSanctuary</td>
+<td>Wildschutzgebiet</td>
+<td>ProtectedArea</td>
+<td>Wildlife Sanctuary</td>
+<td>Réserve faunique</td>
+<td>Riserva faunistica</td>
+</tr>
+<tr>
+<td>WinterQuietZone</td>
+<td>Winterruhezone</td>
+<td>ProtectedArea</td>
+<td>Winter Quiet Zone</td>
+<td>Zone de tranquillité hivernale</td>
+<td>Zona di quiete invernale</td>
+</tr>
+<tr>
 <td>Tour</td>
 <td>Tour</td>
 <td>Place</td>
@@ -4300,6 +4796,14 @@ Anzahl Typen: 589
 <td>Informationen zur Zugänglichkeit Sitios HotellerieSuisse</td>
 </tr>
 <tr>
+<td>accesssitios-qualityinfo</td>
+<td>Informationen zur Sitios Datenqualität</td>
+<td>Tag</td>
+<td>Information on Sitios data quality</td>
+<td>Informations sur la qualité des données de Sitios</td>
+<td>Informazioni sulla qualità dei dati di Sitios</td>
+</tr>
+<tr>
 <td>accomodation</td>
 <td>Übernachten</td>
 <td>Tag</td>
@@ -4388,6 +4892,14 @@ Anzahl Typen: 589
 <td>Ausflugsdauer</td>
 </tr>
 <tr>
+<td>gdl-feed</td>
+<td>GDL feed</td>
+<td>Tag</td>
+<td>GDL feed</td>
+<td>GDL feed</td>
+<td>GDL feed</td>
+</tr>
+<tr>
 <td>genre</td>
 <td>Sorte</td>
 <td>Tag</td>
@@ -4450,6 +4962,14 @@ Anzahl Typen: 589
 <td>Market type</td>
 <td>Markt-Typ</td>
 <td>Markt-Typ</td>
+</tr>
+<tr>
+<td>month</td>
+<td>Monat</td>
+<td>Tag</td>
+<td>Month</td>
+<td>Monat</td>
+<td>Monat</td>
 </tr>
 <tr>
 <td>music</td>

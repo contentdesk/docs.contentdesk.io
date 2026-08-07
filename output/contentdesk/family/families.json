@@ -91,9 +91,9 @@
     },
     "NatureReserve": {
         "code": "NatureReserve",
-        "parent": "CivicStructure",
+        "parent": "ProtectedArea",
         "labels": {
-            "en_US": "Nature reserve",
+            "en_US": "Nature Reserve",
             "de_CH": "Naturschutzgebiet",
             "fr_FR": "R\u00e9serve naturelle",
             "it_IT": "Riserva naturale"
@@ -111,11 +111,11 @@
     },
     "ProtectedArea": {
         "code": "ProtectedArea",
-        "parent": "CivicStructure",
+        "parent": "Place",
         "labels": {
-            "en_US": "Protected area",
+            "en_US": "Protected Area",
             "de_CH": "Schutzgebiet",
-            "fr_FR": "Zone prot\u00e9g\u00e9e",
+            "fr_FR": "Aire prot\u00e9g\u00e9e",
             "it_IT": "Area protetta"
         }
     },
@@ -197,6 +197,16 @@
             "de_CH": "Bild-Objekt",
             "fr_FR": "Image objet",
             "it_IT": "Oggetto Immagine"
+        }
+    },
+    "ElevationProfile": {
+        "code": "ElevationProfile",
+        "parent": "ImageObject",
+        "labels": {
+            "en_US": "Elevation profile",
+            "de_CH": "H\u00f6henprofil",
+            "fr_FR": "Profil d\u2019altitude",
+            "it_IT": "Profilo altimetrico"
         }
     },
     "Logo": {
@@ -851,9 +861,9 @@
     },
     "NaturePark": {
         "code": "NaturePark",
-        "parent": "CivicStructure",
+        "parent": "ProtectedArea",
         "labels": {
-            "en_US": "Nature park",
+            "en_US": "Nature Park",
             "de_CH": "Naturpark",
             "fr_FR": "Parc naturel",
             "it_IT": "Parco naturale"
@@ -941,7 +951,7 @@
     },
     "Biotope": {
         "code": "Biotope",
-        "parent": "CivicStructure",
+        "parent": "ProtectedArea",
         "labels": {
             "en_US": "Biotope",
             "de_CH": "Biotop",
@@ -4259,6 +4269,616 @@
             "it_IT": "paesaggio urbano"
         }
     },
+    "BiospherePark": {
+        "code": "BiospherePark",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Biosphere Park",
+            "de_CH": "Biosph\u00e4renpark",
+            "fr_FR": "Parc de la biosph\u00e8re",
+            "it_IT": "Parco della biosfera"
+        }
+    },
+    "BiosphereReserve": {
+        "code": "BiosphereReserve",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Biosphere Reserve",
+            "de_CH": "Biosph\u00e4renreservat",
+            "fr_FR": "R\u00e9serve de biosph\u00e8re",
+            "it_IT": "Riserva della biosfera"
+        }
+    },
+    "BirdSanctuary": {
+        "code": "BirdSanctuary",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Bird Sanctuary",
+            "de_CH": "Vogelschutzgebiet",
+            "fr_FR": "Zone de protection des oiseaux",
+            "it_IT": "Zona di protezione degli uccelli"
+        }
+    },
+    "BufferZone": {
+        "code": "BufferZone",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Buffer Zone",
+            "de_CH": "Puffer- oder Pflegezone",
+            "fr_FR": "Zone tampon",
+            "it_IT": "Zona tampone"
+        }
+    },
+    "CantonalHuntingReserves": {
+        "code": "CantonalHuntingReserves",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Cantonal Hunting Reserves",
+            "de_CH": "Jagdbanngebiet kantonal",
+            "fr_FR": "R\u00e9serves de chasse cantonales",
+            "it_IT": "Riserve di caccia cantonali"
+        }
+    },
+    "CantonalNatureReserve": {
+        "code": "CantonalNatureReserve",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Cantonal Nature Reserve",
+            "de_CH": "Kantonales Naturschutzgebiet",
+            "fr_FR": "R\u00e9serve naturelle cantonale",
+            "it_IT": "Riserva naturale cantonale"
+        }
+    },
+    "ChapelZone": {
+        "code": "ChapelZone",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Chapel Zone",
+            "de_CH": "Kapellenzone",
+            "fr_FR": "Zone de chapelle",
+            "it_IT": "Zona cappella"
+        }
+    },
+    "CoreZone": {
+        "code": "CoreZone",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Core Zone",
+            "de_CH": "Kernzone",
+            "fr_FR": "Zone centrale",
+            "it_IT": "Zona centrale"
+        }
+    },
+    "CureZone": {
+        "code": "CureZone",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Cure Zone",
+            "de_CH": "Kurzone",
+            "fr_FR": "Zone de cure",
+            "it_IT": "Zona termale"
+        }
+    },
+    "DbuNatureHeritageArea": {
+        "code": "DbuNatureHeritageArea",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "DBU Nature Heritage Area",
+            "de_CH": "DBU Naturerbefl\u00e4che",
+            "fr_FR": "Zone de patrimoine naturel DBU",
+            "it_IT": "Area di patrimonio naturale DBU"
+        }
+    },
+    "DevelopmentZone": {
+        "code": "DevelopmentZone",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Development Zone",
+            "de_CH": "Entwicklungszone",
+            "fr_FR": "Zone de d\u00e9veloppement",
+            "it_IT": "Zona di sviluppo"
+        }
+    },
+    "EcologicalDevelopmentArea": {
+        "code": "EcologicalDevelopmentArea",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Ecological Development Area",
+            "de_CH": "\u00d6kologische Entwicklungsfl\u00e4che",
+            "fr_FR": "Zone de d\u00e9veloppement \u00e9cologique",
+            "it_IT": "Area di sviluppo ecologico"
+        }
+    },
+    "EmeraldNetworkArea": {
+        "code": "EmeraldNetworkArea",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Area of Special Conservation Interest (Emerald Network)",
+            "de_CH": "Gebiet mit besonderem Schutzinteresse (Smaragd Netzwerk)",
+            "fr_FR": "Zone d'int\u00e9r\u00eat sp\u00e9cial de conservation (R\u00e9seau \u00c9meraude)",
+            "it_IT": "Area di interesse conservativo speciale (Rete Smeraldo)"
+        }
+    },
+    "FaunaFloraHabitatArea": {
+        "code": "FaunaFloraHabitatArea",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Fauna-Flora-Habitat Area",
+            "de_CH": "Fauna-Flora-Habitat Gebiet",
+            "fr_FR": "Zone Faune-Flore-Habitat",
+            "it_IT": "Zona Fauna-Flora-Habitat"
+        }
+    },
+    "FederalFenlandsInventory": {
+        "code": "FederalFenlandsInventory",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Federal Inventory of Fenlands of National Importance",
+            "de_CH": "Bundesinventar der Flachmoore von nationaler Bedeutung",
+            "fr_FR": "Inventaire f\u00e9d\u00e9ral des bas-marais d'importance nationale",
+            "it_IT": "Inventario federale delle paludi basse d'importanza nazionale"
+        }
+    },
+    "FederalHuntingReserves": {
+        "code": "FederalHuntingReserves",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Federal Hunting Reserves",
+            "de_CH": "Eidgen\u00f6ssische Jagdbanngebiete",
+            "fr_FR": "R\u00e9serves f\u00e9d\u00e9rales de chasse",
+            "it_IT": "Riserve federali di caccia"
+        }
+    },
+    "FederalLandscapeInventory": {
+        "code": "FederalLandscapeInventory",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Federal Landscape Inventory",
+            "de_CH": "Bundeslandschaftsinventar",
+            "fr_FR": "Inventaire f\u00e9d\u00e9ral des paysages",
+            "it_IT": "Inventario federale dei paesaggi"
+        }
+    },
+    "FederalMiresInventory": {
+        "code": "FederalMiresInventory",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Federal Inventory of Mires of Outstanding Beauty and National Importance",
+            "de_CH": "Bundesinventar der Moorlandschaften von besonderer Sch\u00f6nheit und von nationaler Bedeutung",
+            "fr_FR": "Inventaire f\u00e9d\u00e9ral des paysages de marais d'une beaut\u00e9 particuli\u00e8re et d'importance nationale",
+            "it_IT": "Inventario federale dei paesaggi palustri di particolare bellezza e d'importanza nazionale"
+        }
+    },
+    "FederalWaterbirdsInventory": {
+        "code": "FederalWaterbirdsInventory",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Federal Inventory of Reserves for Waterbirds and Migratory Birds of International and National Importance",
+            "de_CH": "Bundesinventar der Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung",
+            "fr_FR": "Inventaire f\u00e9d\u00e9ral des r\u00e9serves d'oiseaux d'eau et de migrateurs d'importance internationale et nationale",
+            "it_IT": "Inventario federale delle riserve per uccelli acquatici e migratori d'importanza internazionale e nazionale"
+        }
+    },
+    "FloraProtectionArea": {
+        "code": "FloraProtectionArea",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Flora Protection Area",
+            "de_CH": "Pflanzenschutzgebiet",
+            "fr_FR": "Zone de protection de la flore",
+            "it_IT": "Area di protezione della flora"
+        }
+    },
+    "ForestArea": {
+        "code": "ForestArea",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Forest Area",
+            "de_CH": "Waldareal",
+            "fr_FR": "Zone foresti\u00e8re",
+            "it_IT": "Area forestale"
+        }
+    },
+    "ForestWildlifeProtectionZone": {
+        "code": "ForestWildlifeProtectionZone",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Forest and Wildlife Protection Zone",
+            "de_CH": "Wald- und Wildschutzzone",
+            "fr_FR": "Zone de protection for\u00eat et faune",
+            "it_IT": "Zona di protezione foresta e fauna"
+        }
+    },
+    "ForestWildlifeSanctuary": {
+        "code": "ForestWildlifeSanctuary",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Forest Wildlife Sanctuary",
+            "de_CH": "Wald-Wild-Schongebiet",
+            "fr_FR": "R\u00e9serve foresti\u00e8re de faune",
+            "it_IT": "Zona di rispetto forestale-faunistica"
+        }
+    },
+    "FungalReserve": {
+        "code": "FungalReserve",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Fungal Reserve",
+            "de_CH": "Pilzschutzgebiet",
+            "fr_FR": "R\u00e9serve mycologique",
+            "it_IT": "Riserva micologica"
+        }
+    },
+    "GuardianDogPasture": {
+        "code": "GuardianDogPasture",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Alpine Pastures with Livestock Guardian Dogs",
+            "de_CH": "Alpweiden mit Herdenschutzhunden",
+            "fr_FR": "Alpages avec chiens de protection du troupeau",
+            "it_IT": "Pascoli alpini con cani da protezione del gregge"
+        }
+    },
+    "HorticulturalMonument": {
+        "code": "HorticulturalMonument",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Horticultural Monument",
+            "de_CH": "Gartenbau-Denkmal",
+            "fr_FR": "Monument horticole",
+            "it_IT": "Monumento orticolo"
+        }
+    },
+    "HuntingEntryProhibition": {
+        "code": "HuntingEntryProhibition",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Hunting Law Entry Prohibition",
+            "de_CH": "Jagdrechtliches Betretungsverbot",
+            "fr_FR": "Interdiction d'entr\u00e9e selon le droit de la chasse",
+            "it_IT": "Divieto di accesso secondo la legge sulla caccia"
+        }
+    },
+    "IntermediateZone": {
+        "code": "IntermediateZone",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Intermediate Zone",
+            "de_CH": "Zwischenzone",
+            "fr_FR": "Zone interm\u00e9diaire",
+            "it_IT": "Zona intermedia"
+        }
+    },
+    "LandscapeNatureProtectionArea": {
+        "code": "LandscapeNatureProtectionArea",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Landscape and Nature Protection Area",
+            "de_CH": "Landschafts- und Naturschutzgebiet",
+            "fr_FR": "Zone de protection du paysage et de la nature",
+            "it_IT": "Area di protezione del paesaggio e della natura"
+        }
+    },
+    "LandscapePark": {
+        "code": "LandscapePark",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Landscape Park",
+            "de_CH": "Landschaftspark",
+            "fr_FR": "Parc paysager",
+            "it_IT": "Parco paesaggistico"
+        }
+    },
+    "LandscapeProtectionArea": {
+        "code": "LandscapeProtectionArea",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Landscape Protection Area",
+            "de_CH": "Landschaftsschutzgebiet",
+            "fr_FR": "Zone de protection du paysage",
+            "it_IT": "Area di protezione del paesaggio"
+        }
+    },
+    "NationalNatureMonument": {
+        "code": "NationalNatureMonument",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "National Nature Monument",
+            "de_CH": "Nationales Naturmonument",
+            "fr_FR": "Monument naturel national",
+            "it_IT": "Monumento naturale nazionale"
+        }
+    },
+    "NationalPark": {
+        "code": "NationalPark",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "National Park",
+            "de_CH": "Nationalpark",
+            "fr_FR": "Parc national",
+            "it_IT": "Parco nazionale"
+        }
+    },
+    "NatureDiscoveryPark": {
+        "code": "NatureDiscoveryPark",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Nature Discovery Park",
+            "de_CH": "Naturerlebnispark",
+            "fr_FR": "Parc de d\u00e9couverte de la nature",
+            "it_IT": "Parco di scoperta della natura"
+        }
+    },
+    "NatureMonument": {
+        "code": "NatureMonument",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Nature Monument",
+            "de_CH": "Naturdenkmal",
+            "fr_FR": "Monument naturel",
+            "it_IT": "Monumento naturale"
+        }
+    },
+    "NatureProtectionZone": {
+        "code": "NatureProtectionZone",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Nature Protection Zone",
+            "de_CH": "Naturschutzzone",
+            "fr_FR": "Zone de protection de la nature",
+            "it_IT": "Zona di protezione della natura"
+        }
+    },
+    "ProtectedBiotopes": {
+        "code": "ProtectedBiotopes",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Protected Biotopes",
+            "de_CH": "Gesch\u00fctzte Biotope",
+            "fr_FR": "Biotopes prot\u00e9g\u00e9s",
+            "it_IT": "Biotopi protetti"
+        }
+    },
+    "ProtectedHabitat": {
+        "code": "ProtectedHabitat",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Protected Habitat",
+            "de_CH": "Gesch\u00fctzter Lebensraum",
+            "fr_FR": "Habitat prot\u00e9g\u00e9",
+            "it_IT": "Habitat protetto"
+        }
+    },
+    "ProtectedLandscapeElement": {
+        "code": "ProtectedLandscapeElement",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Protected Landscape Element",
+            "de_CH": "Gesch\u00fctzter Landschaftsbestandteil",
+            "fr_FR": "\u00c9l\u00e9ment de paysage prot\u00e9g\u00e9",
+            "it_IT": "Elemento paesaggistico protetto"
+        }
+    },
+    "ProtectedLandscapeSection": {
+        "code": "ProtectedLandscapeSection",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Protected Landscape Section",
+            "de_CH": "Gesch\u00fctzter Landschaftsteil",
+            "fr_FR": "Section de paysage prot\u00e9g\u00e9e",
+            "it_IT": "Sezione paesaggistica protetta"
+        }
+    },
+    "ProtectedNaturalObjects": {
+        "code": "ProtectedNaturalObjects",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Protected Natural Objects of Local Importance",
+            "de_CH": "Gesch\u00fctzte Naturgebilde von \u00f6rtlicher Bedeutung",
+            "fr_FR": "Objets naturels prot\u00e9g\u00e9s d'importance locale",
+            "it_IT": "Oggetti naturali protetti di importanza locale"
+        }
+    },
+    "ProtectionZone": {
+        "code": "ProtectionZone",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Protection Zone",
+            "de_CH": "Schutzzone",
+            "fr_FR": "Zone de protection",
+            "it_IT": "Zona di protezione"
+        }
+    },
+    "QuietZone": {
+        "code": "QuietZone",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Quiet Zone",
+            "de_CH": "Ruhezone",
+            "fr_FR": "Zone de tranquillit\u00e9",
+            "it_IT": "Zona di quiete"
+        }
+    },
+    "RamsarWetlandArea": {
+        "code": "RamsarWetlandArea",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "RAMSAR Wetland Area",
+            "de_CH": "RAMSAR Feuchtgebiet",
+            "fr_FR": "Zone humide RAMSAR",
+            "it_IT": "Area umida RAMSAR"
+        }
+    },
+    "RecoveryZone": {
+        "code": "RecoveryZone",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Recovery Zone",
+            "de_CH": "Erholungszone",
+            "fr_FR": "Zone de r\u00e9cup\u00e9ration",
+            "it_IT": "Zona di recupero"
+        }
+    },
+    "RegionalLandscapeInventory": {
+        "code": "RegionalLandscapeInventory",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Regional Landscape Inventory",
+            "de_CH": "Regionales Landschaftsinventar",
+            "fr_FR": "Inventaire r\u00e9gional des paysages",
+            "it_IT": "Inventario regionale dei paesaggi"
+        }
+    },
+    "RegionalNaturePark": {
+        "code": "RegionalNaturePark",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Regional Nature Park",
+            "de_CH": "Regionaler Naturpark",
+            "fr_FR": "Parc naturel r\u00e9gional",
+            "it_IT": "Parco naturale regionale"
+        }
+    },
+    "RegionalPark": {
+        "code": "RegionalPark",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Regional Park",
+            "de_CH": "Regionaler Park",
+            "fr_FR": "Parc r\u00e9gional",
+            "it_IT": "Parco regionale"
+        }
+    },
+    "RegionalProtectedAreas": {
+        "code": "RegionalProtectedAreas",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Regional Protected Areas",
+            "de_CH": "\u00d6rtliche Schutzgebiete",
+            "fr_FR": "Zones prot\u00e9g\u00e9es r\u00e9gionales",
+            "it_IT": "Aree protette regionali"
+        }
+    },
+    "RestArea": {
+        "code": "RestArea",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Rest Area",
+            "de_CH": "Ruhegebiet",
+            "fr_FR": "Zone de repos",
+            "it_IT": "Area di riposo"
+        }
+    },
+    "RestrictedMilitaryArea": {
+        "code": "RestrictedMilitaryArea",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Restricted Military Area",
+            "de_CH": "Milit\u00e4risches Sperrgebiet",
+            "fr_FR": "Zone militaire restreinte",
+            "it_IT": "Area militare riservata"
+        }
+    },
+    "SpecialProtectionArea": {
+        "code": "SpecialProtectionArea",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Special Protection Area",
+            "de_CH": "Sonderschutzgebiet",
+            "fr_FR": "Zone de protection sp\u00e9ciale",
+            "it_IT": "Area di protezione speciale"
+        }
+    },
+    "SpecialPurposeForest": {
+        "code": "SpecialPurposeForest",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Special Purpose Forest",
+            "de_CH": "Wald mit besonderem Zweck",
+            "fr_FR": "For\u00eat \u00e0 usage sp\u00e9cial",
+            "it_IT": "Foresta a scopo speciale"
+        }
+    },
+    "StrictNatureReserve": {
+        "code": "StrictNatureReserve",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Strict Nature Reserve",
+            "de_CH": "Strenges Naturreservat",
+            "fr_FR": "R\u00e9serve naturelle stricte",
+            "it_IT": "Riserva naturale integrale"
+        }
+    },
+    "SurroundingZone": {
+        "code": "SurroundingZone",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Surrounding Zone",
+            "de_CH": "Umgebungszone",
+            "fr_FR": "Zone environnante",
+            "it_IT": "Zona circostante"
+        }
+    },
+    "SwissNationalPark": {
+        "code": "SwissNationalPark",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Swiss National Park",
+            "de_CH": "Schweizerischer Nationalpark",
+            "fr_FR": "Parc national suisse",
+            "it_IT": "Parco nazionale svizzero"
+        }
+    },
+    "UnescoWorldHeritage": {
+        "code": "UnescoWorldHeritage",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "UNESCO World Heritage",
+            "de_CH": "UNESCO Welterbe",
+            "fr_FR": "Patrimoine mondial UNESCO",
+            "it_IT": "Patrimonio mondiale UNESCO"
+        }
+    },
+    "VoluntaryWildlifeRefuge": {
+        "code": "VoluntaryWildlifeRefuge",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Voluntary Wildlife Refuge",
+            "de_CH": "Freiwillige Wildruhezone",
+            "fr_FR": "Zone de tranquillit\u00e9 faunique volontaire",
+            "it_IT": "Zona di rifugio volontaria della fauna selvatica"
+        }
+    },
+    "WildlifeRefuge": {
+        "code": "WildlifeRefuge",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Wildlife Refuge",
+            "de_CH": "Wildruhezone",
+            "fr_FR": "Zone de tranquillit\u00e9 pour la faune",
+            "it_IT": "Zona di rifugio della fauna selvatica"
+        }
+    },
+    "WildlifeSanctuary": {
+        "code": "WildlifeSanctuary",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Wildlife Sanctuary",
+            "de_CH": "Wildschutzgebiet",
+            "fr_FR": "R\u00e9serve faunique",
+            "it_IT": "Riserva faunistica"
+        }
+    },
+    "WinterQuietZone": {
+        "code": "WinterQuietZone",
+        "parent": "ProtectedArea",
+        "labels": {
+            "en_US": "Winter Quiet Zone",
+            "de_CH": "Winterruhezone",
+            "fr_FR": "Zone de tranquillit\u00e9 hivernale",
+            "it_IT": "Zona di quiete invernale"
+        }
+    },
     "Tour": {
         "code": "Tour",
         "parent": "Place",
@@ -5339,6 +5959,16 @@
             "it_IT": "Informationen zur Zug\u00e4nglichkeit Sitios HotellerieSuisse"
         }
     },
+    "accesssitiosqualityinfo": {
+        "code": "accesssitios-qualityinfo",
+        "parent": "Tag",
+        "labels": {
+            "en_US": "Information on Sitios data quality",
+            "de_CH": "Informationen zur Sitios Datenqualit\u00e4t",
+            "fr_FR": "Informations sur la qualit\u00e9 des donn\u00e9es de Sitios",
+            "it_IT": "Informazioni sulla qualit\u00e0 dei dati di Sitios"
+        }
+    },
     "accomodation": {
         "code": "accomodation",
         "parent": "Tag",
@@ -5449,6 +6079,16 @@
             "it_IT": "Ausflugsdauer"
         }
     },
+    "gdlfeed": {
+        "code": "gdl-feed",
+        "parent": "Tag",
+        "labels": {
+            "en_US": "GDL feed",
+            "de_CH": "GDL feed",
+            "fr_FR": "GDL feed",
+            "it_IT": "GDL feed"
+        }
+    },
     "genre": {
         "code": "genre",
         "parent": "Tag",
@@ -5527,6 +6167,16 @@
             "de_CH": "Markt-Typ",
             "fr_FR": "Markt-Typ",
             "it_IT": "Markt-Typ"
+        }
+    },
+    "month": {
+        "code": "month",
+        "parent": "Tag",
+        "labels": {
+            "en_US": "Month",
+            "de_CH": "Monat",
+            "fr_FR": "Monat",
+            "it_IT": "Monat"
         }
     },
     "music": {

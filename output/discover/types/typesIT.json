@@ -108,6 +108,12 @@
                             "types": [
                                 {
                                     "entityType": "ImageObject",
+                                    "additionalType": "ElevationProfile",
+                                    "name": "Profilo altimetrico",
+                                    "namePlural": "Profili altimetrici"
+                                },
+                                {
+                                    "entityType": "ImageObject",
                                     "additionalType": "Logo",
                                     "name": "Logo",
                                     "namePlural": "Logo"
@@ -555,12 +561,6 @@
                                     "additionalType": "NatureReserve",
                                     "name": "Riserva naturale",
                                     "namePlural": "Riserve naturali"
-                                },
-                                {
-                                    "entityType": "CivicStructure",
-                                    "additionalType": "ProtectedArea",
-                                    "name": "Area protetta",
-                                    "namePlural": "Aree protette"
                                 },
                                 {
                                     "entityType": "CivicStructure",
@@ -2627,6 +2627,389 @@
                     "name": "paesaggio urbano"
                 },
                 {
+                    "entityType": "ProtectedArea",
+                    "name": "Area protetta",
+                    "namePlural": "Aree protette",
+                    "types": [
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "BiospherePark",
+                            "name": "Parco della biosfera",
+                            "namePlural": "Parchi della biosfera"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "BiosphereReserve",
+                            "name": "Riserva della biosfera",
+                            "namePlural": "Riserve della biosfera"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "Biotope",
+                            "name": "Biotopo",
+                            "namePlural": "Biotopi"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "BirdSanctuary",
+                            "name": "Zona di protezione degli uccelli",
+                            "namePlural": "Zone di protezione degli uccelli"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "BufferZone",
+                            "name": "Zona tampone",
+                            "namePlural": "Zone tampone"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "CantonalHuntingReserves",
+                            "name": "Riserve di caccia cantonali",
+                            "namePlural": "Riserve di caccia cantonali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "CantonalNatureReserve",
+                            "name": "Riserva naturale cantonale",
+                            "namePlural": "Riserve naturali cantonali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "ChapelZone",
+                            "name": "Zona cappella",
+                            "namePlural": "Zone cappella"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "CoreZone",
+                            "name": "Zona centrale",
+                            "namePlural": "Zone centrali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "CureZone",
+                            "name": "Zona termale",
+                            "namePlural": "Zone termali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "DbuNatureHeritageArea",
+                            "name": "Area di patrimonio naturale DBU",
+                            "namePlural": "Aree di patrimonio naturale DBU"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "DevelopmentZone",
+                            "name": "Zona di sviluppo",
+                            "namePlural": "Zone di sviluppo"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "EcologicalDevelopmentArea",
+                            "name": "Area di sviluppo ecologico",
+                            "namePlural": "Aree di sviluppo ecologico"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "EmeraldNetworkArea",
+                            "name": "Area di interesse conservativo speciale (Rete Smeraldo)",
+                            "namePlural": "Aree di interesse conservativo speciale"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "FaunaFloraHabitatArea",
+                            "name": "Zona Fauna-Flora-Habitat",
+                            "namePlural": "Zone Fauna-Flora-Habitat"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "FederalFenlandsInventory",
+                            "name": "Inventario federale delle paludi basse d'importanza nazionale"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "FederalHuntingReserves",
+                            "name": "Riserve federali di caccia",
+                            "namePlural": "Riserve federali di caccia"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "FederalLandscapeInventory",
+                            "name": "Inventario federale dei paesaggi"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "FederalMiresInventory",
+                            "name": "Inventario federale dei paesaggi palustri di particolare bellezza e d'importanza nazionale"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "FederalWaterbirdsInventory",
+                            "name": "Inventario federale delle riserve per uccelli acquatici e migratori d'importanza internazionale e nazionale"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "FloraProtectionArea",
+                            "name": "Area di protezione della flora",
+                            "namePlural": "Aree di protezione della flora"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "ForestArea",
+                            "name": "Area forestale",
+                            "namePlural": "Aree forestali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "ForestWildlifeProtectionZone",
+                            "name": "Zona di protezione foresta e fauna",
+                            "namePlural": "Zone di protezione foresta e fauna"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "ForestWildlifeSanctuary",
+                            "name": "Zona di rispetto forestale-faunistica",
+                            "namePlural": "Zone di rispetto forestale-faunistiche"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "FungalReserve",
+                            "name": "Riserva micologica",
+                            "namePlural": "Riserve micologiche"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "GuardianDogPasture",
+                            "name": "Pascoli alpini con cani da protezione del gregge",
+                            "namePlural": "Pascoli alpini con cani da protezione del gregge"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "HorticulturalMonument",
+                            "name": "Monumento orticolo",
+                            "namePlural": "Monumenti orticoli"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "HuntingEntryProhibition",
+                            "name": "Divieto di accesso secondo la legge sulla caccia"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "IntermediateZone",
+                            "name": "Zona intermedia",
+                            "namePlural": "Zone intermedie"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "LandscapeNatureProtectionArea",
+                            "name": "Area di protezione del paesaggio e della natura",
+                            "namePlural": "Aree di protezione del paesaggio e della natura"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "LandscapePark",
+                            "name": "Parco paesaggistico",
+                            "namePlural": "Parchi paesaggistici"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "LandscapeProtectionArea",
+                            "name": "Area di protezione del paesaggio",
+                            "namePlural": "Aree di protezione del paesaggio"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "NationalNatureMonument",
+                            "name": "Monumento naturale nazionale",
+                            "namePlural": "Monumenti naturali nazionali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "NationalPark",
+                            "name": "Parco nazionale",
+                            "namePlural": "Parchi nazionali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "NatureDiscoveryPark",
+                            "name": "Parco di scoperta della natura",
+                            "namePlural": "Parchi di scoperta della natura"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "NatureMonument",
+                            "name": "Monumento naturale",
+                            "namePlural": "Monumenti naturali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "NaturePark",
+                            "name": "Parco naturale",
+                            "namePlural": "Parchi naturali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "NatureProtectionZone",
+                            "name": "Zona di protezione della natura",
+                            "namePlural": "Zone di protezione della natura"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "NatureReserve",
+                            "name": "Riserva naturale",
+                            "namePlural": "Riserve naturali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "ProtectedBiotopes",
+                            "name": "Biotopi protetti",
+                            "namePlural": "Biotopi protetti"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "ProtectedHabitat",
+                            "name": "Habitat protetto",
+                            "namePlural": "Habitat protetti"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "ProtectedLandscapeElement",
+                            "name": "Elemento paesaggistico protetto",
+                            "namePlural": "Elementi paesaggistici protetti"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "ProtectedLandscapeSection",
+                            "name": "Sezione paesaggistica protetta",
+                            "namePlural": "Sezioni paesaggistiche protette"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "ProtectedNaturalObjects",
+                            "name": "Oggetti naturali protetti di importanza locale"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "ProtectionZone",
+                            "name": "Zona di protezione",
+                            "namePlural": "Zone di protezione"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "QuietZone",
+                            "name": "Zona di quiete",
+                            "namePlural": "Zone di quiete"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "RamsarWetlandArea",
+                            "name": "Area umida RAMSAR",
+                            "namePlural": "Aree umide RAMSAR"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "RecoveryZone",
+                            "name": "Zona di recupero",
+                            "namePlural": "Zone di recupero"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "RegionalLandscapeInventory",
+                            "name": "Inventario regionale dei paesaggi"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "RegionalNaturePark",
+                            "name": "Parco naturale regionale",
+                            "namePlural": "Parchi naturali regionali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "RegionalPark",
+                            "name": "Parco regionale",
+                            "namePlural": "Parchi regionali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "RegionalProtectedAreas",
+                            "name": "Aree protette regionali",
+                            "namePlural": "Aree protette regionali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "RestArea",
+                            "name": "Area di riposo",
+                            "namePlural": "Aree di riposo"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "RestrictedMilitaryArea",
+                            "name": "Area militare riservata",
+                            "namePlural": "Aree militari riservate"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "SpecialProtectionArea",
+                            "name": "Area di protezione speciale",
+                            "namePlural": "Aree di protezione speciale"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "SpecialPurposeForest",
+                            "name": "Foresta a scopo speciale",
+                            "namePlural": "Foreste a scopo speciale"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "StrictNatureReserve",
+                            "name": "Riserva naturale integrale",
+                            "namePlural": "Riserve naturali integrali"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "SurroundingZone",
+                            "name": "Zona circostante",
+                            "namePlural": "Zone circostanti"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "SwissNationalPark",
+                            "name": "Parco nazionale svizzero"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "UnescoWorldHeritage",
+                            "name": "Patrimonio mondiale UNESCO",
+                            "namePlural": "Siti del patrimonio mondiale UNESCO"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "VoluntaryWildlifeRefuge",
+                            "name": "Zona di rifugio volontaria della fauna selvatica",
+                            "namePlural": "Zone di rifugio volontarie della fauna selvatica"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "WildlifeRefuge",
+                            "name": "Zona di rifugio della fauna selvatica",
+                            "namePlural": "Zone di rifugio della fauna selvatica"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "WildlifeSanctuary",
+                            "name": "Riserva faunistica",
+                            "namePlural": "Riserve faunistiche"
+                        },
+                        {
+                            "entityType": "ProtectedArea",
+                            "additionalType": "WinterQuietZone",
+                            "name": "Zona di quiete invernale",
+                            "namePlural": "Zone di quiete invernali"
+                        }
+                    ]
+                },
+                {
                     "entityType": "Tour",
                     "name": "Tour",
                     "namePlural": "Tour",
@@ -3344,6 +3727,11 @@
                         },
                         {
                             "entityType": "Tag",
+                            "additionalType": "accesssitios-qualityinfo",
+                            "name": "Informazioni sulla qualit\u00e0 dei dati di Sitios"
+                        },
+                        {
+                            "entityType": "Tag",
                             "additionalType": "accomodation",
                             "name": "\u00dcbernachten"
                         },
@@ -3399,6 +3787,11 @@
                         },
                         {
                             "entityType": "Tag",
+                            "additionalType": "gdl-feed",
+                            "name": "GDL feed"
+                        },
+                        {
+                            "entityType": "Tag",
                             "additionalType": "general",
                             "name": "Allgemein"
                         },
@@ -3441,6 +3834,11 @@
                             "entityType": "Tag",
                             "additionalType": "market",
                             "name": "Markt-Typ"
+                        },
+                        {
+                            "entityType": "Tag",
+                            "additionalType": "month",
+                            "name": "Monat"
                         },
                         {
                             "entityType": "Tag",

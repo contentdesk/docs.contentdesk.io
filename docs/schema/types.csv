@@ -7,9 +7,9 @@ Country;CivicStructure;Country;Land;Pays;Paese
 CustomArea;AdministrativeArea;Customs Area;Zollgebiet;Zone douanière;Area doganale
 District;CivicStructure;District;Bezirk;Quartier;Quartiere
 MountainArea;CivicStructure;Mountain area;Bergregion;Zone montagneuse;Zona montuosa
-NatureReserve;CivicStructure;Nature reserve;Naturschutzgebiet;Réserve naturelle;Riserva naturale
+NatureReserve;ProtectedArea;Nature Reserve;Naturschutzgebiet;Réserve naturelle;Riserva naturale
 PostalArea;AdministrativeArea;Postal Area;Postleitzahlgebiet;Zone postale;Area postale
-ProtectedArea;CivicStructure;Protected area;Schutzgebiet;Zone protégée;Area protetta
+ProtectedArea;Place;Protected Area;Schutzgebiet;Aire protégée;Area protetta
 State;CivicStructure;State;Bundesland;État;Stato
 TourismArea;AdministrativeArea;Tourist Area;Tourismusgebiet;Zone touristique;Area turistica
 TourismCity;AdministrativeArea;Tourist Town;Tourismusstadt;Ville touristique;Città turistica
@@ -18,6 +18,7 @@ Article;CreativeWork;Article;Artikel;Article;Articolo
 MediaObject;CreativeWork;Media Object;Medienobjekt;Mediaobjet;Oggetto multimediale
 AudioObject;MediaObject;Audio Object;Audio-Objekt;Objet audio;Oggetto audio
 ImageObject;MediaObject;Image Object;Bild-Objekt;Image objet;Oggetto Immagine
+ElevationProfile;ImageObject;Elevation profile;Höhenprofil;Profil d’altitude;Profilo altimetrico
 Logo;ImageObject;Logo;Logo;Logo;Logo
 VideoObject;MediaObject;Video Object;Video-Objekt;Video objet;Oggetto video
 Event;;Event;Veranstaltung;Événement;Evento
@@ -83,7 +84,7 @@ TripleRoom;Accommodation;Triple room;Dreibettzimmer;Chambre triple;Camera tripla
 MeetingRoom;Accommodation;Meeting Room;Besprechungsraum;Salle de réunion;Sala riunioni
 CivicStructure;Place;Public Facility;Öffentliche Anlage/Einrichtung;Établissement public;Struttura pubbliche
 Alp;CivicStructure;Alp;Alm;Alpage;Alpe
-NaturePark;CivicStructure;Nature park;Naturpark;Parc naturel;Parco naturale
+NaturePark;ProtectedArea;Nature Park;Naturpark;Parc naturel;Parco naturale
 Airport;CivicStructure;Airport;Flughafen;Aéroport;Aeroporto
 AnimalPark;CivicStructure;Animal park;Tierpark;Parc animalier;Parco degli animali
 Aquarium;CivicStructure;Aquarium;Aquarium;Aquarium;Acquario
@@ -92,7 +93,7 @@ ATM;CivicStructure;ATM;Geldautomat;Distributeur automatique de billets;Bancomat
 AvalancheTrainingCenter;CivicStructure;Avalanche Training Center;Lawinen-Trainingszentrum;Centre de formation aux avalanches;Centro di formazione sulle valanghe
 BathingSpot;CivicStructure;Bathing Spot;Badestelle;Lieu de baignade;Luogo di balneazione
 Beach;CivicStructure;Beach;Strand;Plage;Spiaggia
-Biotope;CivicStructure;Biotope;Biotop;Biotope;Biotopo
+Biotope;ProtectedArea;Biotope;Biotop;Biotope;Biotopo
 BoatTerminal;CivicStructure;Boat Terminal;Bootsterminal;Terminal de bateaux;Terminal dei battelli
 Bunker;CivicStructure;Bunker;Bunker;Bunker;Bunker
 BusStop;CivicStructure;Bus Stop;Bushaltestelle;Arrêt de bus;Fermata dell'autobus
@@ -424,6 +425,67 @@ MountainPeak;Place;Mountain Summit;Berggipfel;Sommet de montagne;Cima di montagn
 Volcano;Place;Volcano;Vulkan;Volcan;Vulcano
 LandmarkOrHistoricalBuilding;Place;Attraction;Sehenswürdigkeit;Site touristique;Luogo di interesse
 TownScape;Place;town scape;OrtsBild;paysage urbain;paesaggio urbano
+BiospherePark;ProtectedArea;Biosphere Park;Biosphärenpark;Parc de la biosphère;Parco della biosfera
+BiosphereReserve;ProtectedArea;Biosphere Reserve;Biosphärenreservat;Réserve de biosphère;Riserva della biosfera
+BirdSanctuary;ProtectedArea;Bird Sanctuary;Vogelschutzgebiet;Zone de protection des oiseaux;Zona di protezione degli uccelli
+BufferZone;ProtectedArea;Buffer Zone;Puffer- oder Pflegezone;Zone tampon;Zona tampone
+CantonalHuntingReserves;ProtectedArea;Cantonal Hunting Reserves;Jagdbanngebiet kantonal;Réserves de chasse cantonales;Riserve di caccia cantonali
+CantonalNatureReserve;ProtectedArea;Cantonal Nature Reserve;Kantonales Naturschutzgebiet;Réserve naturelle cantonale;Riserva naturale cantonale
+ChapelZone;ProtectedArea;Chapel Zone;Kapellenzone;Zone de chapelle;Zona cappella
+CoreZone;ProtectedArea;Core Zone;Kernzone;Zone centrale;Zona centrale
+CureZone;ProtectedArea;Cure Zone;Kurzone;Zone de cure;Zona termale
+DbuNatureHeritageArea;ProtectedArea;DBU Nature Heritage Area;DBU Naturerbefläche;Zone de patrimoine naturel DBU;Area di patrimonio naturale DBU
+DevelopmentZone;ProtectedArea;Development Zone;Entwicklungszone;Zone de développement;Zona di sviluppo
+EcologicalDevelopmentArea;ProtectedArea;Ecological Development Area;Ökologische Entwicklungsfläche;Zone de développement écologique;Area di sviluppo ecologico
+EmeraldNetworkArea;ProtectedArea;Area of Special Conservation Interest (Emerald Network);Gebiet mit besonderem Schutzinteresse (Smaragd Netzwerk);Zone d'intérêt spécial de conservation (Réseau Émeraude);Area di interesse conservativo speciale (Rete Smeraldo)
+FaunaFloraHabitatArea;ProtectedArea;Fauna-Flora-Habitat Area;Fauna-Flora-Habitat Gebiet;Zone Faune-Flore-Habitat;Zona Fauna-Flora-Habitat
+FederalFenlandsInventory;ProtectedArea;Federal Inventory of Fenlands of National Importance;Bundesinventar der Flachmoore von nationaler Bedeutung;Inventaire fédéral des bas-marais d'importance nationale;Inventario federale delle paludi basse d'importanza nazionale
+FederalHuntingReserves;ProtectedArea;Federal Hunting Reserves;Eidgenössische Jagdbanngebiete;Réserves fédérales de chasse;Riserve federali di caccia
+FederalLandscapeInventory;ProtectedArea;Federal Landscape Inventory;Bundeslandschaftsinventar;Inventaire fédéral des paysages;Inventario federale dei paesaggi
+FederalMiresInventory;ProtectedArea;Federal Inventory of Mires of Outstanding Beauty and National Importance;Bundesinventar der Moorlandschaften von besonderer Schönheit und von nationaler Bedeutung;Inventaire fédéral des paysages de marais d'une beauté particulière et d'importance nationale;Inventario federale dei paesaggi palustri di particolare bellezza e d'importanza nazionale
+FederalWaterbirdsInventory;ProtectedArea;Federal Inventory of Reserves for Waterbirds and Migratory Birds of International and National Importance;Bundesinventar der Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung;Inventaire fédéral des réserves d'oiseaux d'eau et de migrateurs d'importance internationale et nationale;Inventario federale delle riserve per uccelli acquatici e migratori d'importanza internazionale e nazionale
+FloraProtectionArea;ProtectedArea;Flora Protection Area;Pflanzenschutzgebiet;Zone de protection de la flore;Area di protezione della flora
+ForestArea;ProtectedArea;Forest Area;Waldareal;Zone forestière;Area forestale
+ForestWildlifeProtectionZone;ProtectedArea;Forest and Wildlife Protection Zone;Wald- und Wildschutzzone;Zone de protection forêt et faune;Zona di protezione foresta e fauna
+ForestWildlifeSanctuary;ProtectedArea;Forest Wildlife Sanctuary;Wald-Wild-Schongebiet;Réserve forestière de faune;Zona di rispetto forestale-faunistica
+FungalReserve;ProtectedArea;Fungal Reserve;Pilzschutzgebiet;Réserve mycologique;Riserva micologica
+GuardianDogPasture;ProtectedArea;Alpine Pastures with Livestock Guardian Dogs;Alpweiden mit Herdenschutzhunden;Alpages avec chiens de protection du troupeau;Pascoli alpini con cani da protezione del gregge
+HorticulturalMonument;ProtectedArea;Horticultural Monument;Gartenbau-Denkmal;Monument horticole;Monumento orticolo
+HuntingEntryProhibition;ProtectedArea;Hunting Law Entry Prohibition;Jagdrechtliches Betretungsverbot;Interdiction d'entrée selon le droit de la chasse;Divieto di accesso secondo la legge sulla caccia
+IntermediateZone;ProtectedArea;Intermediate Zone;Zwischenzone;Zone intermédiaire;Zona intermedia
+LandscapeNatureProtectionArea;ProtectedArea;Landscape and Nature Protection Area;Landschafts- und Naturschutzgebiet;Zone de protection du paysage et de la nature;Area di protezione del paesaggio e della natura
+LandscapePark;ProtectedArea;Landscape Park;Landschaftspark;Parc paysager;Parco paesaggistico
+LandscapeProtectionArea;ProtectedArea;Landscape Protection Area;Landschaftsschutzgebiet;Zone de protection du paysage;Area di protezione del paesaggio
+NationalNatureMonument;ProtectedArea;National Nature Monument;Nationales Naturmonument;Monument naturel national;Monumento naturale nazionale
+NationalPark;ProtectedArea;National Park;Nationalpark;Parc national;Parco nazionale
+NatureDiscoveryPark;ProtectedArea;Nature Discovery Park;Naturerlebnispark;Parc de découverte de la nature;Parco di scoperta della natura
+NatureMonument;ProtectedArea;Nature Monument;Naturdenkmal;Monument naturel;Monumento naturale
+NatureProtectionZone;ProtectedArea;Nature Protection Zone;Naturschutzzone;Zone de protection de la nature;Zona di protezione della natura
+ProtectedBiotopes;ProtectedArea;Protected Biotopes;Geschützte Biotope;Biotopes protégés;Biotopi protetti
+ProtectedHabitat;ProtectedArea;Protected Habitat;Geschützter Lebensraum;Habitat protégé;Habitat protetto
+ProtectedLandscapeElement;ProtectedArea;Protected Landscape Element;Geschützter Landschaftsbestandteil;Élément de paysage protégé;Elemento paesaggistico protetto
+ProtectedLandscapeSection;ProtectedArea;Protected Landscape Section;Geschützter Landschaftsteil;Section de paysage protégée;Sezione paesaggistica protetta
+ProtectedNaturalObjects;ProtectedArea;Protected Natural Objects of Local Importance;Geschützte Naturgebilde von örtlicher Bedeutung;Objets naturels protégés d'importance locale;Oggetti naturali protetti di importanza locale
+ProtectionZone;ProtectedArea;Protection Zone;Schutzzone;Zone de protection;Zona di protezione
+QuietZone;ProtectedArea;Quiet Zone;Ruhezone;Zone de tranquillité;Zona di quiete
+RamsarWetlandArea;ProtectedArea;RAMSAR Wetland Area;RAMSAR Feuchtgebiet;Zone humide RAMSAR;Area umida RAMSAR
+RecoveryZone;ProtectedArea;Recovery Zone;Erholungszone;Zone de récupération;Zona di recupero
+RegionalLandscapeInventory;ProtectedArea;Regional Landscape Inventory;Regionales Landschaftsinventar;Inventaire régional des paysages;Inventario regionale dei paesaggi
+RegionalNaturePark;ProtectedArea;Regional Nature Park;Regionaler Naturpark;Parc naturel régional;Parco naturale regionale
+RegionalPark;ProtectedArea;Regional Park;Regionaler Park;Parc régional;Parco regionale
+RegionalProtectedAreas;ProtectedArea;Regional Protected Areas;Örtliche Schutzgebiete;Zones protégées régionales;Aree protette regionali
+RestArea;ProtectedArea;Rest Area;Ruhegebiet;Zone de repos;Area di riposo
+RestrictedMilitaryArea;ProtectedArea;Restricted Military Area;Militärisches Sperrgebiet;Zone militaire restreinte;Area militare riservata
+SpecialProtectionArea;ProtectedArea;Special Protection Area;Sonderschutzgebiet;Zone de protection spéciale;Area di protezione speciale
+SpecialPurposeForest;ProtectedArea;Special Purpose Forest;Wald mit besonderem Zweck;Forêt à usage spécial;Foresta a scopo speciale
+StrictNatureReserve;ProtectedArea;Strict Nature Reserve;Strenges Naturreservat;Réserve naturelle stricte;Riserva naturale integrale
+SurroundingZone;ProtectedArea;Surrounding Zone;Umgebungszone;Zone environnante;Zona circostante
+SwissNationalPark;ProtectedArea;Swiss National Park;Schweizerischer Nationalpark;Parc national suisse;Parco nazionale svizzero
+UnescoWorldHeritage;ProtectedArea;UNESCO World Heritage;UNESCO Welterbe;Patrimoine mondial UNESCO;Patrimonio mondiale UNESCO
+VoluntaryWildlifeRefuge;ProtectedArea;Voluntary Wildlife Refuge;Freiwillige Wildruhezone;Zone de tranquillité faunique volontaire;Zona di rifugio volontaria della fauna selvatica
+WildlifeRefuge;ProtectedArea;Wildlife Refuge;Wildruhezone;Zone de tranquillité pour la faune;Zona di rifugio della fauna selvatica
+WildlifeSanctuary;ProtectedArea;Wildlife Sanctuary;Wildschutzgebiet;Réserve faunique;Riserva faunistica
+WinterQuietZone;ProtectedArea;Winter Quiet Zone;Winterruhezone;Zone de tranquillité hivernale;Zona di quiete invernale
 Tour;Place;Tour;Tour;Tour;Tour
 Longdistance;Tour;Long-distance Tour;Langstreckentour;Tour longue distance;Tour a lunga distanza
 Route;Tour;Route;Route;Route;Percorso
@@ -532,6 +594,7 @@ content;Tag;Content;Inhalt;Inhalt;Inhalt
 accessibility;Tag;Accessibility;Zugang;Zugang;Zugang
 accesssitios;Tag;Accessibility information Sitios;Informationen zur Zugänglichkeit Sitios;Informationen zur Zugänglichkeit Sitios;Informationen zur Zugänglichkeit Sitios
 accesssitioshs;Tag;Accessibility information Sitios HotellerieSuisse;Informationen zur Zugänglichkeit Sitios HotellerieSuisse;Informationen zur Zugänglichkeit Sitios HotellerieSuisse;Informationen zur Zugänglichkeit Sitios HotellerieSuisse
+accesssitiosqualityinfo;Tag;Information on Sitios data quality;Informationen zur Sitios Datenqualität;Informations sur la qualité des données de Sitios;Informazioni sulla qualità dei dati di Sitios
 accomodation;Tag;Accomodation;Übernachten;Übernachten;Übernachten
 areascope;Tag;Area scope;Bereichsumfang;Bereichsumfang;Bereichsumfang
 atmosphere;Tag;Atmosphere;Stimmung;Stimmung;Stimmung
@@ -543,6 +606,7 @@ culinary;Tag;Culinary;Kulinarik;Kulinarik;Kulinarik
 dance;Tag;Dance;Tanz;Tanz;Tanz
 distance;Tag;Distance;Distanz;Distanz;Distanz
 duration;Tag;Duration;Ausflugsdauer;Ausflugsdauer;Ausflugsdauer
+gdlfeed;Tag;GDL feed;GDL feed;GDL feed;GDL feed
 genre;Tag;Genre;Sorte;Sorte;Sorte
 hiking;Tag;Hiking;Wandern;Wandern;Wandern
 incentive;Tag;Incentive;Anreiz;Anreiz;Anreiz
@@ -551,6 +615,7 @@ life;Tag;Life;Leben;Leben;Leben
 literature;Tag;Literature;Literatur;Literatur;Literatur
 locatedat;Tag;Located;Gelegen;Gelegen;Gelegen
 market;Tag;Market type;Markt-Typ;Markt-Typ;Markt-Typ
+month;Tag;Month;Monat;Monat;Monat
 music;Tag;Music;Musik;Musik;Musik
 parking;Tag;Parking;Parkmöglichkeiten;Parkmöglichkeiten;Parkmöglichkeiten
 pricerange;Tag;Price range;Preisspanne;Preisspanne;Preisspanne
